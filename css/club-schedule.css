@@ -1,0 +1,46 @@
+a.enabledLink {
+  color: #0000FF;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+a.enabledLink:hover {
+  text-decoration: underline;
+}
+
+a.disabledLink {
+  color: black;
+  font-weight: bold;
+  cursor: text;
+}
+
+a.disabledLink:hover {
+  text-decoration: none;
+}
+
+#sortOptions,
+#showOptions,
+#feedback {
+  background-color: #EEEEEE;
+  padding: 0 1px;
+}
+
+#sortOptions,
+#content,
+#feedback {
+  margin-top: 15px;
+}
+
+.club {
+  margin-top: 10px;
+}
+
+.youngsters {
+  background-color: #00FF00;
+  padding: 0 1px;
+}
+
+.highlight {
+  background-color: yellow;
+  padding: 0 1px;
+}
