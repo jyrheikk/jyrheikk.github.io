@@ -1,0 +1,36 @@
+body {
+  font-faze: arial, helvetica;
+}
+
+h1 {
+	font-size: 12px;
+}
+
+img {
+	width: 56px;
+	height: 60px;
+}
+
+button {
+	margin-top: 20px;
+	font-size: 24px;
+}
+
+#fen, #symbols {
+  font-size: 60px;
+}
+
+#abc td {
+  font-size: 26px;
+  width: 52px;
+  text-align: center;
+}
+
+#test {
+  margin-top: 12px;
+}
+
+#test, #timer {
+  font-size: 12px;
+  color: gray;
+}
