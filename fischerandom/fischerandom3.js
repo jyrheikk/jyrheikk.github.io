@@ -114,7 +114,7 @@ CHESS960.layout = {
   },
 
   _getImageURL: function(piece, pos) {
-    var PATH = "w";
+    var PATH = "images/w";
     return PATH + piece.toLowerCase() +
       (((pos % 2) === 0) ? "b" : "w") + ".gif";
   },
