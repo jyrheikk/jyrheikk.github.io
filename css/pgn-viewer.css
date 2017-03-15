@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+.ct-white-square {
+  background-color: #FFD096;
+}
+
+.ct-black-square {
+  background-color: #DF8740;
+}
+
+#pgn-navButtons img {
+  width: 32px;
+  height: 32px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#pgn-boardBorder {
+  margin-top: 10px;
+}
+
+h3, #pgn-files {
+  margin-left: 5px;
+}
