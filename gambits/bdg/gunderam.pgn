@@ -1,0 +1,317 @@
+[Event "Casual Game"]
+[Site "Espoo FIN"]
+[Date "1996.03.28"]
+[Round "?"]
+[White "Papula, Niko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.e4 d5 2.d4 dxe4 3.f3 exf3 4.Nxf3 Bf5 5.Bc4 e6 6.O-O Bd6 7.Nc3 Nf6 8.Bg5 h6
+9.Bh4 g5! 10.Nxg5 hxg5 11.Bxg5 Bxh2+ 12.Kf2 Qd6! 13.Qd2 Qg3+ 14.Ke2 Bg4+
+15.Rf3 Qxg2+ 16.Kd1 Bxf3+ 17.Kc1 Qg1+ 18.Nd1 Ne4 19.Qd3 Nxg5 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1998.10.21"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Lehto, Arto"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Bf5 4.f3 exf3 5.Nxf3 (5.Qxf3) e6 6.Ne5 Nf6 7.Bf4 Nbd7
+8.Nb5 Nxe5 9.Bxe5 Bd6 10.Nxd6+ cxd6 11.Bb5+ Ke7 12.Bxf6+ gxf6 13.O-O Qb6
+14.Rxf5?! exf5 15.c4 a6 16.Ba4 Kd8 17.c5 Qb4 18.a3 Qc4 19.Rc1 Qd5 20.c6 Rc8
+21.Bb3 Qe4 22.d5 bxc6 23.dxc6 Rxc6 24.Rxc6 Qxc6 25.Bxf7 0-1
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "1999.04.15"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Riipinen, Juha"]
+[Result "1/2-1/2"]
+[Section "B"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Hakumatti -93"]
+[BlackElo "1986"]
+[TimeControl "900"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Nbd7 8.Ng5 Nb6
+9.Bb3 Nbd5 10.Nxd5 Nxd5 11.Qe2 Be7 12.Nxf7 Kxf7 13.g4 Nf6 14.gxf5 (14.c3!?)
+Qxd4+ 15.Kh1 Qe4+ 16.Qxe4 Nxe4 17.fxe6+ Ke8 18.Bd5 Nd6 19.Bf4 c6 20.Bb3 {no
+more moves recorded} 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1999.08.25"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Lehto, Arto"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.h4 Bb4
+9.Bg2 c6 10.Nxg6 hxg6 11.Bg5 Qa5 12.O-O Bxc3 13.bxc3 Qxc3 14.Rxf6!? gxf6
+15.Bxf6 Rh7 16.Rb1 Nd7 17.Rb3 Qa5 18.Bg5 Nb6 19.Qf1 Rd8 20.Qf6 Rd7 21.Re3 Qxa2
+22.h5 gxh5 23.Be4 Qa1+ 24.Kf2 Rxd4?? (24...Nd5 {-+}) 25.Qe7# 1-0
+
+[Event "Finland Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2000.08.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "?"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "?"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O c5 8.d5 exd5
+9.Nxd5 Nxd5 10.Bxd5 Nc6 11.Ng5 Bg6 12.Nxf7 Bxf7 13.Bxf7+ 1-0
+
+[Event "Finland Blitz Team Ch"]
+[Site "Kouvola FIN"]
+[Date "2001.08.05"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Loisa, Antti"]
+[Result "1-0"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Lappeenrannan Shakkikerho"]
+[BlackElo "2196"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 Nbd7 7.O-O Nb6?
+8.Bxf7+! Kxf7 9.Ng5+ Kg6 10.Rxf5! Qd7 (10...Kxf5 11.Qd3+) 11.Re5 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2002.09.05"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Järvinen, Seppo"]
+[Result "1-0"]
+[TimeControl "1800"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Be7 8.Ne5 O-O
+9.Ne2 Nbd7 10.Nf3 c5 11.Ng3 Bg6 12.c3 cxd4 13.cxd4 Rc8 14.Bd3 Bxd3 15.Qxd3 Nc5
+16.Qb5 Nce4 17.Nxe4 Nxe4 18.Qxb7 Ng5 19.Bxg5 Bxg5 20.Qxa7 Rc2 21.b4 Be3+
+22.Kh1 g5 23.Rae1 Bf4 24.b5 g4 25.Ne5 Qd5 26.Rg1 h5 27.Nd7 Qg5 28.Rgf1?
+(28.Re5) Bxh2? (28...Qh4 {-+}) 29.Nxf8 Bf4? (29...Bc7) 30.Rxf4 (30.Ng6! fxg6
+31.Qa8+ Kg7 32.g3 {+-}) Qxf4 (30...Qh4+ {=}) 31.Qa8 Kg7 32.Nxe6+ fxe6 33.Qb7+
+Kf6 34.Qh7 Rxg2 35.Qh8+ Kf7 36.Qh7+ Kf8 37.Qh8+ Kf7 38.Qxh5+ Kg8 39.Qe8+ Kg7
+40.Qe7+ Kh8 41.Qh4+ Kg7 42.Kxg2 Qf3+ 43.Kh2 Qf4+ 44.Qg3 Qh6+ 45.Kg1 Qg5
+46.Rxe6 Qc1+ 47.Re1 Qg5 48.Qc7+ Kh6 49.Re6+ Kh5 50.Re5 Qxe5 51.dxe5 1-0
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2004.04.15"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Haanpää, Jorma"]
+[Result "1-0"]
+[WhiteTeam "Nokia"]
+[BlackTeam "Rikospoliisit"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Bd6 8.Ng5 O-O
+9.h3 c5? 10.d5 Qd7 11.g4 h6 12.gxf5 hxg5 13.fxe6 (13.dxe6) fxe6 14.dxe6 Qe7
+15.Bxg5 Be5 16.Nd5 Qd6 17.e7 Re8 18.Nxf6+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2005.01.26"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Järvinen, Seppo"]
+[Result "1-0"]
+[TimeControl "1200+10"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Be7 8.Ne5 Bg6
+9.Be3 Nbd7 10.Nxg6 hxg6 11.Qf3 O-O 12.Rad1 Nb6 13.Bb3 c6 14.Ne4 Nxe4 15.Qxe4
+Nd5 16.Rf3 Nxe3 17.Qxe3 Bg5 18.Qe4 Qd6 19.c3 Rae8 20.h4 f5 21.Qe1 Bf4 22.g3
+Bh6 23.Qe2 Kh8 24.Re1 c5 25.Qe5 Qxe5 26.dxe5 (26.Rxe5 cxd4 27.cxd4 Rd8 28.Rxe6
+Rxd4 29.Rxg6) b5 27.Rd1 c4 28.Bc2 Rd8 29.Rff1 Be3+ 30.Kg2 g5 31.Kf3 Bd2 32.Ke2
+(32.Ke2 gxh4 33.Rxd2 Rxd2+ 34.Kxd2 hxg3 {+/=}) 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2005.01.26"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Järvinen, Seppo"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 Nbd7 7.Qf3 Bg6 8.Qxb7
+Nxe5 9.dxe5 Rb8 10.Qxa7 Nd7 11.Nd5 Rc8 12.Bg5 f6? (12...c6) 13.e6 Nb6? 14.Nxb6
+1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2005.10.05"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Järvinen, Seppo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Nbd7 8.Ng5 h6?
+9.Nxf7 Kxf7 10.Rxf5 g6 11.Rf1 c6 12.Ne4 Kg7 13.Nxf6 Nxf6 14.Bxe6 Qd6 15.Bb3
+Rd8 16.c3 Be7 17.Bf4 Qd7 18.Be5 Rhf8 19.Qd3 c5 20.Bc2 Qe8 21.Rae1 cxd4 22.Rxf6
+Rxf6 23.Bxf6+ Kxf6 24.Qe4 d3 25.Qe5+ Kf7 26.Bb3+ 1-0
+
+[Event "Finland Rapid Team Ch"]
+[Site "Tampere FIN"]
+[Date "2008.05.03"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Luukkonen, Tommi"]
+[Result "1-0"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Jyväs-Shakki"]
+[WhiteElo "2061"]
+[BlackElo "2309"]
+[BlackTitle "FM"]
+[TimeControl "1500"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O c6 8.Ne5 Bg6
+9.Ne2 Nbd7 10.Nxg6 hxg6 11.Qd3 Bd6 12.h3 Qe7 13.Bd2 e5 14.Rae1 O-O-O 15.Ng3
+Rh4 16.Qb3 Rxd4 17.Be3 Nc5 18.Qc3 Qf8 19.Bxd4 exd4 20.Qf3 Ncd7 21.Bb3 Bc7
+22.Ne4 Nxe4 23.Rxe4 Qd6 24.Bxf7 Qh2+ 25.Kf2 Ne5 26.Be6 Kb8 27.Qe2 d3 28.cxd3
+Nxd3+ 29.Ke3 Bb6+ 30.Kf3 Rf8+ 31.Kg4 Ne5+?? (31...Nf2+) 32.Rxe5 Rxf1 33.Qxf1
+Qxe5 34.Qf8+ Kc7 35.Qe7+ Kb8 36.Qe8+ Kc7 37.Qd7+ Kb8 38.Qc8# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2010.02.17"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kiviharju, Perttu"]
+[Result "1-0"]
+[TimeControl "300+2"]
+[Termination "time forfeit"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 a6 7.O-O b5? 8.Bxf7+
+Kxf7 9.Ng5+ (9.Ne5+ Ke6 10.d5+) Ke8 (9...Kg6 10.Rxf5) 10.Rxf5 Qd7 11.Qf3 c6
+12.Be3 e6 13.Nxe6 Bd6 14.Re1 Kf7 15.d5 (15.Bh6) 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2010.11.24"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Kohvakka, Raimo"]
+[Result "1/2-1/2"]
+[TimeControl "900"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Bg6 8.Bg5 Be7
+9.Qe2 Nbd7 10.Rad1 c6 11.Nh4 Qc7 12.a3 O-O-O 13.b4 Bd6 14.h3 Kb8 15.b5 c5
+16.b6 Nxb6 17.Nb5 Qc6 18.Nxd6 Rxd6 19.Bf4 cxd4 20.Rxd4 Nxc4 21.Qxc4 Qxc4
+22.Rxc4 Rd8 23.Rd1 Nd5 24.Bxd6+ Rxd6 25.Nxg6 hxg6 26.Kf2 {no more moves
+recorded} 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2011.10.12"]
+[Round "11"]
+[White "Heikkinen, Jyrki"]
+[Black "Kohvakka, Raimo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.h4 h5?
+9.Nxg6 fxg6 10.g5 Nd5 11.Bd3 Nxc3 (11...Ne7) 12.Bxg6+ Kd7 13.bxc3 c6 14.Bf4
+Qa5 15.Qf3 Qd5 16.Be4 Qc4 17.Be5 Na6 18.Kd2 Be7 19.Bxg7 Rhg8 20.Qf7 Rae8
+21.Rhf1 Nc7 22.Rf6? (22.Bd3 Qd5 23.Rab1) Nd5? (22...Nb5 23.Rd1 {+/=})
+23.Qxe6+? (23.Bxd5) Kd8 24.Bxd5 Qxd5?? (24...cxd5 25.Qe5 Rxg7 26.Re1 {=})
+25.Qxd5 cxd5 26.Rf7 Kc8 27.Be5 Rgf8 28.Raf1 Rxf7 29.Rxf7 {no more moves
+recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2012.04.25"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Wigelius, Pentti"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Ne4 8.Bb5+
+(8.gxf5! Qh4+ 9.Ke2 Nc6 10.Nxc6 Nxc3+ 11.bxc3 Qe4+ 12.Kf2 Qxh1 {+/=}) c6 9.O-O
+Nxc3 10.bxc3 Bg6 11.Bc4 Bd6 12.Bf4 O-O 13.Qf3 Bxe5 14.Bxe5 Nd7 15.Bg3 Nb6
+16.Bb3 Nd5 17.h4 h6 18.Rae1 Rc8 19.c4 Ne7 20.c3 Kh7?? 21.h5 c5 22.Bh4 Bxh5
+23.gxh5 f6 24.Bg3 Nf5 25.Bc2 Qd7 26.Rxe6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2013.02.06"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Kohvakka, Raimo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.h4 h5?
+9.g5 Nfd7? 10.Nxg6 fxg6 11.Bd3 Bb4 12.Bxg6+ Ke7 13.O-O Bxc3 14.bxc3 c5 15.dxc5
+(15.Rf7+) Nxc5?? 16.Rf7+ Ke8 17.Rd7+ Kf8 18.Qd6+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2013.02.27"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Kohvakka, Raimo"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.h4 Bb4
+9.Nxg6 hxg6 10.Bg2 Nd5 11.Bg5 f6 12.Bd2 Bxc3 13.bxc3 c6? (13...Nc6) 14.Qe2 Qe7
+15.Rb1 (15.c4) O-O? 16.c4 Nb6 17.Bb4 Qd7 18.Bxf8 Kxf8 19.c3 (19.h5) Na6 20.O-O
+Re8 21.Qd3 f5? 22.h5 Qf7 23.hxg6 Qxg6 24.gxf5 exf5 25.Rxf5+ Ke7 26.Re5+ Qe6
+27.Rxe6+ Kxe6 28.Re1+ (28.Qg6+) Kd7 29.Qf5+ Kd8 30.Qg5+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2013.06.12"]
+[Round "?"]
+[White "Kauppala, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+[Termination "time forfeit"]
+
+1.e4 d5 2.d4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 c6 7.g4 Bc8 8.Bc4 e6
+9.O-O (9.g5 Nfd7 10.Nxf7!? Kxf7 11.O-O+ Ke7 12.Bxe6 {=}) h6 10.h4 Bd6 11.Qf3
+Bxe5 12.dxe5 Qd4+ 13.Be3 Qxg4+ 14.Qg2 Qxg2+ 15.Kxg2 Nfd7 16.Bf4 O-O 17.Ne4 Nb6
+18.Bb3 Nd5 19.Nd6 b6 20.Bd2 b5 21.a4 Bd7 22.Rf3 Be8 23.Rg3 Kh8 24.Re1 a6
+25.Rf3 Nd7 26.c4 Ne7 27.Bb4 c5 28.Bd2 Rd8 29.axb5? Nxe5 30.Rxe5 Rxd6
+(30...Ng6) 31.Be1 axb5 32.Rxc5 bxc4 33.Bxc4 Bc6 0-1
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2015.10.19"]
+[Round "9"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Heikki"]
+[Result "0-1"]
+[Section "M"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki 2"]
+[WhiteElo "2099"]
+[BlackElo "2140"]
+[BlackTitle "FM"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.Bg2 c6
+9.h4 Bb4 10.h5 Be4 11.O-O Bxg2 12.Kxg2 Bxc3 13.bxc3 Qd5+ 14.Kg1 O-O 15.Ba3 Re8
+16.g5 Ne4 17.Rxf7 Nxc3 18.Qd3 Qxd4+ 19.Qxd4 Ne2+ 20.Kh2 Nxd4 21.Raf1 Na6 22.h6
+Nf5 23.Rxb7 {no more moves recorded} 0-1
