@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="pgn/" />
+<title>Lauttasaaren Shakkikerhon pelit</title>
+<link rel="icon" type="image/x-icon" href="//lauttsk.blogspot.fi/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/css/pgn-viewer.css" />
+</head>
+
+<body>
+<h3>Lauttasaaren Shakkikerhon pelit</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="JSM-2016">JSM 2016</option>
+  <option value="JSM-2015">JSM 2015</option>
+  <option value="JSM-2014">JSM 2014</option>
+  <option value="JSM-2013">JSM 2013</option>
+  <option value="JSM-2012">JSM 2012</option>
+  <option value="JSM-2011">JSM 2011</option>
+  <option value="JSM-2010">JSM 2010</option>
+  <option value="JSM-2009">JSM 2009</option>
+  <option value="JSM-1div-2003-2005">JSM 1. div 2003&ndash;2005</option>
+  <option value="JSM-1div-1999-2001">JSM 1. div 1999&ndash;2001</option>
+  <option value="JSC">Joukkueiden Suomen cup 2011&ndash;2014</option>
+  <option value="LM-2017">Lauttasaaren mestaruus 2017</option>
+  <option value="LM-2016">Lauttasaaren mestaruus 2016</option>
+  <option value="LM-2015">Lauttasaaren mestaruus 2015</option>
+  <option value="LM-2014">Lauttasaaren mestaruus 2014</option>
+  <option value="LM-2013">Lauttasaaren mestaruus 2013</option>
+  <option value="LM-2012">Lauttasaaren mestaruus 2012</option>
+  <option value="LM-2011">Lauttasaaren mestaruus 2011</option>
+  <option value="LM-2010">Lauttasaaren mestaruus 2010</option>
+  <option value="LM-2009">Lauttasaaren mestaruus 2009</option>
+  <option value="LM-1998">Lauttasaaren mestaruus 1998</option>
+  <option value="simultaani-Kauppala-2010">Kauppalan simultaani 2010</option>
+  <option value="ystavyysottelu-Belgia-2010">Ystävyysottelu Belgia 2010</option>
+  <option value="ystavyysottelu-Kapyla-2010">Ystävyysottelu Käpylä 2010</option>
+  <option value="ystavyysottelu-Belfast-1997">Ystävyysottelu Belfast 1997</option>
+  <option value="historiikki-1998-valitut">LauttSK-historiikki 1998</option>
+  <option value="sommitelmat">Sommitelmat</option>
+  <option value="loppupelit">Loppupelit</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p id="shortUrl"></p>
+<p>Pelit voi tallentaa <a href="/lauttsk/">PGN-muodossa</a>.</p>
+<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+
+<script src="/js/pgnyui.js"></script>
+<script src="/js/pgnviewer.js"></script>
+<script src="/js/pgnfetch.js"></script>
+<script src="/js/pgnshorturl.js"></script>
+
+</body>
+</html>
