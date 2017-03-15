@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="bdg/" />
+<link rel="icon" type="image/x-icon" href="chess.ico" />
+<link type="text/css" rel="stylesheet" href="/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/css/pgn-viewer.css" />
+<title>Blackmar&ndash;Diemer Gambit games of Jyrki Heikkinen</title>
+</head>
+
+<body>
+<h3>Blackmar&ndash;Diemer Gambit (BDG) games of Jyrki Heikkinen</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="brombacher">Brombacher (4...c5)</option>
+  <option value="langeheinecke">Langeheinecke (4...e3)</option>
+  <option value="okelly">O'Kelly (4...c6)</option>
+  <option value="vienna">Vienna (4...Bf5)</option>
+  <option value="weinspach">Weinspach (4...e6)</option>
+  <option value="bogoljubow">Bogoljubow (4...exf3 5.Nxf3 g6)</option>
+  <option value="euwe">Euwe (4...exf3 5.Nxf3 e6)</option>
+  <option value="gunderam">Gunderam (4...exf3 5.Nxf3 Bf5)</option>
+  <option value="teichmann">Teichmann (4...exf3 5.Nxf3 Bg4)</option>
+  <option value="ziegler">Ziegler (4...exf3 5.Nxf3 c6)</option>
+  <option value="bdg-misc">Rare miscellaneous (3...c5/e6/g6; ...b6/Nc6/f5)</option>
+  <option value="lemberger">Lemberger (3...e5)</option>
+  <option value="zeller">Zeller (3...Bf5)</option>
+  <option value="bdd">"Blackmar&ndash;Diemer&ndash;Duhm" (3.c4)</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p id="shortUrl"></p>
+<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
+<a href="/gambits/bdg.html">PGN</a> |
+gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
+<a href="/gambits/">PGN</a> ]</p>
+
+<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+
+<script src="/js/pgnyui.js"></script>
+<script src="/js/pgnviewer.js"></script>
+<script src="/js/pgnfetch.js"></script>
+<script src="/js/pgnshorturl.js"></script>
+
+</body>
+</html>

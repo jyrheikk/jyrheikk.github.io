@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="pgn/" />
+<link rel="icon" type="image/x-icon" href="chess.ico" />
+<link type="text/css" rel="stylesheet" href="/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/css/pgn-viewer.css" />
+<title>Gambit chess games of Jyrki Heikkinen</title>
+</head>
+
+<body>
+<h3>Gambit chess games of Jyrki Heikkinen</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="portuguese">Center Counter, Portuguese (1.e4 d5 2.exd5 Nf6 3.d4 Bg4)</option>
+  <option value="icelandic">Icelandic (1.e4 d5 2.exd5 Nf6 3.c4 e6)</option>
+  <option value="scandinavian">Scandinavian (1.e4 d5 2.exd5 Nf6 3.c4 c6)</option>
+  <option value="center-counter-Bb5">Center Counter, 3.Bb5+ (1.e4 d5 2.exd5 Nf6)</option>
+  <option value="center-counter-misc">Center Counter, rare 3rd moves (1.e4 d5 2.exd5 Nf6)</option>
+  <option value="ddg">Diemer&ndash;Duhm (DDG) (1.d4 d5 2.c4 e6 3.e4)</option>
+  <option value="semi-slav-marshall">DDG Semi-Slav Marshall (1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4)</option>
+  <option value="qgd-tarrasch">DDG Queen's Gambit Declined, Tarrasch (1.d4 d5 2.c4 e6 3.Nc3 c5)</option>
+  <option value="faj">Fajarowicz (1.d4 Nf6 2.c4 e5 3.dxe5 Ne4)</option>
+  <option value="budapest-declined">Budapest Declined (1.d4 Nf6 2.c4 e5 ¬ 3.dxe5)</option>
+  <option value="alapin">Alapin French (1.e4 e6 2.d4 d5 3.Be3)</option>
+  <option value="from">From (1.f4 e5)</option>
+  <option value="gibbins">Gibbins&ndash;Weidenhagen (1.d4 Nf6 2.g4)</option>
+  <option value="hubsch">Hübsch (1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4)</option>
+  <option value="kgambit">King's (1.e4 e5 2.f4)</option>
+  <option value="wing">Sicilian Wing (1.e4 c5 2.b4)</option>
+  <option value="staunton">Staunton (1.d4 f5 2.e4)</option>
+  <option value="misc">Miscellaneous</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p id="shortUrl"></p>
+<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
+<a href="/gambits/bdg.html">PGN</a> |
+gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
+<a href="/gambits/">PGN</a> ]</p>
+
+<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+
+<script src="/js/pgnyui.js"></script>
+<script src="/js/pgnviewer.js"></script>
+<script src="/js/pgnfetch.js"></script>
+<script src="/js/pgnshorturl.js"></script>
+
+</body>
+</html>
