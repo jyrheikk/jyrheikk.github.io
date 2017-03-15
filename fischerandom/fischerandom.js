@@ -1,6 +1,5 @@
 /**
  * Creates and displays a Fischerandom chess position for White pieces.
- * @author Jyrki Heikkinen 2010-04-22
  */
 
 var CHESS960 = {};
@@ -90,13 +89,12 @@ CHESS960.layout = {
    * @param toggle changes layout (optional)
    */
   show: function(position, toggle) {
-    if (toggle != undefined && toggle) {
+    if (toggle) {
       this._showUnicode = !this._showUnicode;
     }
 
     document.getElementById("abc").style.display =
       this._showUnicode ? "none" : "block";
-    //document.getElementById("fen").innerHTML = position;
     document.getElementById("symbols").innerHTML = this._showUnicode ?
       this._getUnicode(position) : this._getImages(position);
   },
@@ -119,7 +117,7 @@ CHESS960.layout = {
   },
 
   _getImageURL: function(piece, pos) {
-    var PATH = "w";
+    var PATH = "images/w";
     return PATH + piece.toLowerCase() +
       (((pos % 2) == 0) ? "b" : "w") + ".gif";
   },
