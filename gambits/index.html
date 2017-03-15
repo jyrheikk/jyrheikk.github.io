@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="pgn/" />
+<link rel="icon" type="image/x-icon" href="chess.ico" />
+<style type="text/css">
+body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 0.8em;
+}
+
+table {
+	border: 1px solid black;
+	border-spacing: 0;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 4px;
+}
+
+td + td + td {
+	text-align: right;
+}
+</style>
+<title>Gambit chess games of Jyrki Heikkinen</title>
+</head>
+<body>
+<h2>Gambit chess games of Jyrki Heikkinen</h2>
+
+<table border="1">
+  <tr><th>Gambit</th><th>Moves</th><th>Games</th></tr>
+  <tr><td><a href="portuguese.pgn"><b>Center Counter, Portuguese</b></a></td><td>1.e4 d5 2.exd5 Nf6 3.d4 Bg4</td><td>71</td></tr>
+  <tr><td><a href="icelandic.pgn">Icelandic</a></td><td>&ndash; 3.c4 e6</td><td>24</td></tr>
+  <tr><td><a href="scandinavian.pgn">Scandinavian</a></td><td>&ndash; 3.c4 c6</td><td>7</td></tr>
+  <tr><td><a href="center-counter-Bb5.pgn">Center Counter, 3.Bb5+</a></td><td>&ndash; 3.Bb5+</td><td>28</td></tr>
+  <tr><td><a href="center-counter-misc.pgn">Center Counter, rare 3rd moves</a></td><td>&ndash; 3.*</td><td>5</td></tr>
+  <tr><td><a href="ddg.pgn"><b>Diemer&ndash;Duhm (DDG)</b></a></td><td>1.d4 d5 2.c4 e6 3.e4</td><td>262</td></tr>
+  <tr><td><a href="semi-slav-marshall.pgn">DDG Semi-Slav Marshall</a></td><td>&ndash; 3.Nc3 c6 4.e4</td><td>46</td></tr>
+  <tr><td><a href="qgd-tarrasch.pgn">DDG Queen's Gambit Declined, Tarrasch</a></td><td>&ndash; 3.Nc3 c5</td><td>8</td></tr>
+  <tr><td><a href="faj.pgn"><b>Fajarowicz</b></a></td><td>1.d4 Nf6 2.c4 e5 3.dxe5 Ne4</td><td>109</td></tr>
+  <tr><td><a href="budapest-declined.pgn">Budapest Declined</a></td><td>¬ 3.dxe5</td><td>18</td></tr>
+  <tr><td><a href="alapin.pgn">Alapin French</a></td><td>1.e4 e6 2.d4 d5 3.Be3</td><td>8</td></tr>
+  <tr><td><a href="from.pgn">From</a></td><td>1.f4 e5</td><td>5</td></tr>
+  <tr><td><a href="gibbins.pgn">Gibbins&ndash;Weidenhagen</a></td><td>1.d4 Nf6 2.g4</td><td>5</td></tr>
+  <tr><td><a href="hubsch.pgn">Hübsch</a></td><td>1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4</td><td>31</td></tr>
+  <tr><td><a href="kgambit.pgn">King's</a></td><td>1.e4 e5 2.f4</td><td>20</td></tr>
+  <tr><td><a href="wing.pgn">Sicilian Wing</a></td><td>1.e4 c5 2.b4</td><td>4</td></tr>
+  <tr><td><a href="staunton.pgn">Staunton</a></td><td>1.d4 f5 2.e4</td><td>41</td></tr>
+  <tr><td><a href="misc.pgn">Miscellaneous</a></td><td>*</td><td>12</td></tr>
+  <tr><td>Total</td><td>&nbsp;</td><td id="total"></td></tr>
+</table>
+
+<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
+<a href="/gambits/bdg.html">PGN</a> |
+gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
+<a href="/gambits/">PGN</a> ]</p>
+
+<p><i>Jyrki Heikkinen<br />
+<a href="//gambits.blogspot.com/">Gambits and Pieces</a></i></p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(function () {
+  var sum = 0;
+  $.getJSON('gambits.json', function (data) {
+    $.each(data, function (key, value) {
+      $("td a[href='" + key + "']").parent().next().next().html(value);
+      sum += value;
+    });
+    $("#total").html(sum);
+  });
+});
+</script>
+</body>
+</html>
