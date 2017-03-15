@@ -1,0 +1,51 @@
+[Event "Lauttasaari-Belfast correspondence"]
+[Site "-"]
+[Date "1998.12.07"]
+[Round "?"]
+[White "Lehto, Arto"]
+[Black "Houston, David"]
+[EventDate "1997.03.01"]
+[Result "1-0"]
+
+1.d4 f5 2.g3 e6 3.c4 Be7 4.Bg2 Nf6 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3
+Qh5 9.Ba3 Rf7 10.Ne1 g5 11.e4 Qg6 12.exf5 Qxf5 13.Nc2 Nbd7 14.Qe2 Nf8
+15.f4 Ng6 16.Nb5 Bd8 17.Ne3 Nxf4 18.gxf4 Qg6 19.fxg5 Qxg5 20.Rf3 Kh8
+21.Raf1 a6 22.Nc3 Rg7 23.Bc1 Qh4 24.Rf4 Qg5 25.Rxf6 Bxf6 26.Ne4 Qh4
+27.Nxf6 Bd7 28.Nxd7 1-0
+
+[Event "Lauttasaari-Belfast correspondence"]
+[Site "-"]
+[Date "1998.12.07"]
+[Round "?"]
+[White "Houston, David"]
+[Black "Lehto, Arto"]
+[Result "0-1"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6
+8.Qe2 h6 9.Ne4 Nxe4 10.Qxe4 Nf6 11.Qe2 Qc7 12.O-O b6 13.Ne5 Bb7 14.a4
+a5 15.Bf4 O-O 16.Bg3 Rad8 17.Rad1 c5 18.dxc5 Qxc5 19.c3 Be7 20.Kh1 Rd6
+21.f4 Nd5 22.Nc4 Rd7 23.f5 exf5 24.Rxf5 Bf6 25.Bf2 Qc6 26.Be4 Qe6
+27.Re1 Bxc3 28.Rxd5 Bxe1 29.Rxd7 Qxd7 30.Bxe1 Re8 31.Nd6 Qxd6 0-1
+
+[Event "Lauttasaari-Belfast correspondence"]
+[Site "-"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Valkeajärvi, Simo"]
+[Black "Wood, Stephen"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 5.c4 e5 6.Nb5 f5 7.N1c3 Nf6
+(7...a6 8.Bg5! {+/=}) 8.Bg5 Be7? (8...Kf7) 9.Bxf6 gxf6 10.Qh5+ Kf8
+(10...Kf8 11.O-O-O a6 12.Qh6+ Kf7 13.Nxd6+ Bxd6 14.c5 {+/-}) 1-0
+
+[Event "Lauttasaari-Belfast correspondence"]
+[Site "-"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Wood, Stephen"]
+[Black "Valkeajärvi, Simo"]
+[Result "0-1"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Ne4 5.Ne2 Bc5 6.Ned4? (6.d4 {=}) Bxd4
+7.Nxd4 Nxf2 8.Kxf2 Qh4+ 9.Kf3 Qe4+ 10.Kg3 Qxe5+ 0-1

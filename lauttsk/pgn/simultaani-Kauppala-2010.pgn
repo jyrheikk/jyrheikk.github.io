@@ -1,0 +1,79 @@
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2010.04.10"]
+[Round "-"]
+[White "Kauppala, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[TimeControl "5400"]
+
+1.g3 e5 2.Bg2 d5 3.d3 Nc6 4.Nf3 Bg4 5.c3 Qd7 6.h3 Be6 7.b4 Bd6 8.Nbd2
+Nf6 9.e4 d4 10.cxd4 Nxb4 11.d5 Nxd3+ 12.Kf1 Qb5? (12...Bc5 13.dxe6
+fxe6 {=}) 13.Qe2? (13.dxe6 Nxc1 14.Kg1 Ne2+ 15.Kh2 Nc3 {+/-}) Bd7 14.a4
+Qa6 15.Kg1 Nxc1 16.Qxa6 bxa6 17.Rxc1 Bxa4 18.Nc4 Nd7 19.h4 f6 20.h5
+Rb8 21.h6 (21.Nxd6+ cxd6 22.Nh4) g6 22.Bh3 Nc5 23.Nfd2 O-O 24.Kg2 f5
+25.exf5 gxf5 26.Rc3 (26.Nxe5 Bxe5 27.Rxc5 Rb2) e4 (26...Bb5) 27.Nxd6
+cxd6 28.Nc4 Nd3 (28...Rb3 29.Rcc1 Nd3 30.Ra1 Bb5 31.Nxd6 Rf6) 29.Nxd6
+Rbd8 (29...Rf6) 30.Nxf5 Kh8 31.Ra1 Bd7 32.g4 Bxf5 33.gxf5 Nf4+
+(33...Rxd5 34.Rxa6 Rg8+ 35.Kh2 Nxf2 36.Rg3 Rd3) 34.Kh2 Nxd5 35.Rc4
+Rf6? (35...e3) 36.Rd1 Rxh6 37.Rcd4 Rhd6 38.f6 Rxf6 39.Rxd5 Rxf2+
+40.Kg1 Rxd5 41.Rxd5 Ra2 42.Rd7 Ra3 43.Kg2 a5 44.Bf5 e3 45.Rxh7+ Kg8
+46.Kf3 Kf8 47.Rxa7 Ke8 48.Ke2 Kd8 49.Bd3 Kc8 50.Kxe3 Kb8 51.Rh7 Rc3
+52.Kd4 Rc7 53.Rh8+ Kb7 54.Be4+ Kb6 55.Rh6+ Kb5 56.Bd3+ Kb4 57.Rb6+ Ka3
+58.Bc4 a4 59.Bd5 Rh7 60.Bc4 Rh4+ 61.Kc3 Rh3+ 62.Bd3 Ka2 63.Rb4 a3
+64.Ra4 Rxd3+ 65.Kxd3 Kb2 66.Rb4+ Kc1 67.Kc3 a2 68.Ra4 Kb1 69.Kb3 a1=Q
+70.Rxa1+ 1/2-1/2
+
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2010.04.10"]
+[Round "-"]
+[White "Turtiainen, Kimmo"]
+[Black "Kauppala, Pekka"]
+[Result "1-0"]
+[TimeControl "5400"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Bf5 5.Bd2 Nd7 6.Nf3 O-O-O 7.b4 Qxb4
+8.Rb1 Qd6 9.Rb2 Nb6 10.Nb5 Qe6+ 11.Be2 Nc4? 12.Rb3 f6 13.O-O a6?
+14.Nxc7 Kxc7 15.Bxc4 Qxc4 16.Rc3 Qxc3 17.Bxc3 Kb8 18.Qe2 e6 19.Rb1 Ka7
+20.Ba5 Rc8 21.Ne1 Bd6 22.g4 Bg6 23.Bb6+ Ka8 24.Qxe6 Rc6 25.Qd7 Nh6
+26.Bd8 Bc7 27.Bxc7 Be4 28.d5 Rc5 29.Bd6 Rb5 30.Rxb5 axb5 31.Qxg7
+(31.Qxb5) Rg8 32.Qxh6 Rxg4+ 33.Bg3 Ka7 34.d6 Bc6 35.Qxh7 Rd4 36.Qe7
+Re4 37.Qxe4 1-0
+
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2010.04.10"]
+[Round "-"]
+[White "Heimonen, Arto"]
+[Black "Kauppala, Pekka"]
+[Result "1-0"]
+[TimeControl "5400"]
+
+1.e4 e5 2.Nf3 f5 3.exf5 e4 4.Qe2 Nf6 5.d3 d5 6.Bg5 Bxf5 7.Nd4 Qd7
+8.Bxf6 gxf6 9.Nxf5 Qxf5 10.Nd2 Bh6 11.O-O-O Nc6 12.dxe4 dxe4 13.Kb1
+(13.Qb5) O-O-O 14.g4 Qf4 (14...Qd7 15.g5 Bxg5 16.Qh5 Kb8 17.Bh3 {-/+})
+15.Bh3 Kb8 16.Nxe4 Rde8 (16...Nd4 17.Qe3 Qe5) 17.Bg2 Rhg8 18.Qf3 Qe5??
+(18...Qxf3 19.Bxf3 Ne5) 19.Nxf6 Qe6 20.Nxg8 Rxg8 21.Rhe1 Qg6 22.Qb3
+Na5 23.Qd5 Nc6 24.Re6 Qxg4 25.Rxc6! bxc6 26.Qb3+ Kc8 27.Bh3 1-0
+
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2010.04.10"]
+[Round "-"]
+[White "Jalas, Aaro"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[TimeControl "5400"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 e6 4.Nc3 exd5 5.Nxd5 Nc6!? 6.Bg5 Be7 7.Nxe7
+Qxe7 8.e3 h6 9.Bh4 d5 10.h3 Bf5 11.Bb5 O-O 12.c3 Ne5 13.Nxe5 Qxe5
+14.Bg3 Qe4 15.O-O c4 16.Qe2 Bg6 17.Ba4 Rfd8 18.Rac1 Qd3 19.Qc2? Qxf1+!
+20.Kxf1 Bxc2 21.Bxc2 Ne4 22.Be5 b5 23.Bd4 a5 24.f3 Ng5 25.Bb6 Rd6
+26.Bd4 f6 27.Re1 Ne6 28.Bg6 b4 29.e4? Nxd4 30.cxd4 dxe4 31.Bxe4 Rad8
+32.d5 Kf7 (32...Kf8) 33.Bf5 g6 34.Be6+ Kg7 (34...Ke7) 35.Rc1 f5
+36.Rxc4 Kf6 37.f4? (37.Ke2 {=/+}) g5 (37...b3 38.a4 Rxe6 39.dxe6 Rd2)
+38.g3 Rb6 39.Rc7 R8d6 40.Rc5 a4 41.Ra5 Ra6 42.Rc5 a3 43.b3 Ra7 44.Rc8
+Re7 45.Rf8+ Kg7 46.Rg8+ Kh7 47.Rf8 gxf4 48.gxf4 Rc7 49.Bxf5+??
+(49.Rxf5 {=/+}) Kg7 50.Rb8 Rf6 (50...Rxd5) 51.Be6 Rxf4+ 52.Ke1 Rc2
+53.Rg8+ Kh7 54.Rb8 Rff2 55.Rxb4 Rce2+ 56.Kd1 Rxa2 57.Rc4 Rf1# 0-1

@@ -1,0 +1,528 @@
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "1"]
+[Date "2009.03.19"]
+[White "Siikonen, Timo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.e5 Bf5 3.d4 c5 4.c3 e6 5.Bd3 Bxd3 6.Qxd3 Qb6 7.Nf3 Nc6 8.O-O
+Rc8 9.a3 c4 10.Qe2 Nh6 11.Nbd2 Be7 12.Re1 Nf5 13.Nf1 Kd7 14.Ne3 g6
+15.Nxd5 exd5 16.e6+ fxe6 17.Qxe6+ Kc7 18.Qxd5 Kb8 19.g4 Nd6
+(19...Nh4!) 20.Ng5 (20.Bf4 Rcd8 21.Re6 Qc7) Qb5 21.Qe6? (21.Qxb5 Nxb5
+22.d5 Bxg5 23.Bxg5 {+-}) Bxg5 22.Qxd6+ Ka8 23.Bxg5 Qxg5 24.h3 h5 25.f3
+hxg4 26.fxg4 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "1"]
+[Date "2009.03.19"]
+[White "Laaksovuori, Tommi"]
+[Black "Sobenin, Evgeny"]
+[Result "1-0"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Qb6 7.Qc2 Bg4
+8.Nd2 e6 9.Ngf3 Be7 10.O-O O-O 11.Ne5 Bh5 12.Ndf3 Bg6 13.Bxg6 hxg6
+14.Bg5 Rfc8 15.Nxg6 fxg6 16.Qxg6 Bd8? (16...Qd8 17.Bh6 Bf8 {-/+}) 17.Bh6
+Kf8?? (17...Rc7 {=}) 18.Ng5 (18.Bxg7) Ke7 19.Qf7 (19.Qxg7+! Kd6 20.Nf7+
+Kd7 21.Nxd8+) Kd6 20.Qxe6+ (20.Bxg7! Nd7 21.Qf4+ e5 22.dxe5+ Kc7
+23.e6+) Kc7 21.Nf7 Qa6 22.Qd6+ Kb6 23.Qc5+ Kc7 24.Bf4+ Kd7 25.Qd6+ Ke8
+26.Qe6+ Be7 27.Nd6+ Kd8 28.Nxc8 Rxc8 29.Rfe1 b5 30.Re3 Qb7 31.Rh3 Qd7
+32.Rh8+ Ne8 33.Qg6 Bf6 34.Re1 Ne7 35.Qf7 Rc6 36.h4 g5 37.Bxg5 Bxh8
+38.Rxe7 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "1"]
+[Date "2009.03.25"]
+[White "Kauppinen, Janne"]
+[Black "Rautio, Reijo"]
+[Result "0-1"]
+
+1.c4 e5 2.Nc3 c6 3.e4 Nf6 4.d3 Bc5 5.h3 d6 6.Nf3 O-O 7.Be2 Be6 8.O-O
+Nbd7 9.a3 d5 10.cxd5 cxd5 11.exd5 Nxd5 12.Nxd5 Bxd5 13.b4 Bb6 14.Bb2
+Qe7 15.Rc1 f5 16.Qd2 f4 17.Rc2 Rae8 18.Rfc1 g5 19.Rc3 (19.a4! Bb3
+20.a5 Bxc2 21.axb6 Bb3 22.bxa7 {+/-}) h5 20.R1c2? (20.Nh2) g4 21.hxg4
+hxg4 22.Ne1 Qh4 23.Bf1 f3 (23...g3) 24.Bc1 fxg2 (24...g3) 25.Bxg2
+Bxf2+ 26.Qxf2 Rxf2 27.Bxd5+ Rf7 28.Bxf7+ Kxf7 29.Rf2+ Ke6 30.Rcc2 Rh8
+31.Kf1 g3 32.Rg2 e4 33.Be3 Ne5 34.dxe4 Qg4 35.Bxa7 Rh1+ 36.Bg1 Nf3
+37.Rce2 Nh2+ 38.Rxh2 gxh2 39.Rxh2 Qxg1+ 40.Ke2 Qxe1+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "2"]
+[Date "2009.04.16"]
+[White "Wigelius, Pentti"]
+[Black "Laaksovuori, Tommi"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7 6.d4 exd4 7.Qb3 Nf6
+(7...Na5) 8.Bxf7+ Kf8 9.e5 Ne4 10.Bc4 (10.cxd4) Na5 11.Qa4 Nxc4
+12.Qxc4 Nxc3 (12...c5) 13.Qxd4 Nxb1 14.Rxb1 Qe8 (14...d5!) 15.O-O Qg6
+16.Rb3 b6 17.Nh4 Qh5 18.Rf3+ Ke8 19.Nf5 Qg6 20.Qe4 Rb8 21.Rg3 Bb7
+22.Qc2? (22.Qf4 {+-}) Qc6 23.Qxc6? (23.Qd2) Bxc6 24.Nxe7 Kxe7 25.Rxg7+
+Ke6 26.f4 Rhg8 27.Rxg8 Rxg8 28.g3 h5 29.Bb2 Kf5 30.Kf2 h4 31.Rg1 h3
+(31...hxg3+! 32.hxg3 Rh8) 32.Bc3 a5 33.Rc1 Rc8 34.Ke3 d6? 35.a3
+(35.Bd4!) Bb5 36.Bd4 c5 37.Bb2 d5 38.Re1 (38.g4+ {=}) d4+ 39.Kd2 Rd8
+40.e6 c4 41.e7 c3+ 42.Kc1 cxb2+ 43.Kxb2 Rc8 44.Re5+ Kf6 45.Rxb5 Kxe7
+46.Rxb6?? (46.Rd5 {=}) d3 47.Rb5 Rc2+ 48.Kb3 Rxh2 49.Rd5 Rg2 50.Rxd3 h2
+0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "2"]
+[Date "2009.04.16"]
+[White "Rautio, Reijo"]
+[Black "Kaiju, Kauko"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.O-O Re8
+8.f4 c5 9.Nf3 Nc6 10.a3 Bf8 11.Bc4 h6 12.e5 Nh7 13.Ne4 Be6 14.Bxe6
+Rxe6 15.f5 Rxe5 (15...Re7) 16.Nxe5 Nxe5 17.Bf4 a6 18.Nc3 Nf6 19.Nd5
+Nfd7 20.Qh5 Nf6 21.Nxf6+ Qxf6 22.Bg3 Be7 23.Bxe5 Qxe5 24.c3 Qe3+
+25.Kh1 Bf6 26.Rae1 Qd3 27.Rd1 Qb5 28.h3 Re8 29.Qf3 Qxb2 30.Rb1 Qxc3
+31.Qxc3 Bxc3 32.Rxb7 a5 33.Rd7 Re3 (33...Be5!) 34.Rd8+ Kh7 35.Rxd6 Bd4
+36.Rd7 Rxa3 37.Rxf7 Rg3 38.f6 Rg6 39.fxg7 Rxg7 40.R7f3 Rb7 41.Ra3 Rb5
+42.Rf5 Kg6 43.Rd5 Bb2 44.Rg3+ Kf6 45.Rf3+ Ke6 46.Rff5 Bd4 47.Kh2 Rb3
+48.Rxc5 Bxc5 49.Rxc5 a4 50.Rc6+ Kd5 51.Rxh6 Kc5 52.Ra6 Kb4 53.h4 a3
+54.h5 Kc3? (54...Rd3 {=}) 55.h6 Kb2 56.g4 (56.h7! Rb8 57.Rb6+) a2 57.g5
+Ra3 58.h7 Rxa6 59.h8=Q+ Kb3 60.Qh3+ Kb4 61.Qg4+ Kb5 62.Qf5+ Kb6
+63.Qf6+ Kb7 64.Qa1 Kc6 65.Kg3 Ra3+ 66.Kg4 Ra4+ 67.Kh5 Ra5 68.Kh6 Ra4
+69.g6 Rh4+ 70.Kg7 Ra4 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "2"]
+[Date "2009.05.07"]
+[White "Heikkinen, Jyrki"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nd6 7.Bf4 e6
+8.O-O-O Nd7 9.Re1 Be7 10.Kb1 O-O 11.g4 Bg6 12.Bd3 Bxd3 (12...Bg5)
+13.Qxd3 Bg5 14.Bg3 Bh4 15.Nf3 Bf6 16.h4 Be7 17.Ng5 g6 18.Nf3
+(18.Nxh7!? Kxh7 19.h5 Rh8 20.hxg6+ Kg7 21.Rhf1) Ne8 19.h5 Ng7 20.hxg6
+fxg6 21.Rh3 Qe8 22.Reh1 h5 23.gxh5 gxh5 24.Bxc7 Rf5 25.Ne4 Qf7 26.Nd6
+Bxd6 27.Bxd6 Re8 28.Ne5 (28.Rg3!) Nxe5 29.Bxe5 Rf8 30.a3 Rf1+ 31.Ka2
+Rxh1 32.Rxh1 Qf5 (32...Nf5 33.Rg1+ (33.Qe2!) Kh7 34.Rg7+ Qxg7 35.Bxg7
+Kxg7 36.Qf3 {+-}) 33.Rg1 Rf7 34.Qg3 Qh7 35.Qg5 (35.Bxg7! Rxg7 36.Qb8+
+Kf7 37.Qc7+ Kf8 38.Qc5+ Ke8 39.Qc8+ Ke7 40.Qxb7+ Kf6 41.Rf1+ {+-}) Kh8
+(35...Qxc2 36.Bxg7 Qc4+ 37.Ka1 Rf1+ 38.Rxf1 Qxf1+ 39.Ka2 Qc4+ 40.Kb1
+Qf1+ 41.Kc2 Qe2+ 42.Kc3 {+-}) 36.Rh1 Rf5? (36...Kg8 37.Qd8+ Rf8 38.Qd7)
+37.Qd8+ Qg8 38.Bxg7+ 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "3"]
+[Date "2009.05.14"]
+[White "Poduval, Praseet"]
+[Black "Rautio, Reijo"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.d3 Qf6 7.Nbd2 Ne7
+8.b3 Ng6 9.Bb2? (9.h3) Nh4 10.h3 Bxf3 11.Nxf3 Nxf3+ 12.Qxf3 Qxf3
+13.gxf3 f6 14.Rad1 Bc5 15.d4 exd4 16.Rd3 Rd8 17.Rfd1 Ke7 18.Kg2 Bb6
+19.Bxd4 Bxd4 20.Rxd4 Rd6 21.Kg3 Rhd8 22.R4d3 Ke6 23.f4 c5 24.h4 g6
+25.Rxd6+ Rxd6 26.Rxd6+ cxd6 27.h5 d5 28.f3? (28.hxg6 hxg6 29.f5+ gxf5
+30.exd5+ Kxd5 31.Kf4 Ke6 32.c4 {=}) d4 29.hxg6 hxg6 30.Kg4 b5 31.Kh4??
+(31.Kg3) c4 32.Kg3 a5 (32...c3!) 33.Kf2 Kd6 34.Ke2 g5 35.fxg5 fxg5
+36.a3 Ke5 37.b4 axb4 38.axb4 Kf4 39.Kd2 g4 40.fxg4 Kxg4 41.c3 Kf4
+42.cxd4 Kxe4 43.Kc3 Kd5 44.Kd2 Kxd4 45.Kc2 c3 46.Kb3 Kd3 47.Ka2 Kd2
+48.Kb1 c2+ 49.Ka2 c1=Q 50.Kb3 Qc4+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "3"]
+[Date "2009.05.21"]
+[White "Laaksovuori, Tommi"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Nbd7 4.Nf3 a6 5.Bxd7+ Qxd7 6.Nc3 Nxd5 7.O-O
+e6 (7...g6) 8.Ne5 Qd6 9.f4?! (9.d4 Be7 10.Ne4 Qd8 11.c4 Nf6 12.Nc5)
+Be7 10.Nxd5 Qxd5 (10...exd5 11.d4 Bf5) 11.d4 b5 12.c3 f6 13.c4? bxc4
+14.Qa4+ Kf8? (14...Qb5! 15.Qxb5+ axb5 16.Nf3 Bb7) 15.Be3 Bb7
+(15...Qb5!) (15...fxe5?? 16.fxe5+ Bf6 17.exf6 {+-}) 16.Qc2? (16.Nf3 Kf7
+17.Rac1 Bc6 18.Qc2 Rab8) fxe5 17.fxe5+ Ke8 18.Rf2 Kd7 19.Rf7 Raf8
+20.Raf1 Rxf7 21.Rxf7 g6 22.Qd2 Ke8 23.Rg7 Bh4 24.Qc2 Rf8 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "3"]
+[Date "2009.05.27"]
+[White "Siikonen, Timo"]
+[Black "Valkeajärvi, Simo"]
+[Result "1-0"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.Bb5 a6 5.Bxc6 dxc6 6.d3 Nf6 7.Nc3 b5 8.O-O
+Qb6 9.Kh1 Be7 10.Qe1 h6 11.Qg3 Nh5 12.Qg4 e5 13.f5 g6 14.Nxe5 Nf6
+15.Qh4 Nh5 16.Qh3 Qc7 17.Ng4 Bd6 18.Qf3 Bxh2 19.Nxh2 Ng3+ 20.Kg1 Nxf1
+21.Nxf1 Bd7 22.Bf4 Qc8 23.Ne3 g5 24.Bd6 h5 25.Rf1 Qd8 26.e5 g4 27.Qf4
+Rg8 28.Ne4 f6 29.Nxf6+ Kf7 30.e6+ Kxf6 31.Qe5+ Kg5 32.Qf4+ Kh4 33.g3+
+Kh3 34.Rf2 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "4"]
+[Date "2009.06.04"]
+[White "Heikkinen, Jyrki"]
+[Black "Rautio, Reijo"]
+[Result "1-0"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.f4 Nd7 5.Nf3 c5 6.Be3 Ngf6 7.Bc4 O-O 8.Qe2
+Nb6 9.dxc5 Nxc4 10.Qxc4 Be6 (10...Qc7 11.O-O-O (11.Qb4? Ng4) Ng4
+12.Nd5) 11.Qd3 d5 12.e5 Ng4 13.Bd4 h5 14.Nh4 Nh6 15.O-O-O Bf5 16.Nxf5
+Nxf5 17.Bf2 e6 18.g4 hxg4 19.Rdg1 (19.Rhg1) Qa5 (19...d4 20.Ne4)
+20.Rxg4 Rfd8 21.h4 b6 22.h5 bxc5 23.hxg6 Rab8 24.gxf7+ Kxf7 (24...Kf8
+25.Rh7 Qb4 26.Rgxg7!) 25.Rh7 Rg8 26.Rg5! Qb4 (26...Ne7 27.Qg3 Nf5
+28.Qh3) 27.Rxf5+ exf5 (27...Ke8 28.Qa6) 28.Qxf5+ Ke8 29.Nxd5 (29.Qe6+
+Kf8 30.Nxd5) Qxb2+ 30.Kd2 Rb6 31.Qh5+ (31.Qc8+ Kf7 32.e6+ Rxe6 33.Qd7+
+Kg6 34.Qxe6+ Kxh7 35.Qf5+ Kh6 36.Qh3+ Kg6 37.f5+ Kf7 38.Qh5+ Kf8
+39.Bxc5#) Kd8 32.Qf7 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "4"]
+[Date "2009.06.04"]
+[White "Mäki-Fränti, Petri"]
+[Black "Jalas, Aaro"]
+[Result "1/2-1/2"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 O-O
+8.Bc4 Nc6 9.c3 e5 10.d5 Na5 11.Be2 b6 12.O-O Bf5 13.Ng3 Bg6 14.c4 Nb7
+15.Bd3 Bxd3 16.Qxd3 Nc5 17.Qe2 Rfe8 18.Ne4 Nxe4 19.Qxe4 Qe7 20.Rfe1
+Qb4 21.Rab1 a5 22.a3 Qe7 23.h4 g6 24.h5 Bg7 25.g4 Qd7 26.Nh4 Qd8
+27.Nf3 Qd7 28.Nh4 Qd8 29.Nf3 Qd7 30.Nh4 Qd8 1/2-1/2
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "4"]
+[Date "2009.06.10"]
+[White "Varjokallio, Matti"]
+[Black "Kaiju, Kauko"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.g3 O-O 7.Bg2 Re8
+8.O-O c5 9.Nde2 Nc6 10.Bf4 Ne5 11.b3 Be6 12.Qd2 a6 13.Bg5 h6 14.Bf4 g5
+15.Be3 Nfg4 16.f4 Nxe3 17.Qxe3 Nc6 18.f5 Bd7 19.Nd5 Bf6 20.Rad1 Be5
+21.f6 Bg4 22.h4!? Nd4 23.Rxd4 Bxe2 24.Qxe2 Bxd4+ 25.Kh1 Re5 26.Qh5 Qf8
+27.Ne7+ Rxe7 28.fxe7 Qxe7 29.hxg5 hxg5 30.Rf5 f6 31.e5 Kg7?? 32.exf6+?
+(32.Rxf6) Bxf6 33.Qd1?? Rh8+ 34.Kg1 Qe3+ 35.Kf1 Bd4 36.Bd5 Qg1+ 37.Ke2
+Rh2+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Round "5"]
+[Date "2009.08.20"]
+[White "Kaiju, Kauko"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 Bg7 6.e4 Nxc3 7.bxc3 c5
+8.Bb5 Nc6 9.O-O (9.d5 a6 10.Be2 Ne5 11.Qc2) O-O 10.Ba3 cxd4 11.Bxc6
+bxc6 12.Nxd4 Qc7 (12...c5! 13.Bxc5 Qc7 14.Ba3 Ba6 15.Re1 Qxc3 16.Nb3
+Rfd8) 13.Qa4 Bd7 14.Qc4 Rfc8 15.Bc5 a5? (15...e5 16.Nf3 Be6 17.Qa6)
+16.f4 e6 17.e5 Bf8 18.Rfd1 a4 19.Rab1 Bxc5 20.Qxc5 Ra5 21.Qb6 Ra7
+22.c4 Be8 23.c5 Qe7 24.Nf3 Rcc7 25.Qb8 Qxc5 26.Kh1 Qe7 27.Rd8 Kf8
+28.Ng5 Rab7 29.Rxb7 Rxb7 30.Rxe8 Qxe8 31.Qxb7 Kg7 32.h3 c5 33.Ne4 Qd8
+34.Nd6 Qa5 35.Qxf7+ Kh6 36.Kh2 Qd2 37.Ne4 Qc1 38.Qf8+ Kh5 39.Ng3+ 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.08.26"]
+[Round "5"]
+[White "Turtiainen, Kimmo"]
+[Black "Wigelius, Pentti"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Qc2 Bb4 6.a3 Bxc3+ 7.bxc3 dxc4
+8.a4 {>9.Ba3} O-O 9.e4 b5!? 10.Bg5 h6 11.Bh4 Qc7?! 12.Bxf6 gxf6 13.e5
+fxe5 14.Nxe5 f6 15.Ng4 Qg7 16.Be2 e5 17.Ne3 f5 18.axb5 cxb5 19.O-O-O
+Bb7 20.h4 (20.Nxf5?) Be4 21.Qb2 a6 22.f3 Bd3? 23.Bxd3 cxd3 24.Rxd3 Nc6
+25.g4! Rac8 26.Nxf5 Rxf5? 27.gxf5 Nxd4 28.Qf2 Kh7 29.f4 (29.Rg1??) Qe7
+30.fxe5 Qa3+ 31.Qb2 Rxc3+? {Peli on ohi} 32.Rxc3 Ne2+ 33.Kc2 Qa4+
+34.Kd2 Nxc3 35.Qxc3 Qa2+ 36.Ke3 (36.Qc2??) 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.08.26"]
+[Round "5"]
+[White "Rautio, Reijo"]
+[Black "Sobenin, Evgeny"]
+[Result "1/2-1/2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5
+Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.c4 Bd6 13.O-O-O Qc7 14.Ne4
+Bf4 15.Rh4 Bxd2+ 16.Nfxd2 O-O-O 17.c5 Nxe4 18.Nxe4 Nf6 19.Nxf6 gxf6
+20.Qf3 f5 21.Rf4 Rd5 22.g3 Rg8 23.Qa3 a6 24.Qf3 Rg5 25.a3 Qa5 26.Rd3
+Qe1+ 27.Rd1 Qa5 28.Rd3 Qd8 29.Kc2 Qd7 30.Kc3 f6 31.g4 fxg4 32.Rxg4
+Rdf5 33.Qg3 Qc7 34.Rxg5 fxg5 35.Re3 Qxg3 36.fxg3 Kd7 37.Kd3 1/2-1/2
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.09"]
+[Round "5"]
+[White "Kauppinen, Janne"]
+[Black "Valkeajärvi, Simo"]
+[Result "0-1"]
+
+1.c4 e5 2.Nc3 d6 3.g3 Nc6 4.Bg2 Nf6 5.d3 Be7 6.Nf3 O-O 7.O-O a6 8.a3
+h6 9.b4 Nh7 10.e4 Ng5 11.Nd5 Nd4 12.Nxe7+ Qxe7 13.Nxd4 exd4 14.Bxg5
+(14.f4) Qxg5 15.f4 Qg6 16.f5 Qf6 17.Rc1 c5 18.Qb3 Qg5 19.Rb1 h5
+20.bxc5 dxc5 21.Qd1 (21.Rf4) Rb8 22.Qf3 (22.Rb6) b5 23.cxb5 axb5
+24.Rfc1 Ba6? (24...c4) 25.Rxc5 Rfc8 26.Rxc8+ Rxc8 27.Bf1 Rc3 28.Rb4
+Qe3+ 29.Qxe3 dxe3 30.a4? (30.Be2) bxa4 31.Rxa4 Bxd3 32.Bxd3 Rxd3
+33.Kf1 Rd2 34.h4 Rf2+ 35.Kg1 Rf3 36.Kg2 e2 37.Ra1 Re3 38.Re1 Rxe4
+39.Kf3 Re5 40.g4 hxg4+ 41.Kxg4 Re4+ 42.Kg3 Kh7 43.Kf3 Re5 44.Kg4 Kh6
+45.Kf4 Re8 46.Kg4 f6 47.Kf3 Kh5 48.Kg3 Re5 49.Kf4 Re7 50.Kg3 Re4
+51.Kf3 Re5 52.Kf4 Kh6 53.Kg4 Kh7 54.Kf4 Kg8 55.Kg4 Kf7 56.h5 Kg8
+57.Kf4 Kh7 58.Kg4 Kh6 59.Kf4 Re7 60.Kg4 Kh7 61.Kf4 Kg8 62.Kg4 Kf7
+63.Kf4 Re5 64.Kg4 Ke7 65.Kf4 Kd6 66.Kg4 Re4+ 67.Kf3 Ke5 68.Kg3 Kxf5
+69.Kf3 Re5 70.Kg3 Kg5 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.16"]
+[Round "5"]
+[White "Paasonen, Kim"]
+[Black "Mäki-Fränti, Petri"]
+[Result "0-1"]
+
+1.e4 c5 2.Bc4 e6 3.Nc3 Ne7 4.Nf3 d5 5.exd5 exd5 6.Bb5+ Bd7 7.Bxd7+
+Qxd7 8.d4 cxd4 9.Nxd4 Nbc6 10.O-O O-O-O 11.Bf4 Ng6 12.Bg3 f5 13.Nxc6
+bxc6 14.f4 Bc5+ 15.Kh1 h5 16.Na4 Be7 17.Qd4 h4 18.Bf2 Kb8 19.Rad1 Bf6
+20.Qd2 h3 21.g3 d4 22.Be1?? (22.Qb4+ Ka8 23.Qb3 {=}) Qd5 23.Kg1 d3
+24.Qb4+? (24.c3 Rhe8 25.Qf2 Re2 26.Qf3 {-+}) Ka8 25.Rd2 Bd4+ 26.Rdf2
+Qg2# 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.24"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Sobenin, Evgeny"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 g6 6.Qd2 Bg7 7.O-O-O O-O
+8.Bh6 c6 9.h4 Qa5 10.Kb1 Re8 11.Bxg7 Kxg7 12.h5 Ng8 (12...Nxh5 13.g4
+Nf6 14.Qh6+ Kg8 15.Bd3 Be6 16.g5 {+-}) 13.hxg6 hxg6 14.Qf4 Qf5 15.Qd2 g5
+16.Rh5 f6 17.Bd3 Qf4 18.Rh7+ Kf8 19.Bg6 Be6 20.Qe2 Qd6 21.Re1 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.24"]
+[Round "6"]
+[White "Turtiainen, Kimmo"]
+[Black "Poduval, Praseet"]
+[Result "0-1"]
+
+1.d4 d6 2.e4 Nf6 3.Bd3 Nc6 4.c3 g6 5.Ne2 Bg7 6.Bg5 O-O 7.Nd2 a6 8.Ng3
+Nb8 9.h4 h6 10.Be3 Ng4 11.Qe2 Nxe3 12.Qxe3 c5 13.d5 e6 14.dxe6 Bxe6
+15.Rd1 Bxa2 16.Bc4 Bxc4 17.Nxc4 Qe7 18.Nxd6 (18.Qd2) Rd8 19.Qd3 Bf8
+20.Ndf5 Qd7 21.Qxd7 Nxd7 22.Nd6 Ne5 23.Nxb7 Rxd1+ 24.Kxd1 Rb8 25.f4
+Ng4 26.Ke2 Rxb7 27.Kf3 Nf6 28.e5 Nh5 29.Ne4 Ng7 30.g4 Be7 31.Rh2 Rd7
+32.Ke2 c4 33.Nd2 Rc7 34.Ne4 Ne6 35.Kf3 Rd7 36.Rd2 Rd3+ 37.Rxd3 cxd3
+38.f5 Nc5 39.f6 Bf8 40.Nf2 d2 41.b4 Nd3 42.Nd1 Nxe5+ 43.Ke2 Nxg4
+44.Kxd2 Nxf6 45.Kc2 Nd5 46.Kb3 Be7 47.Ka4 Bxh4 48.Ka5 Be1 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.24"]
+[Round "6"]
+[White "Rautio, Reijo"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 d6 7.Bb5 Bd7
+8.O-O Qg6 9.Nd2 Nf6 10.Re1 O-O 11.Nxc6 bxc6 12.Bxc5 cxb5 13.Bd4 Bc6
+14.f3 Bb7 15.Nf1 c5 16.Bf2 Nd7 17.Ne3 Rad8 18.Nf5 Kh8 19.Qxd6 Qxd6
+20.Nxd6 Bc6 21.Rad1 a6 22.e5 h6 23.f4 g6 24.Bh4 g5 25.fxg5 Ra8 26.gxh6
+Kh7 27.Be7 Rg8 28.Rd2 Rg6 29.Re3 Rag8 30.g3 f6 31.exf6 Nxf6 32.Bxf6
+Rxf6 33.Ne4 Bxe4 34.Rxe4 Rgf8 35.Rh4 R6f7 36.Kg2 c4 37.g4 Rf6 38.g5
+Re6 39.Rg4 Kg6 40.h4 Kh5 41.Rg3 Re7 42.Rf3 Rfe8 43.Kg3 Re4 44.Rf4 Re1
+45.Rdf2 R8e3+ 46.Kg2 Rd3 47.h7 Re8 48.Rf8 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.24"]
+[Round "6"]
+[White "Paasonen, Kim"]
+[Black "Siikonen, Timo"]
+[Result "0-1"]
+
+1.e4 e6 2.Nf3 d5 3.exd5 exd5 4.d4 Bg4 5.Be2 Nf6 6.h3 Bh5 7.Nc3 Be7
+8.Bf4 c6 9.Qd3 Bg6 10.Qd2 Bb4 11.Bg5 O-O 12.Ne5 Qd6 13.O-O Ne4 14.Qe3
+(14.Nxe4! Bxe4 15.c3 f6) Nxg5 15.Nxg6 Qxg6 16.Bd3 Qf6 17.f3 Nd7
+18.Rfe1 Ne6 19.a3 Bd6 20.Ne2 Rae8 21.Qf2 Nf4 22.Ng3 Nxd3 23.cxd3 Qf4
+24.Nf1 Nf6 25.g3 Qf5 26.h4 Qxd3 27.Rad1 Qg6 28.Kh2 Qh6 29.Kg2 Nh5
+30.b4 a6 31.Qc2 Qg6 32.Qf2 Nf4+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.24"]
+[Round "6"]
+[White "Koski, Jonne"]
+[Black "Kauppinen, Janne"]
+[Result "1/2-1/2"]
+
+1.b3 d5 2.Bb2 Bf5 3.Nf3 h6 4.e3 Nd7 5.c4 e6 6.cxd5 exd5 7.Nc3 c6 8.Rc1
+Rc8 9.Nd4 Bh7 10.Qf3 Ngf6 11.Nf5 Bxf5 12.Qxf5 Be7 13.Bd3 Nc5 14.Ne2
+Nxd3+ 15.Qxd3 O-O 16.f3 Re8 17.Ng3 Bd6 18.Qc3 c5 19.O-O Be5 20.d4 cxd4
+21.Qxc8 Qxc8 22.Rxc8 Rxc8 23.Bxd4 Bxd4 24.exd4 Rc2 25.Rf2 Rc1+ 26.Rf1
+1/2-1/2
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.30"]
+[Round "6"]
+[White "Pasterstein, Dennis"]
+[Black "Jalas, Aaro"]
+[Result "1-0"]
+
+1.e4 e6 2.Bc4 d5 3.exd5 exd5 4.Bb3 Nf6 5.h3 Bd6 6.Nf3 Qe7+ 7.Qe2 Qxe2+
+8.Kxe2 O-O 9.Re1 Re8+ 10.Kf1 Rxe1+ 11.Kxe1 c6 12.d4 Ne4 13.Nbd2 Nf6
+14.c4 Be6 15.Ng5 Bf5 16.cxd5 Nxd5 17.Nc4 Be7 18.a3 Nd7 19.Na5 Re8
+20.Kf1 Bd3+ 21.Kg1 Bd6 22.Bd2 Ba6 23.Rc1 N7f6 24.Nxc6 bxc6 25.Rxc6
+Bxa3? (25...Bf4) 26.bxa3 Bb7 27.Rd6 h6 28.Nf3 Nb6 29.Bxh6 (29...Nc8 {=})
+1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.14"]
+[Round "6"]
+[White "Wigelius, Pentti"]
+[Black "Mäki-Fränti, Petri"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Nc3 Ne7 6.Bd3 Bg4 7.Be3 c6
+8.h3 Bh5 9.g4 Bg6 10.Qd2 Qa5 11.Bxg6 hxg6 12.Ne2 Qb6 13.c3 a5 14.Nf4
+(14.Bf4!) Nd7 15.Nd3 Nf6 16.Nfe5 Ne4 17.Qc2 f6 18.Nf3 a4 19.O-O-O a3
+20.b3 Qa5 21.b4 Qc7 22.Nd2 b6 23.Rde1 Kf7 24.Nf1 c5 25.f3 c4 26.Nf2
+Nxf2 27.Qxf2 Nc6 28.Bd2 Bxb4! 29.cxb4 c3 30.Be3 (30.Bxc3 Nxb4 31.Re3
+Rhe8 32.Qd2 Rxe3 33.Nxe3 Nxa2+ 34.Qxa2 Qxc3+ 35.Nc2 Qxf3 {-+}) Nxb4
+31.Qh2 Qc4 32.Re2 Rhc8 (32...Rxh3!) 33.Rc2 Nd3+ (33...Nxa2+! 34.Rxa2
+c2) 34.Kb1 (34.Kd1 Qb5) Qb4+ 35.Ka1 Ne1 (35...Qb2+! 36.Rxb2 cxb2+
+37.Kb1 Rc1+ 38.Bxc1 bxc1=R#) 36.Ng3 Nxc2+ 37.Qxc2 Qb2+ 38.Qxb2 axb2+
+39.Kb1 Ra3 40.Re1 b5 41.Kc2 Rxa2 42.Ne2 b4 43.Nc1 b1=Q+ 44.Kxb1 Rb2+
+45.Ka1 Ra8+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.21"]
+[Round "7"]
+[White "Pasterstein, Dennis"]
+[Black "Turtiainen, Kimmo"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Bc5 3.Bc4 Nc6 4.c3 Nf6 5.b4 Bb6 6.a4 a5 7.b5 Ne7 8.d3
+O-O 9.O-O Ng6 10.Ba3 d6 11.Qb3 Bg4 12.Nbd2 Qd7 13.Kh1 Nf4 14.d4 exd4
+15.cxd4 Bxf3 16.Nxf3 Qg4? (16...Nxe4) 17.Rg1? (17.g3 Ne6 18.e5 {+/-})
+Nxe4 18.h3?? (18.Ra2) Nxf2+ 19.Kh2 N2xh3 20.Raf1 Nxg1 21.Rxg1 Bxd4
+22.Bb2 Bxg1+ 23.Kh1 Qxg2# 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.22"]
+[Round "7"]
+[White "Poduval, Praseet"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.e5 Bf5 3.d4 c5 4.Nf3 e6 5.Bb5+ Nc6 6.O-O Qb6 7.Nc3 Bg4 8.Be3
+Bxf3 9.gxf3 a6 10.dxc5 Bxc5 11.Na4 Qxb5 12.Nxc5 Nxe5 13.Bd4 Ne7
+14.Nxe6 fxe6 15.Bxe5 O-O 16.Re1 Rae8 17.c4 dxc4 18.Bd6 Rf6 (18...Rd8!
+{-+}) 19.Re5 Qd7 20.Bxe7 Qxe7 21.Qe2 b5 22.Rd1 Rf5 23.Kf1 Qf6 24.Rxf5
+Qxf5 25.Rd6 e5 (25...Qh5) 26.Rxa6 e4 27.Qe3? (27.fxe4? Rxe4 28.Ra8+
+Kf7 29.Ra7+ Kf6 30.Ra6+ Ke5) (27.Ra3! Qh5) Qh3+ 28.Ke2?? (28.Kg1 Rd8)
+(28.Ke1 Qxh2) exf3+ 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.22"]
+[Round "7"]
+[White "Joutsivuo, Timo"]
+[Black "Laaksovuori, Tommi"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Bf5 6.Nb3 Bb4+ 7.Bd2 Qe7
+8.a3 Bxd2+ 9.Qxd2 O-O-O 10.Qf4 Bg6 11.Nbxd4 Nxd4 12.Nxd4 Qc5 13.e3 f6?
+14.Ne6 fxe5 15.Qh4 Qd6 16.Qxd8+ Qxd8 17.Nxd8 Kxd8 18.O-O-O+ Ke7 19.f3
+Nf6 20.g4 Nd7 21.b4 Rf8 22.Be2 Nb6 23.Kb2 Bf7 24.Kb3 Be8 25.b5 a6
+26.a4 c5 27.Rhf1 Bg6 28.h4 axb5 29.axb5 Bf7 30.f4 e4 31.f5 Nd7 32.Rf4
+Ra8 33.Rxe4+ Kd8 34.g5 Kc7 35.Re7 Be8 36.f6 1-0
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.09.22"]
+[Round "7"]
+[White "Mäki-Fränti, Petri"]
+[Black "Rautio, Reijo"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.Nxd4 Nxe4 6.Nxc6 bxc6 7.Qe2
+Qe7 8.O-O Nd6 9.Be3 Nxc4 10.Qxc4 Qb4 11.Qe2 Be7 12.Re1 Ba6 13.Qd1 O-O
+14.a3 Qd6 15.Qg4 Qe6 16.Qd1 Bd6 17.Nc3 Qg6 18.Qd4 Qh5 19.g3 c5 20.Qd5
+Qxd5 21.Nxd5 Bc4 22.Rad1 Rfe8 23.Kg2 Kf8 24.b3 Bb5 25.Nc3 Bc6+ 26.f3
+Re6 27.Kf2 Rae8 28.a4 a6 29.Rd3 Be7 (29...g5! {-/+}) 30.Red1 d6 31.Bf4
+Bf6 32.Nd5 (32.g4) Bd4+? (32...Re2+ 33.Kf1 Bxd5 34.Rxd5 Bc3 {-+})
+33.Ne3? (33.Rxd4 cxd4 34.Nxc7 Re2+ 35.Kf1 Rxh2 36.Bxd6+ Re7 37.Rxd4
+Rxc2 38.Ba3 f6 39.Ne6+ Kf7 40.Nd8+ Ke8 41.Bxe7 Kxe7 42.Nxc6+ Rxc6 {=})
+h6 34.h4 Bf6 35.c3 g5 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.22"]
+[Round "7"]
+[White "Valli, Kari"]
+[Black "Valkeajärvi, Simo"]
+[Result "0-1"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.Nbd2 Bd6 5.Bg3 O-O 6.e3 a6 7.Bd3 Nc6 8.c3
+b5 9.Ne5 Bb7 10.Rc1 Na5 11.Bb1 Nc4 12.O-O Nxb2 13.Qc2 Nc4 14.Ndxc4
+dxc4 15.a4 Be4 16.Qa2 Qe8 17.Bxe4 Nxe4 18.f3 Nxg3 19.hxg3 f6 20.f4??
+fxe5 21.dxe5 Bc5 22.Kf2 Qh5 23.Qe2 Qxe2+ 24.Kxe2 Rad8 25.e4 Rd3 26.Rf3
+Rfd8 27.Rxd3 Rxd3 28.g4 Re3+ 29.Kd2 Rxe4 30.axb5 Be3+ 31.Kc2 Bxc1
+32.bxa6 Be3 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.22"]
+[Round "7"]
+[White "Kauppinen, Janne"]
+[Black "Varjokallio, Matti"]
+[Result "0-1"]
+
+1.c4 Nf6 2.d4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.e4 d6 6.Be2 Bg4 7.O-O Nfd7 8.h3
+Bxf3 9.Bxf3 e5 10.Be3 exd4 11.Bxd4 Ne5 12.Be2 Nbc6 13.Be3 Ne7 14.Rc1
+(14.c5!) b6 15.Qc2 h6 16.b3 Qe8 17.f4 N5c6 18.a3 f5 (18...Nf5!) 19.Bf3
+fxe4 20.Nxe4 Nf5 21.Qd3? (21.Rce1 Nxe3 22.Rxe3 Bd4 23.Nf2 Bxe3 24.Bxc6
+Bxf2+ 25.Rxf2 Qxc6 26.Qxg6+ {=}) Nxe3 22.Rfe1 Qd7 (22...Rxf4! 23.Rxe3
+Bd4) 23.Rxe3 Bd4 24.Nf2 Bxe3 25.Qxe3? (25.Bxc6 {=}) Rae8 26.Qd3 Ne7
+27.Qd2 Qf5 28.Nd3 h5 29.Re1 Kh7 30.Be4 Qf6 31.Qe2 Nf5 32.Qf3 Re7
+33.Bxf5 Rxe1+ 34.Nxe1 Qd4+ 35.Kh2 Rxf5 36.g3 d5 37.cxd5 Qd2+ 38.Ng2
+Rxd5 39.Qe4 Qd4 40.Qe7+ Qg7 41.Qe4 Rd4 42.Qc2 Qd7 43.Qc3 c5 44.Ne1 Qe6
+45.Ng2 Qe2 46.Qc1 Rd1 47.Qc4 Qxc4 48.bxc4 Ra1 49.g4 Rxa3 50.gxh5 gxh5
+51.Nh4 Rc3 52.Nf5 Rxc4 53.Kg3 a5 54.Nd6 Rd4 55.Nb5 a4 56.Nxd4 cxd4
+57.Kf3 a3 0-1
+
+[Event "Lauttasaari Open Ch"]
+[Site "Helsinki FIN"]
+[Date "2009.10.28"]
+[Round "7"]
+[White "Siikonen, Timo"]
+[Black "Koski, Jonne"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d5 4.exd5 Qxd5 5.dxe5 Qxd1+ 6.Kxd1 Bg4 7.Be2
+O-O-O+ 8.Nbd2 Bxf3 9.Bxf3 Nxe5 10.Ke2 Bc5 (10...Nf6) 11.Ne4 Bb6 12.Bf4
+Nxf3 13.Kxf3 Ne7 14.Rad1 Nd5 15.Bd2 (15.Nd6+! cxd6 16.Rxd5) f5 16.Ng5
+Rd7 17.c4 Nf6 18.Bc3 Re7 (18...Ne4 19.Nxe4 fxe4+ 20.Ke2 Rf8) 19.Bb4 c5
+20.Bc3 Ne4 21.Nxe4 fxe4+ 22.Ke3 Rf8 23.Rd2 (23.Rd5) Bc7 24.g3 g5
+(24...Rf3+ 25.Ke2 Ref7 26.Rd5 b6 27.Rf1 e3 28.Be1) 25.Rhd1 Rf3+ 26.Ke2
+Ref7 27.Ke1 R7f5 28.Re2 Be5 29.Bxe5 Rxe5 30.Rd6 e3 31.fxe3 Rfxe3
+32.Rxe3 Rxe3+ 33.Kd2 Re7 34.Rd5 Rd7 35.Ke3?? h6? (35...Rxd5! 36.cxd5
+Kd7 37.Ke4 Kd6 {-+}) 36.Rxc5+ Kd8 37.Rd5 b6 38.Ke4 Kc7 39.Rxd7+ Kxd7
+40.Kd5 Kc7 41.g4 a6 42.b4 Kb7 43.a4 Kc7 44.c5 bxc5 45.Kxc5 Kb7 46.b5
+Ka7 47.bxa6 (47.Kc6) Kxa6 48.Kd6 Ka5 49.Ke5 Kxa4 50.Kf6 Kb5 51.Kg6 Kc5
+52.Kxh6 Kd6 53.Kxg5 Ke6 54.Kg6 Ke7 55.g5 Kf8 56.Kf6 Kg8 57.g6 Kf8
+58.g7+ Kg8 59.h3 Kh7 60.Kf7 1-0
