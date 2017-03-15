@@ -1,0 +1,87 @@
+[Event "Ruth Cup"]
+[Site "Jyväskylä FIN"]
+[Date "1985.11.21"]
+[Round "7"]
+[White "Nevanlinna, Risto"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 Nxc6 5.c3 Bf5 6.Be2 Rc8 7.Nf3 e6
+8.O-O Be7 9.Bf4 O-O 10.Nbd2 a6 11.a4 Nd5 12.Bg3 h5 13.h4 Bg4 14.Re1 f5
+15.Ne5 Nxe5 16.Bxe5 Bxh4 17.Bxg4 fxg4 18.Ne4 Nf6 19.g3 Nxe4 20.Rxe4
+Bf6 21.Qe2 Qd5 22.Bxf6 Rxf6 23.Re5 Qf3 24.Qxf3 gxf3 25.Rxh5 Kf7 26.Re1
+b6 27.a5 bxa5 28.Rxa5 Rh8 29.Re4 Rfh6 30.Rh4 Rxh4 31.gxh4 Rxh4 32.Rxa6
+Rg4+ 33.Kf1 Rh4 34.Ke1 Re4+ 35.Kf1 Rh4 36.Ke1 1/2-1/2
+
+[Event "Nokia Correspondence Tournament"]
+[Site "?"]
+[Date "1998.02.02"]
+[Round "-"]
+[White "Lindholm, Tommi"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[EventDate "1997.11.01"]
+[Mode "EM"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 e6 4.Bb5+ c6 5.dxc6 Nxc6 6.Bxc6+ bxc6 7.Nf3
+Ba6 8.b3 Bd6 9.c4 O-O 10.O-O Qc7 11.Re1 c5 12.dxc5 Bxc5 13.Be3 Bd6
+14.h3 Bb7 15.Nc3 Qc6 16.Qc2 Nh5 17.Nb5 Bb8 18.Rad1 a6 19.Nbd4 Qc7
+20.Bc1 Ba7 21.Qe2 Rad8 22.Bg5 Nf6 23.Nc2 Rxd1 24.Qxd1 (24.Rxd1 Ne4
+25.Be3 Nc3) Bb8 (24...Ne4 25.Be3) 25.Bxf6 gxf6 26.Ne3 Rd8 27.Qe2 Bxf3
+(27...Rd4!? 28.Rd1 Rf4) (27...Kg7 28.Rd1 Bxf3 29.Qxf3 Qh2+ 30.Kf1 Qh1+
+31.Ke2) 28.Qxf3 Qh2+ 29.Kf1 Rd2 30.g4 Rxa2 31.Rb1 Ba7 32.b4 Bxe3
+33.fxe3 Qc2 34.Rd1 Qxc4+ 35.Kg1 Qc2 36.e4 Rb2 (36...e5!) 37.e5 Qh2+
+38.Kf1 Qxe5 0-1
+
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "2008.11.15"]
+[Round "?"]
+[White "Patola, Eero"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d6 exd6 4.Nf3 d5 5.d3 Bd6 6.h3 O-O 7.Be2 c6 8.O-O
+Bc7 9.Bg5 Qd6 10.Bh4 Nh5 11.d4 Nd7 12.c4 dxc4 13.Bxc4 Nb6 14.Bb3 Nd5
+15.Ne5 Ndf4 16.Bg3?? Qxd4 (16...Nxg3) 17.Qxd4 Ne2+ 18.Kh1 Nxd4
+19.Bxf7+? Rxf7 20.Nxf7 Bxg3 21.fxg3 Nxg3+ 22.Kg1 Nxf1 23.Kxf1 Nc2
+24.Nd6 Nxa1 25.Nc3 Be6 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2012.08.29"]
+[Round "?"]
+[White "Lehtinen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.b4 Qxb4 6.Rb1 Qd6 7.Be2 c6
+8.O-O g6 9.d4 Bg7 10.Bg5 O-O 11.Qd3 b6 12.Bh4 Nd5 13.Ne4 Qc7 14.Qa3 f5
+15.Ned2 h6 16.Rfe1 (16.c4 Nf4) g5 17.Bxg5 hxg5 18.Nxg5 Qd6 (18...Bxd4!
+19.Qh3 e5 20.Rb3 {-/+}) 19.Qb3 e6 (19...Bxd4) 20.Qh3 Nf6? (20...Rf6)
+21.Ndf3 (21.Bc4 {+-}) Ba6? 22.Bxa6 Nxa6 23.Rxe6 Qd7?? 24.Ne5 Qc7 25.Rxc6
+Qb7 26.Qb3+ 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2013.04.09"]
+[Round "1"]
+[White "Tingander, Ari-Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "A"]
+[Board "2"]
+[WhiteTeam "Shakkikerho Garde"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
+[WhiteElo "2054"]
+[BlackElo "2054"]
+[TimeControl "900"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.Bc4 c6 6.d3 Bf5 7.Bd2 Qc7
+8.Qe2 Nbd7 9.O-O-O b5 10.Bb3 a5 11.a4 Nc5 12.Nd4 Nxb3+ 13.Nxb3 b4
+14.Ne4 Bxe4 15.dxe4 e6 16.g4 Be7 17.g5 Nd7 18.Be3 O-O 19.h4 Rfd8
+20.Qg4 c5 21.h5 e5 22.g6 Nf6 23.gxh7+ Kh8 24.Qg2 c4 25.Nd2 c3 26.Nf3??
+cxb2+ 27.Kb1 Qc3 (27...Nxe4 {-+}) 28.Rdg1?? (28.Ng5 Rxd1+ 29.Rxd1 Rf8
+{=/+}) Rd1+ 29.Rxd1 Qa3 0-1

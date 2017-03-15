@@ -1,0 +1,76 @@
+[Event "Casual Game"]
+[Site "Tampere FIN"]
+[Date "1989.10.18"]
+[Round "-"]
+[White "Lassila, Timo-Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.f4 e5 2.fxe5 d6 3.Nf3 dxe5 4.Nxe5 Nf6 5.d3 Bc5 6.Bg5? Ne4!! (6...Ne4 7.Qc1
+(7.dxe4 Bxf2+) (7.Bxd8 Bxf2#) Nxg5) 0-1
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.07.24"]
+[Round "-"]
+[White "Kalle2000"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "300"]
+[Mode "ICS"]
+
+1.f4 e5 2.fxe5 d6 3.Nf3 dxe5 4.e4 g5 5.Bc4 Bc5 6.d4 Bxd4 7.Bxg5 f6 8.Nxd4 Qxd4
+9.Qh5+ Kd8 10.Bxg8 Qxe4+ 11.Kf2 Qf5+ 12.Kg1 fxg5 (12...Rxg8 {-+}) 13.Bb3 Rf8
+14.Qe2 b6 15.Nc3 Ba6 16.Rd1+ Nd7 17.Qd2 Qf1+! (17...Qf1+ 18.Rxf1 Rxf1#) 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1998.06.03"]
+[Round "?"]
+[White "Kohvakka, Raimo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nc6 5.g3 h5 6.Nc3 h4 7.Ne4 hxg3 8.Nxd6+
+Qxd6 9.d3 gxh2 10.e4 Qg3+ 11.Ke2 Bg4 12.Ke3 Nf6 13.Bd2 O-O-O 14.Be1 Nd5+
+15.exd5 Rde8+ 16.Kd2 Qf4+ 17.Kc3 Qb4# 0-1
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2002.01.30"]
+[Round "?"]
+[White "?"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "900"]
+
+1.f4 e5 2.fxe5 d6 3.Nf3 g5 4.g3 g4 5.Nd4 dxe5 6.Nb3 Nc6 7.Bg2 h5 8.d3 h4 9.e4
+Be6 10.Be3 Nge7 11.Bg5 hxg3 12.hxg3 Rxh1+ 13.Bxh1 Bxb3 14.axb3 Qd4 15.Nc3 Qg1+
+16.Kd2 Qxg3 17.Qg1 Qh3 18.Bg2 Qh5 19.Bxe7 Bxe7 20.Nd5 Bg5+ 21.Kc3 Kd7 22.b4
+Nd4 23.Bf1 a6 24.Qf2 f5 25.exf5 Qh6 26.f6 Kd6 27.Bg2 Bd2+! 28.Qxd2 (28.Kc4
+b5#) Nb5+ 29.Kb3 Qxd2 {no more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2013.08.21"]
+[Round "?"]
+[White "Mäki-Fränti, Petri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "960+8"]
+
+1.f4 e5 2.fxe5 d6 3.e4? Qh4+ 4.Ke2 Qxe4+ 5.Kf2 dxe5 6.Qf3? Bc5+ 7.Kg3 Qe1+ 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2014.09.10"]
+[Round "?"]
+[White "Mäki-Fränti, Petri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1200+10"]
+
+1.f4 e5 2.e4 Nc6 3.Nf3 exf4 4.d4 g5 5.Bc4 g4 6.Ne5 Nxe5 7.dxe5 Qh4+ 8.Kf1 d5
+9.exd5 Bc5 10.Qe2? f3 11.gxf3?? gxf3 12.Bb5+ c6 13.Qxf3 Bh3+ 0-1

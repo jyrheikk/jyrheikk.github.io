@@ -1,0 +1,78 @@
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1998.12.09"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Rautio, Reijo"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.g4 Nxg4 3.e4 d6 4.Bc4 Nf6 5.Nc3 g6 6.Nf3 Bg7 7.e5 dxe5
+8.Nxe5 O-O 9.h4 c5 10.h5 cxd4 11.hxg6 Bf5 12.gxf7+ Kh8 13.Qf3 dxc3
+14.Qxf5 Qc7 15.Ng6# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2000.09.20"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Rantanen, Matti"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.g4 Nxg4 3.e4 d6 4.Be2 h5 5.h3 Nf6 6.Nc3 g6 7.Nf3 Bg7 8.Be3
+O-O 9.Rg1 Nbd7 10.Ng5 c5 11.d5 a6 12.Ne6?! fxe6 13.Rxg6 Ne5 14.Rg1 Qe8
+15.Bh6 Ng6 16.Bxh5 Nxh5? 17.Qxh5 Bxh6 18.Rxg6+ (18.Qxh6! Rf6 19.e5 {+-})
+Bg7 19.O-O-O Qf7 20.Rdg1 Qf4+ 21.Kb1 Rf7 22.Rh6 Rf6 23.Rh8# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2002.01.23"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Rautio, Reijo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.g4 Nxg4 3.e4 d5 4.e5 Bf5 5.f3 Nh6 6.Bxh6 gxh6 7.Bd3 Bg6
+8.f4 e6 9.Nf3 Bh5 10.h4 Be7 11.Nbd2 Nc6 12.c3 Rg8 13.Kf2 Rg4 14.Ke3
+Rxh4 15.Rg1 Qd7 16.Rg8+ Bf8 17.Qg1 Rh3 18.Qg7 Qe7 19.Qxh6 Rxf3+
+20.Nxf3 Bxf3 21.Kxf3 O-O-O 22.Qxh7 Na5 23.b4 Nc4 24.Bxc4 dxc4 25.Rag1
+Qd7 26.Ke3 Qa4? 27.Qxf7 Qc2 28.Qxe6+ Kb8 29.Qd7 Qd3+ 30.Kf2 Qd2+
+31.Kf3 Qd3+ 32.Kg4 Qe2+ 33.Kf5 Qd3+ 34.Ke6 Rc8 35.Qxc8+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2010.01.20"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Hämäläinen, Jussi"]
+[Result "1-0"]
+[WhiteElo "2091"]
+[BlackElo "2156"]
+[TimeControl "600"]
+
+1.d4 Nf6 2.g4 Nxg4 3.e4 Nf6 4.e5 Ng8 5.Nc3 d6 6.Nf3 dxe5 7.Nxe5 Nf6
+8.Bc4 e6 9.Rg1 c5 10.Be3 a6 11.Qf3 Qb6 12.O-O-O cxd4 13.Bxd4 (13.Ne4!)
+Qc7 14.Bb3 Bd7 15.Ne4 Nxe4 16.Qxf7+ Kd8 17.Bb6 Qxb6 18.Rxd7+ Kc8
+19.Qe8+ 1-0
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2010.10.04"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Saren, Ilkka"]
+[Result "1-0"]
+[Stage "Semi-Final"]
+[Board "2"]
+[WhiteElo "2082"]
+[BlackElo "2079"]
+[BlackTitle "FM"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.g4 Nxg4 3.e4 Nf6 4.e5 Nd5 5.Nf3 d6 6.Bg2 g6 7.c4 Nb6 8.Qe2
+Bg7 9.Nc3 O-O 10.Bg5 Nc6 11.O-O-O a5 12.h4 Bf5 13.h5 a4 14.Nh4 Qc8
+15.hxg6 hxg6 16.Bf4 Re8 17.c5 a3 18.b3 Nb4 19.Bxb7 Qxb7 20.Nxf5 gxf5
+21.e6 (21.Rhg1 {+-}) N6d5?? 22.Qh5 fxe6 23.Rdg1 Nd3+ 24.Kd2 Kf8 1-0

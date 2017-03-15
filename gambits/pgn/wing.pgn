@@ -1,0 +1,68 @@
+[Event "Tampere University of Technology Ch"]
+[Site "Tampere FIN"]
+[Date "1991.10.17"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Perttula, Juha"]
+[Result "1-0"]
+[TimeControl "40/5400:900"]
+
+1.e4 c5 2.b4 cxb4 3.d4 d5 4.Nd2 Nc6 5.Bb2 e6 6.Ngf3 Nf6 7.Bd3 Be7
+8.O-O O-O 9.h3 a5 10.e5 Ne8 11.Nh2 f6 12.Qh5 g6 13.Qe2 fxe5 14.dxe5
+Ng7 15.g4 Bg5 16.Rad1 b6 17.Nhf3 Bf4 18.Bb5 Qc7 19.a3 Rf7 20.Rfe1 Bd7
+21.Ra1 Raf8 22.Bxc6 Bxc6 23.Bd4 bxa3 24.Rxa3 Ra8 25.Rb1 b5 26.c3 Bd7
+27.Kg2 Rff8 28.Ne1 Bg5 29.Nd3 Be7 30.Ra2 Qb7 31.Kg1 g5 32.Nc5 Bxc5
+33.Bxc5 Rfc8 34.Bd4 b4 35.Rab2 Qb5 36.Qe3 h6 37.cxb4 a4 38.h4 gxh4
+39.Qxh6 Qd3 40.Qe3 Qg6 41.f3 Bb5 42.Kh2 Nf5 43.Qf2 Nxd4 44.Qxd4 Rc2
+45.Rxc2 Qxc2 46.Qf4 Bd3 47.Kh3 a3 48.Qg5+ Bg6 49.Ne4 dxe4 50.Qxg6+ Kh8
+51.Qh6+ Kg8 52.Rc1 Qf2 53.Qxe6+ Kf8 54.Qd6+ Kg8 55.Qd5+ Kg7 56.Rc7+
+1-0
+
+[Event "Tampere University of Technology Ch"]
+[Site "Tampere FIN"]
+[Date "1991.11.18"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Saastamoinen, Aarne"]
+[Result "0-1"]
+[TimeControl "40/5400:900"]
+
+1.e4 c5 2.Nf3 d6 3.b4 cxb4 4.d4 e6 5.Bd3 Be7 6.O-O Nf6 7.c4 bxc3
+8.Nxc3 O-O 9.Bb2 (9.e5) Nc6 10.Rc1 e5 11.h3 exd4 12.Nb5 Be6 13.Nfxd4
+Nxd4 14.Bxd4 a6 15.Nc3 b5 16.Nd5 Bxd5 17.exd5 Rc8 18.Qe2 (18.Qf3) Rxc1
+19.Rxc1 g6 20.Re1 Nxd5 21.Qe4 Qa8 22.a4 (22.Qf3 Nb4) Bf6 23.axb5 axb5
+24.Bxb5 Bxd4 25.Qxd4 Qa5 26.Rb1 Nc3 27.Qd2 Ra8 28.Re1 Nxb5 29.Re8+ Kg7
+30.Qb2+ Kh6 31.Rxa8 Qxa8 32.Qxb5 Qa1+ 33.Kh2 Qe5+ 34.Qxe5 dxe5 35.Kg3
+Kg5 36.Kf3 Kf5 37.g3 e4+ 38.Ke3 Ke5 39.Ke2 Kd4 40.Kd2 g5 41.Ke2 f5
+42.Kd2 f4 43.gxf4 gxf4 44.h4 Ke5 45.Kc3 h5 46.Kc4 f3 47.Kc3 e3 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1995.03.24"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Chessmaster 3000"]
+[Result "1-0"]
+[BlackType "program"]
+
+1.e4 c5 2.Nf3 d6 3.b4 cxb4 4.d4 Nf6 5.Bd3 e6 6.c4 bxc3 7.Nxc3 Nc6
+8.O-O Be7 9.Rb1 b6 10.d5 exd5 11.exd5 Ne5 12.Nxe5 dxe5 13.f4 Bc5+
+14.Kh1 Nd7 15.fxe5 Nxe5 16.Re1 Bd6 17.Qh5 Kf8 18.Rxe5 Qf6 19.Re8+ Kxe8
+20.Bb5+ Bd7 21.Bg5 Qxc3 22.Bxd7+ Kf8 23.Rf1 f6 24.Be6 (24.Rxf6+) Qc7
+25.Bxf6 gxf6 26.Rxf6+ Ke7 27.Rf7+ Kd8 28.Rxc7 Kxc7 29.Qf7+ Kb8 30.Qd7
+1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1995.06.06"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Puusa, Arto"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.e4 c5 2.b4 cxb4 3.Nf3 Nc6 4.d4 Nf6 5.Bd3 d5 6.Nbd2 dxe4 7.Nxe4 Nxe4
+8.Bxe4 e6 9.O-O Qc7 10.Re1 Bd6 11.d5 Ne7 12.Bb2 f6 13.dxe6 Bxe6 14.Nd4
+(14.Bxb7 Qxb7? (14...Rd8) 15.Qxd6 {+-}) Bd7 15.Qh5+ Kd8 16.Rad1 g6
+17.Qf3 (17.Bxg6!? Nxg6 18.Ne6+ Bxe6 19.Rxe6 {+-}) Bxh2+ 18.Kh1 Be5?
+19.Ne6+ 1-0

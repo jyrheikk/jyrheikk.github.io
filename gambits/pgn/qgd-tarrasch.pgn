@@ -1,0 +1,136 @@
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.05.17"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Brown, Barry"]
+[Result "1-0"]
+[TimeControl "600"]
+[Mode "ICS"]
+
+1.e4 e6 2.d4 d5 3.c4 c5!? 4.dxc5 Bxc5 5.exd5 exd5 6.cxd5 Nf6 7.Nc3 O-O 8.Nf3
+Re8+ 9.Be2 Bb4 10.Bg5 Bxc3+ 11.bxc3 Qxd5 12.Bxf6 Qxd1+ 13.Rxd1 gxf6 14.Nd4 Bg4
+15.f3 Be6 16.Rd2 Nc6 17.Nxc6 bxc6 18.O-O f5 19.a4 a5 20.Rb1 Rab8 21.Rdb2 Rxb2
+22.Rxb2 Rc8 23.Kf2 Bd7 24.Rb7 Rd8 25.Ra7 c5 26.Rxa5 Rc8 27.Ra7 Be6 28.a5 Bd5
+29.Bb5 Kf8 30.Bd7 Ra8 31.Rxa8 Bxa8 32.Bxf5 Ke7 33.Bxh7 Kd6 34.Ke3 c4 35.Be4
+(35.Kd4) Bc6 36.a6 Bxe4 37.Kxe4 Kc6 38.Kd4 1-0
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.05.27"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Brown, Barry"]
+[Result "1-0"]
+[TimeControl "600"]
+[Mode "ICS"]
+
+1.d4 d5 2.c4 e6 3.e4 c5!? 4.cxd5 exd5 5.dxc5 Bxc5 6.exd5 Nf6 7.Bb5+ Bd7 8.Qe2+
+Kf8 9.Nc3 Bb4 10.Bc4 Qa5 11.Bd2 Qc5 12.Rd1 h5 13.a3 Bxc3 14.Bxc3 Na6 15.Bxa6
+Re8 16.Bb4 Rxe2+ 17.Bxe2 Qxb4+ 18.axb4 b5 19.Bf3 g5 20.h3 Kg7 21.Rd4 Re8+
+22.Kd2 g4 23.hxg4 hxg4 24.Be2 Ne4+ 25.Ke1 g3 26.fxg3 Nxg3 27.Rhh4 a5 28.Rdg4+
+Bxg4 29.Rxg4+ Kf6 30.Rxg3 1-0
+
+[Event "Zone July Double Round-Robin Chess Tourney"]
+[Site "Internet Gaming Zone"]
+[Date "1996.07.19"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "kyros"]
+[Result "1-0"]
+[TimeControl "1200"]
+[Mode "ICS"]
+
+1.d4 e6 2.e4 d5 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 Nf6 7.Qb3 Qc7 8.Nb5 Qd7
+9.Bf4 Na6 10.O-O-O (10.Rd1! cxd4 11.Rxd4 Bb4+ 12.Kf1 Qe7 13.Bd6 Bxd6 14.Nxd6+
+Kf8 15.Nxf7 {+-}) cxd4 11.Rxd4 Qc6 12.Kb1 Be6 13.Bxe6 fxe6 (13...Qxe6 14.Qa4!)
+14.Nd6+ Bxd6 15.Rxd6 Nc5 (15...Qc8 16.Rxe6+ Kf8 (16...Kd8 17.Qd1+ Nd7 18.Bg5+
+Kc7 19.Qd6#) (16...Kd7 17.Nf3 {+-}) 17.Bd6+ Kf7 18.Re7+ Kg6 19.Qf7+ {mates})
+16.Rxc6 (16.Qc4 Qc8 17.b4 Nd5?! 18.bxc5 Nxf4 19.Qxe4) Nxb3 17.Rxe6+ Kf7
+18.Rxf6+ gxf6 19.axb3 Rhg8 20.g3 Rad8 21.Ne2 Rd7 22.Rc1 Rgd8 23.Nc3 f5 24.Bg5
+Rc8 25.Nb5 Rxc1+ 26.Kxc1 a6 27.Na3 b5 28.Kc2 Rd3 29.Be3 Kg6 30.Nb1 Kh5 31.h3
+Kg6 32.Nc3 Kh5 33.g4+ fxg4 34.Nxe4 Rxe3 35.hxg4+ Kxg4 36.fxe3 h5 37.Nf6+ Kf3
+38.Nxh5 Kxe3 39.Kc3 a5 40.Nf6 b4+ 41.Kc4 Kd2 42.Nd5 Kc2 43.Nxb4 Kxb2 44.Nc6
+Ka3 45.Nxa5 Ka2 46.b4 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2004.06.02"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "0-1"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 e6 4.c4 c5 5.e5 Nfd7 6.f4 cxd4 7.Qxd4 Bc5 8.Qd1 O-O
+9.cxd5 exd5 10.Qxd5 Nc6 11.Bd2 Qb6 12.Nf3 Qxb2 13.Bc3 Bb4 14.Qb3 Qxa1 15.Bxb4
+Nxb4 16.Qxb4 Qxa2 17.Nbd2 Nb6 18.Be2 Be6 19.O-O Qa4 20.Qb1 Rad8 21.f5 Ba2
+22.Qa1 Rxd2? 23.Nxd2 Qc2 24.Qd1 Rc8 25.Nf3 {no more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2005.10.26"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Paukku, Jukka"]
+[Result "1-0"]
+[TimeControl "480+2"]
+
+1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 Nf6 7.Qb3 Qc7 8.Nb5 Qd7
+9.Bf4 Na6 10.O-O-O Be7 11.Bxf7+ Kf8 12.Nh3 h6 13.Bg6 Bd8 14.dxc5 (14.Bd6+)
+Nxc5 15.Qc4 Nd3+ 16.Rxd3 exd3 17.Bd6 Be7 18.Qf7# 1-0
+
+[Event "TietoEnator Tournament"]
+[Site "Espoo FIN"]
+[Date "2007.06.08"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Koskinen, Henri"]
+[Result "1-0"]
+[WhiteElo "2092"]
+[BlackElo "2341"]
+[BlackTitle "FM"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 Qxd4 7.Qb3 Qd7 8.Bf4 Nc6
+9.Rd1 Nd4 10.Rxd4 Qxd4 11.Bxf7+ Kd8 12.Bxg8 c4 13.Bg5+ Be7 14.Bxe7+ Kxe7
+15.Qb4+ Kd7 16.Qb5+ Kd6 17.Nge2 Bd7 18.Qb4+ Kc7 19.Nxd4 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2013.09.25"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaiju, Kauko"]
+[Result "1-0"]
+[TimeControl "480+2"]
+
+1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 Qxd4 7.Qb3 Qf6 8.Nd5 Qg6
+9.Ne2 (9.Nc7+) Bd6 10.Bf4 Nh6 11.Rd1 O-O 12.h4 Bg4 13.h5 Bxh5 14.Bxd6 Bxe2??
+15.Ne7+ Kh8 16.Nxg6+ fxg6 17.Bxf8 Bxd1 18.Qxb7 e3 19.Bxg7# 1-0
+
+[Event "Base Restaurant Tournament"]
+[Site "Espoo FIN"]
+[Date "2015.10.03"]
+[Round "19"]
+[White "Heikkinen, Jyrki"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 Nf6 7.Qb3 Qe7 8.Bg5 h6
+9.Nd5 Qd6 10.Bf4 Qd8 11.Nc7+ Ke7 12.dxc5 Nc6 13.Bd6+ Kd7 14.Be6+ fxe6 15.Qxe6#
+1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2016.10.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 cxd4 7.Qb3 Nh6?? 8.Bxh6
+gxh6 9.Bxf7+ Kd7 10.Qe6+ Kc7 11.Nb5# 1-0
