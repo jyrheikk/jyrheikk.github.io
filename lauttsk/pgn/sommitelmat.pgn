@@ -121,8 +121,8 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 [Result "0-1"]
 [FEN "r1b1k2r/3p1pbp/6p1/qppP1p2/1nP5/1P3NP1/3NPP1P/1QR1KB1R b Kk - 0 14"]
 
-14...Qc7 15.Kd1 (15.Bg2 Ra1 16.Qxa1 Bxa1 17.Rxa1 Nc2+) Ra2 0-1 (15...Ra2
-16.Bg2 Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1)
+14...Qc7 15.Kd1 (15.Bg2 Ra1 16.Qxa1 Bxa1 17.Rxa1 Nc2+) Ra2 (15...Ra2 16.Bg2
+Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
