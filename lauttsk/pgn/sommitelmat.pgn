@@ -11,6 +11,29 @@
 
 13.Bxe6 fxe6 14.Nc6 1-0
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Rantanen, Matti"]
+[Result "1-0"]
+[FEN "rn1q1rk1/pp2bp1p/2p1pp2/3bN2P/2BP4/2N5/PPP5/R1BQ1RK1 w - - 0 15"]
+
+15.h6 (15.Qg4+!) Kh8? (15...f5) 16.Qg4 1-0
+
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[FEN "r4r2/1pn1ppk1/2p3pp/p2qN3/P2P2R1/1P6/1P1Q2PP/5RK1 w - - 0 20"]
+
+20.Rxf7+ Rxf7 21.Rxg6+ Kf8 (21...Kh8 22.Nxf7+ Qxf7 23.Rxh6+ Kg8 24.Qg5+ Qg7
+25.Rg6) 22.Qxh6+ Ke8 23.Rg8+ Rf8 24.Rxf8# 1-0
+
 [Event "Finland Team Ch"]
 [Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
@@ -42,6 +65,17 @@
 18.Qxe5! fxe5 19.Rf7+ Kd6 (19...Ke8 20.Rh7+ Kf8 21.Rxh8+) 20.Nb5+ (20.Nb5+
 Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kinnunen, Matti"]
+[Result "1-0"]
+[FEN "6rk/pb1q2pp/1p1Pr3/4B3/6R1/6Q1/PP3PpP/3R2K1 w - - 0 31"]
+
+31.Rxg7! {Opportunity that White missed} Rxg7 32.Qxg7+ Qxg7 33.Bxg7+ Kxg7 34.d7 1-0
+
 [Event "Lauttasaari Club Tournament"]
 [Site "Helsinki FIN"]
 [Date "2002.01.09"]
@@ -54,6 +88,41 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 [FEN "7k/1p5p/5p2/2P5/nPBrp1n1/1K6/6P1/2B4R w - 0 33"]
 
 33.Be6 Nf2 34.Kxa4! Nxh1 35.Bb2 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Paukku, Jukka"]
+[Result "1-0"]
+[FEN "4rrk1/pb1qbp1p/1p3Rp1/2pp2B1/7Q/2NB4/PPP3PP/5RK1 w - - 0 16"]
+
+16.Rxf7 Rxf7 17.Rxf7 Kxf7 18.Qxh7+ Ke6 19.Qxg6+ Ke5 20.Bf4+ Kxf4 21.Qg3# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[FEN "1r3rk1/pb1q1p2/1p2p2p/4Q1p1/2PP4/P5PP/4NR2/5RK1 w - - 0 27"]
+
+27.Rf6 Kh7 (27...Qc6 28.d5) 28.Rxh6+ Kxh6 29.Rf6+ Kh7 30.Qxg5 Rg8
+31.Rh6# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "r1b1k2r/3p1pbp/6p1/qppP1p2/1nP5/1P3NP1/3NPP1P/1QR1KB1R b Kk - 0 14"]
+
+14...Qc7 15.Kd1 (15.Bg2 Ra1 16.Qxa1 Bxa1 17.Rxa1 Nc2+) Ra2 0-1 (15...Ra2
+16.Bg2 Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1)
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -77,6 +146,20 @@ Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[Stage "Final"]
+[FEN "r4rk1/p1p2ppp/bp2p3/3q4/3PN2B/5N2/P5PP/2Q1R1K1 w - - 0 20"]
+
+20.Nf6+!! (20.Bf6 Bd3 {was the actual continuation}) gxf6 21.Bxf6 Qf5 22.Qh6
+Qg6 23.Qh4 {this move I missed in my analysis during the game} Bb7 24.Re5 Bxf3
+25.Rg5 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
 [Date "2005.04.27"]
 [Round "?"]
 [White "Rantanen, Matti"]
@@ -87,6 +170,45 @@ Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
 [FEN "3q4/r5kp/P2pR1p1/1ppQ3b/3b1P1P/RP4KB/8/8 b - 4 38"]
 
 38...Qxh4+! 39.Kxh4 Bf2+ 40.Kg5 h6# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Lehto, Arto"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[WhiteElo "2072"]
+[BlackElo "2023"]
+[FEN "3r2k1/5p1p/pp2p1p1/8/1PPbq3/NQ4PP/P4P2/5RK1 b - - 0 34"]
+
+34...Bxf2+!! (34...Be5 {continued the game} 35.Rd1 Bd4 36.Rf1 {draw agreed in
+time trouble}) 35.Rxf2 Rd3 36.Qb1 Rxg3+ 37.Kh2 Qe5 {I missed the power of this
+move in my analysis during the game} 38.Qb2 Qc7 * {Black is winning}
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[FEN "8/1pq1rpk1/p2b2pp/2pP4/2B5/P6P/1PQ2PP1/3R1K2 w - - 0 29"]
+
+29.Qc3+ Be5?? 30.d6 Qd7 (30...Bxc3 31.dxc7 Rxc7 32.bxc3) 31.dxe7 Qxd1+ 32.Qe1
+1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Poduval, Praseet"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "r3k2r/ppp2ppp/2n1pn2/1B2P3/8/2N4q/PPPB1P2/R2Q1RK1 b kq - 0 13"]
+
+13...O-O-O! {develops Ra8, pins Bd2 and unpins Nc6} 14.exf6? (14.Qe1 Nd4!)
+gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 
 [Event "Finland Team Ch"]
 [Site "Järvenpää FIN"]
@@ -103,6 +225,30 @@ Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
 [FEN "r1b1k2r/1p3ppp/pn2p3/2qpP3/5P2/P1N5/1PPQ2PP/2KR1B1R w kq - 2 14"]
 
 14.Ne4! Qc6 15.Nd6+ Ke7? 16.Qb4 1-0
+
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "Kauppala, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "2kr1b1r/ppp2pp1/2q2n2/3p3p/1n3P2/P1NPPQ1P/1PPK2B1/R1B4R b - - 0 14"]
+
+14...Ne4+ 15.Nxe4? (15.Ke2 Nxc3+ 16.bxc3 Nxc2) Qxc2+ 16.Ke1 dxe4 17.Qe2 Qxe2+
+(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ 0-1 {in move 26}
+
+[Event "Lauttasaari Chess Club 60th Anniversary"]
+[Site "Helsinki FIN"]
+[Date "2008.03.29"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+[TimeControl "1200:10"]
+[FEN "rnb4r/pp1p1k1p/4p1p1/q2nPpQ1/P2p3P/B2B4/2P2PP1/R4KNR w - - 0 17"]
+
+17.h5 Rg8 18.hxg6+ hxg6 19.Rh7+ Rg7 20.Qh6 1-0
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
@@ -135,6 +281,18 @@ Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
 
 28.Rbd1!? Qc5+ 29.Kh1 Re3?? (29...Qxc4! {-/+}) 30.Qxc6+ Qxc6+ 31.bxc6 Rxc3?
 (31...Kb8 32.Nb5 {+/-}) 32.c7 Rb8 33.Rd8 Nd7 34.Rxb8+ Nxb8 35.c8=Q 1-0
+
+[Event "Nokia Correspondence Tournament"]
+[Site "Helsinki FIN"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[FEN "r4r2/pp1nbpk1/2p1pn2/q5N1/3P2P1/3BB2Q/PPP2R2/5RK1 w - - 0 18"]
+
+{Analysis position of the game} 18.Qh6+! Kxh6 (18...Kg8 19.Rh2) 19.Nxe6+ Qg5
+20.Bxg5# 1-0
 
 [Event "Helsinki Rapid Team Ch"]
 [Site "Helsinki FIN"]
@@ -212,6 +370,17 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [FEN "rn1q1r1k/1b4bp/p4Np1/1pp1PpP1/2B1pP1P/4B3/PPP5/R2QK2R w KQ - 0 17"]
 
 17.h5! bxc4 18.hxg6 Bxf6 19.Rxh7+ Kg8 20.Qh5 Bg7 21.Rh8+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Wigelius, Pentti"]
+[Result "1-0"]
+[FEN "r2q3k/ppp1b2p/4QrpB/8/2Bp1N2/5P2/PPP4P/2KR2R1 w - - 0 21"]
+
+21.Nh5! Rxe6 22.Bg7+ Kg8 23.Bxe6# 1-0
 
 [Event "Finland Team Ch 09/10"]
 [Site "Helsinki FIN"]
@@ -592,6 +761,17 @@ Raf8 25.Qc7+ Kf6 26.Qf4+ Ke7 27.Qe5+ Kd7 28.Qe6+ Kd8 29.Qd6+ Kc8 (29...Ke8
 
 20.Re6+! (20.f4 Kc8 21.Rxc6+ bxc6 22.Ba6# {continued the game}) Kc8 21.Rxc6+
 bxc6 22.Ba6# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[FEN "r2qkb1r/1b1npppp/8/PNpnN3/8/3B4/1P1BQPPP/R3K2R w KQkq - 0 15"]
+
+15.Nc6 Bxc6 16.Nd6# 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
