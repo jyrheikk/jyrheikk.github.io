@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Example UML diagrams</title>
+</head>
+<body>
+<h1>Example UML diagrams</h1>
+
+<pre class="usecasediagram">
+[Software Developer]-(Create HTML page)
+(Create HTML page)>(Create yUML notation)
+(Create yUML notation)<(Create class diagram)
+(Create yUML notation)<(Create use case diagram)
+(Create HTML page)>(Include yUML.js)
+</pre>
+
+<pre class="classdiagram">
+[HTML]<>-1[yUML.js]
+[HTML]<>-1..*[yUML notation]
+[yUML notation]^-[Use case diagram]
+[yUML notation]^-[Class diagram]
+</pre>
+
+<script src="https://raw.githubusercontent.com/jyrheikk/yuml-js/master/yUML.js"></script>
+<p><i>Powered by <a href="https://github.com/jyrheikk/yuml-js/">yUML.js</a>.</i></p>
+</body>
+</html>
