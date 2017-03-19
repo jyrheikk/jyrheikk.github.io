@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+table {
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+td + td + td {
+  text-align: right;
+}
