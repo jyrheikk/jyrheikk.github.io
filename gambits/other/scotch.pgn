@@ -1,0 +1,106 @@
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Rautio, Reijo"]
+[Result "1-0"]
+[TimeControl "480+2"]
+[Termination "time forfeit"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Bd3 Qh4 7.O-O d6
+8.Kh1 Nf6 9.f3 Ne5 10.Qe1 Qh5 11.Be3 g5 12.Bxb6 axb6 13.Nc3 Be6 14.Nb5
+O-O-O 15.a4 g4 16.f4 g3 17.Qxg3 Rhg8 18.Qe1 Rxg2? 19.Kxg2 Bh3+ 20.Kh1
+Rg8 21.Rf2 Neg4 22.Be2?? Nxf2+ 23.Qxf2 Qh6?? (23...Nxe4 {-+}) 24.Rg1 1-0
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Kohvakka, Raimo"]
+[Result "1-0"]
+[TimeControl "480+2"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nc3 Bb4 6.Be2 Qxe4 7.Nb5 Kd8
+8.O-O Nf6?? 1-0
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "3"]
+[White "Rantanen, Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+2"]
+[Termination "time forfeit"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bg5 Be7 7.Nd2?
+Nxe4 8.Bxe7 Qxe7 9.Be2 O-O 10.O-O d5 11.Nb3 Rb8 12.Nd4 Qf6 13.Rb1 c5
+(13...Rxb2?! 14.Rxb2 Nc3 15.Qd3 Qxd4 {=}) 14.Nb3 Qd6 15.c4 d4 16.Bf3 Ng5
+17.Re1 Bf5 18.Rc1 Nxf3+ 19.Qxf3 Bg6 20.Rcd1 a5 21.Nxa5 Rxb2 22.Qa3 Rb4
+23.Nb3 {no more moves recorded} 0-1
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Kinnunen, Matti"]
+[Result "0-1"]
+[TimeControl "480+2"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 d6 5.Be3 Nf6 6.Nc3 Be7 7.Be2 O-O
+8.Qd2 a6 9.f3 Nxd4 10.Qxd4 b5 11.O-O Bb7 12.Rad1 c5 13.Qd2 Qc7 14.Nd5
+Nxd5 15.exd5 f5 16.c3 Bf6 17.f4 Rae8 18.Rf3 g6 19.Rg3 Re7 20.Bf3 Rfe8
+21.Bf2 Qa5 22.a3 Qc7 23.Qd3 c4 24.Qxf5 Bg7 25.Qc2 Bc8 26.h4 Bf5 27.Qd2
+Kh8 28.h5 Bf6 29.hxg6 hxg6 30.Bd4 Kg7 31.Bh5 Bxd4+ 32.Qxd4+ Kf7 33.Rf1
+(33.Bxg6+! Bxg6 34.f5 {+/-}) Qd7 (33...Re4) 34.Bf3 (34.Bxg6+ {+/-}) {no
+more moves recorded} 0-1
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "5"]
+[White "Maltez, Nuno"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+2"]
+[Termination "time forfeit"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Nd5 7.c4 Nb6
+8.Bd3 Bc5 9.O-O Qh4 10.Qe2 O-O 11.Be3 Bxe3 12.fxe3 a5 13.Nc3 Qe7
+14.Qh5 g6 15.Qh6 Qxe5 16.Ne4 f5 17.Ng5 Qg7 18.Qh4 d6 19.e4 h6 20.Nf3
+g5 21.Qh5 f4 22.e5 g4 23.Nh4 dxe5 24.Ng6 e4 25.Bxe4 Qd4+ 26.Kh1 Qxe4
+27.Nxf8? (27.Rae1 {+-}) Bf5 28.Qxh6?? (28.Rfe1 {+-}) Rxf8 29.Rxf4 Qe6
+30.Qg5+ Qg6 31.Qxg6+ Bxg6 32.Rxg4 Kh7 {no more moves recorded} 0-1
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Laaksovuori, Tommi"]
+[Result "1-0"]
+[TimeControl "480+2"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Bd3 d6 7.O-O Nf6
+8.Bg5 h6 9.Bh4 g5 10.Bg3 h5 11.h4 Nh7? (11...Ng4 {-/+}) 12.Qxh5 Be6
+13.e5 Nxe5 14.Bxe5 dxe5 15.Bxh7 Bf5 16.Re1 Qd6 17.Qxg5 Bxh7 18.Rxe5+
+Kd7?? 19.Rd5 1-0
+
+[Event "Thematic Tournament"]
+[Site "Helsinki FIN"]
+[Date "2011.04.20"]
+[Round "7"]
+[White "Varjokallio, Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+2"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Nd5 7.c4 Nb6
+8.Bd3 d5 9.c5 Nd7 10.O-O Nxc5 11.Nc3 Nxd3 12.Qxd3 a5 13.f4 Ba6 14.Qf3
+Bxf1 15.Kxf1 Bc5 16.f5 Qh4 17.Bf4 g5 18.Bg3 Qc4+ 19.Ke1 Rb8 20.e6 Rxb2
+21.exf7+ Kd8 22.Be5 Rf8 23.Rd1 Bf2+ 24.Qxf2 Rxf2 25.Kxf2 Rxf7 26.f6
+Rxf6+?? 27.Bxf6+ Ke8 28.Re1 Kf7 29.Bxg5?? Qxc3 30.Re7+ Kg6 31.Bh4 Qd4+
+0-1

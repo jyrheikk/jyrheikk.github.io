@@ -1,0 +1,80 @@
+[Event "SPS Cup"]
+[Site "Helsinki FIN"]
+[Date "2003.09.29"]
+[Round "?"]
+[White "Reijo, Risto"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.f4 Nf6 2.Nf3 Nc6 3.d4 d5 4.g3 Bf5 5.Bg2 Qd7 6.O-O Bh3 7.c3 Bxg2
+8.Kxg2 h5 9.Ne5 Nxe5 10.fxe5 Ne4 11.Nd2 h4 12.gxh4? Qg4+ 13.Kh1 Ng3+
+14.hxg3? Qh3+ 15.Kg1 Qxg3+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2008.06.07"]
+[Round "4"]
+[White "Mäki-Fränti, Petri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.f4 Nf6 2.Nf3 d5 3.e3 c5 4.b3 Nc6 5.Bb5 Bg4 6.O-O Qb6 7.a4 a6 8.Bxc6+
+Qxc6 9.Qe1 Nd7 10.Bb2 f6 11.Qg3 Be6 12.d3 Qc7 13.e4 O-O-O 14.Na3 h5
+15.e5 Bf7 16.Qe1 e6 17.d4 Kb8 18.Kh1 h4 19.h3 Be7 20.c4 Nf8 (20...Qc6)
+21.Rc1 Ng6 22.Qe3 Rh5 23.cxd5 Rxd5 24.b4 Qd7 25.bxc5 Qxa4 26.Nc4 Rd8
+27.Nd6 Bxd6 28.cxd6 Rhh8 29.Rc7 Rd7 30.Rfc1 Rxc7 31.dxc7+ Kc8 32.d5
+exd5 33.Qa7 Kd7 34.c8=Q+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2008.10.23"]
+[Round "7"]
+[White "Jalas, Aaro"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/5400:1800"]
+
+1.f4 Nf6 2.Nf3 Nc6 3.d3 d5 4.g3 Bg4 5.Nbd2 Qd7 6.Bg2 Bh3 7.O-O Bxg2
+8.Kxg2 O-O-O 9.c3 Ng4 10.Nb3 e5? 11.Nxe5? (11.h3 exf4 12.hxg4 fxg3
+13.Kxg3 {+/-}) Ngxe5 12.fxe5 Nxe5 13.Bf4 Ng6 14.Qc2 h5 15.h3 Nxf4+
+16.Rxf4 Bd6 17.Rf3 g5 18.Raf1? (18.Rf2) g4 19.Rxf7 (19.hxg4 h4) gxh3+
+20.Kh1 Qg4 21.R7f3 h4 22.d4 hxg3 23.Qf5+ Qxf5 24.Rxf5 g2+ 0-1
+
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "2008.11.15"]
+[Round "?"]
+[White "Kauppala, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2079"]
+[TimeControl "480+2"]
+[Termination "time forfeit"]
+
+1.f4 Nc6 2.Nf3 Nf6 3.g3 d6 4.Bg2 Bg4 5.d3 Qd7 6.h3 Bxf3 7.Bxf3 e5
+8.Nc3 h5 9.Bg2 O-O-O 10.e3? exf4 11.gxf4 d5 12.Qf3 Nb4 13.Kd2 Qc6
+14.a3?? Ne4+ 15.Nxe4? (15.Ke2 Nxc3+) Qxc2+ 16.Ke1 dxe4 17.Qe2 Qxe2+
+(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ 19.Kd2 Nc2 20.Rb1 Bc5 21.Kc3
+Nxe3 22.Bxe3 Bxe3 23.f5 d2 24.Rbd1 Bg5 25.Rhf1 Rd6 26.Rf3 Rc6+ 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2009.01.14"]
+[Round "1"]
+[White "Mäki-Fränti, Petri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1800"]
+
+1.f4 Nf6 2.Nf3 Nc6 3.b3 d5 4.e3 Bg4 5.Be2 g6 6.Bb2 Bg7 7.O-O h5 8.Ne5
+Nxe5 9.fxe5 Bxe2 10.Qxe2 Ng4 11.d4 f5 12.h3 Nh6 13.c4 (13.Qb5+) c6
+14.Nd2 e6 15.Nf3 g5 16.cxd5 g4 17.Nh2 (17.dxe6! gxf3 18.Qxf3 Qg5
+19.Rac1 O-O 20.Ba3 Rfe8 21.e7 {+/-}) exd5 18.e4? dxe4 19.Rfd1 Qb6 20.Kh1
+O-O-O 21.Rac1 Kb8 22.Rc5 Nf7 23.Rdc1 Bh6 24.Rd1 gxh3 25.gxh3 Bf4 26.e6
+Nd6 27.Bc3 Nb5 28.Bb2 Nxd4 29.Qc4 Nxe6 30.Rxd8+ Rxd8 31.Rxf5 Bxh2
+(31...Qf2! 32.Be5+ Ka8 {-+}) 32.Kxh2 Rd2+ 33.Kg3 Rxb2 34.Qxe6 Qc7+
+35.Kh4 Qd8+ 36.Kxh5 Qh8+ 37.Kg6 Rg2+ 38.Kf7?? (38.Rg5 Rxa2 {=/+}) Rg7+
+39.Kf6 Rg8 40.Ke7 Re8+ 41.Kd7 Rxe6 42.Kxe6 e3 0-1
