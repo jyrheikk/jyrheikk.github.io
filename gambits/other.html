@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="other/" />
+<link rel="icon" type="image/x-icon" href="chess.ico" />
+<link type="text/css" rel="stylesheet" href="/gambits/css/table.css" />
+<title>Non-gambit chess games of Jyrki Heikkinen</title>
+</head>
+<body>
+<h2>Non-gambit chess games of Jyrki Heikkinen</h2>
+
+<table border="1">
+  <tr><th>Gambit</th><th>Moves</th><th>Games</th></tr>
+  <tr><td><a href="alekhine.pgn">Alekhine's Defence</a></td><td>1.e4 Nf6</td><td></td></tr>
+  <tr><td><a href="caro-kann.pgn">Caro-Kann Defence</a></td><td>1.e4 c6</td><td></td></tr>
+  <tr><td><a href="french.pgn">French</a></td><td>1.e4 e6</td><td></td></tr>
+  <tr><td><a href="pirc.pgn">Pirc Defence</a></td><td>1.e4 g6</td><td></td></tr>
+  <tr><td><a href="scandinavian.pgn">Scandinavian (Center Counter) Defense</a></td><td>1.e4 d5</td><td></td></tr>
+  <tr><td><a href="scotch.pgn">Scotch Game</a></td><td>1.e4 e5 2.Nf3 Nf6 3.d4</td><td></td></tr>
+  <tr><td><a href="sicilian.pgn">Sicilian Defence</a></td><td>1.e4 c5</td><td></td></tr>
+  <tr><td><a href="benoni.pgn">Benoni Defense</a></td><td>1.d4 Nf6 2.c4 c5 3.d5</td><td></td></tr>
+  <tr><td><a href="grunfeld.pgn">Grünfeld Defence</a></td><td>1.d4 Nf6 2.c4 g6 3.Nc3 d5</td><td></td></tr>
+  <tr><td><a href="kid.pgn">King's Indian Defence</a></td><td>¬ ...d5</td><td></td></tr>
+  <tr><td><a href="trompowsky.pgn">Trompowsky Attack</a></td><td>1.d4 Nf6 2.Bg5</td><td></td></tr>
+  <tr><td><a href="london.pgn">London System</a></td><td>1.d4 and 2.Bf4</td><td></td></tr>
+  <tr><td><a href="qgambit.pgn">Queen's Gambit</a></td><td>1.d4 d5 2.c4</td><td></td></tr>
+  <tr><td><a href="bird.pgn">Bird's Opening</a></td><td>1.f4</td><td></td></tr>
+  <tr><td><a href="reti.pgn">Réti Opening</a></td><td>1.Nf3 d5 2.c4</td><td></td></tr>
+  <tr><td><a href="misc.pgn">Miscellaneous</a></td><td>*</td><td></td></tr>
+  <tr><td>Total</td><td>&nbsp;</td><td id="total"></td></tr>
+</table>
+
+<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
+<a href="/gambits/bdg.html">PGN</a> |
+gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
+<a href="/gambits/">PGN</a> ]</p>
+
+<p><i>Jyrki Heikkinen<br />
+<a href="//gambits.blogspot.com/">Gambits and Pieces</a></i></p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(function () {
+  var sum = 0;
+  $.getJSON('other.json', function (data) {
+    $.each(data, function (key, value) {
+      $("td a[href='" + key + "']").parent().next().next().html(value);
+      sum += value;
+    });
+    $("#total").html(sum);
+  });
+});
+</script>
+</body>
+</html>

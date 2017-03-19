@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<base href="other/" />
+<link rel="icon" type="image/x-icon" href="chess.ico" />
+<link type="text/css" rel="stylesheet" href="/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/css/pgn-viewer.css" />
+<title>Non-gambit chess games of Jyrki Heikkinen</title>
+</head>
+
+<body>
+<h3>Non-gambit chess games of Jyrki Heikkinen</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="alekhine">Alekhine's Defence (1.e4 Nf6)</option>
+  <option value="caro-kann">Caro-Kann Defence (1.e4 c6)</option>
+  <option value="french">French (1.e4 e6)</option>
+  <option value="pirc">Pirc Defence (1.e4 g6)</option>
+  <option value="scandinavian">Scandinavian (Center Counter) Defense (1.e4 d5)</option>
+  <option value="scotch">Scotch Game (1.e4 e5 2.Nf3 Nf6 3.d4)</option>
+  <option value="sicilian">Sicilian Defence (1.e4 c5)</option>
+  <option value="benoni">Benoni Defense (1.d4 Nf6 2.c4 c5 3.d5)</option>
+  <option value="grunfeld">Grünfeld Defence (1.d4 Nf6 2.c4 g6 3.Nc3 d5)</option>
+  <option value="kid">King's Indian Defence (1.d4 Nf6 2.c4 g6 and ...d6)</option>
+  <option value="trompowsky">Trompowsky Attack (1.d4 Nf6 2.Bg5)</option>
+  <option value="london">London System (1.d4 and 2.Bf4)</option>
+  <option value="qgambit">Queen's Gambit (1.d4 d5 2.c4)</option>
+  <option value="bird">Bird's Opening (1.f4)</option>
+  <option value="reti">Réti Opening (1.Nf3 d5 2.c4)</option>
+  <option value="misc">Miscellaneous</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p id="shortUrl"></p>
+<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
+<a href="/gambits/bdg.html">PGN</a> |
+gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
+<a href="/gambits/">PGN</a> ]</p>
+
+<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+
+<script src="/js/pgnyui.js"></script>
+<script src="/js/pgnviewer.js"></script>
+<script src="/js/pgnfetch.js"></script>
+<script src="/js/pgnshorturl.js"></script>
+
+</body>
+</html>
