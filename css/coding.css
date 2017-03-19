@@ -1,0 +1,62 @@
+body, th, td {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  width: 80%;
+  margin: 20px 0 20px 0;
+}
+
+table {
+  border: 1px solid black;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+th {
+  text-align: center;
+}
+
+.tpr {
+  background-color: red;
+}
+
+.mmd {
+  background-color: lightblue;
+}
+
+.press {
+  background-color: coral;
+}
+
+.cloudbook {
+  background-color: gold;
+}
+
+.alpha {
+  background-color: plum;
+}
+
+.nip {
+  background-color: lightgrey;
+}
+
+.mushroom {
+  background-color: wheat;
+}
+
+.teamware {
+  background-color: aqua;
+}
+
+.hobby {
+  background-color: lightgreen;
+}
