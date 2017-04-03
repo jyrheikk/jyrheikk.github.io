@@ -4219,3 +4219,20 @@ Kg6 62.Rxd5 Bxd5+ 63.Kxd5 f5 64.Ke6?? (64.Ke5 {=}) fxg4 65.f4 g3 66.f5+ Kg5
 73.Qc5+ Qf5 74.Qe3+ Qf4 75.Qg1+ Kh6 76.Qa1 h4 77.Qh8+ Kg5 78.Qg8+ Kf5 79.Qg2
 Qe3+ 80.Kb5 h3 81.Qc2+ Kf4 82.Qh2+ Kg4 83.Qc2 Kg3 84.Qg6+ Kf2 85.Qh7 Qf3
 86.Kc4 Kg3 87.Qb1 h2 88.Qe1+ Kh3 0-1
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.04.03"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Miikkulainen, Jouko"]
+[Result "1-0"]
+[Section "B"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Itä-Helsingin Shakkikerho 3"]
+[TimeControl "900"]
+
+1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 Nf6 5.f3 exf3 6.Nxf3 Be7 7.Bd3 Nc6 8.Bb1 Bb4
+9.O-O Bxc3 10.bxc3 Bd7 11.Ba3 Na5 12.Qe2 b6 13.d5 c5 14.dxc6 Bxc6 15.Nd4 g6??
+16.Nxe6 Qc8 17.Nc7+ 1-0
