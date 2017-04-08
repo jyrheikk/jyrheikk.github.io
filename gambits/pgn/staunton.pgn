@@ -721,3 +721,16 @@ Rhe8 16.Rhe1 Qf7 17.b3 a6 18.Bf3 Rxe1 19.Rxe1 Re8 20.Rxe8+ Qxe8 21.Kd1 Nb6
 16.Re1 Kf7 17.Qh2 Qc8 18.Nxf5 exf5 19.Bd6? Ng8?? (19...Bf8) 20.Qh7? (20.Ne2)
 Qd8 21.Bf4 Nd7 22.Bd3 Nf8 23.Qh3 Bxd4 24.Bxf5 gxf5 25.Qh5+ Ng6 26.Qh7+ Bg7
 27.Rg1 Qf6 28.Bg5 Qd4 29.Ne2 Qxb2+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2017.04.05"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 f5 2.Nc3 d5 3.g4 fxg4 4.e4 Nf6 5.e5 Ne4 6.Nxe4 dxe4 7.Bg2 Nc6 8.Be3 Qd5
+9.Ne2 h5 10.Nc3 Qa5 11.Bxe4 Bd7 12.Bg6+ Kd8 13.Qd2 (13.e6!) Be8 14.Be4 {no
+more moves recorded} 1-0
