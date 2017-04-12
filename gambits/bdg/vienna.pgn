@@ -756,3 +756,21 @@ Kb8 45.Bxb7 Rh6 46.Nc6+ Rxc6 47.Bxc6 1-0
 16.Qb3 Nc7 17.c4 a6 18.Bf4 O-O-O 19.c5 Ba7 20.Bd6 Qe8 21.Nbd2 Nh5 22.Ne5 f6
 23.gxf6 Nxf6 24.Rhf1 Nb5 25.Rxf6 Nxd6 26.cxd6 Bxd4 27.Ndc4 b5 28.Rxd4 bxc4
 29.Qxc4 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2017.04.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaiju, Kauko"]
+[Result "0-1"]
+[TimeControl "1200+10"]
+[Stage "Quarter-Final"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6 6.g5 Nd5 7.Nxe4 f5 8.Nf2 e6 9.c3
+Be7 10.h4 Nd7 11.h5 Bf7 12.g6? (12.f4) Bg8 13.Ngh3 hxg6 14.hxg6 Bh4 15.Bc4
+Bxf2+ 16.Kxf2 Qh4+ 17.Kf1? (17.Kg2) Qg3 18.Bxd5 Rxh3 19.Rg1 Qd6 20.Bb3 O-O-O
+21.Be3 f4 22.Bd2 e5 23.Bxg8 Rxg8 24.Qb3 Rgh8 25.Qf7 exd4 (25...Qc6) 26.Re1
+Rxf3+ 27.Kg2 Rg3+ 28.Kf1 Rxg1+ 29.Kxg1 Nf6 30.Qxg7 Rd8 31.Qf7 dxc3 32.Bxc3
+Qc5+? (32...f3) 33.Kg2? (33.Kf1 {=}) Qg5+ 34.Kf1 Nd5 35.Qe6+ Kb8 36.Bd4 f3
+37.Re5 Qg2+ 38.Ke1 Nf4 39.Qf5 Nxg6 40.Rd5 Qe2# 0-1
