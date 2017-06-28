@@ -1340,3 +1340,18 @@ Bxf3 17.Qxe6+? Kh8 18.Bxf3 Nxd4 19.Qd5 c6 20.Qxd8 Nxf3+ 21.Kg2 Nh4+ 22.Kg3
 Rxd8 23.Kxh4 h6 24.Kh5 Kh7 25.Rae1 g6+ 26.Kh4 Rf7 27.Rd1 Ng7 28.Rfe1 Rxd1
 29.Nxd1 Nh5 30.Rxe7 Rxe7 31.Bd6 Rd7 (31...Re4+ 32.f4 Rd4) 32.c5 Ng7 33.Ne3 Ne8
 34.Bg3 Rd4+ 35.f4 Nc7 36.gxh6 Kxh6 37.Bf2 Ne6 38.Ng2 Rd2 39.Kg3 Rxb2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2017.06.28"]
+[Round "2"]
+[White "Tammela, Ranel"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600+5"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.c4 e6 6.Nc3 exd5 7.g4 Nxg4? 8.Nxd5? Nf6
+(8...Qh4+ 9.Kd2 Nf2) 9.Bg5 c6 10.Qe2+ Kd7 11.Qe5 Bb4+? 12.Kd1 (12.Nxb4! Re8
+13.O-O-O) cxd5 13.Qxf5+ Kc6 14.Rc1 Qd7 15.cxd5+ Kb6 16.Qd3 Nxd5 17.Bh3?
+(17.a3) Qa4+ 18.b3 Qxa2 19.Qc4 Re8 20.Ne2 Nc6 21.Bd7 Ne3+ (21...Rxe2!) 22.Bxe3
+Rxe3 23.Bxc6 Qd2# 0-1
