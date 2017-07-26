@@ -259,3 +259,18 @@ exd5 23.Nf6+ Nxf6 24.Bxf6 Bf5+ 25.Ka1 Rc8 26.Nc3 Be6?? (26...Kd8) 27.Bb5+ Kd8
 28.Nxd5 Bxd5 29.Rd1 Qd6?? (29...Qc1+ {=}) 30.Bxe7+ Qxe7 31.Rxd5+ Kc7 32.Qxe7+
 Kb8 33.a3 a6 34.Rd7 Rc1+ 35.Ka2 Kc8 36.Rxb7 Rd8 37.Bxa6 Rc6 38.Rb8+ Kxb8
 39.Qb7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2017.07.26"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Backman, Kai"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c6 5.Be3 Bf5 6.fxe4 Bxe4 7.Nxe4 Nxe4 8.Nf3 e6
+9.Bd3 Bb4+ 10.c3 Nxc3 11.bxc3 Bxc3+ 12.Kf2 Bxa1 13.Qxa1 Nd7 14.Rd1 Nf6 15.h3
+O-O 16.Bg5 h6 17.Bh4 g5 18.Bg3 Nd5 19.Qb2 Qb6 20.Qd2 f5? 21.Be5 Qd8 22.h4 g4??
+23.Qxh6 Rf6 24.Qg5+ Kf8 25.Bc4 Rf7 26.Qh6+ Ke8 27.Ng5 g3+ 28.Kg1 Qd7 29.Nxe6
+Rh7 30.Qf8# 1-0
