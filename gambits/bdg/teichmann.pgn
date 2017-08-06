@@ -2103,3 +2103,22 @@ Nxf8 25.Rxf8+ Qd8 26.Bxb7+ Kc7 27.Rxd8 Kxd8 28.Kxh2 1-0
 9.Qf3 c6 10.g5 Bh5 11.Qf2 Nfd7 12.Be2 Nxe5 13.Bxh5 Ng6 14.Rf1 Qd7 15.Bg4 Bb4
 16.Bd2 Na6 17.O-O-O Rf8 18.d5 cxd5 19.Nxd5 Bxd2+ 20.Rxd2 Qa4 21.Kb1 Ne5?
 22.Bxe6 Nb4 23.Nc7+ Ke7 24.Qc5# 1-0
+
+[Event "Finland Blitz Team Ch"]
+[Site "Pori FIN"]
+[Date "2017.08.05"]
+[Round "11"]
+[White "Heikkinen, Jyrki"]
+[Black "Taipale, Rami"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Seinäjoen Shakkikerho"]
+[WhiteElo "2020"]
+[BlackElo "2028"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 Bg4 6.h3 Bxf3 7.Qxf3 c6 8.Be3 e6
+9.Bd3 Bb4 10.O-O Bxc3 11.bxc3 Nbd7 12.g4 h6 13.h4 Qe7 14.Rab1 O-O-O 15.Ba6 Nb6
+16.Qxc6+ Qc7?? 17.Bxb7+ Kb8 18.Bf4 Qxf4 19.Rxf4 Rd7 20.Ba6 Rhd8 21.c4 e5
+22.Rf3 Nxg4 23.Rfb3 1-0
