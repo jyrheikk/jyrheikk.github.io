@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/gambits/chess.ico" />
   <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css">
   <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
   <script src="https://pgn.chessbase.com/cbreplay.js"></script>
@@ -29,6 +30,7 @@
   }
 
   function setTitle (title) {
+    title = title || 'PGN'
     document.title = title
     document.write('<h1>' + title + '</h1>')
   }
