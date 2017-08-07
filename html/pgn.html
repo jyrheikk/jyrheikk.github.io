@@ -21,7 +21,7 @@
 <body>
 
 <script>
-$(function showPgn () {
+(function showPgn () {
   var params = parseUrlParams()
   setTitle(decodeURIComponent(params.title))
   fetchPgnFile(params.pgn)
@@ -48,11 +48,17 @@ $(function showPgn () {
     var html = '<div class="cbreplay" data-url="' + filename + '"></div>'
     document.write(html)
   }
-})
+})()
 
-$(function scrollBar2GameList () {
-  $('#west0').resize()
-})
+var gameListIntervalId = setInterval(addGameListScrollbar, 2000)
+
+function addGameListScrollbar () {
+  var gameList = $('#west0')
+  if (gameList) {
+    clearInterval(gameListIntervalId)
+    gameList.resize()
+  }
+}
 </script>
 </body>
 </html>
