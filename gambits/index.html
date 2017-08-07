@@ -12,7 +12,7 @@
 <body>
 <h2>Gambit chess games of Jyrki Heikkinen</h2>
 
-<table border="1">
+<table id="games" border="1">
   <tr><th>Gambit</th><th>Moves</th><th>Games</th></tr>
   <tr><td><a href="portuguese.pgn"><b>Center Counter, Portuguese</b></a></td><td>1.e4 d5 2.exd5 Nf6 3.d4 Bg4</td><td>71</td></tr>
   <tr><td><a href="icelandic.pgn">Icelandic</a></td><td>&ndash; 3.c4 e6</td><td>24</td></tr>
@@ -44,17 +44,13 @@ gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
 <a href="//gambits.blogspot.com/">Gambits and Pieces</a></i></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="/js/pgn-index.js"></script>
 <script>
 $(function () {
-  var sum = 0;
-  $.getJSON('gambits.json', function (data) {
-    $.each(data, function (key, value) {
-      $("td a[href='" + key + "']").parent().next().next().html(value);
-      sum += value;
-    });
-    $("#total").html(sum);
-  });
-});
+  var path = document.baseURI.replace(document.location.origin, '')
+  setGamesTotal(path + 'gambits.json')
+})
 </script>
+
 </body>
 </html>
