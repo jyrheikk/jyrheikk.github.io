@@ -2,7 +2,7 @@ function setGamesTotal (filename) {
   var sum = 0
   $.getJSON(filename, function (data) {
     $.each(data, function (key, value) {
-      $("td a[href='" + key + "']").parent().find('td:last-of-type').html(value)
+      $("td a[href='" + key + "']").parent().siblings().last().html(value)
       sum += value
     })
     $("#total").html(sum)
