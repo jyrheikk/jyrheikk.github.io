@@ -27,6 +27,7 @@
   var params = parseUrlParams()
   setTitle(decodeURIComponent(params.title))
   fetchPgnFile(params.pgn)
+  $('#west0').resize() // makes the list of games scrollable
 
   function parseUrlParams () {
     var paramsObj = {}
