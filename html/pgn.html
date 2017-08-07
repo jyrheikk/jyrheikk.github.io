@@ -21,13 +21,12 @@
 <body>
 
 <script>
-// Shows the given PGN file.
-// Example: "#pgn=bdg-teichmann.pgn|title=BDG%20Teichmann%20Defence"
-(function () {
+$(function showPgn () {
   var params = parseUrlParams()
   setTitle(decodeURIComponent(params.title))
   fetchPgnFile(params.pgn)
 
+  // example hash: "#pgn=bdg-teichmann.pgn|title=BDG%20Teichmann%20Defence"
   function parseUrlParams () {
     var paramsObj = {}
     var delim = window.location.hash.indexOf('|') > -1 ? '|' : '%7C'
@@ -49,7 +48,7 @@
     var html = '<div class="cbreplay" data-url="' + filename + '"></div>'
     document.write(html)
   }
-})()
+})
 
 $(function scrollBar2GameList () {
   $('#west0').resize()
