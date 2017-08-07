@@ -13,6 +13,6 @@ th, td {
   padding: 4px;
 }
 
-td + td + td {
+tr > td:last-of-type {
   text-align: right;
 }
