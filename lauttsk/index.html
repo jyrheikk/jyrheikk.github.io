@@ -47,17 +47,13 @@
   <hr><p><i>Jyrki Heikkinen, <a href="//lauttsk.blogspot.fi/">Lauttasaaren Suomalainen Shakkikerho</a></i></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="/js/pgn-index.js"></script>
 <script>
 $(function () {
-  var sum = 0;
-  $.getJSON('index.json', function (data) {
-    $.each(data, function (key, value) {
-      $("td a[href='" + key + "']").parent().next().html(value);
-      sum += value;
-    });
-    $("#total").html(sum);
-  });
-});
+  var path = document.baseURI.replace(document.location.origin, '')
+  completeIndex(path, 'index.json')
+})
 </script>
+
 </body>
 </html>
