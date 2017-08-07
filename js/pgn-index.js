@@ -16,9 +16,8 @@ function completeIndex (path, filename) {
   function addLinks2PgnReader () {
     var url = document.location.origin + '/html/pgn.html#pgn=$filename|title=$title'
 
-    $("#games tr > td:last-of-type").click(function openPgnReader () {
-      var pgn = $(this).parent().find('td:first-of-type')
-      var link = pgn.find('a')
+    $('#games tr > td:last-of-type').click(function openPgnReader () {
+      var link = $(this).parent().find('td:first-of-type a')
       if (link) {
         url = url.replace('$filename', path + link.attr('href'))
           .replace('$title', encodeURIComponent(link.text()))
