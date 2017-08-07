@@ -14,12 +14,12 @@ function completeIndex (path, filename) {
   }
 
   function addLinks2PgnReader () {
-    var url = document.location.origin + '/html/pgn.html#pgn=$filename|title=$title'
+    var baseUrl = document.location.origin + '/html/pgn.html#pgn=$filename|title=$title'
 
     $('#games tr > td:last-of-type').click(function openPgnReader () {
       var link = $(this).parent().find('td:first-of-type a')
       if (link) {
-        url = url.replace('$filename', path + link.attr('href'))
+        var url = baseUrl.replace('$filename', path + link.attr('href'))
           .replace('$title', encodeURIComponent(link.text()))
         window.open(url)
       }
