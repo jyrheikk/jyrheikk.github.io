@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css">
+  <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+  <script src="https://pgn.chessbase.com/cbreplay.js"></script>
+</head>
+
+<body>
+
+<script>
+// Shows the given PGN file.
+// Example: "#pgn=bdg-teichmann.pgn|title=BDG%20Teichmann%20Defence"
+(function () {
+  var params = parseUrlParams()
+  setTitle(decodeURIComponent(params.title))
+  fetchPgnFile(params.pgn)
+
+  function parseUrlParams () {
+    var paramsObj = {}
+    var delim = window.location.hash.indexOf('|') > -1 ? '|' : '%7C'
+    var urlParams = window.location.hash.substr(1).split(delim)
+    urlParams.forEach(function (value) {
+      var arg = value.split('=')
+      paramsObj[arg[0]] = arg[1]
+    })
+    return paramsObj
+  }
+
+  function setTitle (title) {
+    document.title = title
+    document.write('<h1>' + title + '</h1>')
+  }
+
+  function fetchPgnFile (filename) {
+    var html = '<div class="cbreplay" data-url="' + filename + '"></div>'
+    document.write(html)
+  }
+})()
+</script>
+</body>
+</html>
