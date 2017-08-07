@@ -1,25 +1,29 @@
-function setGamesTotal (filename) {
-  var sum = 0
-  $.getJSON(filename, function (data) {
-    $.each(data, function (key, value) {
-      $("td a[href='" + key + "']").parent().siblings().last().html(value)
-      sum += value
+function completeIndex (path, filename) {
+  setGamesTotal(path + filename)
+  addLinks2PgnReader()
+
+  function setGamesTotal (fullname) {
+    var sum = 0
+    $.getJSON(fullname, function (data) {
+      $.each(data, function (key, value) {
+        $("td a[href='" + key + "']").parent().siblings().last().html(value)
+        sum += value
+      })
+      $("#total").html(sum)
     })
-    $("#total").html(sum)
-  })
+  }
+
+  function addLinks2PgnReader () {
+    var url = document.location.origin + '/html/pgn.html#pgn=$filename|title=$title'
+
+    $("#games tr > td:last-of-type").click(function openPgnReader () {
+      var pgn = $(this).parent().find('td:first-of-type')
+      var link = pgn.find('a')
+      if (link) {
+        url = url.replace('$filename', path + link.attr('href'))
+          .replace('$title', encodeURIComponent(link.text()))
+        window.open(url)
+      }
+    })
+  }
 }
-
-$(function addLinks2PgnReader () {
-  var url = document.location.origin + '/html/pgn.html#pgn=$filename|title=$title'
-  var path = document.baseURI.replace(document.location.origin, '')
-
-  $("#games tr > td:last-of-type").click(function openPgnReader () {
-    var pgn = $(this).parent().find('td:first-of-type')
-    var link = pgn.find('a')
-    if (link) {
-      url = url.replace('$filename', path + link.attr('href'))
-        .replace('$title', encodeURIComponent(link.text()))
-      window.open(url)
-    }
-  })
-})
