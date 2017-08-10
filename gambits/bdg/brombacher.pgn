@@ -206,6 +206,25 @@ Bd7 9.O-O-O Nd5 10.Bxa6 bxa6 11.Bg3 e3 12.Nge2 e6 13.Nf4 Nb6 14.Rhe1 Be7
 9.O-O-O Bg7 10.d6 h6 11.dxe7 Qxe7 12.Qd2 O-O 13.Re1 Qd8 14.Bxh6 Nb6 15.Bxg7
 Qxd2+ 16.Nxd2 Kxg7 17.g3 Be6 18.Bg2 Rab8 19.Nde4 Nxe4 20.Bxe4 1/2-1/2
 
+[Event "Finland Blitz Team Ch"]
+[Site "Pori FIN"]
+[Date "2017.08.05"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Huovinen, Jere"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Oulun Shakkiseura"]
+[WhiteElo "2020"]
+[BlackElo "2184"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c5 5.d5 e6 6.Bb5+ Bd7 7.dxe6 fxe6 8.Bxd7+
+Nbxd7 9.fxe4 Be7 10.Nf3 O-O 11.O-O Nb6 12.Bg5 Qd7 13.Qxd7+ Nbxd7 14.Rad1 Rad8
+15.e5 Nd5 16.Nxd5 Bxg5 17.Nxg5 exd5 18.Rxd5 Nb6 19.Rxf8+ Rxf8 20.Rxc5 {no more
+moves recorded} 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2017.08.09"]
@@ -220,4 +239,4 @@ Nbxd7 9.Qe2 Qb6 10.fxe4 Bd6 11.Nf3 Ne5 12.O-O O-O-O 13.Bd2 Nxf3+ 14.Rxf3 Be5
 15.Na4 Qc6 16.Bc3 Bd4+ 17.Bxd4 Rxd4 18.e5 Rxa4 19.exf6 gxf6 20.Rxf6 Re4 21.Qf3
 Rd8 22.Rf8 Qd5 23.Rxd8+ Kxd8 24.c3 Kc7 25.Rd1 Qc4 26.Qf7+ Kb6 27.Rd6+ Ka5
 28.Qc7+ b6 29.Qxa7+ Qa6 30.Qxa6+ Kxa6 31.Kf2 Kb5 32.Kf3 Re5 33.Rd7 h5 34.b3
-1-0 {no more moves recorded} 1-0
+{no more moves recorded} 1-0
