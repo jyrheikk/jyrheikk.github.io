@@ -4,14 +4,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta charset="UTF-8" />
 <meta name="robots" content="noindex,nofollow" />
-<base href="pgn/" />
 <link rel="icon" type="image/x-icon" href="//lauttsk.blogspot.fi/favicon.ico" />
-<link type="text/css" rel="stylesheet" href="/gambits/css/table.css" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/table.css" />
 <title>Lauttasaaren Suomalaisen Shakkikerhon PGN-peliarkisto</title>
 </head>
 <body>
   <h1>Lauttasaaren Suomalaisen Shakkikerhon PGN-peliarkisto</h1>
-  <p>Pelejä voi <a href="/lauttsk/pgn.html">selata älypuhelimellakin</a>.</p>
+  <p>Pelejä voi <a href="pgn.html">selata älypuhelimellakin</a>.</p>
   <table id="games" border="1" cellspacing="0">
     <tr><th>Tiedosto</th><th>Pelejä</th></tr>
     <tr><td><a href="JSM-2016.pgn">JSM 2016&ndash;2017</a></td><td></td></tr>
@@ -47,11 +46,10 @@
   <hr><p><i>Jyrki Heikkinen, <a href="//lauttsk.blogspot.fi/">Lauttasaaren Suomalainen Shakkikerho</a></i></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="/js/pgn-index.js"></script>
+<script src="/pgn/js/pgn.js"></script>
 <script>
 $(function () {
-  var path = document.baseURI.replace(document.location.origin, '')
-  completeIndex(path, 'index.json')
+  completeIndex(document.baseURI, 'lauttssk.json')
 })
 </script>
 

@@ -4,9 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta charset="UTF-8" />
 <meta name="robots" content="noindex,nofollow" />
-<base href="bdg/" />
-<link rel="icon" type="image/x-icon" href="/gambits/chess.ico" />
-<link type="text/css" rel="stylesheet" href="/gambits/css/table.css" />
+<link rel="icon" type="image/x-icon" href="/pgn/chess.ico" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/table.css" />
 <title>Blackmar&ndash;Diemer Gambit chess games of Jyrki Heikkinen</title>
 </head>
 <body>
@@ -33,20 +32,19 @@
   <tr><td>Total</td><td>&nbsp;</td><td id="total"></td></tr>
 </table>
 
-<p>[ BDG <a href="/gambits/bdg-viewer.html">viewer</a> /
-<a href="/gambits/bdg.html">PGN</a> |
-gambits <a href="/gambits/gambits-viewer.html">viewer</a> /
-<a href="/gambits/">PGN</a> ]</p>
+<p>[ BDG <a href="/pgn/bdg/pgn.html">viewer</a> /
+<a href="/pgn/bdg/">PGN</a> |
+gambits <a href="/pgn/gambits/pgn.html">viewer</a> /
+<a href="/pgn/gambits/">PGN</a> ]</p>
 
 <p><i>Jyrki Heikkinen<br />
 <a href="//gambits.blogspot.com/">Gambits and Pieces</a></i></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="/js/pgn-index.js"></script>
+<script src="/pgn/js/pgn.js"></script>
 <script>
 $(function () {
-  var path = document.baseURI.replace(document.location.origin, '')
-  completeIndex(path, 'bdg.json')
+  completeIndex(document.baseURI, 'bdg.json')
 })
 </script>
 
