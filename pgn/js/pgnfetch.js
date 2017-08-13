@@ -123,7 +123,7 @@ function fetchPgn(filename) {
       var item = document.getElementById(gamesId);
       var newIndex = item.selectedIndex + incr;
       if (newIndex > -1 && newIndex < item.length) {
-        showGame(newIndex);
+        showGame(newIndex + 1);
       }
     }
   }
