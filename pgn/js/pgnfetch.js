@@ -34,13 +34,13 @@ function fetchPgn(filename) {
       });
       var buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
     }
-  }
 
-  function enablePrevNextGame() {
-    var buttonsSelector = document.getElementById('pgn-navButtons');
-    if (buttonsSelector) {
-      clearInterval(buttonsIntervalId);
-      addGameEvents();
+    function enablePrevNextGame() {
+      var buttonsSelector = document.getElementById('pgn-navButtons');
+      if (buttonsSelector) {
+        clearInterval(buttonsIntervalId);
+        addGameEvents();
+      }
     }
   }
 
