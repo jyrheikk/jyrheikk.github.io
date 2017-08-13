@@ -1,5 +1,4 @@
 var waitInterval = 200;
-var buttonEventsCreated = false;
 
 var pgnStatus = {
   prev: false,
@@ -33,21 +32,65 @@ function fetchPgn(filename) {
       board.addEventListener('click', function nextMove() {
         document.getElementById('pgn-forward').click();
       });
+      var buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
+    }
+  }
+
+  function enablePrevNextGame() {
+    var buttonsSelector = document.getElementById('pgn-navButtons');
+    if (buttonsSelector) {
+      clearInterval(buttonsIntervalId);
+      addGameEvents();
+    }
+  }
+
+  function addGameEvents() {
+    document.getElementById('pgn-start').addEventListener('click', function() {
+      if (pgnStatus.prev) {
+        incrementGame(-1);
+      }
+      pgnStatus.prev = !pgnStatus.prev;
+    });
+  
+    document.getElementById('pgn-end').addEventListener('click', function() {
+      if (pgnStatus.next) {
+        incrementGame(1);
+      }
+      pgnStatus.next = !pgnStatus.next;
+    });
+  
+    function incrementGame(incr) {
+      var item = document.getElementById('pgn-problemSelector');
+      var newIndex = item.selectedIndex + incr;
+      if (newIndex > -1 && newIndex < item.length) {
+        showGame(newIndex + 1);
+      }
+    }
+  }
+}
+
+function showGame(number) {
+  var gameIntervalId;
+  var gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
+  if (gameNumber > 0) {
+    gameIntervalId = setInterval(selectGame, waitInterval);
+  }
+
+  function selectGame() {
+    var gameSelector = document.getElementById(gamesId);
+    if (gameSelector) {
+      clearInterval(gameIntervalId);
+      gameSelector.selectedIndex = gameNumber;
+      gameSelector.dispatchEvent(new Event('change'));
     }
   }
 }
 
 // show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5")
-(function (filesId, gamesId, buttonsId) {
+(function (filesId) {
   var params = parseUrlParams();
   selectPgn(params.pgn);
   showGame(params.game);
-
-  var buttonsIntervalId;
-  if (!buttonEventsCreated) {
-    buttonEventsCreated = true;
-    buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
-  }
 
   function parseUrlParams() {
     var paramsObj = {};
@@ -78,53 +121,4 @@ function fetchPgn(filename) {
       }
     }
   }
-
-  function showGame(number) {
-    var gameIntervalId;
-    var gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
-    if (gameNumber > 0) {
-      gameIntervalId = setInterval(selectGame, waitInterval);
-    }
-
-    function selectGame() {
-      var gameSelector = document.getElementById(gamesId);
-      if (gameSelector) {
-        clearInterval(gameIntervalId);
-        gameSelector.selectedIndex = gameNumber;
-        gameSelector.dispatchEvent(new Event('change'));
-      }
-    }
-  }
-
-  function enablePrevNextGame() {
-    var buttonsSelector = document.getElementById(buttonsId);
-    if (buttonsSelector) {
-      clearInterval(buttonsIntervalId);
-      addGameEvents();
-    }
-  }
-
-  function addGameEvents() {
-    document.getElementById('pgn-start').addEventListener('click', function() {
-      if (pgnStatus.prev) {
-        incrementGame(-1);
-      }
-      pgnStatus.prev = !pgnStatus.prev;
-    });
-  
-    document.getElementById('pgn-end').addEventListener('click', function() {
-      if (pgnStatus.next) {
-        incrementGame(1);
-      }
-      pgnStatus.next = !pgnStatus.next;
-    });
-  
-    function incrementGame(incr) {
-      var item = document.getElementById(gamesId);
-      var newIndex = item.selectedIndex + incr;
-      if (newIndex > -1 && newIndex < item.length) {
-        showGame(newIndex + 1);
-      }
-    }
-  }
-})('pgn-files', 'pgn-problemSelector', 'pgn-navButtons');
+})('pgn-files');
