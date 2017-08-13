@@ -81,11 +81,8 @@ function fetchPgn(filename) {
 }
 
 function showGame(number) {
-  var gameIntervalId;
   var gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
-  if (gameNumber > 0) {
-    gameIntervalId = setInterval(selectGame, waitInterval);
-  }
+  var gameIntervalId = setInterval(selectGame, waitInterval);
 
   function selectGame() {
     var gameSelector = document.getElementById(ids.games);
