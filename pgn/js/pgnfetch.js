@@ -1,3 +1,14 @@
+var ids = {
+  files: 'pgn-files',
+  games: 'pgn-problemSelector',
+  container: 'pgn-container',
+  board: 'pgn-boardBorder',
+  buttons: 'pgn-navButtons',
+  start: 'pgn-start',
+  forward: 'pgn-forward',
+  end: 'pgn-end'
+};
+
 var waitInterval = 200;
 
 var pgnStatus = {
@@ -6,7 +17,7 @@ var pgnStatus = {
 };
 
 function fetchPgn(filename) {
-  document.getElementById('pgn-container').innerHTML = '';
+  document.getElementById(ids.container).innerHTML = '';
 
   new PgnViewer({
     boardName: 'pgn',
@@ -26,17 +37,17 @@ function fetchPgn(filename) {
   var boardIntervalId = setInterval(nextMoveByClickingBoard, waitInterval);
 
   function nextMoveByClickingBoard() {
-    var board = document.getElementById('pgn-boardBorder');
+    var board = document.getElementById(ids.board);
     if (board) {
       clearInterval(boardIntervalId);
       board.addEventListener('click', function nextMove() {
-        document.getElementById('pgn-forward').click();
+        document.getElementById(ids.forward).click();
       });
       var buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
     }
 
     function enablePrevNextGame() {
-      var buttonsSelector = document.getElementById('pgn-navButtons');
+      var buttonsSelector = document.getElementById(ids.buttons);
       if (buttonsSelector) {
         clearInterval(buttonsIntervalId);
         addGameEvents();
@@ -45,14 +56,14 @@ function fetchPgn(filename) {
   }
 
   function addGameEvents() {
-    document.getElementById('pgn-start').addEventListener('click', function() {
+    document.getElementById(ids.start).addEventListener('click', function() {
       if (pgnStatus.prev) {
         incrementGame(-1);
       }
       pgnStatus.prev = !pgnStatus.prev;
     });
   
-    document.getElementById('pgn-end').addEventListener('click', function() {
+    document.getElementById(ids.end).addEventListener('click', function() {
       if (pgnStatus.next) {
         incrementGame(1);
       }
@@ -60,7 +71,7 @@ function fetchPgn(filename) {
     });
   
     function incrementGame(incr) {
-      var item = document.getElementById('pgn-problemSelector');
+      var item = document.getElementById(ids.games);
       var newIndex = item.selectedIndex + incr;
       if (newIndex > -1 && newIndex < item.length) {
         showGame(newIndex + 1);
@@ -77,7 +88,7 @@ function showGame(number) {
   }
 
   function selectGame() {
-    var gameSelector = document.getElementById(gamesId);
+    var gameSelector = document.getElementById(ids.games);
     if (gameSelector) {
       clearInterval(gameIntervalId);
       gameSelector.selectedIndex = gameNumber;
@@ -87,7 +98,7 @@ function showGame(number) {
 }
 
 // show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5")
-(function (filesId) {
+(function () {
   var params = parseUrlParams();
   selectPgn(params.pgn);
   showGame(params.game);
@@ -104,7 +115,7 @@ function showGame(number) {
   }
 
   function selectPgn(filename) {
-    var pgnFiles = document.getElementById(filesId);
+    var pgnFiles = document.getElementById(ids.files);
     var pgnName = filename || pgnFiles.options[0].value;
 
     fetchPgn(pgnName);
@@ -121,4 +132,4 @@ function showGame(number) {
       }
     }
   }
-})('pgn-files');
+})();
