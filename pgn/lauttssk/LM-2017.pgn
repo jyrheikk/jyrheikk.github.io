@@ -42,7 +42,7 @@ Rd6 43.Rxb4 Kc6 44.Nf2 f4 45.gxf4 gxf4 46.Rb3 Rg6 47.Ra3 Rxg2 48.Rf3 Kd6
 [Result "1/2-1/2"]
 
 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 d6 7.O-O Be7 8.Re1 O-O 9.c3
-h6 10.Nbd2 Bb7 11.Nf1 Re8 12.Ng3 Bc8 13.h3 Rb8  14.a3 Bf8 15.Ba2 Be6 16.Bxe6
+h6 10.Nbd2 Bb7 11.Nf1 Re8 12.Ng3 Bc8 13.h3 Rb8 14.a3 Bf8 15.Ba2 Be6 16.Bxe6
 Rxe6 17.d4 Re8 18.d5 Ne7 19.Qe2 c5 20.dxc6 Nxc6 21.a4 Qc8 22.Rd1 bxa4 23.Rxa4
 a5 24.Nf5 Rd8  25.Qc4? (25.Ne3) (25.c4) Qb7 (25...d5!) 26.g4 Qb5 27.Qxb5 Rxb5
 28.c4 Rb4 29.Rxb4 axb4 30.Ng3 Be7 31.b3 Na5 32.Rd3 Kf8 33.Be3 Nd7 34.Nf5 Nc5
@@ -91,3 +91,25 @@ Rae8 21.h4 Re5 22.h5 Kf7 23.hxg6+ hxg6 24.Rh1 Kg7 25.Rh4 Rfe8 26.c3 R8e7
 Rh2 34.Kc1 Be6 35.Rg1 Kf6 36.Rf1+ Ke5 37.Rg1 g4 38.Rg3 Rh3 39.Rg1 Rxe3 40.Kd2
 Rf3 41.Re1+ Kf6 42.Rh1 Rf2+ 43.Kc1 Bd5 44.Rh6+ Kg5 45.Rg6+ Kf4 46.Rf6+ Ke3
 47.Rh6 g3 48.Rh3 Rf1+ 49.Kb2 Kf2 50.Rh5 Bf3 51.Rf5 g2 52.Be4 Ke3 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.08.17"]
+[Round "4"]
+[White "Varjokallio, Matti"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Nf6 6.O-O Be7 7.Re1 O-O 8.c3 d6 9.h3
+Re8 10.a4 Bb7 11.d4 Nd7 12.axb5 axb5 13.Rxa8 Bxa8 (13...Qxa8 14.Na3 b4 15.Nc4
+bxc3 16.bxc3) 14.Qd3 Na7 15.Na3 c6 16.Be3 Qb8? (16...Nc8 17.Qe2 exd4 18.cxd4
+Ncb6 19.Bd2) 17.dxe5 Nxe5 18.Nxe5 dxe5 19.Qd7 c5 20.Bxc5 Nc6 21.Bxe7 Rxe7
+22.Qd3 Na7 23.Rd1 Re8 24.Nc2 Nc6 25.Qf3 Qc7 26.Ne3 Nd8 27.Qg4 Ne6 28.Nd5 Qd8
+29.Qe2 (29.Nf4 Qe7 30.Nxe6 fxe6 31.Qf5 Qf6 32.Rd6) Bc6 30.Nb4 Qa8 31.Nxc6 Qxc6
+32.Qd3 Kf8 33.Bd5 Qb6 34.g3 Nc5 35.Qf3 Ne6 36.Bxe6 Qxe6 37.Rd5 Qc6 38.Qd3 Rb8
+(38...Qc4)39.Rd8+ Rxd8 40.Qxd8+ Qe8 41.Qd6+ Qe7 42.Qd5 Qe8 43.Kf1 f6 44.Ke2
+Qb8 45.Kd3 Qb6 46.Ke2 Qa6 47.Qc5+ Kf7 48.Kd3 Qa4 49.Qd5+ Ke7 50.Ke3 Qa7+
+51.Ke2 Qa6 52.Qc5+ Kd7 53.Kd2 Qd6+ 54.Qxd6+ Kxd6 55.h4 h5 56.f4 exf4 57.gxf4
+g6 58.Ke3 Kc5 59.b3 Kd6 60.Kd4 Ke6 61.c4 bxc4 62.bxc4 Kd6 63.c5+ Kc6 64.e5
+fxe5+ 65.fxe5 1-0
