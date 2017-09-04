@@ -738,3 +738,18 @@ Ref8 23.Rhf3 Rd8 24.Qe3 Rhf8 25.Qf2 a6 1/2-1/2
 9.h3 Bxf3 10.Rxf3 Nd5 11.Nxd5 Qxd5 12.c3 Nd7 13.Qf1 Nf6 14.Bc4 Qe4 15.Re1 a5
 16.Bf4 (16.Bg5!) Qc6 17.Rxe7 Nd5 18.Be5! Nxe7? (18...Bxe5 19.Rxe5 (19.Rfxf7?
 b5!)) 19.Rxf7 Qxc4 20.Rxg7+ Kh8 21.Rxe7+ Kg8 22.Qxc4+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2017.09.04"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Kiviaho, Allan"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 g6 6.Bc4 Bg7 7.Ne5 O-O 8.O-O Nbd7
+9.Bf4 Nh5?? 10.Nxf7 Rxf7 11.Bxf7+ Kh8 12.Be5 Nxe5 13.dxe5 Qxd1 14.Raxd1 Bg4
+15.Rd4 Bf5 16.Rxf5 gxf5 17.Bxh5 Bxe5 18.Rd7 Bd6 19.Nb5 Be5 20.Rxe7 Bxb2
+21.Nxc7 Rd8 22.Re8+ Rxe8 23.Bxe8 Kg7 24.Bd7 Kf6 25.Kf1 Ke5 26.Ke2 Kd6 27.Bxf5
+Kxc7 28.Bxh7 {no more moves recorded} 1-0
