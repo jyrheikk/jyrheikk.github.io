@@ -1548,3 +1548,22 @@ Rc4 33.h6 Rec8 34.Rg7 Rh4+ 35.Kg1 Rc1+ 36.Kf2 Rc2+ 37.Kg3 Rxh6 38.Rg4 1-0
 15.exf6 cxb3 16.fxe7 bxc2? 17.Rd5 Qb6 18.Qg7 Qe3+ 19.Rd2?? Qe1+ 20.Kxc2 Bf5+
 21.Ne4 Bxe4+?? (21...Rc8+) 22.fxe4 Qxe4+?? 23.Kc1 Qc6+ 24.Kd1 Kxe7 25.Nf3 Rhd8
 26.Re1+ 1-0
+
+[Event "Friendly Match"]
+[Site "Vantaa FIN"]
+[Date "2017.09.07"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Karvinen, Kimmo"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkikerho Remissi"]
+[WhiteICCF "2060"]
+[BlackElo "2125"]
+[Result "0-1"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 c6 4.Be3 d5 5.Qd2 Nf6 6.e5 Ng4 7.Bf4 h5 8.Nf3 Nd7 9.Bd3
+Nf8 10.Ng5 Ne6 11.Nxe6 Bxe6 12.Na4 b6 13.O-O Qd7 14.b4 c5 15.Nc3 c4 16.Be2 Kf8
+17.Bf3 Kg8 18.a4 Kh7 19.Ne2 a5 20.b5 Nh6 21.c3 Nf5 22.Ng3 Nh4 23.Bd1 Bg4 24.f3
+Be6 25.Bc2 Nf5 26.Kh1 h4 27.Ne2 f6 28.Rae1 g5 29.exf6 exf6 30.Be3 {no more
+moves recorded} 0-1
