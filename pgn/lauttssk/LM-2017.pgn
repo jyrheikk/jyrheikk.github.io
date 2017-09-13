@@ -113,3 +113,18 @@ Qb8 45.Kd3 Qb6 46.Ke2 Qa6 47.Qc5+ Kf7 48.Kd3 Qa4 49.Qd5+ Ke7 50.Ke3 Qa7+
 51.Ke2 Qa6 52.Qc5+ Kd7 53.Kd2 Qd6+ 54.Qxd6+ Kxd6 55.h4 h5 56.f4 exf4 57.gxf4
 g6 58.Ke3 Kc5 59.b3 Kd6 60.Kd4 Ke6 61.c4 bxc4 62.bxc4 Kd6 63.c5+ Kc6 64.e5
 fxe5+ 65.fxe5 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.09.13"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.f3 exf3 6.Ngxf3 Nd5 7.Bf2 Nd7 8.c4 Nf4
+9.Be3 Ng6 10.Qa4 Be7 11.Bd3 O-O 12.Qc2 Nf6 13.h4 Nh5? 14.g4 Nhf4 15.Bxf4 Nxf4
+16.Bxh7+ Kh8 17.Bd3? (17.O-O-O {=}) Ng2+ 18.Kf2 Nf4 19.Nb3 c5 20.Rad1 cxd4
+21.Be4 Qc7 22.Nfxd4 e5 23.Nb5?? Qb6+ 24.Kf3 Be6 (24...Bxg4+! 25.Kxg4 f5+
+26.Bxf5 g6 {-+}) 25.Nd2 Rac8 26.b3 Nd5 27.Nf1 Nf6 28.Bf5 Qc6+ 29.Kg3 Qxh1
+30.Nd2 Bxf5 (30...Ne4+!) 31.gxf5 Nh5+ 0-1
