@@ -240,3 +240,26 @@ Nbxd7 9.Qe2 Qb6 10.fxe4 Bd6 11.Nf3 Ne5 12.O-O O-O-O 13.Bd2 Nxf3+ 14.Rxf3 Be5
 Rd8 22.Rf8 Qd5 23.Rxd8+ Kxd8 24.c3 Kc7 25.Rd1 Qc4 26.Qf7+ Kb6 27.Rd6+ Ka5
 28.Qc7+ b6 29.Qxa7+ Qa6 30.Qxa6+ Kxa6 31.Kf2 Kb5 32.Kf3 Re5 33.Rd7 h5 34.b3
 {no more moves recorded} 1-0
+
+[Event "Finland Team Ch"]
+[Site "Jyväskylä FIN"]
+[Date "2016.09.16"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Hartio, Ilkka"]
+[Result "0-1"]
+[Section "I Division:B"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Jyväs-Shakki 2"]
+[WhiteElo "2060"]
+[BlackElo "2069"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c5 5.d5 exf3 6.Nxf3 g6 7.Bg5 Bg7 8.Qd2 h6
+9.Be3 Nbd7 10.Bb5 a6 11.Bxd7+ Bxd7 12.Bxc5 O-O 13.Be3 Kh7 14.O-O Rc8 15.Rad1
+Qc7 16.h3 b5 17.a3 a5 18.Bf4 Qc5+ 19.Be3 Qc7 20.Ne1? b4 21.axb4 axb4 22.Nb1
+Bb5 23.Qxb4? Bxf1 24.Kxf1 Rb8 25.Qc5 Qe5 26.b3 Ne4 27.Qc4 Ng3+ 28.Kf2 Nf5
+29.Bf4 Qf6 30.Kg1 Rbc8 31.Qd3 Nd4 32.Be3 Nf5 33.c4 Rfd8 34.Bf4 e6 35.Nf3 exd5
+36.cxd5 Qb6+ 37.Kh2 Nd6 38.Na3? Rc3 39.Qe2 Qxb3 40.Nb1 Rc2 41.Qf1 Qc4 42.Qxc4
+Rxc4 43.Be3 Re8 44.Nbd2 Rxe3 45.Nxc4 Nxc4 46.d6 Re8 0-1
