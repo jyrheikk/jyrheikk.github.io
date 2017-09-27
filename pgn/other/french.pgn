@@ -572,3 +572,20 @@ h4 34.e6 Kh7 35.Re1 e3 36.Kf3 Kg6 37.Ke4 Kf6 38.Rf1+ Kg6 39.Kd5 h3 40.Kc6 h2
 41.Kb6 Rh8 42.Rh1 Kf6 43.Ne2 Kxe6 44.Kxa6 Ke5 45.Kxb5 Ke4 46.a4 Kf3 47.Nd4+
 Kg2 48.Rb1 h1=Q 49.Rxh1 Rxh1 50.b4 Bf6 51.Ne2 Kf3 52.a5 Kxe2 53.Kb6 Bxc3 54.b5
 Rh6+ 55.Kb7 Bxa5 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2017.09.27"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3 Ba5 5.b4 Bb6 6.e5 a5 7.Rb1 axb4 8.axb4 Nc6
+9.Nce2 Nge7 10.c3 O-O 11.f4 f6 12.Nf3 fxe5 13.fxe5 Nf5 14.Qd3 Nh4 15.Ng5 Nf5
+16.Qh3  (16.g4! h6 17.gxf5 hxg5 18.f6 {+-}) h6 17.Nf3 Qe8 18.Nf4 Ncxd4 19.cxd4
+Nxd4 20.Nxd4 Bxd4 21.Bd3 Ra2 22.Be3?? (22.Bh7+! {=}) Bc3+ 23.Kf1 Bxe5 24.g3 d4
+25.Bc1 Qc6 26.Kg1 Qf3 27.Qf1 Qc6? (27...Qg4) 28.h4 b6 29.Rh2 Rxh2 30.Kxh2 g5
+31.hxg5 hxg5 32.Qh3 Rf7 33.Ng2 Rg7 34.Bxg5 Bb7?? (34...Qf3) 35.Bf4 Bxf4
+36.Nxf4 Qf3 37.Qxe6+ Kf8 38.Qh3 (38.Qf6+) Qf2+ 39.Ng2 Ke8 40.Qh8+ 1-0
