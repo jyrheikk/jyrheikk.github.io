@@ -315,3 +315,24 @@ Bxe5 12.dxe5 Qd4+ 13.Be3 Qxg4+ 14.Qg2 Qxg2+ 15.Kxg2 Nfd7 16.Bf4 O-O 17.Ne4 Nb6
 9.h4 Bb4 10.h5 Be4 11.O-O Bxg2 12.Kxg2 Bxc3 13.bxc3 Qd5+ 14.Kg1 O-O 15.Ba3 Re8
 16.g5 Ne4 17.Rxf7 Nxc3 18.Qd3 Qxd4+ 19.Qxd4 Ne2+ 20.Kh2 Nxd4 21.Raf1 Na6 22.h6
 Nf5 23.Rxb7 {no more moves recorded} 0-1
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.02"]
+[Round "12"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Heikki"]
+[Result "1-0"]
+[Section "M"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Etelä-Vantaan Shakki 2"]
+[WhiteElo "2014"]
+[BlackElo "2156"]
+[BlackTitle "FM"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 Bf5 6.Ne5 e6 7.g4 Bg6 8.Bg2 c6
+9.h4 h6? 10.h5? (10.Nxg6) Bh7 11.Rf1 Nbd7 12.Qf3 Bb4 13.g5 hxg5 14.Bxg5 Be7?
+15.O-O-O Bf5 16.Rde1 Kf8 17.Kb1 1-0

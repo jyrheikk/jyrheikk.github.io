@@ -957,3 +957,21 @@ Nf6 16.Rhf1 c5 17.Bc2 cxd4 18.Qd3 Re8 19.Ne5 a5 20.Rf3 Bd7?? 21.Rdf1 (21.Rxf6
 9.Nxd5 exd5 10.O-O f6 11.Rae1 O-O 12.Bh4 g5 13.Bg3 f5 14.Rxe7 Qxe7 15.Nxg5
 Nxd4 16.Re1 Ne6 17.Bh4 Qd6 18.Nxe6 Bxe6 19.Qg5+ Kh8 20.Bg3 f4 21.Bf2 c5 22.Qh6
 Qe7 23.Rxe6 Qg7 24.Qh5 f3 25.g3 1-0
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.02"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Hytönen, Harri"]
+[Result "1-0"]
+[Section "M"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Itä-Helsingin Shakkikerho"]
+[WhiteElo "2014"]
+[BlackElo "2012"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 e6 6.Bg5 Be7 7.Bd3 O-O 8.O-O Nbd7
+9.Qe1 c6? 10.Qh4 h6? 11.Bxh6 Nd5 12.Bg5 N7f6 13.Nxd5 exd5 14.Bxf6 1-0
