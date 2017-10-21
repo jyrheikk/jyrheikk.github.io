@@ -128,3 +128,25 @@ fxe5+ 65.fxe5 1-0
 21.Be4 Qc7 22.Nfxd4 e5 23.Nb5?? Qb6+ 24.Kf3 Be6 (24...Bxg4+! 25.Kxg4 f5+
 26.Bxf5 g6 {-+}) 25.Nd2 Rac8 26.b3 Nd5 27.Nf1 Nf6 28.Bf5 Qc6+ 29.Kg3 Qxh1
 30.Nd2 Bxf5 (30...Ne4+!) 31.gxf5 Nh5+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.18"]
+[Round "6"]
+[White "Siikonen, Timo"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[WhiteElo "1772"]
+[BlackElo "1713"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 d6 5.h3 Be7 6.Nxd4 Nxd4 7.Qxd4 Bf6 8.Qd3 Ne7
+9.Nc3 O-O 10.O-O a6 11.a4 Be6 12.Nd5 Nxd5 13.Bxd5 Bxd5 14.Qxd5 c6 15.Qb3 Qc7
+16.Bf4 Be5 17.Be3 Rfe8 18.Rad1 Bf6 19.f3 h6 (19...b5) 20.Rd3 c5 21.c4 b6
+22.Rfd1 Rad8 23.Qc2 a5 24.Rd5 Re5 25.Bf4 Rxd5 26.Rxd5 Bd4+ 27.Kh1 f6 28.Qd2
+Qd7 (28...Qe7)29.b3 (29.Rxd6 Qe8 30.Rxd8 Qxd8) Qe7 30.Bg3 Kf7 31.Qd3 Rd7 32.f4
+Ke8 33.Qe2 Kd8 34.Qe1 (34.Bh2) (34.f5) Kc7 35.Bh2 Qe8 36.e5? (36.Bg1 Bxg1
+37.Kxg1 Re7 38.Qg3) Kc6? (36...fxe5 37.fxe5 dxe5 38.Rxd7+ Kxd7) 37.Rxd6+
+(37.Qe4! Rd8 38.Rxd6+ Kc7 39.f5 Bxe5 40.Bxe5 fxe5 41.Re6) Rxd6 38.Qe4+ Kc7?
+(38...Kd7 39.Qb7+ Ke6 40.exd6) 39.exd6+ Kd7 40.Qb7+ Kxd6 41.f5+ Be5 42.Qxb6+
+Kd7 43.Qb7+ Kd6 44.Qd5+ Kc7 45.Qxc5+ Kb7 46.Bxe5 Qxe5 47.Qxe5 fxe5 48.Kg1 Kc6
+49.Kf2 1-0
