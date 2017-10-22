@@ -11,7 +11,7 @@
 [BlackTeam "Jyväs-Shakki 2"]
 [WhiteElo "2260"]
 [BlackElo "2090"]
-[BlackTitle "FM"]
+[WhiteTitle "FM"]
 
 1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4 g6 6.d5 Nc5 7.Bd3 Bg4 8.Bc2 a5 9.h3
 Bxf3 10.Qxf3 h5 11.O-O Nfd7 12.b3 Qf6 13.Qxf6 Nxf6 14.a3 c6 15.Rb1 cxd5
@@ -378,7 +378,7 @@ Nd7 42.Nf5 Ne5 43.Rf1 g5 44.Nxd6 Qf4+ 45.Kg2 Rc2+ 0-1
 [Event "Finland Team Ch"]
 [Site "Tampere FIN"]
 [Date "2017.10.21"]
-[Round "2"]
+[Round "3"]
 [White "Heikkinen, Jyrki"]
 [Black "Sorvari, Jarmo"]
 [Result "1/2-1/2"]
@@ -393,3 +393,91 @@ Nd7 42.Nf5 Ne5 43.Rf1 g5 44.Nxd6 Qf4+ 45.Kg2 Rc2+ 0-1
 9.O-O-O cxd4 10.Nxd4 O-O 11.Nf3 a6 12.Rhf1 Qc7 13.Ne4 b6 14.Nxf6+ Nxf6 15.Ne5
 (15.Kb1!) Nd5 16.Bxh7+ Kxh7 17.Bxe7 Qxe7 18.Qh5+ Kg8 19.Rd3 Nf6 20.Qh4 Nd5
 21.Qh5 Nf6 22.Qh4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.22"]
+[Round "4"]
+[White "Nouro, Mikael"]
+[Black "Hurme, Harri"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "1"]
+[WhiteTeam "Shakkikerho Garde"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2295"]
+[BlackElo "2266"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d5  6.Bf4 c6 7.h3 a5 8.a4 Na6 9.Qc1
+Ne4 10.Bh6 Be6 11.Bxg7 Kxg7 12.Nbd2 Nxd2 13.Qxd2 f6 14.Rfe1 Nc7 15.e4 Qd7
+16.Kh2 dxe4 17.Rxe4 Bd5 18.Re2 Rf7 19.Rae1 Re8 20.Qxa5 Bxf3 21.Bxf3 e5 22.dxe5
+fxe5 23.Bg2 h5 24.Kg1 h4 25.Qc3 hxg3 26.fxg3 Kh7 27.Kh2 Nd5 28.Qd2 Rfe7 29.Re4
+Nf6 30.Rh4+ Kg8 31.Qh6 Rg7 32.Rf1 g5 33.Rc4 Nd5 34.Re4 Re6 35.Qh5 Nf6 36.Qf3
+g4 37.Qf5 Rh7 38.h4 Rhe7 39.Rf2 Qd8 40.Re3 e4 41.Qg5+ Rg7 42.Qc5 Qd6 43.Qxd6
+Rxd6 44.Bxe4 Re7 45.Rfe2 Rd4 46.Bd5+ Nxd5 47.Rxe7 Nxe7 48.Rxe7 b6 49.Rb7 Rd2+
+50.Kg1 Rxc2 51.Rxb6 Kf7 52.a5 Ke6 53.a6 Kd5 54.Rb3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.22"]
+[Round "4"]
+[White "Havansi, Erkki"]
+[Black "Ristoja, Jan"]
+[Result "0-1"]
+[Section "I Division:B"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkikerho Garde"]
+[WhiteElo "2181"]
+[BlackElo "2282"]
+[BlackTitle "FM"]
+
+1.Nf3 c5 2.c4 Nf6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.e4 g6 7.Nc2 Bg7  8.Be2 O-O
+9.O-O Bd7 10.Bf4 Rc8 11.Qd2 Ne5 12.Ne3 Bc6 13.Ned5 Bxd5 14.cxd5 Nc4 15.Bxc4
+Rxc4 16.f3 Qa5 17.Bh6 Rfc8 18.Bxg7 Kxg7 19.Kh1 b5 20.a3 Qb6 21.Qf2 Qxf2
+22.Rxf2 a6 23.Re2 h5 24.g3 Nd7  25.f4 f6 26.Kg2 Kf7 27.Rf1 Ke8 28.Kh3 Kd8
+29.Kg2 Kc7 30.h3 Kb6 31.g4 hxg4 32.hxg4 Rh8 33.Rf3 a5 34.b3 Rc7 35.a4 b4
+36.Nb5 Rc1 37.Nd4 Rhh1 38.Nc6 Rcg1+ 39.Kf2 Rf1+ 40.Ke3 Rxf3+ 41.Kxf3 Rh3+
+42.Kg2 Rxb3 43.Nxe7 g5 44.e5 gxf4 45.Nc8+ Kc7 46.exd6+ Kxc8 47.Re8+ Kb7 48.Re7
+Kb6 49.Rxd7 Rd3 50.Rf7 Rxd5 51.Rxf6 Kc5 52.Rxf4 b3 53.d7 Rxd7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.22"]
+[Round "4"]
+[White "Ilmoni, Tommy"]
+[Black "Saren, Ilkka"]
+[Result "1/2-1/2"]
+[Section "I Division:B"]
+[Board "3"]
+[WhiteTeam "Shakkikerho Garde"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2067"]
+[BlackElo "2071"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.Bg5 Be7 6.e3 d5 7.Qc2 Nbd7 8.cxd5 exd5
+9.Bd3 O-O 10.O-O c5 11.Rfd1 a6 12.Ne5 c4 13.Bf5 h6 14.Bf4 b5  15.a3 Re8 16.g4
+Nf8 17.Qe2 Ne4 18.Qf3 Nxc3 19.bxc3 f6 20.Ng6 Nxg6 21.Bxg6 Rf8 22.Qg3 Qb6
+23.Bc7 Qc6 24.h4 Rac8 25.Bf4 Rcd8 26.Kg2 Bd6 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.22"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Sandvik, Thomas"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkikerho Garde"]
+[WhiteElo "2050"]
+[BlackElo "2068"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5  6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.g3
+Qb6 10.Ne2 f6 11.c3 cxd4 12.Bxd4 Nxd4 13.cxd4 fxe5 14.fxe5 Be7 15.Nf4 O-O
+16.h4 Nb8 17.Bd3 Nc6 18.O-O-O Nb4 19.Ng5 g6 20.Nxh7 Kxh7 21.h5 Nxd3+ 22.Qxd3
+Qc7+ 23.Kb1 Rf5 24.hxg6+ Kg8 25.Rh7 Qd8 26.Rdh1 Bf6 27.exf6 Qxf6 28.Rh8+ Qxh8
+29.Rxh8+ Kxh8 30.Qe2 Ra7 31.Qc2 Bd7 32.Qh2+ Kg7 33.Qh7+ Kf6 34.Qh8+ 1-0
