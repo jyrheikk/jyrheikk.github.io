@@ -604,3 +604,24 @@ Nxd4 20.Nxd4 Bxd4 21.Bd3 Ra2 22.Be3?? (22.Bh7+! {=}) Bc3+ 23.Kf1 Bxe5 24.g3 d4
 Qe8 15.exf6 Bxf6 16.c4 Ne7 17.Be3 Nf5 18.Bc2 Nxe3 19.Qxe3 Qh5 20.g4 Qxg4
 21.Rhg1 Qh4 22.Rg3 Bd7 23.Nf2 Rae8 24.Ne4 e5 25.Nxf6+ (25.dxe5) Rxf6 26.dxe5
 Bf5 27.exf6? (27.Rdg1 {+-}) Rxe3 28.Rxg7+? (28.Rxe3 {=}) Kf8 29.Bxf5 Qf4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.10.22"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Sandvik, Thomas"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkikerho Garde"]
+[WhiteElo "2050"]
+[BlackElo "2068"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5  6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.g3
+Qb6 10.Ne2 f6 11.c3 cxd4 12.Bxd4 Nxd4 13.cxd4 fxe5 14.fxe5 Be7 15.Nf4 O-O
+16.h4 Nb8 17.Bd3 Nc6 18.O-O-O Nb4 19.Ng5 g6 20.Nxh7 Kxh7 21.h5 Nxd3+ 22.Qxd3
+Qc7+ 23.Kb1 Rf5 24.hxg6+ Kg8 25.Rh7 Qd8 26.Rdh1 Bf6 27.exf6 Qxf6 28.Rh8+ Qxh8
+29.Rxh8+ Kxh8 30.Qe2 Ra7 31.Qc2 Bd7 32.Qh2+ Kg7 33.Qh7+ Kf6 34.Qh8+ 1-0
