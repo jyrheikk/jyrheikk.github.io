@@ -292,3 +292,15 @@ Rh7 30.Qf8# 1-0
 1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c6 5.Be3 exf3 6.Nxf3 e6 7.Bd3 Be7 8.O-O Nbd7
 9.Qe2 Nb6 10.Ne5 Nbd5 11.Rae1 Nxe3 12.Qxe3 c5? 13.Bb5+ Bd7?? 14.Bxd7+ Nxd7
 15.Nxf7 cxd4 16.Qxe6 Qb6 17.Qxe7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2017.11.15"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Rantanen, Matti"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bf4 Nf6 5.Qd2 e6 6.f3 e3 7.Bxe3 Bb4 8.a3 Bxc3
+9.bxc3 Nbd7 10.Bd3 h6 11.Ne2 O-O 12.Bxh6! gxh6 13.Qxh6 e5 14.Ng3 1-0
