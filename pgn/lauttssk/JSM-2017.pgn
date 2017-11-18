@@ -825,7 +825,7 @@ g6 24.b3 f5 25.Qxe7 Rexe7 26.Bf3 Bd7 27.Ne5 Be8 28.Bxe4 1/2-1/2
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2017.11.18"]
-[Round "3"]
+[Round "4"]
 [White "Sund, Jan"]
 [Black "Tuovinen, Jukka"]
 [Result "1-0"]
@@ -845,7 +845,7 @@ g6 24.b3 f5 25.Qxe7 Rexe7 26.Bf3 Bd7 27.Ne5 Be8 28.Bxe4 1/2-1/2
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2017.11.18"]
-[Round "3"]
+[Round "4"]
 [White "Aakio, Seppo"]
 [Black "Kool, Kaspar"]
 [Result "0-1"]
@@ -873,7 +873,7 @@ Qf3+ 81.Kc2 Qxf2+ 82.Kb3 Qxf6 83.Rb5+ Ka6 84.Rxd5 Qe6 85.Kc4 0-1
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2017.11.18"]
-[Round "3"]
+[Round "4"]
 [White "Alzakout, Hassan"]
 [Black "Nyrhinen, Harri"]
 [Result "1/2-1/2"]
@@ -896,7 +896,7 @@ dxc4 24.Qxc4+ Kb8 25.Rab1 Rc8 26.Qb3 Qd7 27.Bg5 Rhe8 28.Bxf6 gxf6 29.Qd5 Rc2+
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2017.11.18"]
-[Round "3"]
+[Round "4"]
 [White "Kivinen, Jyrki"]
 [Black "Häkkinen, Henrik"]
 [Result "1-0"]
@@ -916,7 +916,7 @@ dxe5 30.fxe5 Qxd5 31.Qxh7+ Rxh7 32.Rxh7+ Kg8 33.Rg7+ Kf8 34.Rh8+ 1-0
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2017.11.18"]
-[Round "3"]
+[Round "4"]
 [White "Manns, Harri"]
 [Black "Vesely, Petr"]
 [Result "0-1"]
@@ -933,3 +933,23 @@ Na6 16.a3 Rd7 17.b4 Rad8 18.c5 Nc7 19.Be4 g6 20.d3 Nb5 21.Qb3 Qc3 22.Rb1 Qxb3
 23.Rxb3 Nd4 24.Rb2 f5 25.f3 fxe4 26.dxe4 a6 27.Rfb1 Nb5 28.Rb3 Rd1+ 29.Rxd1
 Rxd1+ 30.Kf2 Kf7 31.Ke2 Ra1 32.Ke3 Rxa3 33.Rxa3 Nxa3 34.Kd3 e5 35.h4 Ke6 36.g3
 Nb5 37.f4 Nd4 38.fxe5 Kxe5 39.g4 Nf3 40.h5 Ng5 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.11.18"]
+[Round "3"]
+[White "Ahokas, Eero"]
+[Black "Siikonen, Timo"]
+[Result "1/2-1/2"]
+[Section "III Division:5"]
+[Board "3"]
+[WhiteTeam "Kirkkonummen Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[WhiteElo "1748"]
+[BlackElo "1772"]
+
+1.d4 f5 2.Bg5 Nf6 3.Nc3 e6 4.e4 fxe4 5.Bxf6 Qxf6 6.Nxe4 Qh4 7.Ng3 d5 8.Nf3 Qh6
+9.Bd3 Bd6 10.O-O O-O 11.Qd2 Bf4 12.Qe2 Nc6 13.c3 e5 14.Nxe5 Nxe5 15.dxe5 Qg5
+16.Rfe1 Bg4 17.f3 Be6 18.Nf1 Rae8 19.Kh1 Bd7 20.Qc2 g6 21.Rad1 Bxe5 22.Qf2 Bc6
+23.Ng3 Qh4 24.Re2 Bxg3 25.Qxg3 Qxg3 26.hxg3 Rxe2 27.Bxe2 Re8 28.Bd3 Kg7 29.Kg1
+Kf6 1/2-1/2
