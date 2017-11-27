@@ -1082,3 +1082,17 @@ Rae8 21.h4 Re5 22.h5 Kf7 23.hxg6+ hxg6 24.Rh1 Kg7 25.Rh4 Rfe8 26.c3 R8e7
 Rh2 34.Kc1 Be6 35.Rg1 Kf6 36.Rf1+ Ke5 37.Rg1 g4 38.Rg3 Rh3 39.Rg1 Rxe3 40.Kd2
 Rf3 41.Re1+ Kf6 42.Rh1 Rf2+ 43.Kc1 Bd5 44.Rh6+ Kg5 45.Rg6+ Kf4 46.Rf6+ Ke3
 47.Rh6 g3 48.Rh3 Rf1+ 49.Kb2 Kf2 50.Rh5 Bf3 51.Rf5 g2 52.Be4 Ke3 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2017.11.27"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Mäki-Fränti, Petri"]
+[Result "1-0"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 Nbd7 4.f4 e5 5.Nf3 exd4 6.Qxd4 Be7 7.e5 dxe5 8.fxe5 Bc5
+9.Qf4 Qe7 10.Be2 Ng8? 11.Nd5 Qd8 12.Bc4 (12.e6!) Ne7 13.e6 (13.Nb6!) Nxd5?
+14.Qxf7# 1-0
