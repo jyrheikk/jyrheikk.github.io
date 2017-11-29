@@ -1090,9 +1090,22 @@ Rf3 41.Re1+ Kf6 42.Rh1 Rf2+ 43.Kc1 Bd5 44.Rh6+ Kg5 45.Rg6+ Kf4 46.Rf6+ Ke3
 [White "Heikkinen, Jyrki"]
 [Black "Mäki-Fränti, Petri"]
 [Result "1-0"]
-[Stage "Semi-Final"]
+[Stage "Quarter-Final"]
 [TimeControl "1200+10"]
 
 1.d4 Nf6 2.Nc3 d6 3.e4 Nbd7 4.f4 e5 5.Nf3 exd4 6.Qxd4 Be7 7.e5 dxe5 8.fxe5 Bc5
 9.Qf4 Qe7 10.Be2 Ng8? 11.Nd5 Qd8 12.Bc4 (12.e6!) Ne7 13.e6 (13.Nb6!) Nxd5?
 14.Qxf7# 1-0
+
+[Event "Fischerandom Tournament"]
+[Site "Helsinki FIN"]
+[Date "2017.11.29"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Kivinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "600+5"]
+[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq -"]
+
+1.e4 Rc8 2.d5 exd5 3.e5 Ng4 4.Nd4 Qd7? 5.e6 Qe8 6.Qf5 N4e5? 7.exf7+ Nxf7
+8.Qxg6 Qe5 9.Ngf5 Ng5 10.f4 Qe4+ 11.Ka1 Nf7 12.Qxg7#
