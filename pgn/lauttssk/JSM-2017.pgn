@@ -958,6 +958,73 @@ Kf6 1/2-1/2
 [Site "Helsinki FIN"]
 [Date "2017.12.02"]
 [Round "6"]
+[White "Jouhki, Yrjö Markus"]
+[Black "Hurme, Harri"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "1"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2303"]
+[BlackElo "2264"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 c5 6.Nc3 Nc6 7.d4 d6 8.d5 Na5 9.Nd2
+a6 10.Qc2 Rb8 11.b3 b5 12.Bb2 bxc4 13.bxc4 h5 14.Nd1 e5 15.Bc3 Bd7 16.f4 Ng4
+17.h3 Nh6 18.e4 exf4 19.gxf4 Re8 20.Bxg7 Kxg7 21.Qc3+ Kh7 22.e5 Bf5 23.Nf2 f6
+24.exf6 Rb4 25.Rae1 Nf7 26.Be4 Rg8 27.Kh1 Nh6 28.Bc2 Rb7 29.Nfe4 Nf7 30.Ng5+
+Nxg5 31.fxg5 Rf7 32.Rxf5 gxf5 33.Bxf5+ Kh8 34.Be6 Rgf8 35.Rf1 Nb7 36.Bxf7 Rxf7
+37.g6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Havansi, Erkki"]
+[Black "Hokkanen, Petri"]
+[Result "1/2-1/2"]
+[Section "I Division:B"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[WhiteElo "2174"]
+[BlackElo "2269"]
+
+1.Nf3 d5 2.c4 c6 3.cxd5 cxd5 4.d4 Nc6 5.Nc3 a6 6.Bf4 Nf6 7.e3 Bf5 8.Bd3 Bxd3
+9.Qxd3 e6 10.h3 Be7 11.O-O O-O 12.Ne5 Rc8 13.a3 Na5 14.b4 Nc4 15.Na4 b6
+16.Rfb1 Ne8 17.Nxc4 dxc4 18.Qc2 Bd6 19.Bxd6 Nxd6 20.Nc3 f5 21.Re1 Qd7 22.Rad1
+Nb5 23.Qb2 Rfd8 24.Rc1 Nc7 25.Red1 Nd5 26.Re1 b5 27.Qe2 Qc7 28.Qf3 g6 29.Qg3
+Qxg3 30.fxg3 Nxc3 31.Rxc3 e5 32.dxe5 Rd3 33.Rxd3 cxd3 34.Kf2 Rc2+ 35.Kf3 Rc3
+36.Kf4 Kf7 37.Rd1 Rxa3 38.e4 fxe4 39.Kxe4 Rb3 40.Kd5 Ke7 41.g4 Rxb4 42.Rxd3
+Rb1 43.Ra3 b4 44.Rxa6 Rd1+ 45.Ke4 b3 46.Rb6 Rb1 47.Kd3 b2 48.Kc2 Rg1 49.Kxb2
+Rxg2+ 50.Kc3 Rg3+ 51.Kd4 Rxh3 52.Rb7+ Ke6 53.Rb6+ Kd7 54.Ke4 Ke7 55.Rb7+ Ke6
+56.Rb6+ Ke7 57.Rb7+ Ke6 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Nokka, Risto"]
+[Black "Saren, Ilkka"]
+[Result "1/2-1/2"]
+[Section "I Division:B"]
+[Board "3"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2209"]
+[BlackElo "2072"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Bd3 Bb7 5.O-O Be7 6.c4 O-O 7.Nc3 d5 8.b3 Nbd7
+9.Bb2 c5 10.Rc1 Rc8 11.Qe2 Qc7 12.Rfd1 Qb8 13.cxd5 exd5 14.Ba6 Rfd8 15.Rc2 c4
+16.Bxb7 cxb3 17.axb3 Qxb7 18.Rdc1 Bd6 19.Nd2 Bb4 20.Ndb1 a6 21.Na2 Bf8 22.Ba3
+Bxa3 23.Nxa3 b5 24.Nb4 Nb6 25.Nc6 Re8 26.Nb1 h6 27.Nd2 Nc4 28.Nb4 Nb6 29.Nf3
+Rxc2 30.Rxc2 Rc8 31.Ne5 Rxc2 32.Qxc2 a5 33.Nbc6 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
 [White "Heikkinen, Jyrki"]
 [Black "Saastamoinen, Aarne"]
 [Result "1/2-1/2"]
@@ -975,6 +1042,96 @@ Rfd8 22.Nc1 Nb6 23.b3 e5 24.Qe1 h6 25.Rxd7 Rxd7 26.Rxd7 Qxd7 27.Nf2 Qd6 28.Nd1
 Kf7 29.Ne3 g6 30.Qe2 Kf6 31.Nd3 e4 32.Ne1 h5 33.Qf2 Kg7 34.Nf1 Qe5 35.fxe4
 Bxe4 36.Qd2 Nd5 37.c4 Nf6 38.Nd3 (38...Bxd3! 39.Qxd3 Ne4) Qd4+ 39.Nf2 h4
 40.Qxd4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Porrasmaa, Timo"]
+[Black "Kauppala, Pekka"]
+[Result "1/2-1/2"]
+[Section "I Division:B"]
+[Board "5"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1978"]
+[BlackElo "2063"]
+
+1.d4 g6 2.Nf3 Bg7 3.c3 Nf6 4.Bg5 Ne4 5.Bf4 d5 6.Nbd2 c5 7.e3 Bg4 8.Be2 cxd4
+9.cxd4 O-O 10.O-O Nc6 11.h3 Bf5 12.Rc1 Qb6 13.Qb3 Nxd2 14.Nxd2 e5 15.dxe5 Nxe5
+16.Bxe5 Bxe5 17.Qxd5 Rad8 18.Qxe5 Rxd2 19.Bc4 Qxb2 20.Qxb2 Rxb2 21.Rfd1 Re8
+22.Bb3 Be6 23.Bxe6 Rxe6 24.Rd7 Rf6 25.f3 b5 26.Rxa7 b4 27.Rcc7 h5 28.h4 Rf5
+29.Kh1 Rf6 30.Kg1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Tuovinen, Jukka"]
+[Black "Al Hajaj, Amjad"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[WhiteElo "1991"]
+[BlackElo "1878"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Qf3 Qxf3 7.gxf3 bxc6 8.Be3
+Bb6 9.Nd2 d5 10.c3 f6 11.a4 Rb8 12.O-O-O Ne7 13.exd5 cxd5 14.b4 a5 15.Bxb6
+cxb6 16.Bb5+ Kf7 17.bxa5 bxa5 18.Nb3 Ba6 19.Nd4 Bxb5 20.Nxb5 Rb6 21.Rd4 Rc8
+22.Rhd1 Ke6 23.Re1+ Kf7 24.Kb2 Re6 25.Red1 Re2+ 26.Kb3 Ke6 27.Rxd5 Nxd5
+28.Nd4+ Kd6 29.Nxe2 Kc5 30.Nd4 Rb8+ 31.Nb5 Nb6 32.c4 Re8 33.Nd6 Re2 34.Ne4+
+Kc6 35.Rd6+ Kc7 36.Rd2 Rxd2 37.Nxd2 Nd7 38.Ne4 Ne5 39.f4 Ng6 40.f5 Nh4 41.Ng3
+Kd6 42.Kc3 Nf3 43.h3 Ke5 44.Kd3 Ng5 45.h4 Nf3 46.h5 Ng5 47.Ke3 Nh3 48.f3 Nf4
+49.c5 Nd5+ 50.Kd3 Kf4 51.Kd4 Nc7 52.Ne4 Kxf5 53.c6 Ke6 54.Kc5 Ke7 55.Kb6 Nd5+
+56.Kxa5 f5 57.Nd2 Kd6 58.Kb5 Nc3+ 59.Kb6 Nxa4+ 60.Kb5 Nc3+ 61.Kb6 Nd5+ 62.Kb7
+Ne7 63.c7 Kd5 64.Nb1 Kd6 65.Nc3 Kd7 66.Nd5 Nc8 67.h6 Nd6+ 68.Kb8 Kc6 69.Ne7+
+Kd7 70.Nxf5 Nc8 71.Nxg7 Nd6 72.Nf5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Mustonen, Tapani"]
+[Black "Aakio, Seppo"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "7"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1969"]
+[BlackElo "1986"]
+
+1.d4 d6 2.g3 c6 3.Bg2 Nd7 4.Nf3 e5 5.e4 Be7 6.b3 Ngf6 7.Nbd2 O-O 8.O-O b5
+9.Bb2 Qc7 10.Re1 Re8 11.c4 exd4 12.Nxd4 bxc4 13.Nxc4 Ne5 14.Rc1 Bd7 15.Nb5
+cxb5 16.Nxe5 Qb6 17.Nxd7 Nxd7 18.Bxg7 Ne5 19.Bxe5 dxe5 20.Bh3 Bc5 21.Rc2 Rad8
+22.Qg4+ Kh8 23.Qh5 f6 24.Rec1 Bd6 25.Rc6 Qb8 26.Bf5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.12.02"]
+[Round "6"]
+[White "Nyrhinen, Harri"]
+[Black "Heliövaara, Simo"]
+[Result "0-1"]
+[Section "I Division:B"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[WhiteElo "1979"]
+[BlackElo "1538"]
+
+1.e4 e5 2.Nc3 Bc5 3.Nf3 Nc6 4.Bc4 Nf6 5.d3 h6 6.O-O d6 7.h3 O-O 8.Na4 Bb6
+9.Nxb6 axb6 10.a3 Be6 11.Bxe6 fxe6 12.Re1 Qe8 13.c3 Rd8 14.Qc2 Rd7 15.d4 exd4
+16.cxd4 Qg6 17.Re2 Nh5 18.e5 Qxc2 19.Rxc2 dxe5 20.Bd2 Rxf3 21.Rxc6 bxc6
+22.gxf3 exd4 23.Rc1 c5 24.b4 cxb4 25.axb4 g5 26.Kh2 Kf7 27.h4 Nf4 28.hxg5 hxg5
+29.Rc4 Kf6 30.Kg3 Kf5 31.Rc6 Rh7 32.Bxf4 gxf4+ 33.Kg2 Rd7 34.Kf1 Ke5 35.Ke2
+Kd5 36.b5 Re7 37.Kd3 e5 38.Rc1 c5 39.bxc6 Rc7 40.Rb1 Rxc6 41.Rb5+ Rc5 42.Rxb6
+Rc3+ 43.Ke2 Rc2+ 44.Ke1 Kc4 45.Ra6 Kd3 46.Ra3+ Rc3 47.Ra1 Kc2 48.Ra2+ Kc1
+49.Ra1+ Kb2 50.Ra5 Rxf3 51.Rxe5 Kc3 52.Ra5 Kd3 53.Ra3+ Ke4 54.Ra8 Rb3 55.Ra4
+Kd3 56.Ra1 f3 57.Rd1+ Kc2 58.Rd2+ Kc3 59.Rd1 Rb2 60.Rc1+ Rc2 61.Ra1 Re2+
+62.Kf1 d3 63.Ra3+ Kc2 64.Ra2+ Kb3 65.Ra1 d2 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
