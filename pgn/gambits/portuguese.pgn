@@ -1355,3 +1355,25 @@ Rxd8 23.Kxh4 h6 24.Kh5 Kh7 25.Rae1 g6+ 26.Kh4 Rf7 27.Rd1 Ng7 28.Rfe1 Rxd1
 13.O-O-O) cxd5 13.Qxf5+ Kc6 14.Rc1 Qd7 15.cxd5+ Kb6 16.Qd3 Nxd5 17.Bh3?
 (17.a3) Qa4+ 18.b3 Qxa2 19.Qc4 Re8 20.Ne2 Nc6 21.Bd7 Ne3+ (21...Rxe2!) 22.Bxe3
 Rxe3 23.Bxc6 Qd2# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.01.13"]
+[Round "7"]
+[White "Salmenkivi, Eero"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:B"]
+[Board "3"]
+[WhiteTeam "Espoon Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1971"]
+[BlackElo "2062"]
+[TimeControl "40/6600:1800+30"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bb5+ c6 6.dxc6 Nxc6 7.c3 e6 8.Ne2 Qb6
+9.Bd3 Bg6 10.Bxg6 hxg6 11.Nd2 Qc7 12.g3 O-O-O 13.f4 Ng4 14.Nf3 Be7 15.Bd2 Rh5
+16.Nc1 Qb6 17.Nd3 Rdh8 18.h4 Ra5 19.b4 Rd5 20.a4 f6 21.Qe2 e5 22.Qe4 Qd8
+23.Qxg6 Qd7 24.b5 Na5 25.fxe5 Nc4 26.Bf4 Rd8 27.Qe4 fxe5 28.Ndxe5 Qe6 29.O-O
+Ncxe5 30.Nxe5 g5 31.hxg5 Rh8 32.Rae1 Nh2 33.Rf2 Qh3 34.Qg2 Qh7 35.Qxh2 Qg7
+36.Qg2 Rdd8 37.Qf3 1-0
