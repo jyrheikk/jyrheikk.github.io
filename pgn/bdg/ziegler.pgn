@@ -508,3 +508,27 @@ Rh4 23.Kb2 e5 24.a4 exd4 25.axb5 dxc3+ 26.Bxc3 Rxd1 27.Qxd1 Nd5 28.Be1 Qe5+
 
 1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 exf3 6.Nxf3 Nbd7 7.O-O Nb6 8.Bb3 g6
 9.Ne5 Nbd5?? 10.Nxd5 cxd5 11.Ba4+ Bd7 12.Bxd7+ Nxd7 13.Nxf7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2018.02.03"]
+[Round "8"]
+[White "Heikkinen, Jyrki"]
+[Black "Hagelberg, Lauri"]
+[Result "1/2-1/2"]
+[Section "I Division:B"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakki"]
+[WhiteElo "2050"]
+[BlackElo "2053"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 c6 6.Bc4 Bf5 7.Ne5 e6 8.O-O Bg6
+9.Be3 Bd6 10.Qf3 Qc7 11.Rae1 (11.Bh6!?) O-O 12.Nxg6 hxg6 13.Qh3 b5 14.Rxf6
+gxf6 15.Ne4 Qe7 16.Rf1 Nd7 17.Nxf6+?? (17.Rf3 bxc4 18.Qh6 f5 19.Rh3 f6 20.Nxd6
+{=}) Qxf6? (17...Nxf6 18.Bg5 Be5 {-+}) 18.Rxf6 Nxf6 19.Bd3 Rfe8 20.Qh4 Nd5
+21.Bd2 Rad8 22.Be4 Be7 23.Qg3 Bd6 24.Qf2 Be7 25.h4 Kg7 26.h5 (26.Bh6+!? Kxh6
+27.Qxf7 Rg8 28.Bxd5) f5?? 27.Bxd5 exd5 28.Qg3 Rd6 29.Bf4? (29.Qe5+ Kf7 30.h6
+{+-}) Re6 30.Be5+ Kf7 31.hxg6+ Rxg6 32.Qh3 Ke6 33.Kf1 Reg8 34.Qe3 Kd7 35.Qf3
+Ke6 36.Qe3 Kd7 37.Qf3 Ke6 38.Qe3 1/2-1/2
