@@ -2122,3 +2122,18 @@ Nxf8 25.Rxf8+ Qd8 26.Bxb7+ Kc7 27.Rxd8 Kxd8 28.Kxh2 1-0
 9.Bd3 Bb4 10.O-O Bxc3 11.bxc3 Nbd7 12.g4 h6 13.h4 Qe7 14.Rab1 O-O-O 15.Ba6 Nb6
 16.Qxc6+ Qc7?? 17.Bxb7+ Kb8 18.Bf4 Qxf4 19.Rxf4 Rd7 20.Ba6 Rhd8 21.c4 e5
 22.Rf3 Nxg4 23.Rfb3 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.02.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Nevalainen, Olli-Matti"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bxf3 7.Qxf3 c6 8.Be3 g6
+9.Bc4 Bg7 10.O-O O-O 11.Rad1 Nbd7 12.Ne4 b5 13.Bb3 a5 14.a4 Rb8 15.Nxf6+ Nxf6
+16.Qxc6 Nd5?? (16...Rb6 17.Qf3 bxa4 18.Bxa4 Rxb2 19.Bb3 a4) 17.Qxd5 Qe8
+18.axb5 Rxb5 19.Qe4 Rb4 20.Bf2 e5 21.Be1 Rb5 22.Ba4 Qb8 23.Bxb5 Qxb5 24.Bc3
+Re8 25.dxe5 Bxe5 26.Bxe5 Rxe5 27.Rd8+ Kg7 28.Qd4 Kh6 29.Rxf7 Re1+ 30.Kh2 1-0
