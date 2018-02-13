@@ -57,20 +57,6 @@ Rfd8 18.axb4 Bxf3 19.gxf3 Nxb4 20.Qb3 Qh3+ 21.Ke1 Nd3+ 22.Bxd3 Rxd3
 19.Bd3+ g6 20.Rf7# 1-0
 
 [Event "Casual Game"]
-[Site "Internet Gaming Zone"]
-[Date "1996.11.28"]
-[Round "-"]
-[White "masoud"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[TimeControl "300"]
-[Mode "ICS"]
-
-1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 c5 5.e3 Nc6 6.exd4 cxd4 7.Be2
-f6 8.exf6 Nxf6 9.O-O Bd6 10.Kh1 Bc7 11.Re1 O-O 12.h3 Bf5 13.Nbd2
-Qd7 14.Nh2 Bxh3 15.gxh3 Qxh3 16.Nf1 Ne4 17.Be3 Rxf2 0-1
-
-[Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2000.11.13"]
 [Round "?"]
@@ -82,36 +68,6 @@ Qd7 14.Nh2 Bxh3 15.gxh3 Qxh3 16.Nf1 Ne4 17.Be3 Rxf2 0-1
 
 1.d4 e5 2.dxe5 Nc6 3.Nf3 Nge7 4.Bf4 Ng6 5.Bg3 Qe7 6.Nc3 Qc5 7.Qd5 Nb4 8.Qb3
 Be7 9.O-O-O O-O 10.a3 Nc6 11.Na4 (11.Na4 Qa5 12.Rd5) 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2002.01.02"]
-[Round "?"]
-[White "Kaiju, Kauko"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[TimeControl "180+2"]
-[Termination "time forfeit"]
-
-1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 f6 6.exf6 Nxf6 7.Bg2 Bf5
-8.a3 Qd7 9.b4 d3 10.b5 Nd4 11.exd3 Nxf3+ 12.Qxf3 Bxd3 13.Qxb7 Qe7+
-14.Be3 Rd8 15.Nc3 Qe5 16.Qc6+ Rd7 0-1
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2002.05.15"]
-[Round "?"]
-[White "Heikkinen, Jyrki"]
-[Black "Kaiju, Kauko"]
-[Result "1-0"]
-[TimeControl "180+2"]
-[Termination "time forfeit"]
-
-1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Qa4 Bd7 6.Qb3 b6 7.Bf4 Nge7 8.a3
-Ng6 9.Bg3 a5 10.Qd3 Bc5 11.h4 h5 12.Qe4 O-O? 13.e6 Bxe6 14.Qxc6 Bxc4
-15.Qxc7 Qf6 16.Be5 Nxe5 17.Qxe5 Qg6 18.Nbd2 Rfe8 19.Qg5 Qd3 20.e3
-(20.Ne5) dxe3 (20...Qc2 21.Bxc4 dxe3 22.O-O) 21.Bxd3 exf2+ 22.Kd1 Bxd3
-23.Rc1 Be2+ 24.Kc2 Be3 25.Qxh5 Rac8+ 26.Kb1 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
