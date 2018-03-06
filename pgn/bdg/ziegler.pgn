@@ -526,9 +526,25 @@ Rh4 23.Kb2 e5 24.a4 exd4 25.axb5 dxc3+ 26.Bxc3 Rxd1 27.Qxd1 Nd5 28.Be1 Qe5+
 
 1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 c6 6.Bc4 Bf5 7.Ne5 e6 8.O-O Bg6
 9.Be3 Bd6 10.Qf3 Qc7 11.Rae1 (11.Bh6!?) O-O 12.Nxg6 hxg6 13.Qh3 b5 14.Rxf6
-gxf6 15.Ne4 Qe7 16.Rf1 Nd7 17.Nxf6+?? (17.Rf3 bxc4 18.Qh6 f5 19.Rh3 f6 20.Nxd6
-{=}) Qxf6? (17...Nxf6 18.Bg5 Be5 {-+}) 18.Rxf6 Nxf6 19.Bd3 Rfe8 20.Qh4 Nd5
-21.Bd2 Rad8 22.Be4 Be7 23.Qg3 Bd6 24.Qf2 Be7 25.h4 Kg7 26.h5 (26.Bh6+!? Kxh6
-27.Qxf7 Rg8 28.Bxd5) f5?? 27.Bxd5 exd5 28.Qg3 Rd6 29.Bf4? (29.Qe5+ Kf7 30.h6
-{+-}) Re6 30.Be5+ Kf7 31.hxg6+ Rxg6 32.Qh3 Ke6 33.Kf1 Reg8 34.Qe3 Kd7 35.Qf3
-Ke6 36.Qe3 Kd7 37.Qf3 Ke6 38.Qe3 1/2-1/2
+gxf6 15.Ne4 Qe7 (15...bxc4?? 16.Nxf6+ Kg7 17.Bh6+ Kxf6 18.Qh4+ Kf5 19.g4#)
+16.Rf1 Nd7 17.Nxf6+?? (17.Rf3 bxc4 18.Qh6 f5 19.Rh3 f6 20.Nxd6 {=}) Qxf6?
+(17...Nxf6 18.Bg5 Be5 {-+}) 18.Rxf6 Nxf6 19.Bd3 Rfe8 20.Qh4 Nd5 21.Bd2 Rad8
+22.Be4 Be7 23.Qg3 Bd6 24.Qf2 Be7 25.h4 Kg7 26.h5 (26.Bh6+!? Kxh6 27.Qxf7 Rg8
+28.Bxd5) f5?? 27.Bxd5 exd5 28.Qg3 Rd6 29.Bf4? (29.Qe5+ Kf7 30.h6 {+-}) Re6
+30.Be5+ Kf7 31.hxg6+ Rxg6 32.Qh3 Ke6 33.Kf1 Reg8 34.Qe3 Kd7 35.Qf3 Ke6 36.Qe3
+Kd7 37.Qf3 Ke6 38.Qe3 1/2-1/2
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.03.06"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Niemelä, Mika"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 exf3 6.Nxf3 e6 7.O-O Be7 8.Bd3 h6
+9.Qe1 Nd5 10.Qg3 Bf6? 11.Ne4 Nd7 12.c3 (12.c4 Ne7 13.Nd6+ Kf8 14.Ne5) Qc7
+13.Nxf6+ gxf6 14.Qg7 Rf8 15.Bxh6 b5 16.Ne5!? (16.Rae1 Bb7 17.Ng5!) Nxe5??
+(16...fxe5 17.Rxf7! (17.Bg6? Nf4) Rxf7 18.Bg6 N7f6 19.Qf8+ Kd7 20.Qxf7+ Kd8
+21.Qf8+ Kd7 22.Rf1 {+/-}) 17.Qxf8+ Kd7 18.dxe5 Bb7 19.Qxf7+ Ne7 20.exf6 1-0
