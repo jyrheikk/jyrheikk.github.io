@@ -1344,3 +1344,18 @@ Nb4 9.Qd1 Bf5 10.Rc1 e6 11.a3 Nc6 12.Nge2 Bg4 13.O-O Bd6 14.h3 Qh4 15.Qe1 Bf5
 9.Qd3 a6 10.Ba4 Ne7 11.Bxc6+ Qxc6 12.b3 Bf5 13.Qd2?? Bb4 14.Bb2 Rc8 15.Nd4
 Bxc3 16.Nxc6 Bxd2 17.Nxe7 Kxe7 18.c4 Rhd8 19.cxd5 Rxd5 20.g3 b5 21.Rfd1 Bg4
 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2018.03.14"]
+[Round "-"]
+[White "Vartiainen, Turo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "240+2"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.Nf3 Bg4 6.Be2 Nc6 7.O-O O-O-O 8.c3
+e5 9.Qa4 h5? (9...e4) 10.Bc4 Qd7 (10...Qd6) 11.Ne1 Bc5 12.Nd3 Bb6 13.Kh1 e4
+14.Nf4 Qf5 15.d3 exd3 16.f3 g5 (16...d2) 17.fxg4?? (17.Nd5 Rhe8) hxg4 18.Bd2
+gxf4 19.Rxf4 g3 (19...Rxh2+! 20.Kxh2 g3+ 21.Kxg3 Rg8+) 20.h3 (20.h4 Nd4!)
+Rxh3+ 21.gxh3 Qxh3# 0-1
