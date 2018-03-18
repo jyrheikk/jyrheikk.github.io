@@ -9,14 +9,15 @@
   "scotch.pgn": 7,
   "sicilian.pgn": 37,
   "benoni.pgn": 33,
+  "catalan.pgn": 3,
   "grunfeld.pgn": 23,
   "kid.pgn": 23,
   "trompowsky.pgn": 10,
   "london.pgn": 9,
-  "qgambit.pgn": 16,
+  "qgambit.pgn": 15,
   "dutch.pgn": 8,
   "bird.pgn": 6,
-  "reti.pgn": 8,
+  "reti.pgn": 7,
   "benko.pgn": 17,
-  "misc.pgn": 70
+  "misc.pgn": 69
 }
