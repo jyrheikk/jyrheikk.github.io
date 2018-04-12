@@ -31,10 +31,10 @@ Nxe4 16.Qxe4 g6 17.Bxh6 Nf6 18.Qh4 Nd5 19.Qe4 Nf6 20.Qe5 Ne8 21.Bxg6 Qb5
 1.e4 d5 2.d4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bg4 6.Bc4 e6 7.h3 Bh5 8.g4 Bg6
 9.Bg5 Be7 10.Qe2 c6 11.O-O-O Nd5 12.Bd2 Nd7 13.Rde1 N7b6 14.h4 h6 15.Ne5 Bh7
 16.Nxf7 Kxf7 17.Qxe6+ Ke8 18.Nxd5 Nxd5 19.Bxd5 (19.Qe5 Rg8 20.Qh5+ Kd7 21.Bxd5
-{+/= Fritz 4.01}) cxd5 20.Bb4 Be4 21.Rhf1 (21.Rxe4!? dxe4 22.Qg6+ Kd7 23.Qf5+
-Kc7) Rc8 (21...Qd7 22.Rxe4 dxe4 23.Qg6+ Kd8 24.Bxe7+ Qxe7 25.Rf7 {=})
-22.Rxe4 dxe4 23.Bxe7 (23.Rf7?! Rc7 24.Qg6 Qc8 25.Rxe7+ Kd8 26.Qd6+ Rd7 27.Qe5)
-Qxe7 24.Qxc8+ Qd8 25.Qxb7 1-0
+{+/=}) cxd5 20.Bb4 Be4 21.Rhf1 (21.Rxe4!? dxe4 22.Qg6+ Kd7 23.Qf5+ Kc7) Rc8
+(21...Qd7 22.Rxe4 dxe4 23.Qg6+ Kd8 24.Bxe7+ Qxe7 25.Rf7 {=}) 22.Rxe4 dxe4
+23.Bxe7 (23.Rf7?! Rc7 24.Qg6 Qc8 25.Rxe7+ Kd8 26.Qd6+ Rd7 27.Qe5) Qxe7
+24.Qxc8+ Qd8 25.Qxb7 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -1191,7 +1191,7 @@ Kd7 (21...Ke7 22.Rxe6+!) 22.Qxf7+! Rxf7 23.Rxf7+ Kd8 24.Rxe6) 1-0
 [Result "1-0"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "?"]
+[BlackTeam "Helsingin Shakkiklubi"]
 [WhiteElo "2088"]
 [BlackElo "2217"]
 [TimeControl "300"]
@@ -2137,3 +2137,23 @@ Nxf8 25.Rxf8+ Qd8 26.Bxb7+ Kc7 27.Rxd8 Kxd8 28.Kxh2 1-0
 16.Qxc6 Nd5?? (16...Rb6 17.Qf3 bxa4 18.Bxa4 Rxb2 19.Bb3 a4) 17.Qxd5 Qe8
 18.axb5 Rxb5 19.Qe4 Rb4 20.Bf2 e5 21.Be1 Rb5 22.Ba4 Qb8 23.Bxb5 Qxb5 24.Bc3
 Re8 25.dxe5 Bxe5 26.Bxe5 Rxe5 27.Rd8+ Kg7 28.Qd4 Kh6 29.Rxf7 Re1+ 30.Kh2 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.04.12"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Nurmela, Janne"]
+[Result "0-1"]
+[Section "A"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[TimeControl "900"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 e6
+9.Qf3 c6 10.g5 Bh5 11.Qf2 Nfd7 12.Be2 Nxe5 13.Bxh5 Ng6 14.Rf1 Qd7 15.Ne4 Na6
+16.Be3 O-O-O 17.Qxf7 (17.O-O-O) Qd5 18.Nc3 (18.Nd2) Bb4 19.Bg4 Rde8 20.O-O-O
+Bxc3 21.bxc3 Qxa2 22.Kd2 Re7 23.Qf3 Qc4 24.Qg3 Nc7 25.Ra1 a6 26.Be2 Qd5 27.Bf3
+Qc4 28.Rfb1 Nd5 29.Ra3 Nxe3 30.Kxe3 e5 31.Bg4+ Kd8 32.Kf2 Rf8+ 33.Kg1 Nf4
+34.Rf1 Qd5 35.Rb3 {no more moves recorded} 0-1
