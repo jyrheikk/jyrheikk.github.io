@@ -4,8 +4,8 @@
   "caro-kann.pgn": 13,
   "french.pgn": 35,
   "austrian.pgn": 48,
-  "pirc.pgn": 42,
-  "center-counter.pgn": 81,
+  "pirc.pgn": 43,
+  "center-counter.pgn": 82,
   "scotch.pgn": 7,
   "sicilian.pgn": 37,
   "benoni.pgn": 33,
@@ -19,5 +19,5 @@
   "bird.pgn": 6,
   "reti.pgn": 7,
   "benko.pgn": 17,
-  "misc.pgn": 69
+  "misc.pgn": 68
 }
