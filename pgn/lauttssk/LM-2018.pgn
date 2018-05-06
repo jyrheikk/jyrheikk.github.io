@@ -63,6 +63,22 @@ Re8 17.Bf3 Ra7 18.Ne4 Qc7 19.dxc5 Bxc3? (19...Bxe4) 20.cxb6 Qxb6 21.Rxc3 Bxe4
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2018.04.11"]
+[Round "1"]
+[White "Tuovinen, Jukka"]
+[Black "Siikonen, Timo"]
+[Result "1/2-1/2"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 Qb6 8.Nf3 cxd4
+9.cxd4 Bb4+ 10.Bd2 Bxd2+ 11.Qxd2 Qb4 12.Rc1 Qxd2+ 13.Nxd2 f6 14.exf6 Nxf6
+15.O-O O-O 16.f4 Ng4 17.Rc3 Bd7 18.a3 Rac8 19.Nf3 Ne7 20.Rfc1 Rxc3 21.Rxc3 Rc8
+22.Rxc8+ Nxc8 23.h3 Nf6 24.Ne5 Nd6 25.Nc3 g6 26.a4 Be8 27.Kf2 Kf8 28.Kf3 Ke7
+29.g4 a6 30.b3 Nd7 31.Nxd7 Kxd7 32.f5 Ke7 33.Kf4 gxf5 34.gxf5 h6 35.fxe6 Kxe6
+36.Be2 Bc6 37.Bg4+ Kf6 38.Bf3 Ke6 39.Kg4 Nf5 40.Ne2 Kf6 41.h4 Bd7 42.Kf4 Bc6
+43.h5 Nd6 44.Nc3 Ke6 45.Bg4+ Kf6 46.Bf3 Ke6 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2018.04.14"]
 [Round "1"]
 [White "Vartiainen, Turo"]
@@ -88,6 +104,20 @@ fxg5 20.Nxg5+) 18.h6 Bf8 19.Ng5+ Ke8 20.Ne6 Qb8 21.Bf4 Nc8 22.Re1 Be7 23.fxg6
 hxg6 24.Nf5 Nf8 25.Neg7+ Kd7 26.Nxe7 Nxe7 27.e5 dxe5 28.dxe5 fxe5 29.Bxe5 Qb7
 30.Qh3+ Kd8 31.Bf6 Rh7 32.Rxe7 Qxe7 33.Rd1+ Kc7 34.Bxe7 Kb6 35.Qe3+ Kb7
 36.Bxf8 Rxf8 37.Qe7+ Kb6 38.Qxf8 Rxh6 39.Ne6 Rh5 40.Qb8+ Ka6 41.Nc7# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.04.26"]
+[Round "2"]
+[White "Siikonen, Timo"]
+[Black "Vartiainen, Turo"]
+[Result "1-0"]
+
+1.e4 c5 2.f4 a6 3.Nf3 e6 4.Nc3 Nc6 5.a4 d6 6.Bc4 g6 7.O-O Bg7 8.d3 Qc7 9.Bd2
+Nge7 10.Qe1 b6 11.Qg3 Na5 12.Ba2 Bd7 13.Ng5 b5 14.axb5 axb5 15.f5 Bd4+ 16.Kh1
+c4 17.Nxf7 Kxf7 18.fxe6+ Ke8 19.exd7+ Kxd7 20.Nxb5 Qb6 21.Nxd4 Qxd4 22.Bc3 Qb6
+23.Qg4+ Kc6 24.Bxh8 Rxh8 25.Qe6 cxd3 26.cxd3 Qxb2 27.Rfc1+ Kb6 28.Qxd6+ Kb7
+29.Qxe7+ Kb8 30.Qc7+ Ka8 31.Bd5+ 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
