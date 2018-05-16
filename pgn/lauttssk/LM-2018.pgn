@@ -185,3 +185,13 @@ Rb6 44.Ke3 Kf6 45.Kd4 f4 46.Kc5 Rb8 47.b6 g5 48.b7 Kf5 49.Kc6 g4 50.hxg4+ Kxg4
 16.g3 Rc4 17.a3 f4 18.O-O Rhc8 19.Qd3 h6 20.b4 Qg7 21.Rfe1 Rc3 22.Qf1 fxg3
 23.hxg3 Rg8 24.Qg2 (24.a4!) Qf6 25.Nh2 h5 26.Rec1 Rgc8 27.Rf1 g4 28.Rfe1 Rc2
 29.Nf1 Rf8 30.Nd2 Rxd2 31.Rf1 h4 32.Qh2 Rh8 33.Qh1 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.05.16"]
+[Round "2"]
+[White "Ahola, Milla"]
+[Black "Tuovinen, Jukka"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Bb5?? Qxf2# 0-1
