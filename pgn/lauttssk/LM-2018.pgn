@@ -195,3 +195,20 @@ Rb6 44.Ke3 Kf6 45.Kd4 f4 46.Kc5 Rb8 47.b6 g5 48.b7 Kf5 49.Kc6 g4 50.hxg4+ Kxg4
 [Result "0-1"]
 
 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Bb5?? Qxf2# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.05.31"]
+[Round "3"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.g3 c5 3.Bg2 Nc6 4.Ne2 b6 5.d4 cxd4 6.Nxd4 Bb7 7.c4 a6 8.O-O Qf6?
+9.Nb3 Be7 10.Be3 Bd8 11.Nc3 Bc7 12.f4 Nh6 13.e5 Qd8 14.c5 O-O 15.Ne4 Rb8
+16.Rc1 Na5 17.Nbd2 bxc5 18.Bxc5 Bb6 19.b4 Nc6? (19...Bxc5+ 20.bxc5) 20.a3 Ne7
+21.Nc4 Bxe4 22.Bxe4 Bxc5+ 23.bxc5 Nhf5 24.g4 Nh6 25.h3 f6 26.Qd3 f5 27.gxf5
+Nexf5 28.Nd6 (28.Nb6 Rf7 29.Rcd1) Qh4 29.Rc3 Nxd6 30.Bxh7+? (30.Qxd6) Kh8
+31.cxd6 Rxf4 32.Qc2?? Qg5+ 33.Qg2 Rxf1+ 34.Kxf1 Qxg2+ 35.Kxg2 Kxh7 36.Rc7 Nf7
+37.Rxd7 Nxe5 38.Ra7 Rd8 39.Rxa6 Kg6 40.Kg3 Kf6 41.a4 Nf7 42.Kf4 Rxd6 43.Ra5
+e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
