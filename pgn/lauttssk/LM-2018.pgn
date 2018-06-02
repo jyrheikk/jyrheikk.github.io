@@ -212,3 +212,20 @@ Nexf5 28.Nd6 (28.Nb6 Rf7 29.Rcd1) Qh4 29.Rc3 Nxd6 30.Bxh7+? (30.Qxd6) Kh8
 31.cxd6 Rxf4 32.Qc2?? Qg5+ 33.Qg2 Rxf1+ 34.Kxf1 Qxg2+ 35.Kxg2 Kxh7 36.Rc7 Nf7
 37.Rxd7 Nxe5 38.Ra7 Rd8 39.Rxa6 Kg6 40.Kg3 Kf6 41.a4 Nf7 42.Kf4 Rxd6 43.Ra5
 e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.05.31"]
+[Round "3"]
+[White "Hämeenniemi, Katri"]
+[Black "Valli, Kari"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.Nc3 Nge7 5.O-O g6 6.d4 cxd4 7.Nxd4 Bg7 8.Nxc6
+Nxc6 9.Be3 d6 10.Qf3 O-O 11.Rad1 Qe7 12.Bd2 a6 13.b3 b5 14.Bd3 Bb7 15.a4 b4
+16.Ne2 a5 17.c3 Ne5 18.Qe3 Nxd3 19.Qxd3 Ba6 20.Qe3 Bxe2 21.Qxe2 bxc3 22.Be3
+Qc7 23.Rc1 Rfd8 24.Bd2 Rac8 25.Qe3 Qc5 26.Qe1 Qb4 27.Bg5 Rd7 28.Be3 d5 29.f3
+d4 30.Bd2 d3 31.Qd1 Qb7 32.h3 c2 33.Qe1 Bd4+ 34.Kh2 Qxb3 35.Bxa5 Bc3 36.Bxc3
+Qxc3 37.Qxc3 Rxc3 38.Ra1 d2 39.a5 d1=Q 40.Rfxd1 Rxd1 41.Rxd1 cxd1=Q 42.a6 Qa1
+43.a7 Qxa7 44.Kg3 f5 45.Kh4 h6 46.Kg3 g5 47.h4 Qc7+ 48.Kh3 Qf4 49.g3 Qxf3
+50.hxg5 Qxg3# 0-1
