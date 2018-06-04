@@ -1102,3 +1102,65 @@ Nexf5 28.Nd6 (28.Nb6 Rf7 29.Rcd1) Qh4 29.Rc3 Nxd6 30.Bxh7+? (30.Qxd6) Kh8
 31.cxd6 Rxf4 32.Qc2?? Qg5+ 33.Qg2 Rxf1+ 34.Kxf1 Qxg2+ 35.Kxg2 Kxh7 36.Rc7 Nf7
 37.Rxd7 Nxe5 38.Ra7 Rd8 39.Rxa6 Kg6 40.Kg3 Kf6 41.a4 Nf7 42.Kf4 Rxd6 43.Ra5
 e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.06.04"]
+[Round "?"]
+[White "Heimonen, Arto"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+6"]
+
+1.Na3 e5 2.e4 c6 3.d4 exd4 4.Nf3 c5 5.Bc4 d6 6.O-O Be7 7.c3 Nc6 8.cxd4 cxd4
+9.Qb3 Ne5?? (9...Na5) 10.Nxe5 dxe5 11.Bxf7+ Kf8 12.f4 Qb6 13.Bxg8 Rxg8
+14.fxe5+ Bf6 15.Qxb6 axb6 16.exf6 g5 17.Nb5 d3 18.Bd2 Bd7 19.Bb4+ Kf7 20.Nd6+
+Ke6 21.f7 Rgf8 22.Nxb7 Rxf7 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.06.04"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Heimonen, Arto"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+6"]
+
+1.d4 Na6 2.e4 c6 3.Nc3 d5 4.Be3 e6 5.a3 dxe4 6.f3 exf3 7.Nxf3 Nf6 8.Bd3 Be7
+9.Qd2 Ng4 10.Bf4 g5 11.Bg3 h5 12.h3 Nh6 13.Bf2 Nf5 14.O-O-O Qa5 15.g4 Bxa3?
+16.bxa3 Qxa3+ 17.Kb1 Nb4? 18.gxf5 exf5 19.Bc4 f4 20.Rde1+ Kf8 21.Nxg5 b5
+22.Qxf4 Qxc3 23.Qxf7# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.06.04"]
+[Round "?"]
+[White "Heimonen, Arto"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "600+3"]
+
+1.Na3 d5 2.d4 Nf6 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bf5 6.Bd3 Bxd3 7.Qxd3 c6 8.O-O e6
+9.Bg5 Nbd7 10.Ne5? Nxe5 11.dxe5 Bc5+ 12.Kh1 Qxd3 13.cxd3 Ng4 14.h3 Nxe5
+15.Rad1 Be7 16.Bf4 Ng6 17.Bh2 O-O 18.Nc4 Rad8 19.g4 Bf6 20.b3 Rd7 21.Bg3 Rfd8
+22.Rf3 e5 23.Re3 Rd5 24.h4 Bxh4 25.Bxh4 Nxh4 26.Nxe5 f6 27.Nc4 Kf7 28.b4 Rd4
+29.Na5 R8d7 30.g5 fxg5 31.Rf1+ Kg6 32.Nc4 Kh5 33.Rh3 Rxd3 34.Rxh4+ gxh4 35.Ne5
+Rd1 36.Nxd7 Rxf1+ 37.Kg2 Ra1 {no more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.06.04"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Heimonen, Arto"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "600+3"]
+
+1.d4 Na6 2.e4 c6 3.f4 d5 4.e5 e6 5.Nf3 c5 6.c3 cxd4 7.cxd4 Bb4+ 8.Nc3 Bxc3+
+9.bxc3 Bd7 10.a4 Rc8 11.Qb3 Qc7 12.Bd2 Ne7 13.Bd3 O-O 14.Rb1 Bc6 15.O-O Qd7
+16.Qd1 Bxa4 17.Bxh7+ Kxh7 18.Ng5+ Kg8 19.Qh5 Bc2 20.f5 Rfd8 21.Qxf7+ Kh8
+22.Qh5+ Kg8 23.Qh7+ 1-0
