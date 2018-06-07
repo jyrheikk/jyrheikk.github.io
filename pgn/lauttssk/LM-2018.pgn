@@ -229,3 +229,21 @@ d4 30.Bd2 d3 31.Qd1 Qb7 32.h3 c2 33.Qe1 Bd4+ 34.Kh2 Qxb3 35.Bxa5 Bc3 36.Bxc3
 Qxc3 37.Qxc3 Rxc3 38.Ra1 d2 39.a5 d1=Q 40.Rfxd1 Rxd1 41.Rxd1 cxd1=Q 42.a6 Qa1
 43.a7 Qxa7 44.Kg3 f5 45.Kh4 h6 46.Kg3 g5 47.h4 Qc7+ 48.Kh3 Qf4 49.g3 Qxf3
 50.hxg5 Qxg3# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.06.06"]
+[Round "3"]
+[White "Vartiainen, Turo"]
+[Black "Jalas, Aaro"]
+[Result "1-0"]
+
+1.d4 e6 2.Bf4 c5 3.e3 Qb6 4.b3 Nf6 5.c3 Nc6 6.Bd3 Be7 7.Nd2 Nd5 8.Nc4 Qd8
+9.Nd6+ Bxd6 10.Bxd6 cxd4 11.e4 Nxc3 12.Qh5 Qa5 13.Qxa5 Nxa5 14.Nf3 Nc6 15.Ne5
+Nxe5 16.Bxe5 a6 17.a4 O-O 18.Bxd4 Nxe4 19.Bxe4 d5 20.Bd3 Bd7 21.O-O Rac8 22.b4
+f6 23.b5 e5 24.Be3 d4 25.Bd2 axb5 26.axb5 Be6 27.Rfc1 Bd5 28.Bf5 Ra8 29.f3
+Rfd8 30.Ba5 Rf8 31.b6 g6 32.Bd3 Bc6 33.Bb4 Rfc8 34.Rxa8 Rxa8 35.Rxc6 bxc6
+36.b7 Rb8 37.Ba6 Kf7 38.Bd6 Rxb7 39.Bxb7 Ke6 40.Ba3 Kd5 41.Ba6 c5 42.Bd3 f5
+43.Kf2 c4 44.Bb1 e4 45.Bc1 e3+ 46.Ke2 f4 47.Be4+ Ke5 48.g3 fxg3 49.hxg3 Kd6
+50.f4 Ke6 51.Bb2 c3 52.Bc1 Kf6 53.Kd3 h6 54.Bf3 g5 55.Kxd4 gxf4 56.gxf4 c2
+57.Bxe3 c1=Q 58.Bxc1 1-0
