@@ -332,7 +332,7 @@ hxg4 0-1
 [Result "1-0"]
 [Section "III Division:2"]
 [Board "1"]
-[WhiteTeam "Shakkikerho Remissi 2"]
+[WhiteTeam "Shakkiseura Remissi 2"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
 [WhiteElo "1973"]
 [BlackElo "1683"]
@@ -362,7 +362,7 @@ b3 60.Be2 Bd7+ 61.Kb7 Bxc7 62.Kxc7 Be6 63.Bc3 Kf6 64.Kd6 1-0
 [Section "III Division:2"]
 [Board "4"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
-[BlackTeam "Shakkikerho Remissi 2"]
+[BlackTeam "Shakkiseura Remissi 2"]
 [WhiteElo "1493"]
 [BlackElo "1951"]
 [ECO "E10"]
@@ -1698,6 +1698,27 @@ Rfe8 16.Rfe1 e5 17.Be2 Qc8 18.Bc4 Be6 19.Bxe6 Rxe6 20.Rad1 Bf8 21.Qa3 Qb7
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
+[Date "2018.02.03"]
+[Round "5"]
+[White "Suihko, Ismo"]
+[Black "Puuska, Heini"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "1"]
+[WhiteTeam "Shakkikerho ComeOn 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.Nc3 d5 7.Bd3 a5 8.O-O Ba6
+9.Bxa6 Rxa6 10.exd5 (10.Qe2 Rb6 11.Rd1) cxd5 11.a3 (11.Qe2) Nf6 12.Bg5 Be7
+13.Rb1 O-O 14.Ne2 Ne4 15.Bxe7 (15.Be3) Qxe7 16.Nd4 Rb6 17.f3 Nd6 18.Re1 (18.a4
+Qb7 19.b3) Nc4 19.b3 Nxa3 20.Ra1 Qc5 21.Kh1 Nb5 22.Nxb5 Rxb5 23.Qd3 Rc8
+24.Rac1 Rb4 25.Qe3 Qxe3 26.Rxe3 a4 27.bxa4 Rxa4 28.Rd3 (28.Kg1) Rxc2 29.Re1 h5
+30.h3 Raa2 31.Rg1 Kf8 32.Rdd1 Ke7 33.Ra1 g6 (33...Rxg2 34.Rxg2 Rxa1+) 34.Rxa2
+Rxa2 35.Rd1 Kd6 36.Kh2 e5 37.Rb1 Ra6 38.Rd1 f5 39.Kg1 e4 40.f4 Ra4 41.g3 d4
+42.Kf1 Kd5 43.Rd2 Ra3 44.Kg2 e3 45.Rb2 Ke4 46.Rb5 Ra2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2018.02.04"]
 [Round "9"]
 [White "Hurme, Harri"]
@@ -1859,3 +1880,104 @@ Qxb5 10.Bxb5 a6 11.Be2 cxd4 12.cxd4 Nb4 13.Na3 Bd3 14.Re1 Bxe2 15.Rxe2 Nxa2
 Kd7 23.g3 Rc8 24.Rb5 Rc7 25.Nb3 Kc6 26.Rc5+ Kb6 27.Rxc7 Kxc7 28.Kf1 Nc6 29.Ke2
 Kb6 30.Kd3 Kb5 31.Kc3 b6 32.h3 h6 33.Nd2 f6 34.f4 f5 35.Nb3 Ne7 36.Nd2 Nc6
 37.Nb3 Ne7 38.Nd2 Nc6 39.Nb3 Ne7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.03.10"]
+[Round "6"]
+[White "Tuovinen, Jukka"]
+[Black "Haapanen, Aapo"]
+[Result "1-0"]
+[Section "II Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Shakkikerho Moukat"]
+[WhiteElo "1999"]
+[BlackElo "1975"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Be3 cxd4 6.Bxd4 Nc6 7.Bb5 Nf6 8.Qe2+ Qe7
+9.Bxf6 gxf6 10.Qxe7+ Bxe7 11.Ne2 O-O 12.O-O Bf5 13.Re1 Bc5 14.Nf4 d4 15.Bd3
+Rae8 16.Rxe8 Rxe8 17.Kf1 Bc8 18.Nh5 Be7 19.cxd4 Nxd4 20.Nc3 Bg4 21.Ng3 Bd8
+22.h3 Bc8 23.Rd1 f5 24.Nb5 Nxb5 25.Bxb5 Rf8 26.Bd7 Bb6 27.Nxf5 Bxd7 28.Rxd7
+Rd8 29.Rxb7 f6 30.Nh6+ Kf8 31.Rf7+ Ke8 32.Rxf6 Rd2 33.g3 Rxb2 34.Re6+ Kd7
+35.Re2 Rb5 36.Ng4 Kd6 37.Kg2 Rb4 38.Nf6 h6 39.g4 Bd4 40.Ne4+ Kd5 41.Ng3 Bf6
+42.Nf5 Bg5 43.f3 Bf4 44.h4 a5 45.Ne7+ Kd6 46.Ng6 Bc1 47.Rc2 Be3 48.Kg3 a4
+49.Rc3 Bd4 50.Rd3 Kc5 51.g5 hxg5 52.hxg5 Kc4 53.Rd1 a3 54.f4 Rb2 55.Ne5+ Bxe5
+56.fxe5 Rxa2 57.g6 Rb2 58.e6 Rb8 59.e7 Re8 60.g7 a2 61.Kf4 Kb3 62.Kf5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.03.10"]
+[Round "6"]
+[White "Mäki-Fränti, Petri"]
+[Black "Aakio, Seppo"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "2"]
+[WhiteTeam "Shakkikerho Moukat"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "1894"]
+[BlackElo "1991"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 c6 4.a4 Nbd7 5.Nf3 e5 6.Be2 Be7 7.O-O O-O 8.h3 Re8
+9.Qd3 a5 10.Be3 Qc7 11.Rad1 b6 12.Qd2 Bb7 13.dxe5 dxe5 14.Bc4 Nc5 15.Bxc5 Bxc5
+16.Qg5 h6 17.Qg3 Kh7 18.Rd3 Bc8 19.Rfd1 g6 20.Qh4 Kg7 21.g4 Qe7 22.Qg3 Bb4
+23.Nd2 Qc5 24.Bb3 Ba6 25.Re3 Rad8 26.Qf3 Rd4 27.Nf1 Qe7 28.Ng3 Red8 29.Ree1
+R8d7 30.Kg2 Nh7 31.h4 Qxh4 32.Rh1 Qf6 33.Qxf6+ Nxf6 34.Rxd4 exd4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.03.10"]
+[Round "6"]
+[White "Nyrhinen, Harri"]
+[Black "Helanti, Jaakko"]
+[Result "1-0"]
+[Section "II Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Shakkikerho Moukat"]
+[WhiteElo "1970"]
+[BlackElo "1863"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.a3 Nge7 7.b4 cxd4 8.cxd4 b5 9.Nc3
+a6 10.Bd3 Ng6 11.Be3 f6 12.Qc2 Kf7 13.h4 Be7 14.h5 Nf8 15.Rh3 Rc8 16.Rc1 a5
+17.Qb2 axb4 18.axb4 Nxb4 19.Be2 Qa5 20.Bd2 Qb6 21.Ra1 h6 22.Rg3 Nh7 23.Qb1 f5
+24.Kf1 Ng5 25.Nxg5+ hxg5 26.Bxg5 Qxd4 27.Bxe7 Kxe7 28.Nxb5 Rh7 29.Nxd4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.03.10"]
+[Round "6"]
+[White "Kosonen, Eetu"]
+[Black "Kivinen, Jyrki"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "4"]
+[WhiteTeam "Shakkikerho Moukat"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "1772"]
+[BlackElo "2009"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.f4 d6 7.Nf3 Nge7 8.Be3 f5 9.O-O
+O-O 10.a3 Rb8 11.Rb1 b5 12.e5 dxe5 13.Bxc5 exf4 14.gxf4 Qc7 15.Re1 Qxf4 16.Ne2
+Qc7 17.Ng3 Re8 18.Ng5 Nd4 19.b4 h6 20.c3 hxg5 21.cxd4 Qd7 22.Qb3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.03.10"]
+[Round "6"]
+[White "Sobenin, Evgeny"]
+[Black "Haapanen, Ilmari"]
+[Result "1-0"]
+[Section "II Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Shakkikerho Moukat"]
+[WhiteElo "1966"]
+[BlackElo "1729"]
+
+1.d4 d6 2.c4 Nf6 3.Nc3 Bf5 4.Nf3 Nbd7 5.g3 Nb6 6.Bg2 c6 7.b3 Qd7 8.O-O Bh3
+9.Re1 Bxg2 10.Kxg2 g6 11.e4 Bg7 12.h3 h5 13.Bf4 O-O 14.Qd2 Rfe8 15.Bh6 Bh8
+16.Qf4 Nh7 17.e5 dxe5 18.Nxe5 Bxe5 19.dxe5 Qf5 20.Qxf5 gxf5 21.Rad1 Rad8
+22.Be3 f6 23.e6 Nc8 24.Rd7 b6 25.Red1 Nd6 26.Rxa7 Nf8 27.Bxb6 Ra8 28.Rxa8 Rxa8
+29.Bc5 Rd8 30.Bxd6 1-0
