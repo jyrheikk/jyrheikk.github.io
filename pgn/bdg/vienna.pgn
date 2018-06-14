@@ -774,3 +774,18 @@ Bxf2+ 16.Kxf2 Qh4+ 17.Kf1? (17.Kg2) Qg3 18.Bxd5 Rxh3 19.Rg1 Qd6 20.Bb3 O-O-O
 Rxf3+ 27.Kg2 Rg3+ 28.Kf1 Rxg1+ 29.Kxg1 Nf6 30.Qxg7 Rd8 31.Qf7 dxc3 32.Bxc3
 Qc5+? (32...f3) 33.Kg2? (33.Kf1 {=}) Qg5+ 34.Kf1 Nd5 35.Qe6+ Kb8 36.Bd4 f3
 37.Re5 Qg2+ 38.Ke1 Nf4 39.Qf5 Nxg6 40.Rd5 Qe2# 0-1
+
+[Event "Lauttasaari Sauna Tournament"]
+[Site "Helsinki FIN"]
+[Date "2018.06.14"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 e6 8.Qxb7
+Nd7 9.Nf3 Rb8 10.Qc6 Rb6 11.Qa4 Bd6 12.Bg5 Qa8 13.Be2 Be4 14.Ne5 Bxe5 15.dxe5
+Bc6 16.Qd4 O-O 17.Bd3 h6 18.Bf6 gxf6 19.exf6 Nxf6 20.Qxf6 Be4 21.O-O Bxd3
+22.cxd3 e5 23.Qxe5 Rg6 24.g3 Qc6 25.Rae1 Rd8 26.Qe7 (26.Rxf7) Qd7 27.Qxd7 Rxd7
+{no more moves recorded} 1-0
