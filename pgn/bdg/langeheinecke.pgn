@@ -1298,11 +1298,13 @@ Bxe4 36.Qd2 Nd5 37.c4 Nf6 38.Nd3 (38...Bxd3! 39.Qxd3 Ne4) Qd4+ 39.Nf2 h4
 [TimeControl "900"]
 
 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e3 5.Bxe3 g6 6.Qd2 Bg7 7.O-O-O O-O 8.h4 h5
-9.Bh6 Bf5 10.Be2 Nc6 11.Bxg7 Kxg7 12.g4 hxg4 13.fxg4 Bxg4? 14.Bxg4 Nxg4 15.h5
-(15.Nf3) Rh8 16.Nf3 e6 17.hxg6 fxg6? 18.Rhg1 (18.Ng5) Nh6 19.Qg2 (19.d5) Qf6
-20.Rdf1 Nf5 21.Ne4 Ne3 22.Qe2 Qf4 23.Rxg6+ Kxg6 24.Ne5+ Nxe5 25.Rxf4 Rh1+
-26.Kd2 N3c4+ 27.Kc3 Rh3+ 28.Kb4 a5+ 29.Ka4 Nxb2+ (29...b5+ 30.Kxb5 Rb8+ 31.Kc5
-{+-}) 30.Kb5 c6+ 31.Kb6 Nbc4+ 32.Kxb7 Rh7+ 33.Kxa8 Nb6+ 34.Kb8 1-0
+9.Bh6 Bf5 10.Be2 Nc6 11.Bxg7 Kxg7 12.g4 hxg4 13.fxg4 (13.h5!) Bxg4? (13...Nxg4
+14.Nf3) 14.Bxg4 Nxg4 15.h5 (15.Nf3) Rh8 16.Nf3 e6 17.hxg6 (17.Qf4 f5 {+/-})
+fxg6? 18.Rhg1 (18.Ng5 Qe7 19.d5 {+-}) Nh6? 19.Qg2 (19.d5) Qf6 20.Rdf1 Nf5
+21.Ne4 Ne3 22.Qe2 Qf4 23.Rxg6+ Kxg6 24.Ne5+ Nxe5 25.Rxf4 Rh1+ 26.Kd2 N3c4+
+27.Kc3 Rh3+ 28.Kb4 a5+ 29.Ka4 (29.Kc5?? b6+ 30.Kb5 c6+ 31.Ka4 b5#) Nxb2+
+(29...b5+ 30.Kxb5 Rb8+ 31.Kc5 {+-}) 30.Kb5 c6+ 31.Kb6 Nbc4+ 32.Kxb7 Rh7+
+33.Kxa8 Nb6+ 34.Kb8 1-0
 
 [Event "Helsinki Rapid Team Ch"]
 [Site "Helsinki FIN"]
@@ -1322,3 +1324,20 @@ Bxe4 36.Qd2 Nd5 37.c4 Nf6 38.Nd3 (38...Bxd3! 39.Qxd3 Ne4) Qd4+ 39.Nf2 h4
 Qa5 16.O-O-O Na6 17.Rh3 Nb4 18.a3 Nbd5 19.Nxd5 Nxd5 20.Bd2 Bf4 21.Be4 Bxd2+
 22.Qxd2 Qxd2+ 23.Rxd2 Rf4 24.Bxd5 cxd5 25.Rg3 Raf8 26.c3 Re4 27.Kc2 Rff4
 28.Rdg2 Rf1 29.Kb3 Rh1 30.h5 (30.Rf3 {+/-}) Rh4 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.07.04"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+[TimeControl "40/4800:600+30"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 Bf5 6.Nge2 e6 7.g4 Bg6 8.Nf4 (8.h4
+h5 9.Nf4 Bh7 10.g5 Nd5 11.Ncxd5 exd5 12.Nxh5) c6? 9.h4 h6 10.Nxg6 fxg6 11.Qd3
+Kf7 12.h5 g5 13.Qg6+ Kg8 14.Bc4 Qe7 15.O-O-O b5 16.Bb3 a5? 17.a4 (17.Bxg5!!
+hxg5 18.Rde1 Nd5 19.Nxd5 cxd5 20.Bxd5 Rh6 21.Rxe6) bxa4 18.Nxa4 Nbd7 19.Rde1
+Nd5 20.Bd2 N7f6 21.Nc5 Qf7 22.Nxe6 Qxg6 23.hxg6 a4 24.Ba2 a3 25.b4 (25.Nxf8)
+Bxb4 26.Nc7 Bxd2+ 27.Kxd2 Rc8 28.Re7 h5 29.gxh5 Rxh5 30.Rxh5 Nxh5 31.Nxd5 cxd5
+32.Bxd5+ Kf8 33.Ra7 Rd8?? 34.Rf7+ 1-0
