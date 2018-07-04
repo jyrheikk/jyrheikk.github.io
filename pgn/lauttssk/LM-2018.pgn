@@ -301,3 +301,19 @@ Re8 24.e6 Na4 25.Bb5 Nc3 26.Qf2 Nxd5 27.Bxe8 Be3 28.exf7+ Bxf7 29.Bxf7+ Kxf7
 30.Rad1 Bxf2+ 31.Rxf2 Ne3 32.Rdd2 Nc4 33.Rd3 Qf6 34.Re2 Nb2 35.Re6 Qf4 36.Ne2
 Qc4 37.Re4 Qxc2 38.Rd7+ Kg8 39.Nd4 Qc5 40.Kh2 g5 41.Ree7 Qc1 42.Ne6 Qc3 43.Rh7
 Qe5+ 44.Kg1 Qe1+ 45.Kh2 Qe5+ 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.07.04"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 Bf5 6.Nge2 e6 7.g4 Bg6 8.Nf4 (8.h4
+h5 9.Nf4 Bh7 10.g5 Nd5 11.Ncxd5 exd5 12.Nxh5) c6? 9.h4 h6 10.Nxg6 fxg6 11.Qd3
+Kf7 12.h5 g5 13.Qg6+ Kg8 14.Bc4 Qe7 15.O-O-O b5 16.Bb3 a5? 17.a4 (17.Bxg5!!
+hxg5 18.Rde1 Nd5 19.Nxd5 cxd5 20.Bxd5 Rh6 21.Rxe6) bxa4 18.Nxa4 Nbd7 19.Rde1
+Nd5 20.Bd2 N7f6 21.Nc5 Qf7 22.Nxe6 Qxg6 23.hxg6 a4 24.Ba2 a3 25.b4 (25.Nxf8)
+Bxb4 26.Nc7 Bxd2+ 27.Kxd2 Rc8 28.Re7 h5 29.gxh5 Rxh5 30.Rxh5 Nxh5 31.Nxd5 cxd5
+32.Bxd5+ Kf8 33.Ra7 Rd8?? 34.Rf7+ 1-0
