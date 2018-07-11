@@ -445,7 +445,7 @@ Rf8 33.a3 Ne5 34.Rg1 h5 35.Rh1 Rf3 36.Ng2 Kg7 37.Rh3 Kh6 38.Qe1 Rf2
 [Section "A"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Garde 2"]
+[BlackTeam "Shakkikerho Garde 2"]
 [TimeControl "900"]
 
 1.d4 Nf6 2.Nc3 d6 3.e4 g6 4.Be3 Bg7 5.Qd2 O-O 6.Bh6 Nc6 7.O-O-O e5
@@ -707,7 +707,7 @@ Rc4 33.h6 Rec8 34.Rg7 Rh4+ 35.Kg1 Rc1+ 36.Kf2 Rc2+ 37.Kg3 Rxh6 38.Rg4 1-0
 [Black "Karvinen, Kimmo"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Shakkikerho Remissi"]
+[BlackTeam "Shakkiseura Remissi"]
 [WhiteICCF "2060"]
 [BlackElo "2125"]
 [Result "0-1"]
@@ -718,19 +718,20 @@ Nf8 10.Ng5 Ne6 11.Nxe6 Bxe6 12.Na4 b6 13.O-O Qd7 14.b4 c5 15.Nc3 c4 16.Be2 Kf8
 Be6 25.Bc2 Nf5 26.Kh1 h4 27.Ne2 f6 28.Rae1 g5 29.exf6 exf6 30.Be3 {no more
 moves recorded} 0-1
 
-[Event "Lauttasaari Ch"]
+[Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
-[Date "2018.04.26"]
-[Round "2"]
+[Date "2018.07.11"]
+[Round "?"]
 [White "Heikkinen, Jyrki"]
-[Black "Kauppinen, Janne"]
+[Black "Suominen, Antti"]
 [Result "1-0"]
-[TimeControl "40/4800:600+30"]
+[Stage "Final"]
+[TimeControl "1200+10"]
 
-1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.f4 e6 5.Nf3 Ne7 6.Be3 O-O 7.g4 c6 8.Qd2 a5? 9.h4
-b5 10.h5 b4 11.Ne2 f6? 12.Ng3 Ba6 13.O-O-O Bxf1 14.Rdxf1 Nd7? 15.Qh2 (15.hxg6!
-hxg6 16.f5 Kf7 17.fxg6+) Kf7 16.f5 exf5 17.gxf5 Rh8 (17...g5 18.h6 Bh8 19.Bxg5
-fxg5 20.Nxg5+) 18.h6 Bf8 19.Ng5+ Ke8 20.Ne6 Qb8 21.Bf4 Nc8 22.Re1 Be7 23.fxg6
-hxg6 24.Nf5 Nf8 25.Neg7+ Kd7 26.Nxe7 Nxe7 27.e5 dxe5 28.dxe5 fxe5 29.Bxe5 Qb7
-30.Qh3+ Kd8 31.Bf6 Rh7 32.Rxe7 Qxe7 33.Rd1+ Kc7 34.Bxe7 Kb6 35.Qe3+ Kb7
-36.Bxf8 Rxf8 37.Qe7+ Kb6 38.Qxf8 Rxh6 39.Ne6 Rh5 40.Qb8+ Ka6 41.Nc7# 1-0
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bg5 Bg7 5.Qd2 h6 6.Bf4 g5 7.Bg3 Nh5 8.Nge2 c6
+9.O-O-O Qa5 10.f3 Nxg3 11.hxg3 (11.Nxg3) b5 12.a3 b4 13.Na2 c5 14.dxc5 dxc5
+15.axb4 cxb4 16.Kb1 (16.Qxb4 Qxa2 17.Nc3 Qe6 18.Bc4 Qe5 19.Bd5 a5 20.Qb3) Be6
+17.Nxb4 O-O 18.Nd5 Qc5 19.Qe3 Qxe3 20.Nxe3 Nc6 21.Nd5 Rab8 22.c3 Rfc8 23.Kc1
+Kf8 24.f4 Na5 25.Ng1? Nc4? (25...Nb3+ 26.Kc2 Nc5 27.Bd3 Na4) 26.Bxc4 Rxc4
+27.f5 Bc8?? 28.Ne3 Ba6 29.Nxc4 Bxc4 30.Nf3 a5 31.Nd4 {no more moves recorded}
+1-0

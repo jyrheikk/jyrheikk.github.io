@@ -5,13 +5,14 @@
 [White "Heikkinen, Jyrki"]
 [Black "Mensio, Jouko"]
 [Result "1-0"]
+[WhiteTeam "Jyväskylän Lyseon lukio"]
 [TimeControl "40/5400:900"]
 
 1.e4 g6 2.d4 Bg7 3.c3 d6 4.f4 a6 5.Be3 Nf6 6.Bd3 O-O 7.Nf3 Ng4 8.Qe2
 Nxe3 9.Qxe3 Bg4 10.Nbd2 Bxf3 11.Nxf3 Nd7 12.e5 e6 13.h4 d5 14.Ng5 h6
 15.Qh3!? Qe7 16.O-O-O c5 17.g4 cxd4 18.cxd4 Rac8+ 19.Kb1 Rc6 20.f5
 exf5 21.gxf5 Qb4 22.fxg6 Nxe5!? 23.dxe5 Bxe5 24.gxf7+ Rxf7 25.Qg2 Rg7?
-26.Qxd5+ Kf8 27.Qd8 1-0
+26.Qxd5+ Kf8 27.Qd8# 1-0
 
 [Event "Tampere-Espoo Radio Match"]
 [Site "Tampere FIN:Espoo FIN"]
@@ -287,7 +288,7 @@ Rxf5 15.Bxf5 Bxf5 16.g4 hxg5 17.gxf5 Qf7? 18.fxg6 Bxc3+ 19.bxc3 Qf6
 [Section "A"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Garde 3"]
+[BlackTeam "Shakkikerho Garde 3"]
 [WhiteElo "2047"]
 [BlackElo "2181"]
 [BlackTitle "IM"]
@@ -848,3 +849,20 @@ e5 36.Kf2 f5 37.Nd3 Rxc1 38.Nxc1 Kg7 39.h4 h6 40.Ke3 g5 41.g3 gxh4 42.gxh4 Kg6
 49.Nf2 Kf4 50.Nd3+ (50.Kh2 {+-}) Ke3 51.Kg3 Kxd3 52.Kxf3 Kd4 53.Kf4 Kd5 54.Kf5
 Kd6 55.Kf6 Kd7 56.Kf7 Kd8 57.h5 Kd7 58.Kg6 Ke7 59.Kxh6 Kf6 60.Kh7 Kf7 61.h6
 Kf8 62.Kg6 Kg8 63.h7+ Kh8 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.04.26"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[TimeControl "40/4800:600+30"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.f4 e6 5.Nf3 Ne7 6.Be3 O-O 7.g4 c6 8.Qd2 a5? 9.h4
+b5 10.h5 b4 11.Ne2 f6? 12.Ng3 Ba6 13.O-O-O Bxf1 14.Rdxf1 Nd7? 15.Qh2 (15.hxg6!
+hxg6 16.f5 Kf7 17.fxg6+) Kf7 16.f5 exf5 17.gxf5 Rh8 (17...g5 18.h6 Bh8 19.Bxg5
+fxg5 20.Nxg5+) 18.h6 Bf8 19.Ng5+ Ke8 20.Ne6 Qb8 21.Bf4 Nc8 22.Re1 Be7 23.fxg6
+hxg6 24.Nf5 Nf8 25.Neg7+ Kd7 26.Nxe7 Nxe7 27.e5 dxe5 28.dxe5 fxe5 29.Bxe5 Qb7
+30.Qh3+ Kd8 31.Bf6 Rh7 32.Rxe7 Qxe7 33.Rd1+ Kc7 34.Bxe7 Kb6 35.Qe3+ Kb7
+36.Bxf8 Rxf8 37.Qe7+ Kb6 38.Qxf8 Rxh6 39.Ne6 Rh5 40.Qb8+ Ka6 41.Nc7# 1-0

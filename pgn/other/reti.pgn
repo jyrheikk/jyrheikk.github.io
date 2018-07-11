@@ -117,3 +117,19 @@ fxg3 22.Rd1 Qh2+ 0-1
 29.Bf3 Rae8 {-/+}) 28.Qd3 e4 29.Qf1 Qh5 30.Nb1 Rg6 31.h3 Rh6 (31...f4! 32.exf4
 e3 {-+}) 32.Kh2 Rg8 33.Nc3 d5 34.c5 Rhg6 35.Bh1 f4 36.exf4 Bxf4 37.Nxa4 Bc7
 38.b4 Rh6 39.Bg2 Qh4 40.Bh1 Bxh3 41.Qe2 Bf1# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.07.11"]
+[Round "?"]
+[White "Suominen, Antti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 Nc6 4.Nc3 d6 5.Rb1 Be6 6.Nd5 Ne7 7.Nxf6+ gxf6 8.Bxb7
+Rb8 9.Bg2 Bxc4 10.Qa4+ Bb5 11.Qxa7 Nc6 12.Qe3 Nd4 13.Qc3 d5 14.a3 Ba4 15.b4?!
+Rb6 (15...c5!) 16.Kf1 Rc6 17.Qa1 Rc2 (17...Bc2) 18.Nf3 Nb3 19.Rxb3 Bxb3 20.Qb1
+Ba4 21.d3 Qd6 22.Be3 d4 23.Ne1 Rc3 24.Bd2 Rb3 25.Qc1 f5 26.Bg5 f6 27.Bd2 c5
+28.Bf3 {no more moves recorded} 0-1
