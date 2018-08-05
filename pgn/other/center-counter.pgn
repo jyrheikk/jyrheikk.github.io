@@ -1359,3 +1359,38 @@ e5 9.Qa4 h5? (9...e4) 10.Bc4 Qd7 (10...Qd6) 11.Ne1 Bc5 12.Nd3 Bb6 13.Kh1 e4
 14.Nf4 Qf5 15.d3 exd3 16.f3 g5 (16...d2) 17.fxg4?? (17.Nd5 Rhe8) hxg4 18.Bd2
 gxf4 19.Rxf4 g3 (19...Rxh2+! 20.Kxh2 g3+ 21.Kxg3 Rg8+) 20.h3 (20.h4 Nd4!)
 Rxh3+ 21.gxh3 Qxh3# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.03.27"]
+[Round "1"]
+[White "Suihko, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/4800:600+30"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.Nf3 Bg4 6.d3 Bxf3 7.Qxf3 Qxf3
+8.gxf3 Nc6 9.Bd2 Nd4 10.O-O-O O-O-O 11.Bg2 e6 12.Rhe1 Be7 13.Be3 Nf5 14.Re2
+Rd5 15.d4 Nh4 16.Bh1?! Rh5 17.f4 Nf5 18.f3? (18.d5) Nxe3 19.Rxe3 Rxh2 20.Ree1
+Bd6 21.f5 exf5 22.c3 Kd7 23.Kb1 Bf4 24.Rg1 Re8 25.Rg2 Re2 26.Rxh2 Rxh2 27.Re1
+g5 28.Rf1 h5 29.a3 h4 30.Ka2 Kd6 31.Kb3 Kd5 32.Re1 b5 33.Rd1 a5 34.Re1 a4+
+35.Ka2 Kc4 36.Rd1 h3 37.Rg1 Kd3 38.Rf1 Ke2 39.Rb1 Rxh1 40.Rxh1 h2 41.Rb1 Kxf3
+42.b3 Be3 43.bxa4 bxa4 44.d5 Bg1 0-1
+
+[Event "Finland Blitz Team Ch"]
+[Site "Jyväskylä FIN"]
+[Date "2018.08.04"]
+[Round "3"]
+[White "Lipponen, Iiro"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "C"]
+[Board "4"]
+[WhiteTeam "Kuopion Shakinystävät 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "300"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 Nc6 6.Nf3 Bg4 7.Be2 O-O-O 8.O-O
+e6 9.Be3 f6 10.h3 h5 11.c4 Qa5 12.hxg4 hxg4 13.Nh2?? Qh5 (13...Rxd4!) 14.Bf4
+f5 (14...Rxd4 15.Bxg4 Rxd1 16.Bxh5 Rxa1 17.Rxa1 Rxh5) 15.d5 Bd6 16.Qd2? g5
+17.dxc6 Bxf4 0-1
