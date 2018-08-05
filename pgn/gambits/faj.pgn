@@ -529,7 +529,7 @@ more moves recorded} 1/2-1/2
 [Result "1-0"]
 [Section "I division"]
 [Board "3"]
-[WhiteTeam "Garde 2"]
+[WhiteTeam "Shakkikerho Garde 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2182"]
 [BlackElo "1963"]
@@ -1288,7 +1288,7 @@ Qxg4 14.Rd4 Qe6 15.Qg2 c5 16.Rd5 b6 17.Rg1 Qh6+ 18.Rg5 d5 19.e3 g6
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
 [Board "1"]
-[WhiteTeam "Garde"]
+[WhiteTeam "Shakkikerho Garde"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [TimeControl "1500"]
 
@@ -1805,3 +1805,22 @@ Nxc3 9.Qxc3 O-O-O 10.Bf4 Be7 11.Rc1 Kb8 12.e3 f6 13.b4 Ka8 14.b5 Nxe5
 9.Bxd2 Qe7 10.b4 Bg4 11.cxd5 Bxf3 12.dxc6 Bxc6 13.Bc3 O-O-O 14.f4 Kb8 15.Bc4
 g5 16.O-O gxf4 17.exf4 Rg8 18.Rf2 Bh6 19.Qf5?! Qh4 20.Bxf7?? Bxf4 21.Qxf4
 Rxg2+ 22.Kf1 Rg4 23.Qxg4 Qxg4 24.Rd2 Rxd2 25.Bxd2 Qf3+ 26.Ke1 Bb5 0-1
+
+[Event "Finland Blitz Team Ch"]
+[Site "Jyväskylä FIN"]
+[Date "2018.08.05"]
+[Round "8"]
+[White "Nieminen, Samuli"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "M"]
+[Board "4"]
+[WhiteTeam "Tammer-Shakki 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2279"]
+[BlackElo "2045"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.a3 d6 6.Qc2 d5 7.cxd5 Qxd5 8.e3 Nxe5
+9.Be2? Bf5 (9...Bg4) 10.Qa4+ (10.Nd4) Bd7 (10...c6) 11.Qc2 Bf5 12.Qa4+ Bd7
+1/2-1/2
