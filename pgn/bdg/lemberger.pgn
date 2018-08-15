@@ -530,3 +530,21 @@ Qe7 9.O-O-O g6 10.Qf3 f5 11.Re1 Qb4?? 12.Nf6+ 1-0
 1.e4 d5 2.d4 dxe4 3.Nc3 e5 4.Nxe4 exd4 5.Nf3 c5 6.Neg5? Qe7+ 7.Be2 h6 8.Nh3
 Bxh3 9.gxh3 Nc6 10.O-O O-O-O 11.b4?! Nxb4 12.c3?? d3 (12...dxc3) 13.Qa4 dxe2
 14.Qxa7 exf1=Q+ 15.Kxf1 Qf6 16.cxb4 Qa6+ {no more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.08.15"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Turtiainen, Kimmo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 e5 4.Qh5 Nf6 5.Qxe5+ Be7 6.Bf4 O-O 7.Qxc7 Nc6 8.O-O-O
+Nd5 9.Qxd8 Rxd8 10.Nxd5 Rxd5 11.Be3 b5 12.Ne2 Bg4 13.Nc3 Rdd8 14.Bxb5 Rac8
+15.Be2 Bf5 16.g4 Bg6 17.h4 h6 18.d5 Nb4 19.a3 Rxc3 20.bxc3 Nxd5 21.Rd4
+(21.Bd4) Bxa3+ 22.Kd2 Bc5 23.Ra1 Bxd4 24.cxd4 Rd7 25.Bb5 Rc7 26.c4 Nb6 27.Kc3
+f6 28.Bf4?? Nd5+ 29.Kb3 Nxf4 30.d5 Nd3 31.d6 Rc8 32.Rxa7 Rd8 33.d7 Kf7 34.Kc3
+Nxf2? (34...Ke7) 35.c5 e3 36.c6 Ne4+ 37.Kd4? (37.Kb4) Nd6 38.Be2 Be4 39.Kc5
+Bxc6 40.Kxd6 Bxd7 41.Rxd7+ Rxd7+ 42.Kxd7 h5 43.gxh5 f5 44.Kd6 Kf6 45.Kd5 {=}
+1-0
