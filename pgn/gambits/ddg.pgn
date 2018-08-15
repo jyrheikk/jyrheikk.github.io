@@ -2857,7 +2857,7 @@ Rxh6 22.Rxh6 gxh6 23.Rg1+ Kf8 24.e6 Ke7 25.Qe5 Qc6 26.Rg7+ Ke8 27.Rg8+ Ke7
 [Section "A"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Garde 3"]
+[BlackTeam "Shakkikerho Garde 3"]
 [WhiteElo "2045"]
 [BlackElo "2120"]
 [TimeControl "900"]
@@ -4256,3 +4256,16 @@ Qg5+ 16.Kb2 a5? 17.Bxf6 Qxf6 18.Bxh7+ Kh8 19.Rxd7 Qc6?? 20.Bf5 Ra6 21.Rd4 Rb6+
 22.Ka1 g6 23.Bd7 Qc5 24.h4 Rd8 25.h5 g5 26.h6 Qe7 27.Rhd1 a4 28.Re4 Qf6
 29.Re8+ Rxe8 30.Bxe8 a3 31.Rb1 (31.Bxf7!) Rb2 32.Rxb2 axb2+ 33.Kxb2 Qe6 34.Qd3
 Qxe8 35.Qd4+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.08.15"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Turtiainen, Kimmo"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.c4 e6 3.e4 Nf6 4.f3 dxe4 5.Nc3 exf3 6.Nxf3 c6 7.Bd3 Bd6 8.O-O Nbd7
+9.Qe1 O-O 10.Qh4 Be7 11.Bg5 Re8 12.Rad1 Nf8 13.Ne5 Ng6 14.Bxg6 hxg6? 15.Rd3
+Rf8 16.Rh3 1-0
