@@ -246,7 +246,7 @@ Rxd1+ 0-1
 [Section "II division"]
 [Board "3"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "X"]
+[BlackTeam "Shakkikerho X"]
 [TimeControl "40/7200:1800"]
 
 1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Qb6 8.Qd2?
@@ -584,7 +584,7 @@ Rh6+ 55.Kb7 Bxa5 0-1
 
 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3 Ba5 5.b4 Bb6 6.e5 a5 7.Rb1 axb4 8.axb4 Nc6
 9.Nce2 Nge7 10.c3 O-O 11.f4 f6 12.Nf3 fxe5 13.fxe5 Nf5 14.Qd3 Nh4 15.Ng5 Nf5
-16.Qh3  (16.g4! h6 17.gxf5 hxg5 18.f6 {+-}) h6 17.Nf3 Qe8 18.Nf4 Ncxd4 19.cxd4
+16.Qh3 (16.g4! h6 17.gxf5 hxg5 18.f6 {+-}) h6 17.Nf3 Qe8 18.Nf4 Ncxd4 19.cxd4
 Nxd4 20.Nxd4 Bxd4 21.Bd3 Ra2 22.Be3?? (22.Bh7+! {=}) Bc3+ 23.Kf1 Bxe5 24.g3 d4
 25.Bc1 Qc6 26.Kg1 Qf3 27.Qf1 Qc6? (27...Qg4) 28.h4 b6 29.Rh2 Rxh2 30.Kxh2 g5
 31.hxg5 hxg5 32.Qh3 Rf7 33.Ng2 Rg7 34.Bxg5 Bb7?? (34...Qf3) 35.Bf4 Bxf4
@@ -620,8 +620,23 @@ Bf5 27.exf6? (27.Rdg1 {+-}) Rxe3 28.Rxg7+? (28.Rxe3 {=}) Kf8 29.Bxf5 Qf4 0-1
 [BlackElo "2068"]
 [TimeControl "40/6600:1800+30"]
 
-1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5  6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.g3
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.g3
 Qb6 10.Ne2 f6 11.c3 cxd4 12.Bxd4 Nxd4 13.cxd4 fxe5 14.fxe5 Be7 15.Nf4 O-O
 16.h4 Nb8 17.Bd3 Nc6 18.O-O-O Nb4 19.Ng5 g6 20.Nxh7 Kxh7 21.h5 Nxd3+ 22.Qxd3
 Qc7+ 23.Kb1 Rf5 24.hxg6+ Kg8 25.Rh7 Qd8 26.Rdh1 Bf6 27.exf6 Qxf6 28.Rh8+ Qxh8
 29.Rxh8+ Kxh8 30.Qe2 Ra7 31.Qc2 Bd7 32.Qh2+ Kg7 33.Qh7+ Kf6 34.Qh8+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2018.09.12"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Kinnunen, Matti"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 e6 4.Nc3 a6 5.Be3 Nbd7 6.e5 Ng8 7.f4 Ne7 8.Nf3 Nf5 9.Bf2
+c5 10.g4 Nxd4 11.Bxd4 cxd4 12.Qxd4 Bc5 13.Qd2 b5 14.O-O-O Bb7 15.Bg2 Rc8
+16.Ne2 Nb6 17.Ned4 Nc4 18.Qd3 Qb6 19.Rhe1 O-O? 20.Ng5 g6 21.Ngf3 (21.Qh3) b4
+22.h4 Bxd4 23.Nxd4 Qc7 24.h5 Na5 25.hxg6 hxg6 26.Rh1 Nc6 27.Qh3 1-0
