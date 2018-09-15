@@ -44,6 +44,25 @@ Rxh1+ 22.Nxh1 Ra7 23.gxf6 exf6) Bxe3+ 21.Rxe3 Bh5 22.Kd2 Kf7 23.Nc3 Raa8
 [Site "Helsinki FIN"]
 [Date "2018.09.15"]
 [Round "1"]
+[White "Luosto, Kerkko"]
+[Black "Haapasalo, Jukka-Pekka"]
+[Result "0-1"]
+[Section "II Division:3"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Salon Shakkikerho 2"]
+[WhiteElo "1924"]
+[BlackElo "2059"]
+
+1.d4 Nf6 2.c4 Nc6 3.Nf3 e6 4.Nc3 Bb4 5.e3 O-O 6.Bd3 d6 7.O-O Bxc3 8.bxc3 e5
+9.Qc2 h6 10.Ba3 Re8 11.Nd2 Na5 12.Rae1 b6 13.Ne4 Ba6 14.c5 Bxd3  15.Nxf6+ Qxf6
+16.Qxd3 dxc5 17.dxc5 Qe6 18.Qe2 Nc4 19.Bc1 e4 20.Rd1 bxc5 21.Qh5 Ne5 22.Rd2
+Rab8 23.Rfd1 Nd3 24.Ba3 Qa6 25.Rxd3 exd3 26.Qxc5 Qa4 27.Rf1 d2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.15"]
+[Round "1"]
 [White "Närhi, Kimmo"]
 [Black "Kauppinen, Jyrki"]
 [Result "1-0"]
