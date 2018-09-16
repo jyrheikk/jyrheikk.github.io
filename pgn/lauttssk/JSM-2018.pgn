@@ -44,6 +44,29 @@ Rxh1+ 22.Nxh1 Ra7 23.gxf6 exf6) Bxe3+ 21.Rxe3 Bh5 22.Kd2 Kf7 23.Nc3 Raa8
 [Site "Helsinki FIN"]
 [Date "2018.09.15"]
 [Round "1"]
+[White "Leino, Jukka"]
+[Black "Vesely, Petr "]
+[Result "1/2-1/2"]
+[Section "II Division:3"]
+[Board "3"]
+[WhiteTeam "Salon Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "2114"]
+[BlackElo "1959"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 c6 5.c4 Nf6 6.Be2 Bg4 7.h3 Bh5 8.O-O e6
+9.Nc3 Be7 10.Be3 O-O 11.Ne5 Bxe2 12.Qxe2 Nbd7 13.Nf3 Nb6 14.Rad1 Qc7 15.Bg5
+Rfe8 16.Bh4 Nh5 17.Bxe7 Qxe7 18.Ne5 Nf6 19.b3 Rad8 20.Rd3 Qc7 21.Rfd1 Re7
+22.Qe3 Nbd7 23.f4 Nb6 24.a4 a6 25.Kh1 Nc8 26.Ng4 Ne8 27.c5 f5 28.Ne5 Nf6 29.b4
+Ree8 30.b5 Ne7 31.b6 Qc8 32.Nc4 Ned5 33.Qf3 Nxc3 34.Rxc3 Ne4 35.Re3 Qd7
+36.Rxe4 fxe4 37.Qxe4 Qd5 38.Qxd5 Rxd5 39.Nd6 Rxd6 40.cxd6 Rd8 41.Rc1 Rxd6
+42.Rc4 Kf7 43.Kg1 Ke7 44.Kf2 Rd5 45.Ke3 Kd6 46.Ke4 Ra5 47.g4 g6 48.g5 Kd7
+49.Ke3 Kd6 50.Ke4 Kd7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.15"]
+[Round "1"]
 [White "Luosto, Kerkko"]
 [Black "Haapasalo, Jukka-Pekka"]
 [Result "0-1"]
@@ -55,7 +78,7 @@ Rxh1+ 22.Nxh1 Ra7 23.gxf6 exf6) Bxe3+ 21.Rxe3 Bh5 22.Kd2 Kf7 23.Nc3 Raa8
 [BlackElo "2059"]
 
 1.d4 Nf6 2.c4 Nc6 3.Nf3 e6 4.Nc3 Bb4 5.e3 O-O 6.Bd3 d6 7.O-O Bxc3 8.bxc3 e5
-9.Qc2 h6 10.Ba3 Re8 11.Nd2 Na5 12.Rae1 b6 13.Ne4 Ba6 14.c5 Bxd3  15.Nxf6+ Qxf6
+9.Qc2 h6 10.Ba3 Re8 11.Nd2 Na5 12.Rae1 b6 13.Ne4 Ba6 14.c5 Bxd3 15.Nxf6+ Qxf6
 16.Qxd3 dxc5 17.dxc5 Qe6 18.Qe2 Nc4 19.Bc1 e4 20.Rd1 bxc5 21.Qh5 Ne5 22.Rd2
 Rab8 23.Rfd1 Nd3 24.Ba3 Qa6 25.Rxd3 exd3 26.Qxc5 Qa4 27.Rf1 d2 0-1
 
