@@ -143,3 +143,65 @@ Qd3 30.Qc1 c2 31.Qf4 Qc3 32.Bh3 Rd1 33.Qg4+ Kf8 34.Qe4 Rxe1+ 0-1
 16.b4 Rfd8 17.Be3 Qc7 18.Nb1 Bxc2 19.Qxc2 d4 20.Bg5 dxc3 21.Bxf6 gxf6 22.Nxa3
 Nxb4 23.Qb3 Qc5 24.Nc2 Nxc2 25.Qxc2 Rac8 26.h4 b5 27.Bh3 a5 28.Re1 Qd5 29.Bg2
 Qd3 30.Qc1 c2 31.Qf4 Qc3 32.Bh3 Rd1 33.Qg4+ Kf8 34.Qe4 Rxe1+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Heino, Pessi"]
+[Black "Siikonen, Timo"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Etelä-Vantaan Shakki 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[WhiteElo "1396"]
+[BlackElo "1765"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 e6 4.Bg5 Be7 5.g3 d5 6.cxd5 exd5 7.Bg2 c6 8.Nh3 O-O
+9.O-O Ne4 10.Nxe4 fxe4 11.Bxe7 Qxe7 12.Nf4 Nd7 13.f3 Nf6 14.Qb3 Kh8 15.fxe4
+Nxe4 16.Bxe4 dxe4 17.Rf2 Bg4 18.Raf1 e3 19.Rg2 g5 20.h3 Bc8 21.Nd3 Rxf1+
+22.Kxf1 Bxh3 23.Ne5 Rf8+ 24.Kg1 Bxg2 25.Kxg2 Qf6 26.Ng4 Qf1+ 27.Kh2 Qxe2+
+28.Kh3 Rf1 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.16"]
+[Round "2"]
+[White "Elg, Marko"]
+[Black "Sobenin, Evgeny"]
+[Result "0-1"]
+[Section "II Division:3"]
+[Board "3"]
+[WhiteTeam "Gambiitti 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "1938"]
+[BlackElo "1971"]
+
+1.Nf3 d6 2.d4 g6 3.e4 Bg7 4.Nc3 Nf6 5.Bf4 O-O 6.Qd2 c5 7.dxc5 dxc5 8.O-O-O Qb6
+9.e5 Nh5 10.Nd5 Qe6 11.Ng5 Qd7 12.Qc3 Nxf4 13.Nf6+ exf6 14.Rxd7 Nxd7 15.Ne4
+fxe5 16.g3 Ne6 17.Bc4 Nd4 18.Kb1 Nb6 19.Bd3 c4 20.Bf1 Be6 21.Bg2 Bd5 22.f3 a5
+23.Qe3 Na4 24.Rd1 Nf5 25.Qf2 Rfd8 26.Re1 Nd4 27.c3 Ne6 28.Kc2 f5 29.Nd2 Nac5
+30.Bf1 Nd3 31.Bxd3 cxd3+ 32.Kb1 Ra6 33.h4 Rc6 34.h5 b5 35.hxg6 hxg6 36.Qa7 a4
+37.c4 bxc4 38.Rc1 Bh6 39.Qf2 a3 40.Rh1 Bg7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.16"]
+[Round "2"]
+[White "Mannberg, Henry"]
+[Black "Kauppinen, Jyrki"]
+[Result "1-0"]
+[Section "II Division:3"]
+[Board "5"]
+[WhiteTeam "Gambiitti 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "1909"]
+[BlackElo "1877"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.g3 Nxc3 6.bxc3 g6 7.Bg2 Bg7 8.O-O O-O
+9.Rb1 Nc6 10.Qc2 Rb8 11.Rd1 Bf5 12.e4 Bg4 13.h3 Bxf3 14.Bxf3 e5 15.d3 b6
+16.Be3 Qe7 17.a4 a5 18.Qa2 Rfd8 19.Qc4 Rd6 20.Rb5 Qd8 21.Be2 Qc8 22.Kg2 Na7
+23.Rb2 Bf8 24.f4 Nc6 25.Rdb1 h5 26.Rxb6 Rxb6 27.Rxb6 Nb8 28.Rb5 Nd7 29.Rxa5
+Rb6 30.Rb5 Ra6 31.f5 Kg7 32.fxg6 fxg6 33.Qb3 Qc6 34.Bd1 Nf6 35.Rb7+ Kh8 36.Qf7
+Qd6 37.Bg5 c4 38.Bxf6+ Qxf6 39.Qh7# 1-0
