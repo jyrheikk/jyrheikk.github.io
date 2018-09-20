@@ -189,6 +189,29 @@ Rdc8 23.g4 fxg4 24.hxg4 Bf6 25.Bf3 Rc5 26.Be2 Nxc4 27.Nxc4 Bxc4 28.Bxc4 Rxc4
 [Site "Helsinki FIN"]
 [Date "2018.09.16"]
 [Round "2"]
+[White "Kivinen, Jyrki"]
+[Black "Peltola, Leo"]
+[Result "1-0"]
+[Section "II Division:3"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Gambiitti 2"]
+[WhiteElo "2014"]
+[BlackElo "1948"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.g4 b5 11.Bxf6 gxf6 12.a3 Nc5 13.Rg1 Bb7 14.Bd3 O-O-O 15.Qe3
+Kb8 16.Rge1 Rc8 17.Nf3 Rhd8 18.Kb1 Nxd3 19.Rxd3 Qc5 20.e5 fxe5 21.fxe5 dxe5
+22.Nxe5 Qxe3 23.Rdxe3 Bc5 24.Rh3 f6 25.Nd3 e5 26.Nxc5 Rxc5 27.Rxh7 Rc4 28.g5
+fxg5 29.Rxe5 g4 30.Ree7 Bf3 31.Re6 Rc6 32.Ree7 Rc4 33.Rd7 Re8 34.Nd5 Re1+
+35.Ka2 Bxd5 36.Rxd5 Rxc2 37.Rd8+ Rc8 38.Rd6 Re5 39.Rb6+ Ka8 40.Rxa6+ Kb8
+41.Rb6+ Ka8 42.Rg6 Re4 43.Ra6+ Kb8 44.Rb6+ Ka8 45.Rxb5 Rg8 46.Rb3 Rf4 47.Rh4
+Ka7 48.h3 Ka6 49.Rg3 gxh3 50.Rh6+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.09.16"]
+[Round "2"]
 [White "Elg, Marko"]
 [Black "Sobenin, Evgeny"]
 [Result "0-1"]
