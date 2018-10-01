@@ -19,7 +19,6 @@ Bd7 16.Qg3 Re7 17.f4 Qe8? 18.f5 Rb8? 19.f6 1-0
 [Result "1-0"]
 [WhiteElo "1365"]
 [BlackElo "1317"]
-[ECO "D06"]
 
 1.Nf3 d5 2.d4 Bf5 3.e3 Nf6 4.c4 e6 5.Be2 a6 6.h3 Bg6 7.O-O Be7 8.Nc3 O-O
 9.cxd5 exd5 10.Bd3 Bxd3 11.Qxd3 Nc6 12.a3 Re8 13.b3 Bd6 14.Bb2 Ne4 15.Nxd5
@@ -217,6 +216,20 @@ e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
 [Site "Helsinki FIN"]
 [Date "2018.05.31"]
 [Round "3"]
+[White "Siikonen, Timo"]
+[Black "Turtiainen, Kimmo"]
+[Result "1-0"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bg4 6.O-O Be7 7.Bf4 O-O 8.Nbd2 Re8
+9.c3 Nbd7 10.Qc2 Nf8 11.Rae1 Ne6 12.Be5 h6 13.Nh4 Ne4 14.Nxe4 Bxh4 15.Ng3 f6
+16.h3 fxe5 17.hxg4 e4 18.Nxe4 dxe4 19.Rxe4 Qd7 20.Bc4 Kh8 21.Rfe1 Ng5 22.Re5
+Rxe5 23.Rxe5 Qxg4 24.Re3 Rf8 25.g3 Nh3+ 26.Kh1 Nxf2+ 27.Kg1 Bxg3 28.Be6 Qg5
+29.Qe2 Bf4+ 30.Kxf2 Bxe3+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.05.31"]
+[Round "3"]
 [White "Hämeenniemi, Katri"]
 [Black "Valli, Kari"]
 [Result "0-1"]
@@ -334,6 +347,19 @@ Qxh2+ 23.Kf1 f4 24.d5 Be5 25.Bxe5 Nxe5 26.dxc6 Qh1+ 27.Ke2 Qxg2 28.Rg1 f3+
 35.Qxc6 Nxc6 36.Ra2 h6 37.Rc2 Rf6 38.Rf1 g5 39.b5 Rf4+ 40.Kb3 Nd4+ 41.Kc3 Nxc2
 42.Kxc2 g4 43.Kd2 Re4 44.Rf2 Kg7 45.Kd3 Ra4 46.Ke3 Kf6 47.Ra2 Kf5 48.Kf2 Kf4
 49.Rc2 g3+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.08.22"]
+[Round "4"]
+[White "Siikonen, Timo"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nc6 4.Nf3 d6 5.Nxd4 Nxd4 6.Qxd4 Qf6 7.Qd3 a6 8.Nc3 Ne7
+9.Be3 Be6 10.f4 Rd8 11.O-O-O b5 12.Nd5 Nxd5 13.Bxd5 Bxd5 14.Qxd5 Qe6 15.Qc6+
+Rd7 16.Qa8+ Ke7 17.Qxa6 Qxe4 18.Rhe1 Qa4 19.Qc8 Qxa2 20.Bd4+ Qe6 21.Rxe6+ fxe6
+22.f5 e5 23.Bxe5 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]

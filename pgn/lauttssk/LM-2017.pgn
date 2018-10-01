@@ -44,10 +44,10 @@ Rd6 43.Rxb4 Kc6 44.Nf2 f4 45.gxf4 gxf4 46.Rb3 Rg6 47.Ra3 Rxg2 48.Rf3 Kd6
 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 d6 7.O-O Be7 8.Re1 O-O 9.c3
 h6 10.Nbd2 Bb7 11.Nf1 Re8 12.Ng3 Bc8 13.h3 Rb8 14.a3 Bf8 15.Ba2 Be6 16.Bxe6
 Rxe6 17.d4 Re8 18.d5 Ne7 19.Qe2 c5 20.dxc6 Nxc6 21.a4 Qc8 22.Rd1 bxa4 23.Rxa4
-a5 24.Nf5 Rd8  25.Qc4? (25.Ne3) (25.c4) Qb7 (25...d5!) 26.g4 Qb5 27.Qxb5 Rxb5
+a5 24.Nf5 Rd8 25.Qc4? (25.Ne3) (25.c4) Qb7 (25...d5!) 26.g4 Qb5 27.Qxb5 Rxb5
 28.c4 Rb4 29.Rxb4 axb4 30.Ng3 Be7 31.b3 Na5 32.Rd3 Kf8 33.Be3 Nd7 34.Nf5 Nc5
-35.Bxc5 dxc5  36.Rxd8+ Bxd8 37.Nd2 Bg5 38.Ne3 g6 39.Kf1 Bxe3 40.fxe3 Ke7
-41.Ke2 f6 42.Kd1 h5 43.Kc2 hxg4 44.hxg4 Kf7 45.Nf3 g5 46.Ne1 Nb7 1/2-1/2
+35.Bxc5 dxc5 36.Rxd8+ Bxd8 37.Nd2 Bg5 38.Ne3 g6 39.Kf1 Bxe3 40.fxe3 Ke7 41.Ke2
+f6 42.Kd1 h5 43.Kc2 hxg4 44.hxg4 Kf7 45.Nf3 g5 46.Ne1 Nb7 1/2-1/2
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -61,6 +61,19 @@ a5 24.Nf5 Rd8  25.Qc4? (25.Ne3) (25.c4) Qb7 (25...d5!) 26.g4 Qb5 27.Qxb5 Rxb5
 9.Nf3 Qe7? 10.d5 Nd8 11.Bg5 Nf6 12.Bxd7+ Kxd7 13.Qa4+ Kc8 14.c4 Qd7 15.Qxd7+
 Nxd7 16.Bxd8 Rxd8 17.Nfg5 Nf8 18.Nc3 Kd7 19.O-O h6 20.Nge4 g5 21.c5 a6?
 22.cxd6 cxd6 23.Na4 Ke7 24.Nb6 Rab8 25.Rac1 Nd7 26.Rc7 Bf8 27.Rfc1 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2017.04.29"]
+[Round "1"]
+[White "Siikonen, Timo"]
+[Black "Heimonen, Arto"]
+[Result "1-0"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 d6 4.Bb5 Bd7 5.O-O a6 6.Bxc6 Bxc6 7.Nc3 e6 8.d3 Qc7
+9.Bd2 Nf6 10.a3 Be7 11.Qe1 O-O 12.Qg3 Rfd8 13.Ng5 d5 14.e5 Ne8 15.f5 Bxg5
+16.Bxg5 f6 17.Bh4 exf5 18.Rxf5 g5 19.exf6 Qxg3 20.f7+ Kf8 21.Bxg3 Nd6 22.Rxg5
+Nxf7 23.Rf1 h6 24.Rg6 Ke7 25.Bh4+ 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
