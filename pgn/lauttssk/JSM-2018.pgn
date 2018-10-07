@@ -2,6 +2,48 @@
 [Site "Tampere FIN"]
 [Date "2018.09.15"]
 [Round "1"]
+[White "Hurme, Harri"]
+[Black "Mertanen, Janne"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Tammer-Shakki 2"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bg7 7.e4 O-O 8.Nf3 Qa5
+9.Bd2 Bxa6 10.Be2 Bxe2 11.Qxe2 Qa6 12.h3 d6 13.a4 Qxe2+ 14.Kxe2 Na6 15.Rab1
+Rfb8 16.Rhe1 Rb3 17.Bc1 Nd7 18.Nd2 Rb4 19.Ra1 c4 20.Nf1 Nac5 21.Ne3 Nd3 22.Rd1
+Nxb2 23.Bd2 Nxd1 24.Kxd1 Bxc3 25.Bxc3 Rbxa4 26.Rc1 Nc5 27.f3 Rb8 28.Rc2 Rb1+
+29.Ke2 Nb3 30.Kf2 Rc1 31.Rxc1 Nxc1 32.f4 Ra2+ 33.Kf3 Ne2 34.Be1 c3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Penttinen, Jarkko"]
+[Black "Saren, Ilkka"]
+[Result "1/2-1/2"]
+[Section "I Division:A"]
+[Board "2"]
+[WhiteTeam "Tammer-Shakki 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+
+1.c4 e6 2.Nf3 Nf6 3.Nc3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 c6 7.Qc2 Nbd7 8.Be2 h6
+9.Bh4 dxc4 10.Bxc4 Nd5 11.Bg3 Qa5 12.O-O Nxc3 13.bxc3 b6 14.Rfd1 Ba6 15.Bxa6
+Qxa6 16.e4 Rac8 17.c4 Rfd8 18.a4 Qa5 19.h3 Nf8 20.Rab1 f6 21.Qb3 Kh8 22.Rd3
+Rd7 23.Rbd1 Rcd8 24.Kh2 Kh7 25.Qc2 Kh8 26.Qb3 Kh7 27.Bf4 Kh8 28.Qc2 Kg8 29.g4
+Kh8 30.h4 Nh7 31.Kg2 Kg8 32.Qb3 Nf8 33.Bd2 Qa6 34.h5 Kh7 35.Bf4 Qa5 36.Qc2 Kh8
+37.Qb3 Kh7 38.Bg3 Kh8 39.Qc2 Kg8 40.Qb3 Kh8 41.Kg1 Kh7 42.d5 cxd5 43.cxd5 e5
+44.Nh4 Qb4 45.Qxb4 Bxb4 46.Rb3 a5 47.Rc1 Rb7 48.Nf5 Nd7 49.Ra1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
 [White "Heikkinen, Jyrki"]
 [Black "Iivonen, Markku"]
 [Result "0-1"]
@@ -25,6 +67,67 @@ Rxh1+ 22.Nxh1 Ra7 23.gxf6 exf6) Bxe3+ 21.Rxe3 Bh5 22.Kd2 Kf7 23.Nc3 Raa8
 [Site "Tampere FIN"]
 [Date "2018.09.15"]
 [Round "1"]
+[White "Sorvari, Jarmo"]
+[Black "Aakio, Seppo"]
+[Result "1/2-1/2"]
+[Section "I Division:A"]
+[Board "4"]
+[WhiteTeam "Tammer-Shakki 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d6 2.c4 e5 3.Nf3 Nd7 4.Nc3 c6 5.e4 Be7 6.Be2 Qc7 7.O-O Ngf6 8.h3 O-O
+9.Be3 Re8 10.Rc1 a5 11.Re1 exd4 12.Qxd4 Bf8 13.Bf4 Ne5 14.Qe3 Bd7 15.c5 Qd8
+16.cxd6 Bxd6 17.Nd4 Bb8 18.Rcd1 Ng6 19.Bxb8 Qxb8 20.a4 Qc7 21.Bc4 h6 22.Nf3
+Be6 23.Bxe6 Rxe6 24.Nd4 Ree8 25.Nf5 Rad8 26.f3 Ne7 27.Qc5 Nxf5 28.exf5 Rxd1
+29.Rxd1 Re5 30.Qd4 Qe7 31.Qd8+ Kh7 32.Qxe7 Rxe7 33.Kf2 h5 34.g4 Kh6 35.Kg3 g6
+36.h4 hxg4 37.fxg4 Ne4+ 38.Kf4 gxf5 39.Kxf5 Nc5 40.Rd6+ Kg7 41.Rd4 Re1 42.Ne4
+Ne6 43.Rd2 Rf1+ 44.Ke5 Re1 45.Kf5 Rf1+ 46.Nf2 Nd4+ 47.Ke4 Nb3 48.Rc2 Re1+
+49.Kf4 Nd4 50.Rd2 Ne6+ 51.Kf3 Nc5 52.Nd3 Nxd3 53.Rxd3 Re7 54.Rd4 Re5 55.Kf4
+Re2 56.b3 Rb2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Kivinen, Jyrki"]
+[Black "Natri, Antero"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Tammer-Shakki 2"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.f4 c5 6.e5 dxe5 7.dxe5 Ng4 8.Qxd8+ Kxd8
+9.Rd1+ Bd7 10.Nd5 f6 11.Bh4 Nc6 12.h3 g5 13.e6 gxh4 14.hxg4 Bxe6 15.Nb6+ Kc7
+16.Nxa8+ Rxa8 17.f5 Bg8 18.Nf3 Bh6 19.Rxh4 Bf4 20.Kf2 Rd8 21.Rxd8 Kxd8 22.g3
+Bc1 23.b3 Nb4 24.Bd3 Nxa2 25.Rh1 Bb2 26.g5 fxg5 27.Nxg5 Bd4+ 28.Kf3 Nc3
+29.Ne6+ Kd7 30.Nxd4 Bd5+ 31.Kf4 Bxh1 32.Ne6 Kd6 33.Nf8 h6 34.Ng6 b5 35.Ke3 Bd5
+36.Nh4 a5 37.Nf3 a4 38.bxa4 bxa4 39.Nd2 a3 40.Nc4+ Bxc4 41.Bxc4 a2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Mäki, Juha"]
+[Black "Nyrhinen, Harri"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "6"]
+[WhiteTeam "Tammer-Shakki 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bf4 a6 8.Nd2 Nh5 9.e3
+b5 10.Qf3 Bg7 11.Qe4+ Kf8 12.Be2 Nxf4 13.Qxf4 Be5 14.Qf3 Kg7 15.a4 b4 16.Nd1
+Re8 17.Nc4 Nd7 18.a5 Nf6 19.h3 Bf5 20.Nxe5 Rxe5 21.Bc4 Be4 22.Qe2 Qc8 23.f4
+Re7 24.O-O Bxd5 25.Bxd5 Nxd5 26.Qd2 Qe6 27.Rf3 f5 28.b3 Nf6 29.Qd3 Ne4 30.Nb2
+Qf6 31.Rb1 Qc3 32.Qd5 Rae8 33.Nc4 Qc2 34.Rb2 Qc1+ 35.Rf1 Qc3 36.Kh2 Kh6 37.Rd1
+Re6 38.g4 fxg4 39.hxg4 Kg7 40.g5 R8e7 41.Rf1 Kh8 42.f5 Re5 43.Qa8+ Re8 44.Qc6
+d5 45.fxg6 dxc4 46.Rbf2 Nxf2 47.Qf6+ Kg8 48.Qf7+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
 [White "Sobenin, Evgeny"]
 [Black "Keso, Elias"]
 [Result "1-0"]
@@ -39,6 +142,23 @@ Rxh1+ 22.Nxh1 Ra7 23.gxf6 exf6) Bxe3+ 21.Rxe3 Bh5 22.Kd2 Kf7 23.Nc3 Raa8
 9.O-O O-O 10.e4 b4 11.e5 bxc3 12.exd6 cxb2 13.Bxb2 Ba6 14.Re1 Qa5 15.Ne5 Rfc8
 16.Nxf7 Kxf7 17.Rxe6 Kf8 18.Re7 Nb6 19.Rf7+ Ke8 20.Qe1+ Qxe1+ 21.Rxe1+ Kd8
 22.Ree7 Nbd7 23.Be6 Bc4 24.Bxc4 Rcb8 25.Bb3 Kc8 26.d5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Tampere FIN"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Jaakkola, Konsta"]
+[Black "Tuovinen, Jukka"]
+[Result "1/2-1/2"]
+[Section "I Division:A"]
+[Board "8"]
+[WhiteTeam "Tammer-Shakki 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 Nh5 6.Nh3 f5 7.Bg5 Bxc3+ 8.bxc3 Qa5
+9.Qd2 O-O 10.e4 fxe4 11.fxe4 e5 12.Be2 Nf6 13.Nf2 d6 14.O-O Nbd7 15.Qe3 Qc7
+16.Ng4 Nxg4 17.Bxg4 Nf6 18.Bxf6 Rxf6 19.Rxf6 gxf6 20.Bh5 Qg7 21.Rf1 Bd7 22.Rf3
+Kh8 23.Rg3 Qe7 24.Rf3 Rf8 25.g4 Qg7 26.Qf2 Qg5 27.h4 Qh6 28.Kh2 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
