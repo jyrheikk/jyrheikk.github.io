@@ -297,3 +297,24 @@ Kb7 28.Qe2 Bc6 29.Qa6# 1-0
 16.O-O Nd4 17.Bxd4 cxd4 18.Qxe6+ Kh8 19.Ne2 Rae8 20.Nxd4? Bd6 (20...Bc5!
 21.Qb3 Qe5 {-+}) 21.Qb3 Bxh2+ 22.Kh1 Be5 23.Ne6 Rxe6 24.Qxe6 Re8?? 25.Rxf6
 (25.Qxe8+) Rxe6 (25...Qb8 26.Ng5!! Rxe6 27.Rxe6) 26.Rf8# 1-0
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.10.29"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Lammi, Jyrki"]
+[Result "1-0"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Aatos"]
+[WhiteElo "2055"]
+[BlackElo "2102"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c5 5.d5 exf3 6.Nxf3 e6 7.Bb5+ Bd7 8.dxe6 fxe6
+9.Qe2 Nc6 10.Bg5 Be7 11.O-O-O Qc8 12.Bc4 O-O 13.Rxd7 Nxd7 14.Bxe7 Nxe7
+15.Qxe6+ Kh8 16.Qxe7 Nb6 17.Bd3 c4 18.Be4 Qg4 19.Re1 Rae8 20.Qxb7 Nc8 21.Qd5
+Qf4+ 22.Kb1 Nd6 23.Ne2 Qxe4 24.Qxd6 c3 25.Qd3 cxb2 26.Qxe4 Rxe4 27.Kxb2 {no
+more moves recorded} 1-0
