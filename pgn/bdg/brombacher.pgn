@@ -301,7 +301,7 @@ Kb7 28.Qe2 Bc6 29.Qa6# 1-0
 [Event "Helsinki Blitz Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2018.10.29"]
-[Round "?"]
+[Round "12"]
 [White "Heikkinen, Jyrki"]
 [Black "Lammi, Jyrki"]
 [Result "1-0"]
@@ -318,3 +318,23 @@ Kb7 28.Qe2 Bc6 29.Qa6# 1-0
 15.Qxe6+ Kh8 16.Qxe7 Nb6 17.Bd3 c4 18.Be4 Qg4 19.Re1 Rae8 20.Qxb7 Nc8 21.Qd5
 Qf4+ 22.Kb1 Nd6 23.Ne2 Qxe4 24.Qxd6 c3 25.Qd3 cxb2 26.Qxe4 Rxe4 27.Kxb2 {no
 more moves recorded} 1-0
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.10.29"]
+[Round "15"]
+[White "Heikkinen, Jyrki"]
+[Black "Al Argha, Hisham"]
+[Result "1-0"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Matinkylän Shakkikerho 2"]
+[WhiteElo "2055"]
+[BlackElo "2007"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c5 5.d5 exf3 6.Nxf3 g6 7.Bg5 Bg7 8.Be2 h6
+9.Be3 Nbd7 10.O-O O-O 11.Qd2 Kh7 12.Rad1 a6 13.a4 b6 14.Nh4 Ne8 15.Ne4 Nd6
+16.Ng3 Bb7 17.c4 Rc8 18.Qc2 b5 19.b3 bxc4 20.bxc4 Nf6 21.Bd3 Rc7? (21...Kg8)
+22.Bf4 Rd7 23.Bxg6+! fxg6 24.Qxg6+ Kg8 25.Ngf5 Nxf5 26.Nxf5 Rf7 27.Nxh6+ 1-0
