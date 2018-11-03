@@ -7,9 +7,13 @@
 [Result "1-0"]
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 Be7 8.O-O b5
-9.f4 b4 10.Na4 Nxe4 11.f5 d5 12.fxe6 fxe6 13.Nxe6 Bxe6 14.Qh5+ Kd7 15.Bxd5 Nf6
-16.Bxe6+ Kxe6 17.Re1+ Kd7 18.Rd1+ Bd6 19.Qf7+ Kc8 20.Qe6+ Kc7 21.Bf4 Ne8
-22.Rxd6 Nxd6 23.Rd1 Qf6 24.Bxd6+ Kb7 25.Qd5+ 1-0
+9.f4 b4 10.Na4 Nxe4? 11.f5!! d5  (11...e5 12.Bxf7+! Kxf7 13.Ne6 Qd7 (13...Qa5?
+14.Qh5+ g6 15.fxg6+ Kxe6 16.g7 Rd8 17.Qg4+) 14.Nb6 Qc6 15.Qh5+ Kg8 16.Nxc8!
+Qxc8 17.Qg4 Bf6 18.Qxe4) 12.fxe6 fxe6 13.Nxe6! Bxe6 14.Qh5+ Kd7 (14...g6
+15.Qe5) 15.Bxd5 Nf6 16.Bxe6+ Kxe6 17.Re1+ Kd7 18.Rd1+ Bd6 19.Qf7+! (19.Rxd6!?
+Kxd6 20.Qf7! Ke5!! 21.Le3 (21.Bf4+) {=}) Kc8 (19...Qe7 20.Rxd6+! Kxd6 21.Bf4+
+Kd7 22.Rd1+) 20.Qe6+ Kc7 21.Bf4 Ne8 22.Rxd6 Nxd6 23.Rd1 Qf6 24.Bxd6+ Kb7
+25.Qd5+ (25.Qd5+ Nc6 26.Nc5+ Kb6 27.Nd7+ Kb7 28.Nxf6) 1-0
 
 [Event "Finland Ch"]
 [Site "Helsinki FIN"]
@@ -23,10 +27,15 @@
 [PlyCount "63"]
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 Nbd7
-9.O-O-O b5 10.Bxb5 axb5 11.Ndxb5 Qb8 12.e5 Bb7 13.Qe2 dxe5 14.Qc4 Bc5 15.Bxf6
-gxf6 16.Rxd7 Be3+ 17.Kb1 Kxd7 18.Rd1+ Bd4 19.fxe5 fxe5 20.Nxd4 exd4 21.Qxd4+
-Bd5 22.Nxd5 exd5 23.Qxd5+ Ke7 24.Qc5+ Kf6 25.Rf1+ Ke6 26.Qf5+ Kd6 27.Qf6+ Kc7
-28.Qxf7+ Kc8 29.Qe6+ Kb7 30.Rf7+ Qc7 31.Qd5+ Kb8 32.Qxa8+ 1-0
+9.O-O-O b5 10.Bxb5 axb5 11.Ndxb5 Qb8 12.e5 Bb7 13.Qe2 dxe5 14.Qc4 Bc5
+(14...Be7 15.Nc7+ Kf8 16.Rxd7 Nxd7 17.Rd1 {=}) 15.Bxf6 gxf6 16.Rxd7 Be3+
+17.Kb1 Kxd7 18.Rd1+ Bd4 (18...Ke7 19.Qb4+ Ke8 20.Nd6+ Kf8 21.Nf5+ Kg8 22.Nxe3
+{=}) 19.fxe5 fxe5 20.Nxd4 exd4 21.Qxd4+ Bd5 (21...Ke7 22.Qc5+ Kf6 23.Rf1+ Kg6
+24.Qe7 f5 25.Qxe6+ Kg7 26.Qe7+ Kg6 27.h4 Ra5 28.h5+ Kxh5 29.Qf7+ Kh4 30.Qf6+
+Kg3 31.Qg5+ Kh2 32.Qh4+ Kxg2 33.Rf2+ Kg1 34.Ne2# 1-0 {Mikhail Tal – Michael
+Francis Stean, Hastings 1974}) 22.Nxd5 exd5 23.Qxd5+ Ke7 24.Qc5+ Kf6 25.Rf1+
+Ke6 26.Qf5+ Kd6 27.Qf6+ Kc7 28.Qxf7+ Kc8 29.Qe6+ Kb7 30.Rf7+ Qc7 31.Qd5+ Kb8
+32.Qxa8+ 1-0
 
 [Event "We I-HSK"]
 [Site "Helsinki FIN"]
@@ -76,9 +85,9 @@ Bc5+ {-/+}) Ba3+ (31...Be1+!) 0-1
 [BlackTeam "Vammalan Shakkikerho"]
 
 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.h3 Bf5 7.Bd3 e6 8.O-O Nbd7
-9.a3 Bd6 10.b4 Bxb4 11.Na2 Bd6 12.Bd2 Qc7 13.Bxf5 exf5 14.Re1+ Kf8 15.Nh4 g6
+9.a3 Bd6 10.b4!? Bxb4 11.Na2 Bd6 12.Bd2 Qc7 13.Bxf5 exf5 14.Re1+ Kf8 15.Nh4 g6
 16.Bh6+ Kg8 17.Qf3 Bf8 18.Bf4 Qd8 19.Be5 Nxe5 20.dxe5 Ne4 21.Nxf5 gxf5 22.Qxf5
-Ng5 23.Rad1 Qe7 24.Rd7 Qe6 25.Qxg5+ Bg7 26.Rd8+ Rxd8 27.Qxd8+ Bf8 28.Re3 h5
+Ng5?? 23.Rad1 Qe7 24.Rd7 Qe6 25.Qxg5+ Bg7 26.Rd8+ Rxd8 27.Qxd8+ Bf8 28.Re3 h5
 29.Rg3+ Kh7 30.Qd3+ Kh6 31.Qe3+ Kh7 32.Qe4+ Kh6 33.Nc3 Bg7 34.f4 Rd8 35.Qf3 f6
 36.Ne4 fxe5 37.f5 Qd5 38.Rg6+ Kh7 39.Nf6+ 1-0
 
@@ -117,8 +126,9 @@ f5 36.f3 b6 37.Kf2 g5 38.Rd4 Ka6 39.a3 Bc2 40.Rb4 Ka5 41.Ke3 h5 42.Kd2 Bb1
 
 1.e4 c5 2.Nc3 d6 3.f4 Nc6 4.Nf3 g6 5.Bc4 Bg7 6.O-O Nh6 7.d3 O-O 8.Qe1 Na5 9.f5
 Nxc4 10.dxc4 Ng4 11.Qh4 Ne5 12.Nxe5 Bxe5 13.Nd5 f6 14.fxg6 hxg6 15.c3 Rf7
-16.Bf4 g5 17.Qg3 Rg7 18.Bxe5 dxe5 19.Rad1 Qf8 20.Rd2 Bd7 21.Nc7 Rd8 22.Rfd1 e6
-23.Nxe6 Qe7 24.Nxg7 Kxg7 25.Rd5 Kf7 26.Qd3 Ke8 27.Rd6 b6 28.Qd5 Qg7 29.Qb7 1-0
+16.Bf4 g5 17.Qg3 Rg7 18.Bxe5 dxe5 19.Rad1 Qf8 20.Rd2 Bd7?? (20...Be6) 21.Nc7
+Rd8 22.Rfd1 e6 23.Nxe6 Qe7 24.Nxg7 Kxg7 25.Rd5 Kf7 26.Qd3 Ke8 27.Rd6 b6 28.Qd5
+Qg7 29.Qb7 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
