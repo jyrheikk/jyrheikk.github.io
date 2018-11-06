@@ -866,3 +866,22 @@ fxg5 20.Nxg5+) 18.h6 Bf8 19.Ng5+ Ke8 20.Ne6 Qb8 21.Bf4 Nc8 22.Re1 Be7 23.fxg6
 hxg6 24.Nf5 Nf8 25.Neg7+ Kd7 26.Nxe7 Nxe7 27.e5 dxe5 28.dxe5 fxe5 29.Bxe5 Qb7
 30.Qh3+ Kd8 31.Bf6 Rh7 32.Rxe7 Qxe7 33.Rd1+ Kc7 34.Bxe7 Kb6 35.Qe3+ Kb7
 36.Bxf8 Rxf8 37.Qe7+ Kb6 38.Qxf8 Rxh6 39.Ne6 Rh5 40.Qb8+ Ka6 41.Nc7# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2018.11.06"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "600+5"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Nc3 d6 3.f4 g6 4.e4 Bg7 5.Nf3 c6 6.e5 dxe5 7.fxe5 Nd5 8.Ne4 Bf5
+9.Ng3 Bg4 10.c3 O-O 11.Bc4 Nd7 12.O-O a5 13.h3 Bxf3 14.Qxf3 N7b6 15.Bd3 f6
+16.Qg4 Qc8 17.Bf5! Qd8 (17...gxf5 18.Nxf5 Rf7 19.e6!) 18.e6 (18.Bxg6! hxg6
+19.Qxg6 Qe8 20.Qg4) Nc4 19.Rf3 Nd6 20.Bh6?! Qe8 (20...Bxh6 21.Bxg6 Kh8)
+21.Bxg7 Kxg7 22.h4 Kh8 (22...h5 23.Nxh5+ Kh6!) 23.Bd3 b5 24.Raf1 a4 25.h5 g5
+26.h6 a3 27.b3 Rg8 28.Bc2 Nf4 29.Nf5 Qf8 30.Nxd6 exd6 31.Rh3? Re8 32.c4 Rxe6??
+33.Rxf4 Re1+ 34.Kf2?? (34.Rf1) Qe8 35.Re4 0-1
