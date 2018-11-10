@@ -1824,3 +1824,24 @@ Rxg2+ 22.Kf1 Rg4 23.Qxg4 Qxg4 24.Rd2 Rxd2 25.Bxd2 Qf3+ 26.Ke1 Bb5 0-1
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.a3 d6 6.Qc2 d5 7.cxd5 Qxd5 8.e3 Nxe5
 9.Be2? Bf5 (9...Bg4) 10.Qa4+ (10.Nd4) Bd7 (10...c6) 11.Qc2 Bf5 12.Qa4+ Bd7
 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "van de Plassche, Erik"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "4"]
+[WhiteTeam "Helsingin Shakkiklubi"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2155"]
+[BlackElo "2039"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.exd6 Bxd6 7.e3 Bg4 8.Be2 Qf6
+9.Nbd2 Nc5 10.Ra2 a5 11.b3 O-O 12.O-O Rad8 13.Bb2 Qh6 14.g3 Rfe8 15.Re1 Qh5
+16.Nd4 Ne5 17.Bxg4? (17.f3) Nxg4 18.N2f3? (18.Nf1) Ne4 19.Rf1 c5 20.Kg2
+(20.Ne2 Bxg3 21.Nxg3 Nxg3 22.Qe1 Nxf1 23.Qxf1 Nxh2) Nexf2 (20...Nexf2 21.Qc1
+Qh3+ 22.Kg1 Bxg3) 0-1
