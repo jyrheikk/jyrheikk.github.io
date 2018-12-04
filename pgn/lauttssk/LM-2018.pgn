@@ -206,11 +206,11 @@ Rb6 44.Ke3 Kf6 45.Kd4 f4 46.Kc5 Rb8 47.b6 g5 48.b7 Kf5 49.Kc6 g4 50.hxg4+ Kxg4
 1.e4 e6 2.g3 c5 3.Bg2 Nc6 4.Ne2 b6 5.d4 cxd4 6.Nxd4 Bb7 7.c4 a6 8.O-O Qf6?
 9.Nb3 Be7 10.Be3 Bd8 11.Nc3 Bc7 12.f4 Nh6 13.e5 Qd8 14.c5 O-O 15.Ne4 Rb8
 16.Rc1 Na5 17.Nbd2 bxc5 18.Bxc5 Bb6 19.b4 Nc6? (19...Bxc5+ 20.bxc5) 20.a3 Ne7
-21.Nc4 Bxe4 22.Bxe4 Bxc5+ 23.bxc5 Nhf5 24.g4 Nh6 25.h3 f6 26.Qd3 f5 27.gxf5
-Nexf5 28.Nd6 (28.Nb6 Rf7 29.Rcd1) Qh4 29.Rc3 Nxd6 30.Bxh7+? (30.Qxd6) Kh8
-31.cxd6 Rxf4 32.Qc2?? Qg5+ 33.Qg2 Rxf1+ 34.Kxf1 Qxg2+ 35.Kxg2 Kxh7 36.Rc7 Nf7
-37.Rxd7 Nxe5 38.Ra7 Rd8 39.Rxa6 Kg6 40.Kg3 Kf6 41.a4 Nf7 42.Kf4 Rxd6 43.Ra5
-e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
+21.Nc4 Bxe4 22.Bxe4 Bxc5+ 23.bxc5 Nhf5 24.g4 Nh6 25.h3 f6 26.Qd3 (26.Nb6) f5
+27.gxf5 Nexf5 28.Nd6 (28.Nb6 Rf7 29.Rcd1) Qh4 29.Rc3 Nxd6 30.Bxh7+? (30.Qxd6)
+Kh8 31.cxd6 Rxf4 32.Qc2?? Qg5+ 33.Qg2 Rxf1+ 34.Kxf1 Qxg2+ 35.Kxg2 Kxh7 36.Rc7
+Nf7 37.Rxd7 Nxe5 38.Ra7 Rd8 39.Rxa6 Kg6 40.Kg3 Kf6 41.a4 Nf7 42.Kf4 Rxd6
+43.Ra5 e5+ 44.Ke3 g5 45.Rb5 Rd4 46.a5 Rh4 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -492,3 +492,17 @@ b4 39.cxb4 cxb4 40.axb4 Rxb4 41.Rc1 Rd7 42.Rfc2 Rdb7 43.Rc6+ Kd5 44.R1c2?
 Rxb2+ 45.Rxb2 Rxb2+ 46.Kxb2 Kxc6 47.Kc3 Kd5 48.Kd3 f5 49.Ke3 Kc4 50.g4 g6
 51.h5 Kc3 52.h6 Kc4 53.gxf5 gxf5 54.Kd2 Kd4 55.Ke2 Kc3 56.Ke3 Kc2 57.Ke2 f4
 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.28"]
+[Round "6"]
+[White "Henttonen, Tero"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bg5 Bg4 6.Be2 Be7 7.h3 Bf5 8.Nbd2 O-O
+9.O-O Re8 10.Re1 Nbd7 11.Nf1 Ne4 12.Bxe7 Qxe7 13.N3d2 Ndf6 14.Bd3 Qd7 15.Nxe4
+dxe4 16.Bc4 Bxh3 17.gxh3 Qxh3 18.Nh2 (18.Re3) e3 19.Qf3 exf2+ 20.Qxf2 Qh5
+21.Qf4 Qg6+ 22.Kf1 Qxc2 23.Qxc7? Qf5+ (23...Kh8) 24.Kg1 Ne4 25.Re2 Qg6+?
+(25...Rac8) 26.Rg2 Ng5 27.Rf1 Rf8 28.Qxb7 h6 29.Rxf7 Qb1+? 30.Rf1+ 1-0
