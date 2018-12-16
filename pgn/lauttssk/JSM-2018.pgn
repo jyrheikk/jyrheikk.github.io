@@ -417,6 +417,64 @@ Qd6 37.Bg5 c4 38.Bxf6+ Qxf6 39.Qh7# 1-0
 [Site "Helsinki FIN"]
 [Date "2018.11.10"]
 [Round "2"]
+[White "Hurme, Harri"]
+[Black "Norri, Joose"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.Bf4 Qa5 8.e3 Nxc5
+9.Nd2 b6 10.Be2 Bb7 11.O-O Bxc3 12.bxc3 Nce4 13.Nxe4 Bxe4 14.Qd2 d5 15.f3 Bg6
+16.Rad1 Rac8 17.g4 dxc4 18.e4 h6 19.h4 Rfe8 20.Kh2 e5 21.Bxh6 gxh6 22.h5 Kg7
+23.hxg6 fxg6 24.Kg2 Qc5 25.Rh1 g5 26.Rhe1 Nh7 27.Qb2 Red8 28.a4 Nf8 29.Qb5
+Qxb5 30.axb5 Ne6 31.Rxd8 Rxd8 32.Bxc4 Nf4+ 33.Kg1 Rc8 34.Bf1 Rxc3 35.Rd1 Ra3
+36.Rd7+ Kf8 37.Rh7 Ne6 38.Bc4 Nd4 39.Kg2 Rxf3 40.Rxa7 Rf4 41.Rb7 Rxg4+ 42.Kh3
+Rh4+ 43.Kg2 Rg4+ 44.Kh3 Rxe4 45.Rxb6 g4+ 46.Kg2 Nc2 47.Be6 Ke7 48.Kg3 Ne3
+49.Bc8 Kd8 50.Be6 Rf4 51.Bd5 Nf5+ 52.Kg2 Rd4 53.Be6 Rd2+ 54.Kf1 Ne3+ 55.Ke1
+Rb2 56.Bd5 Nxd5 57.Rd6+ Ke7 58.Rxd5 Ke6 59.Rc5 h5 60.Kd1 g3 61.Kc1 Rf2 62.Rc6+
+Kf5 63.Rc8 g2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Sorri, Juhani"]
+[Black "Havansi, Erkki"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "2"]
+[WhiteTeam "Helsingin Shakkiklubi"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "C40"]
+
+1.e4 e5 2.Nf3 d5 3.d4 dxe4 4.Nxe5 Bd6 5.Nc4 Nc6 6.Nc3 Bf5 7.Nxd6+ Qxd6 8.Nb5
+Qd7 9.Bf4 Rc8 10.d5 Nb4 11.d6 e3 12.Rc1 Nxa2 13.Nxc7+ Rxc7 14.dxc7 Qd2+
+15.Qxd2 exd2+ 16.Kxd2 Nxc1 17.Bb5+ Ke7 18.Re1+ Kf6 19.Re8 Na2 20.Be5+ Kg6
+21.Bd3 Ne7 22.Rxh8 Bxd3 23.cxd3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Saren, Ilkka"]
+[Black "Kauranen, Matti"]
+[Result "1/2-1/2"]
+[Section "I Division:A"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Qxe2+ 8.Bxe2
+Be7 9.Nc3 c6 10.h3 h6 11.Bd2 O-O 12.O-O 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
 [White "van de Plassche, Erik"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -426,12 +484,90 @@ Qd6 37.Bg5 c4 38.Bxf6+ Qxf6 39.Qh7# 1-0
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [WhiteElo "2155"]
 [BlackElo "2039"]
+[ECO "A51"]
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.exd6 Bxd6 7.e3 Bg4 8.Be2 Qf6
 9.Nbd2 Nc5 10.Ra2 a5 11.b3 O-O 12.O-O Rad8 13.Bb2 Qh6 14.g3 Rfe8 15.Re1 Qh5
 16.Nd4 Ne5 17.Bxg4? (17.f3) Nxg4 18.N2f3? (18.Nf1) Ne4 19.Rf1 c5 20.Kg2
 (20.Ne2 Bxg3 21.Nxg3 Nxg3 22.Qe1 Nxf1 23.Qxf1 Nxh2) Nexf2 (20...Nexf2 21.Qc1
 Qh3+ 22.Kg1 Bxg3) 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Kauppala, Pekka"]
+[Black "Elomaa, Arto"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Qxe2+ 8.Bxe2
+Be7 9.Nc3 Bd7 10.O-O Nc6 11.d4 Nb4 12.Nb5 Na6 13.Rfe1 Kd8 14.a3 h6 15.Bf4 g5
+16.Bg3 Ne4 17.Bd3 Nxg3 18.hxg3 c6 19.Nc3 Nc7 20.Re2 Re8 21.Rae1 Bf8 22.Ne4 Re6
+23.g4 d5 24.Ng3 Rxe2 25.Bxe2 Bd6 26.Ne5 Bxe5 27.dxe5 Ke7 28.Nf5+ Bxf5 29.gxf5
+Rd8 30.g4 d4 31.Bc4 Nd5 32.Bxd5 Rxd5 33.Kg2 d3 34.cxd3 Rxd3 35.e6 Rd4 36.Kg3
+Rf4 37.exf7+ Kxf7 38.Rh1 Kg7 39.Rd1 h5 40.Rd7+ Kf6 41.gxh5 Rh4 42.Rxb7 Kxf5
+43.Rxa7 Rxh5 44.Ra5+ Ke6 45.Rc5 Kd6 46.b4 Kd7 47.f3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Tiinanen, Teemu"]
+[Black "Aakio, Seppo"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "6"]
+[WhiteTeam "Helsingin Shakkiklubi"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "C41"]
+
+1.Nc3 d6 2.e4 e5 3.Nf3 Nf6 4.d4 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2 c6 8.a4 a5
+9.Rd1 Qc7 10.Bg5 h6 11.Bh4 Re8 12.Bb3 Nf8 13.Qc4 Ne6 14.Bg3 Nxe4 15.Nxe4 d5
+16.Qe2 dxe4 17.Qxe4 Ng5 18.Nxg5 Bxg5 19.Bxe5 Qb6 20.Qg6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Kivinen, Jyrki"]
+[Black "Mäkinen, Ville"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Nf3 Bd6 7.Bg5 Be6 8.Rd1
+Nbd7 9.Bb5 Kc8 10.Nd2 Bb4 11.a3 Bxc3 12.bxc3 c6 13.Bd3 Nc5 14.f3 Rd8 15.Bc4
+Kc7 16.Bxe6 Nxe6 17.Be3 b5 18.Nb3 Nd7 19.c4 bxc4 20.Na5 Nb6 21.Rxd8 Rxd8
+22.Bxb6+ axb6 23.Nxc4 f6 24.Nd2 Nd4 25.Kd1 Nb5 26.Ke2 Kb7 27.Ra1 Ra8 28.Nc4
+Kc7 29.Kd2 Rd8+ 30.Kc1 Nc3 31.Kb2 Na4+ 32.Kb3 b5 33.Ne3 Rd2 34.Re1 Kb6 35.Ka2
+Ka5 36.Kb1 Nb6 37.Kc1 Rd7 38.Kb2 c5 39.Rd1 Rxd1 40.Nxd1 Nc4+ 41.Kb3 Kb6 42.Nc3
+Ne3 43.Nd5+ Nxd5 44.exd5 c4+ 45.Kb4 f5 46.d6 e4 47.fxe4 fxe4 48.d7 Kc7 49.Kc3
+e3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Aaltio, Erkki"]
+[Black "Nyrhinen, Harri"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "8"]
+[WhiteTeam "Helsingin Shakkiklubi"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "E62"]
+
+1.d4 Nf6 2.Nf3 d6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 c6 7.Nc3 Qc7 8.h3 e5 9.Bg5
+h6 10.Be3 Bf5 11.Qc1 Kh7 12.g4 Bd7 13.c5 exd4 14.cxd6 Qxd6 15.Bxd4 Re8 16.Rd1
+Qe7 17.g5 hxg5 18.Nxg5+ Kg8 19.Qf4 Nh5 20.Qh4 Bh6 21.Nce4 0-1
 
 [Event "Finland Team Ch"]
 [Site "Turku FIN"]
@@ -589,8 +725,8 @@ O-O 9.O-O h6 10.Bh4 c6 11.Rad1 Ne8 12.Bg3 b5 13.Bb3? Bb7? (13...c5) 14.Qe3 Kh8
 [BlackElo "1932"]
 [ECO "A46"]
 
-1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c4 cxd4 5.Nxd4 Bb4+ 6.Nc3 Ne4 7.Qc2 Qa5 8.Bd2
-Nxd2 9.Qxd2 Bxc3 10.bxc3 a6 11.e4 Nc6 12.Be2 O-O 13.O-O Rd8 14.Rfd1 d6 15.Nf3
-h6 16.h3 e5 17.Ne1 Be6 18.Nc2 Rac8 19.Ne3 Ne7 20.Rac1 Ng6 21.Nd5 Rc5 22.Qb2
-Bxd5 23.Rxd5 Nf4 24.Rxc5 Nxe2+ 25.Qxe2 Qxc5 26.Qd2 Qxc4 27.f3 Qc5+ 28.Kf1 Rc8
-29.g3 b5 30.Rb1 Qxc3 31.Qxd6 Qxf3+ 32.Ke1 Qxe4+ 0-1
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c4 cxd4 5.Nxd4? Bb4+? (5...e5 6.Bxe5 Qa5+) 6.Nc3
+Ne4 7.Qc2 Qa5 8.Bd2 Nxd2 9.Qxd2 Bxc3 10.bxc3 a6 11.e4 Nc6 12.Be2 O-O 13.O-O
+Rd8 14.Rfd1 d6 15.Nf3 h6 16.h3 e5 17.Ne1 Be6 18.Nc2 Rac8 19.Ne3 Ne7 20.Rac1
+Ng6 21.Nd5 Rc5 22.Qb2 Bxd5 23.Rxd5 Nf4 24.Rxc5 Nxe2+ 25.Qxe2 Qxc5 26.Qd2? Qxc4
+27.f3 Qc5+ 28.Kf1 Rc8 29.g3 b5 30.Rb1 Qxc3 31.Qxd6 Qxf3+ 32.Ke1 Qxe4+ 0-1
