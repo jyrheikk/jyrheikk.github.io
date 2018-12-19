@@ -293,7 +293,7 @@ d5+ (37...Qf5#) 38.Kxf4 Qh6+ 39.Kg3 Rg8# 0-1
 [Result "1-0"]
 [Section "A"]
 [Board "2"]
-[WhiteTeam "Garde 2"]
+[WhiteTeam "Shakkikerho Garde 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2196"]
 [BlackElo "2045"]
@@ -430,7 +430,7 @@ Kb8 15.Nxg4 fxg4 16.Ne4 Rhe8 17.Qd5 Be5 18.dxe5 Rxd5 19.cxd5 Nxe5
 [Result "1-0"]
 [Section "M"]
 [Board "1"]
-[WhiteTeam "Garde 2"]
+[WhiteTeam "Shakkikerho Garde 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2174"]
 [BlackElo "2074"]
@@ -482,7 +482,7 @@ Kg6 35.Qxg5+ Kf7 36.Qg7+ Ke6 37.f5+ Kd5 38.Qd7+ (38.Qb7+ Kc4 39.Qb3#)
 [Result "0-1"]
 [Section "I division"]
 [Board "3"]
-[WhiteTeam "X"]
+[WhiteTeam "Shakkikerho X"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [TimeControl "40/7200:1800"]
 
@@ -1392,5 +1392,19 @@ O-O-O 9.Be3 Qf5 10.c4 g5 11.Nbc3 g4 12.Ng3? Qa5 13.Nge4 Nxe4 14.Nxe4 gxh3
 15.g3 Qf5 16.Nc3 Bg7 17.Ne2 Qe4 (17...e5) 18.Nf4 Bxd4 19.Bxd4 Nxd4 20.Qg4 Nf3+
 21.Kh1 h2 (21...h5 22.Qxh3 h4 {-+}) 22.Qh5 e5 23.Nd5 Rdf8 24.Nf6 Qc6 25.Qh3+
 Kb8 (25...Qe6!) 26.Nd7+ Ka8 27.Nxf8 Rxf8 28.Rfd1 f5 29.Qg2 a6 30.Rd5 e4
-31.Rad1 Qf6 32.Rd7 h5 33.Rxc7 Kb8 (33...Rg8) 34.Rc1?? {touch-move} Kxc7 {no
-more moves recorded} 0-1
+31.Rad1 Qf6 32.Rd7 h5 33.Rxc7 Kb8 (33...Rg8) 34.Rc1?? {touch-move} (34.Rdd7??
+Qa1+) Kxc7 {no more moves recorded} 0-1
+
+[Event "Lauttasaari Christmas Tournament"]
+[Site "Helsinki FIN"]
+[Date "2018.12.19"]
+[Round "11"]
+[White "Nyrhinen, Harri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bd3 Bg6 6.Bxg6 hxg6 7.c4 Qd6 8.Nh3 c6
+9.dxc6 Nxc6 10.Be3 O-O-O 11.Nc3 Nxd4 12.Qa4 e5 13.O-O-O a6 14.Ng5 Qd7 15.f4??
+Ne2+ 16.Kb1 (16.Kc2 Qf5+ 17.Kb3 Nd4+ 18.Bxd4 exd4 19.Nd5 Nd7! {-+}) Nxc3+
+17.bxc3 Qxa4 18.Rxd8+ Kxd8 19.Nxf7+ Kc7 20.Nxh8 Qxc4 21.Nxg6 Qd3+ 0-1
