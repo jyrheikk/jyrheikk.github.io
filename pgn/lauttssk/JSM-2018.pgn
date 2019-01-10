@@ -424,6 +424,8 @@ Qd6 37.Bg5 c4 38.Bxf6+ Qxf6 39.Qh7# 1-0
 [Board "1"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Helsingin Shakkiklubi"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
 [ECO "E39"]
 
 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.Bf4 Qa5 8.e3 Nxc5
@@ -466,6 +468,7 @@ Qd7 9.Bf4 Rc8 10.d5 Nb4 11.d6 e3 12.Rc1 Nxa2 13.Nxc7+ Rxc7 14.dxc7 Qd2+
 [Board "3"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Helsingin Shakkiklubi"]
+[WhiteTitle "FM"]
 [ECO "C42"]
 
 1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Qxe2+ 8.Bxe2
@@ -670,6 +673,76 @@ Bd7 16.Qg7# 1-0
 [Site "Helsinki FIN"]
 [Date "2018.12.08"]
 [Round "4"]
+[White "Åberg, Tomi"]
+[Black "Hurme, Harri"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "1"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2147"]
+[BlackElo "2220"]
+[BlackTitle "FM"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 a6 8.Be2 b5
+9.Qb3 Bb7 10.e5 Nd5 11.a4 Nxc3 12.bxc3 Bd5 13.Qb1 Nd7 14.axb5 axb5 15.Rxa8
+Qxa8 16.Qxb5 c6 17.Qd3 f6 18.exf6 exf6 19.O-O Nb6 20.Nd2 Re8 21.Bf3 Qa4 22.Bd1
+Qa2 23.c4 Bf7 24.Bb3 Qa6 25.Bb2 f5 26.Ra1 Qb7 27.Bc3 Nd7 28.Qf3 Nf6 29.Bc2 Qd7
+30.d5 Ne4 31.Nxe4 fxe4 32.Qe3 Qe7 33.Bxg7 Kxg7 34.dxc6 Qf6 35.Qe1 Qd4 36.Ra3
+Bxc4 37.Qc3 Qxc3 38.Rxc3 Ba6 39.Re3 Kf6 40.Bxe4 Rd8 41.Bf3 Rd2 42.Rc3 h5 43.h3
+Bc8 44.c7 Ke7 45.g4 h4 46.Rc6 Rd6 47.Rxd6 Kxd6 48.Be4 Kxc7 49.Bxg6 Kd6 50.f4
+Kd5 51.Kf2 Kd4 52.Bb1 Bd7 53.Bh7 Bc8 54.Bf5 Ba6 55.g5 Bb7 56.g6 Bd5 57.g7 Bg8
+58.Kf3 Kd5 59.Kg4 Kd6 60.Kg5 Ke7 61.Bg6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Havansi, Erkki"]
+[Black "Kangas, Lauri"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+[WhiteElo "2156"]
+[BlackElo "2046"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Be7 5.d4 O-O 6.Qc2 Nbd7 7.O-O b6 8.cxd5 exd5
+9.Nc3 Bb7 10.Bf4 c5 11.Rfd1 Rc8 12.Rac1 h6 13.Nb5 Ne4 14.Nxa7 Ra8 15.Nb5 Rxa2
+16.Na3 c4 17.Qb1 Rxa3 18.bxa3 Bxa3 19.Rc2 Bc6 20.Nd2 Nxd2 21.Rdxd2 Qe7 22.e4
+Ba4 23.exd5 Bxc2 24.Rxc2 Rc8 25.Bh3 g5 26.Be3 b5 27.Qxb5 Rb8 28.Qxd7 Rb1+
+29.Rc1 Bxc1 30.Qc8+ Kg7 31.Qf5 Ra1 32.Bxc1 Rxc1+ 33.Kg2 Rd1 34.Bg4 Rxd4 35.Bf3
+g4 36.Bxg4 Qe4+ 37.Qxe4 Rxe4 38.Bf3 Rd4 39.Be2 c3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Kivimäki, Kasper"]
+[Black "Saren, Ilkka"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "3"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2050"]
+[BlackElo "2081"]
+[BlackTitle "FM"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O
+9.Rd1 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Ne8 13.Nbd2 Bd7 14.Nf1 g6 15.Bh6 Ng7
+16.Ne3 f6 17.b4 Nb7 18.a4 Rfc8 19.g3 Qb6 20.a5 Qc7 21.Bxg7 Kxg7 22.h4 h5
+23.Nh2 Rh8 24.f4 Rag8 25.Rf1 Rh7 26.Kh1 Kh8 27.Rf2 Nd8 28.f5 g5 29. hxg5 Rxg5
+30.Nf3 Rgg7 31.Rh2 cxb4 32.cxb4 Qc3 33.Rb1 Rxg3 34.Rb3 Qa1+ 35.Rb1 Qc3 36.Rb3
+Qa1+ 37.Bd1 Qc1 38.Nh4 Be8 39.Ng6+ Bxg6 40.fxg6 Rxg6 41.Nf5 Rg5 42.Rbh3 Bf8
+43.Rxh5 Rhxh5 44.Rxh5+ Kg8 45.Rxg5+ Qxg5 46.Qg2 Nf7 47.Be2 Qxg2+ 48.Kxg2 Bh6
+49.Nxh6+ Nxh6 50.Bxb5 f5 51.Bxa6 fxe4 52.Bc8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
 [White "Heikkinen, Jyrki"]
 [Black "Paajala, Niki"]
 [Result "1-0"]
@@ -690,6 +763,89 @@ Nc6 42.Kb5 d3 43.Rd2 Nd4+ 44.Kb6 (44.Kxa5! Rxc5+ 45.Kxb4 Rc2 46.Rxd3 Rxb2+
 47.Kc5) Rc6+ 45.Kb7 Rxc5 46.Bxd3 Kd5 47.Bh7 Kd6 48.Be4 b3 49.Rd1 Rc2 50.f4
 Rf2? (50...Re2) 51.g5 fxg5 52.fxg5 hxg5 53.h6 Rf8 54.Kb6 Rh8 55.h7 Rb8+
 56.Kxa5 Kc5 57.Rh1 Rh8 58.Rh6 g4 59.Ka6 Nf3 60.Rg6 g3 61.Rxg3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Seppälä, Joni"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "5"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1939"]
+[BlackElo "2056"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 d6 4.e4 e5 5.Be2 Nc6 6.Bg5 f6 7.Bh4 Bg4 8.Nxe5 dxe5
+9.Bxg4 Qxd4 10.O-O h5 11.Qe2 hxg4 12.Rd1 Rxh4 13.Rxd4 Nxd4 14.Qd1 O-O-O 15.Qa4
+Kb8 16.Nc3 c6 17.b4 Ne7 18.b5 cxb5 19.cxb5 f5 20.b6 axb6 21.Qb4 Nc8 22.Rb1
+Rdh8 23.h3 fxe4 24.Nd5 Bf8 25.Qb2 Bd6 26.Nxb6 R4h7 27.Nd5 gxh3 28.gxh3 Rf7
+29.Nf6 Rxh3 30.Kg2 Rh4 31.a4 Rf4 32.Nd5 Rxf2+ 33.Qxf2 Rxf2+ 34.Kxf2 Bc5 35.Kg3
+Nd6 36.Kg4 Ne6 37.Re1 Ka7 38.Nf6 Ka6 39.Nxe4 Nxe4 40.Rxe4 Bd4 41.Re1 Ka5
+42.Rb1 b6 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Aakio, Seppo"]
+[Black "Tikanmäki, Heikki"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+[WhiteElo "2007"]
+[BlackElo "1832"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxe4 6.Qg4 Nf6 7.Qxg7 Rg8 8.Qh6 c5
+9.dxc5 Bd7 10.Bd2 Ba4 11.Rb1 Nbd7 12.Rxb7 Nxc5 13.Bb5+ Bxb5 14.Rxb5 Rc8 15.Be3
+Na4 16.Ne2 Nxc3 17.Nxc3 Rxc3 18.O-O Rg6 19.Qf4 Qc7 20.Qh4 Rxc2 21.Rfb1 Qc3
+22.Rb8+ Kd7 23.h3 e5 24.R8b7+ Ke6 25.Rxa7 h5 26.Kh1 Re2 27.Rb6+ Kf5 28.Rxf7
+1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Kokkala, Juho"]
+[Black "Kivinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "7"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1923"]
+[BlackElo "2003"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.Bd2 O-O
+9.Qb3 a5 10.Na2 Bxd2+ 11.Nxd2 Qe7 12.Nc3 Na6 13.O-O Nb4 14.Rfc1 Rfd8 15.Nf3
+Ne4 16.Na2 Nxa2 17.Qxa2 Qb4 18.Qb3 Qxb3 19.Bxb3 Nd6 20.Bd1 Kf8 21.Be2 h6
+22.Ne5 Rac8 23.Nc4 Nxc4 24.Bxc4 Ke7 25.Kf1 c5 26.dxc5 Rxc5 27.Ke2 Rxc4 28.Rxc4
+Bd3+ 29.Kf3 Bxc4 30.Rc1 Bd5+ 31.e4 Bc6 32.Rc4 Rd3+ 33.Ke2 Rb3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2018.12.08"]
+[Round "4"]
+[White "Nyrhinen, Harri"]
+[Black "Hokkanen, Joel"]
+[Result "1/2-1/2"]
+[Section "I Division:A"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+[WhiteElo "1982"]
+[BlackElo "1486"]
+
+1.e4 c5 2.c3 d6 3.d4 Nc6 4.d5 Ne5 5.f4 Nd7 6.Nf3 g6 7.Bd3 Bg7 8.O-O a6 9.a4
+Ngf6 10.c4 O-O 11.Nc3 e6 12.h3 exd5 13.cxd5 Re8 14.Nd2 Rb8 15.Nc4 Nb6 16.Ne3
+c4 17.Bc2 Qc7 18.Qf3 Nbd7 19.Ng4 Nxg4 20.hxg4 b5 21.axb5 axb5 22.Be3 Nc5
+23.Kh1 Qe7 24.Bxc5 Qh4+ 25.Qh3 Qxh3+ 26.gxh3 dxc5 27.e5 Bb7 28.Rad1 b4 29.Ne4
+Red8 30.Nd6 Rd7 31.Nxb7 Rbxb7 32.Ba4 Rd8 33.Bc6 Rc7 34.Rc1 g5 35.Rxc4 gxf4
+36.Rcxf4 Bxe5 37.Rc4 Bd6 38.Rc2 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
