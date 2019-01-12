@@ -1183,3 +1183,28 @@ g6 30.h5 gxh5 31.Rxh5 Rh7 32.Nh4 Qd7?? (32...Rxb2) 33.Rh6? (33.Qd5+! Qf7 34.g6
 Nxg6 35.Re8+ Nf8 36.Rg5+ Rg7 37.Ng6) Rg7?? 34.Qd5+ Qf7 35.Qg2 Ra8 36.g6 Qc4
 37.Nf5 Rd7 38.Qh3 Nxg6 39.Rxg6+ Kf7 40.Qh7+ Kf8 41.Qh6+ Kf7 42.Rg7+ Kf8
 43.Qh8+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.01.12"]
+[Round "5"]
+[White "Titovets, Sergei"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "5"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2080"]
+[BlackElo "2063"]
+[TimeControl "40/6600:1800+30"]
+
+1.Nc3 d5 2.e4 d4 3.Nce2 c5 4.Ng3 e5 5.Nf3 Nc6 6.Bc4 Be6 7.Bxe6 fxe6 8.d3 Be7
+9.a3 g6 10.Qe2 h5 11.h4 Nh6 12.Ng5 Qd6 13.Bd2 O-O-O 14.O-O-O Rdf8 15.Kb1 Nf7
+16.Nf3 Kd7 17.Bc1 b5 18.Rh3 Rb8 19.Nf1 b4 20.N1d2 bxa3 21.Nc4 Qc7 22.b3? a5
+23.Bxa3 a4 24.Nfd2 Qa7 25.Rf3 Rhf8 26.g3 Nd6 27.Nxd6 Bxd6 (27...axb3!? 28.N6c4
+bxc2+ 29.Kxc2 Nb4+ 30.Kb1 Nd5+ 31.Ka1 Nc3 32.Rxf8 Nxe2 {-/+}) 28.Rxf8 Bxf8
+29.Ka2 c4 30.Nxc4 axb3+ 31.cxb3 Bxa3 32.Ra1 (32.Nxa3 Ra8 33.Qb2 Nb4+) Bb4+
+(32...Bc1+! 33.Kb1 Rxb3+ 34.Nb2 Qc5) 33.Kb1 Qb7 34.Qf3 Ke7 35.Qd1 Ra8 36.Rxa8
+Qxa8 37.Qc1 Bc3 38.Qg5+ Kf7 39.Nd6+ Kg7 40.Kc2 Qa2+ 41.Kd1 Qxf2 42.b4 Qe1+
+43.Kc2 Qe2+ 44.Kc1 Qb2+ 45.Kd1 Qb1+ 46.Ke2 Qe1+ 47.Kf3 Qf1# 0-1
