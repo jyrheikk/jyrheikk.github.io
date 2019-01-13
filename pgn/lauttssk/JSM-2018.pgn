@@ -733,7 +733,7 @@ g4 36.Bxg4 Qe4+ 37.Qxe4 Rxe4 38.Bf3 Rd4 39.Be2 c3 0-1
 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O
 9.Rd1 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Ne8 13.Nbd2 Bd7 14.Nf1 g6 15.Bh6 Ng7
 16.Ne3 f6 17.b4 Nb7 18.a4 Rfc8 19.g3 Qb6 20.a5 Qc7 21.Bxg7 Kxg7 22.h4 h5
-23.Nh2 Rh8 24.f4 Rag8 25.Rf1 Rh7 26.Kh1 Kh8 27.Rf2 Nd8 28.f5 g5 29. hxg5 Rxg5
+23.Nh2 Rh8 24.f4 Rag8 25.Rf1 Rh7 26.Kh1 Kh8 27.Rf2 Nd8 28.f5 g5 29.hxg5 Rxg5
 30.Nf3 Rgg7 31.Rh2 cxb4 32.cxb4 Qc3 33.Rb1 Rxg3 34.Rb3 Qa1+ 35.Rb1 Qc3 36.Rb3
 Qa1+ 37.Bd1 Qc1 38.Nh4 Be8 39.Ng6+ Bxg6 40.fxg6 Rxg6 41.Nf5 Rg5 42.Rbh3 Bf8
 43.Rxh5 Rhxh5 44.Rxh5+ Kg8 45.Rxg5+ Qxg5 46.Qg2 Nf7 47.Be2 Qxg2+ 48.Kxg2 Bh6
@@ -886,3 +886,48 @@ Ne4 7.Qc2 Qa5 8.Bd2 Nxd2 9.Qxd2 Bxc3 10.bxc3 a6 11.e4 Nc6 12.Be2 O-O 13.O-O
 Rd8 14.Rfd1 d6 15.Nf3 h6 16.h3 e5 17.Ne1 Be6 18.Nc2 Rac8 19.Ne3 Ne7 20.Rac1
 Ng6 21.Nd5 Rc5 22.Qb2 Bxd5 23.Rxd5 Nf4 24.Rxc5 Nxe2+ 25.Qxe2 Qxc5 26.Qd2? Qxc4
 27.f3 Qc5+ 28.Kf1 Rc8 29.g3 b5 30.Rb1 Qxc3 31.Qxd6 Qxf3+ 32.Ke1 Qxe4+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.01.12"]
+[Round "5"]
+[White "Titovets, Sergei"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "5"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2080"]
+[BlackElo "2063"]
+
+1.Nc3 d5 2.e4 d4 3.Nce2 c5 4.Ng3 e5 5.Nf3 Nc6 6.Bc4 Be6 7.Bxe6 fxe6 8.d3 Be7
+9.a3 g6 10.Qe2 h5 11.h4 Nh6 12.Ng5 Qd6 13.Bd2 O-O-O 14.O-O-O Rdf8 15.Kb1 Nf7
+16.Nf3 Kd7 17.Bc1 b5 18.Rh3 Rb8 19.Nf1 b4 20.N1d2 bxa3 21.Nc4 Qc7 22.b3? a5
+23.Bxa3 a4 24.Nfd2 Qa7 25.Rf3 Rhf8 26.g3 Nd6 27.Nxd6 Bxd6 (27...axb3!? 28.N6c4
+bxc2+ 29.Kxc2 Nb4+ 30.Kb1 Nd5+ 31.Ka1 Nc3 32.Rxf8 Nxe2 {-/+}) 28.Rxf8 Bxf8
+29.Ka2? c4 30.Nxc4 axb3+ 31.cxb3 Bxa3 32.Ra1 (32.Nxa3 Ra8 33.Qb2 Nb4+) Bb4+
+(32...Bc1+! 33.Kb1 Rxb3+ 34.Nb2 Qc5) 33.Kb1 Qb7 34.Qf3 Ke7 35.Qd1 Ra8 36.Rxa8
+Qxa8 37.Qc1 Bc3 38.Qg5+ Kf7 39.Nd6+ Kg7 40.Kc2 Qa2+ 41.Kd1 Qxf2 42.b4 Qe1+
+43.Kc2 Qe2+ 44.Kc1 Qb2+ 45.Kd1 Qb1+ 46.Ke2 Qe1+ 47.Kf3 Qf1# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
+[Date "2019.01.12"]
+[Round "4"]
+[White "Konttinen, Timo"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Shakkikerho X"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[WhiteElo "1938"]
+[BlackElo "1784"]
+
+1.c4 f5 2.b3 Nf6 3.Bb2 e6 4.g3 d5 5.Bg2 Be7 6.cxd5 exd5 7.e3 O-O 8.Ne2 c6
+9.O-O Qe8 10.d4 Nbd7 11.Nf4 Bd6 12.Ba3 Bxa3 13.Nxa3 Ne4 14.Rc1 Ndf6 15.Nb1 Bd7
+16.Nd2 Nxd2 17.Qxd2 Ne4 18.Qb4 Rb8 19.Nd3 Qe6 20.f3 Nf6 21.Ne5 Be8 22.Qd2 Bh5
+23.f4 Ng4 24.b4 Nxe5 25.fxe5 a6 26.a4 Qd7 27.Qc2 Bg6 28.Bh3 Qf7 29.Rf4 Qe7
+30.Qc5 Qg5 31.Rcf1 Qh5 32.Bg4 Qh6 33.Qd6 Rbe8 34.R1f3 Rd8 35.Qe6+ Kh8 36.Bxf5
+Rde8 37.Bxg6 hxg6 38.Rxf8+ Rxf8 39.Rxf8+ 1-0
