@@ -591,7 +591,7 @@ Kb8 30.Nb4 Ka8 31.Na6 Rb8+ 32.Ka3 Nd5 33.Bc4 Bc2 34.Bxd5 cxd5 35.c6 1-0
 [Section "A"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Remi 3"]
+[BlackTeam "Shakkikerho Remissi 3"]
 [WhiteElo "2105"]
 [BlackElo "2389"]
 [TimeControl "300"]
@@ -752,9 +752,9 @@ Qg4+ 9.Ke1 Qh4+ 1/2-1/2
 
 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 a6 6.Bc4 c5 7.Ne5 e6 8.Be3 b5
 9.Be2 cxd4 10.Bxd4 Bb7 11.O-O Be7 12.a3 O-O 13.Kh1 Nc6 14.Nxc6 Bxc6 15.Bd3 Kh8
-16.Be5 b4 17.axb4 Bxb4 18.Bxf6 gxf6 19.Qh5 f5 20.Rxf5 Bxc3?? 21.bxc3??
-(21.Rd5! {+-}) exf5 22.Bxf5 Bxg2+ 23.Kxg2 Rg8+ 24.Kf3 Qd5+ 25.Kf4 Qd6+
-(25...Qd2+ {-+}) 26.Kf3 Qd5+ 27.Kf4 Qd6+ 1/2-1/2
+16.Be5 b4 17.axb4 Bxb4 18.Bxf6 (18.Rxf6! Bxg2+) gxf6 19.Qh5 f5 20.Rxf5 Bxc3??
+21.bxc3?? (21.Rd5! {+-}) exf5 22.Bxf5 Bxg2+ 23.Kxg2 Rg8+ 24.Kf3 Qd5+ 25.Kf4
+Qd6+ (25...Qd2+ {-+}) 26.Kf3 Qd5+ 27.Kf4 Qd6+ 1/2-1/2
 
 [Event "Lauttasaari Sauna Tournament"]
 [Site "Helsinki FIN"]
@@ -785,3 +785,15 @@ Nxg2?? (29...Bd7 30.Rb2 Bc6 {-+}) 30.Qxe6+ Kb8 31.Rxb7+ Ka8 32.Rxa7+ Kxa7
 9.Bd2 O-O 10.Nxd5 exd5 11.O-O Qf6 12.Ne5 Qe7 13.Qh5 Bxe5 14.dxe5 Qe6 15.Rf4
 g5?? 16.Rf6 Qg4 17.Qxh6 (17.Rg6+!) Qh4 18.Bh7+ Kh8 19.Qxf8+ Kxh7 20.Qxf7+ Kh8
 21.Qe8+ Kh7 22.Qg6+ Kh8 23.Rf8# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.02.04"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Heimonen, Arto"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 Nbd7 6.Bg5 b6? 7.Bb5 a6 8.Bc6 Ra7
+9.O-O Bb7 10.Ne5 h6 11.Bxd7+ Nxd7 12.Nxf7 Qa8 13.Qh5 hxg5 14.Nd6+ 1-0
