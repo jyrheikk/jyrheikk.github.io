@@ -1208,3 +1208,18 @@ bxc2+ 29.Kxc2 Nb4+ 30.Kb1 Nd5+ 31.Ka1 Nc3 32.Rxf8 Nxe2 {-/+}) 28.Rxf8 Bxf8
 (32...Bc1+! 33.Kb1 Rxb3+ 34.Nb2 Qc5) 33.Kb1 Qb7 34.Qf3 Ke7 35.Qd1 Ra8 36.Rxa8
 Qxa8 37.Qc1 Bc3 38.Qg5+ Kf7 39.Nd6+ Kg7 40.Kc2 Qa2+ 41.Kd1 Qxf2 42.b4 Qe1+
 43.Kc2 Qe2+ 44.Kc1 Qb2+ 45.Kd1 Qb1+ 46.Ke2 Qe1+ 47.Kf3 Qf1# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.02.04"]
+[Round "?"]
+[White "Heimonen, Arto"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[TimeControl "960+8"]
+
+1.Na3 e5 2.d4 exd4 3.c3 Bxa3 4.bxa3 dxc3 5.e3 Nc6 6.Nf3 Qf6 7.Rb1 Nge7 8.Bd3
+Ne5 9.Nxe5 Qxe5 10.O-O b6 11.Qf3 d5 12.e4 Bb7 13.exd5 Bxd5 (13...O-O-O) 14.Qd1
+O-O 15.Re1 Qd6 16.Qc2 Ng6 17.Qxc3 Rad8 18.Bb2 f6 19.Qc2 Rfe8 20.Bxg6 hxg6
+21.Qxg6 Rxe1+ 22.Rxe1 Bxa2 (22...Bf7) 23.Re8+ Rxe8 24.Qxe8+ Kh7 25.Qh5+ Kg8
+26.Qe8+ Kh7 1/2-1/2
