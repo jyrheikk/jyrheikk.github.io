@@ -755,3 +755,27 @@ Kf8 24.f4 Na5 25.Ng1? Nc4? (25...Nb3+ 26.Kc2 Nc5 27.Bd3 Na4) 26.Bxc4 Rxc4
 9.h5 c5 10.hxg6 fxg6 11.Bc4+ e6 12.e5 cxd4 13.exf6 dxc3 14.Qxd6 Qxf6 15.O-O-O
 cxb2+ 16.Kb1 Nb6 17.Bb3 Nd5 18.Ne2 Rd8 19.Rxd5!? Rxd6 20.Rxd6 Bg7 21.Be3 b6
 22.Rhd1 Ba6?? 23.Rxe6 Qf7 24.Rc6 Rf8 25.Nf4 {no more moves recorded} 1-0
+
+[Event "Finland Team Ch"]
+[Site "Vaasa FIN"]
+[Date "2019.02.10"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Wallin, Aleksi"]
+[Result "1-0"]
+[Section "I Division:A"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Raahen Linnoitus"]
+[WhiteElo "2074"]
+[BlackElo "2233"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.Qd2 h6 6.Bf4 g5 7.Be3 Ng4 8.h3 Nxe3
+9.Qxe3 Nd7 10.O-O-O c5 11.Nf3 Qa5 12.Kb1 a6 13.Ne2 cxd4 14.Nfxd4 e6 15.Nb3 Qc7
+16.Qd2 Nf6 17.Ng3 Ke7 18.e5 (18.f4) dxe5 19.Qb4+ Ke8 20.Be2 Bd7 21.Nd2 Bf8
+22.Qb3 Bc6 23.Bh5? Bd5 24.c4 Bxg2 25.Rhe1 Be7 {illegal move O-O-O was made
+first, but White forgot the touch-move} 26.Bf3 Bxf3 27.Nxf3 Nd7 28.Rxd7 Kxd7
+29.Nxe5+ Ke8 30.c5!? Rh7 (30...Qxc5? 31.Nxf7 Rf8 32.Qxe6 Rxf7 33.Ne4) 31.Qf3?
+(31.Qc2) Qxc5 32.Qxb7 Rc8 33.a3 Qc7 34.Qxa6 Kf8 35.Qd3 Kg8 36.Nh5 Qa5 37.Re2
+Qa4? 38.Nd7 Rh8?? 39.Rxe6 Rc6 40.Ndf6+ Kf8 41.Qd8+ Bxd8 42.Re8# 1-0
