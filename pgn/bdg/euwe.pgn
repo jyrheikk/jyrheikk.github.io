@@ -954,8 +954,9 @@ Nf6 16.Rhf1 c5 17.Bc2 cxd4 18.Qd3 Re8 19.Ne5 a5 20.Rf3 Bd7?? 21.Rdf1 (21.Rxf6
 [TimeControl "5400+30"]
 
 1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 e6 6.Bg5 Be7 7.Bd3 Nc6 8.Qd2 Nd5
-9.Nxd5 exd5 10.O-O f6 11.Rae1 O-O 12.Bh4 g5 13.Bg3 f5 14.Rxe7 Qxe7 15.Nxg5
-Nxd4 16.Re1 Ne6 17.Bh4 Qd6 18.Nxe6 Bxe6 19.Qg5+ Kh8 20.Bg3 f4 21.Bf2 c5 22.Qh6
+9.Nxd5 exd5 10.O-O f6 11.Rae1! O-O (11...fxg5? 12.Nxg5 Rf8 13.Qe2 g6 14.Nxh7
+Rxf1+ 15.Rxf1 Kd7 16.Qg4+) 12.Bh4 g5 13.Bg3 f5 14.Rxe7 Qxe7 15.Nxg5 Nxd4
+16.Re1 Ne6 17.Bh4 Qd6?? 18.Nxe6 Bxe6 19.Qg5+ Kh8 20.Bg3 f4 21.Bf2 c5 22.Qh6
 Qe7 23.Rxe6 Qg7 24.Qh5 f3 25.g3 1-0
 
 [Event "Helsinki Blitz Team Ch"]
@@ -1041,3 +1042,25 @@ Rxf7 13.Rxf7 Bxh4 (13...Kxf7? 14.Qh5+ Kf8 15.Rf1+ Bf6 16.Rxf6+) 14.Qh5 Nd7
 15.Qh5 a5 16.Rf3 e5 17.Rg3 e4 18.Qxh6 f6 19.Re1 Bf5 20.Qh5 Qd7 21.Rf1 exd3
 22.Rxf5 d2 23.Rd3 Rfe8 24.Rxd2 Re1+ 25.Kf2 Qe8 26.Qxe8+ Raxe8 {no more moves
 recorded} 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.03.18"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Ebeling, Mika"]
+[Result "1-0"]
+[Section "M"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Matinkylän Shakkikerho"]
+[WhiteElo "2099"]
+[BlackElo "2259"]
+[BlackTitle "FM"]
+[TimeControl "900"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 e6 6.Bg5 h6 7.Bxf6 Qxf6 8.Bb5+ c6
+9.O-O Bd6 10.Ne5 Bxe5 11.Rxf6 Bxf6 12.Be2 O-O 13.Ne4 Be7 14.Qf1 Nd7 15.Bd3 Nf6
+16.c3 Nxe4 17.Bxe4 Bd7 18.b4 Rad8 19.Re1 Rfe8 20.Qf3 Bd6 21.Bc2 Re7 22.Bb3 Be8
+23.a3 e5 24.d5 c5 25.Qd3 g6 26.h4 h5 27.g4 hxg4 28.Qe3 b6 29.Qg5 f5?? 30.h5
+(30.Rxe5!) Rc8 31.hxg6 c4 32.Bc2 Rcc7 33.Qf6 Rcd7 34.Bxf5 Rd8 35.Kg2 1-0
