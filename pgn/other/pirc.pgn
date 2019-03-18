@@ -779,3 +779,21 @@ first, but White forgot the touch-move} 26.Bf3 Bxf3 27.Nxf3 Nd7 28.Rxd7 Kxd7
 29.Nxe5+ Ke8 30.c5!? Rh7 (30...Qxc5? 31.Nxf7 Rf8 32.Qxe6 Rxf7 33.Ne4) 31.Qf3?
 (31.Qc2) Qxc5 32.Qxb7 Rc8 33.a3 Qc7 34.Qxa6 Kf8 35.Qd3 Kg8 36.Nh5 Qa5 37.Re2
 Qa4? 38.Nd7 Rh8?? 39.Rxe6 Rc6 40.Ndf6+ Kf8 41.Qd8+ Bxd8 42.Re8# 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.03.18"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Ruotanen, Helge"]
+[Result "1-0"]
+[Section "M"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[TimeControl "900"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Bg5 Nf6 5.Qd2 Nc6 6.O-O-O h6 7.Bh4 e5 8.dxe5 Nxe5
+9.f4 Nc6 10.e5 Ne4 11.Qe1 g5 12.Qxe4 gxh4 13.exd6+ Kf8 14.Nb5 cxd6 15.Rxd6 Qb6
+16.Nf3 Bg4 17.Ne5 Nxe5?? 18.Rxb6 axb6 19.fxe5 Be6 20.Nc7 Rxa2 21.Nxe6+ fxe6
+22.Kb1 Ra5 23.Qxb7 Rxe5 24.Bc4 h5 25.Rf1+ Kg8 26.Qf7+ 1-0
