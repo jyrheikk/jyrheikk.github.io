@@ -1,0 +1,14 @@
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.03.26"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+[FEN "nqrbbrk1/pp1p1ppp/6n1/2p1p3/2P5/4P1N1/PP1P1PPP/NQRBBRK1 w - - 0 5"]
+
+{1.c4 Ng6 2.O-O e5 3.e3 c5 4.Ng3 O-O} 5.Bc2 Nb6 6.Nb3 f6 7.Be4 (7.h4) Bf7
+8.Qd3?? Be7? (8...d5) 9.Na5 Rc7 10.Nf5 Re8 11.h4 Nc8 12.f4 b6 13.Nb3 exf4
+14.exf4 Nf8 15.Bg3 (15.Qg3) d6? 16.Ne3 b5 17.cxb5 Nb6 18.Bc6 Rd8 19.Nd5 Nxd5
+20.Bxd5 Nd7?? 21.Bxf7+ Kxf7 22.Qxh7 Qxb5 23.Nd4 Qxb2 24.Nf5 Nf8 25.Qxg7+ Ke8
+26.Rfe1 Rdd7 27.Rb1 1-0
