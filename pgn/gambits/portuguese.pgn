@@ -1408,3 +1408,19 @@ Qa1+) Kxc7 {no more moves recorded} 0-1
 9.dxc6 Nxc6 10.Be3 O-O-O 11.Nc3 Nxd4 12.Qa4 e5 13.O-O-O a6 14.Ng5 Qd7 15.f4??
 Ne2+ 16.Kb1 (16.Kc2 Qf5+ 17.Kb3 Nd4+ 18.Bxd4 exd4 19.Nd5 Nd7! {-+}) Nxc3+
 17.bxc3 Qxa4 18.Rxd8+ Kxd8 19.Nxf7+ Kc7 20.Nxh8 Qxc4 21.Nxg6 Qd3+ 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.04.02"]
+[Round "?"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bb5+ Nbd7 6.Nc3 a6 7.Ba4 b5 8.Bb3 Nb6
+9.Nge2 Nbxd5 10.Nxd5 Nxd5 11.c3 e6 12.Nf4 Nxf4 13.Bxf4 Bd6 14.Be3 Rc8 15.Qe2
+c6 16.g4 Bg6 17.h4 h5 18.g5 Qc7 19.Bf2 Bf5 20.Bc2 Bxc2 21.Qxc2 g6 22.Qe4 Bg3
+23.Rd1 O-O 24.Rg1 Bxf2+ 25.Kxf2 Rfe8 26.f4 Qd6 27.Rge1 Red8 28.b3 Qd5
+(28...c5!) 29.Qc2 Qf5? 30.Qe2?? (30.Qxf5 exf5 31.Re7 Kf8 32.Rde1 c5 33.Ra7
+cxd4 34.Ree7 dxc3 35.Rxf7+ {=}) Qxf4+ 0-1
