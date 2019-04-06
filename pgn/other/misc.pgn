@@ -1223,3 +1223,25 @@ Ne5 9.Nxe5 Qxe5 10.O-O b6 11.Qf3 d5 12.e4 Bb7 13.exd5 Bxd5 (13...O-O-O) 14.Qd1
 O-O 15.Re1 Qd6 16.Qc2 Ng6 17.Qxc3 Rad8 18.Bb2 f6 19.Qc2 Rfe8 20.Bxg6 hxg6
 21.Qxg6 Rxe1+ 22.Rxe1 Bxa2 (22...Bf7) 23.Re8+ Rxe8 24.Qxe8+ Kh7 25.Qh5+ Kg8
 26.Qe8+ Kh7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.04.06"]
+[Round "8"]
+[White "Heikkinen, Jyrki"]
+[Black "Vuorisalo, Veli-Matti"]
+[Result "0-1"]
+[Section "I Division:A"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Porin Shakinystävät"]
+[WhiteElo "2099"]
+[BlackElo "2149"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.f3 d6 3.e4 Nbd7 4.Bc4 e5 5.c3 Be7 6.Ne2 c6 7.O-O d5 8.Bb3 O-O 9.Ng3
+Re8 10.f4 exd4 11.e5 dxc3 12.Nxc3 (12.exf6) Ng4! 13.Qxg4 Nxe5 14.Qd1 Bc5+
+15.Kh1 Ng4 16.h3 Nf2+ 17.Rxf2 Bxf2 18.Kh2 (18.Nce2) Re1 19.Qd2 Bg1+ 20.Kh1
+Bf2+ 21.Kh2 Bxg3+ 22.Kxg3 Rh1 23.Nd1 (23.Ne4 h5!) Qf6 24.Nf2 Qg6+ 25.Kf3 Rg1
+26.g4 f5 27.g5 Qh5+ 28.Ke3 Rg3+ 29.Kd4 Qe8 30.Bc2 c5+ 31.Kxc5 Qc6+ 32.Kd4 Qb6+
+33.Ke5 Qe6+ 34.Kd4 Qb6+ 35.Ke5 d4 36.Nd3 Rxd3 0-1
