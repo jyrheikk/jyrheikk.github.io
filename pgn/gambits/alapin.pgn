@@ -148,3 +148,17 @@ Qe4 28.Ne6 Rc8 29.Rxf8+ Bxf8 30.Qxf8# 1-0
 21.Be4 Qc7 22.Nfxd4 e5 23.Nb5?? Qb6+ 24.Kf3 Be6 (24...Bxg4+! 25.Kxg4 f5+
 26.Bxf5 g6 {-+}) 25.Nd2 Rac8 26.b3 Nd5 27.Nf1 Nf6 28.Bf5 Qc6+ 29.Kg3 Qxh1
 30.Nd2 Bxf5 (30...Ne4+!) 31.gxf5 Nh5+ 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.06.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+[Stage "Quarter-Final"]
+
+1.d4 d5 2.e4 e6 3.Be3 dxe4 4.Nd2 Nf6 5.g3 c5 6.dxc5 Qa5 7.c3 Nbd7 8.b4
+Qc7 9.Bg2 Nd5 10.Nxe4 f5 11.Ng5 Qe5 12.Bxd5 Qxc3+ 13.Bd2 Qe5+ 14.Ne2 Qxd5
+15.O-O Nf6 16.Nf4 Qc6 17.Re1 h6 18.Ngxe6 Kf7 19.Qb3 1-0
