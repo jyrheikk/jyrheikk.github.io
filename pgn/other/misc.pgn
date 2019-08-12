@@ -810,6 +810,7 @@ Nxe6 23.Nc4 Re7 24.a5 Nd4 25.Ra2 Bf6 26.Rad2 Rd8 27.Na3 fxe4 28.fxe4 Kf7
 [Black "Kauppala, Pekka"]
 [Result "0-1"]
 [TimeControl "600+5"]
+[Variant "Chess960"]
 [FEN "rbnkqrbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKQRBN w KQkq - 0 1"]
 
 1.Ng3 f5 2.f4 g5 3.Bd4 gxf4 4.Bxh8 fxg3 5.Qxg3 Bd5 6.Bc3 Rg8 7.Qh4 Rxg2 8.Nd3
@@ -1064,6 +1065,7 @@ Rf3 41.Re1+ Kf6 42.Rh1 Rf2+ 43.Kc1 Bd5 44.Rh6+ Kg5 45.Rg6+ Kf4 46.Rf6+ Ke3
 [Black "Kivinen, Jyrki"]
 [Result "1-0"]
 [TimeControl "600+5"]
+[Variant "Chess960"]
 [FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq -"]
 
 1.e4 Rc8 2.d5 exd5 3.e5 Ng4 4.Nd4 Qd7? 5.e6 Qe8 6.Qf5 N4e5? 7.exf7+ Nxf7
@@ -1245,3 +1247,33 @@ Re8 10.f4 exd4 11.e5 dxc3 12.Nxc3 (12.exf6) Ng4! 13.Qxg4 Nxe5 14.Qd1 Bc5+
 Bf2+ 21.Kh2 Bxg3+ 22.Kxg3 Rh1 23.Nd1 (23.Ne4 h5!) Qf6 24.Nf2 Qg6+ 25.Kf3 Rg1
 26.g4 f5 27.g5 Qh5+ 28.Ke3 Rg3+ 29.Kd4 Qe8 30.Bc2 c5+ 31.Kxc5 Qc6+ 32.Kd4 Qb6+
 33.Ke5 Qe6+ 34.Kd4 Qb6+ 35.Ke5 d4 36.Nd3 Rxd3 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.08.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.f3 e6 3.e4 d6 4.Be3 Nbd7 5.Bd3 b6 6.Ne2 Bb7 7.c3 c5 8.O-O h6 9.Ng3
+Qc7 10.Qe2 a6 11.a4 Be7 12.Nd2 e5 13.d5 g6 14.b4 a5 15.bxa5 Rxa5 16.Bb5 Kf8
+17.Nc4 Ra7 18.Rfb1 Ba6? 19.Bxa6 Rxa6 20.Nxd6 Qa7 21.Nb5 Qb7 22.Qd2 Kg7 23.c4
+Ne8 24.f4 Nd6 25.Nxd6 Bxd6 26.f5 Qa7 27.fxg6 fxg6 28.Qd1 (28.Bxh6+!!) Nf6
+29.Ra2 h5 30.Bg5 Nd7 31.h4 Ra8 32.Rba1 Rf8 33.Nxh5+! gxh5 34.Qxh5 Rh8 35.Qg4
+Kh7 36.Rf1 Nf8 37.Bf6 Ng6 38.Qh5+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.08.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 e6 4.f4 b6 5.Nf3 Bb7 6.e5 Nd5 7.Bd3 Nxc3 8.bxc3 Nd7
+9.O-O Be7 10.Qe1 h6 11.Qg3 Bxf3? 12.Qxg7 Rf8 13.Rxf3 d5 14.f5 exf5 15.Bxh6 c5
+16.Rxf5 Qc7 17.Rxf7 O-O-O?? 18.Rxe7 cxd4 19.e6 Qxc3 20.Rb1 Rg8 21.Rxd7 Rxg7
+22.Ba6+ Kb8 23.Bf4+ Ka8 24.Bb7# 1-0
