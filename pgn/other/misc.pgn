@@ -453,9 +453,9 @@ e4 50.Bb7 Qc3 51.Qa2 Kg7 0-1
 1.e4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.e5 Qe7
 9.O-O Nd7 10.Bf4 O-O 11.Qh5 g6 12.Qh6 Re8 13.Rae1 Nc5 14.Bg5 Qf8 15.Qh4 Nxd3
 16.cxd3 Be7 17.Bf6 Ba6 18.f4 Bxf6 19.Qxf6 Bxd3 20.Rf3 Re6 21.Qh4 Bc2 22.Re2
-Be4 23.Rh3 Qc5+ 24.Kf1 h5 25.g4 Kg7 26.gxh5 Rh8 27.Qg5 Bf5 28.h6+ Kh7 29.Rh4
-Bd3 30.f5 Bxe2+ 31.Nxe2 Qe7 32.fxg6+ fxg6 33.Qg4 Rxe5 34.Nf4 Qf6 35.Qd7+ Re7
-0-1
+Be4 23.Rh3 Qc5+ 24.Kf1 h5 25.g4 Kg7 26.gxh5 (26.Qg5!) Rh8 27.Qg5 Bf5 28.h6+
+Kh7 29.Rh4 Bd3 30.f5 Bxe2+ 31.Nxe2 Qe7 32.fxg6+ fxg6 33.Qg4 Rxe5 34.Nf4 Qf6
+35.Qd7+ Re7 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -1277,3 +1277,21 @@ Kh7 36.Rf1 Nf8 37.Bf6 Ng6 38.Qh5+ 1-0
 9.O-O Be7 10.Qe1 h6 11.Qg3 Bxf3? 12.Qxg7 Rf8 13.Rxf3 d5 14.f5 exf5 15.Bxh6 c5
 16.Rxf5 Qc7 17.Rxf7 O-O-O?? 18.Rxe7 cxd4 19.e6 Qxc3 20.Rb1 Rg8 21.Rxd7 Rxg7
 22.Ba6+ Kb8 23.Bf4+ Ka8 24.Bb7# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.08.19"]
+[Round "?"]
+[White "Suominen, Antti"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.c4 e5 2.g3 f5 3.d4 exd4 4.Qxd4 Nf6 5.Bg2 (5.Qe5+ Be7 6.Qxf5 d5 7.Qc2 Nc6)
+Be7 6.Nf3 O-O (6...Nc6) 7.Nc3 Nc6 8.Qd3 d6 9.O-O Nb4 10.Qd1 c6 11.a3 Na6 12.b3
+Ne4 13.Bb2 Nxc3 14.Bxc3 Nc5 15.Nd2 Be6 16.Rc1 Rc8 17.b4 Nd7 18.Ba1 Ne5 19.c5
+Ng4 20.cxd6 Qxd6 21.Nf3 Bd5 22.Qd4 Bf6 23.Qxa7 Ra8 24.Qc5 Qxc5 25.Rxc5 Rxa3
+26.Bxf6 Nxf6 27.Nd4 Bxg2 28.Kxg2 g6 29.Rb1 (29.e3) Rd8 30.e3 Ra2 31.Ra5 Rd2
+32.Ra7? Ng4 33.Rxb7 Rxf2+ (33...Ra8!) 34.Kg1 Ra8 35.h3 Raa2 36.hxg4 fxg4??
+37.Rc1?? (37.Ra1!) Rg2+ 1/2-1/2

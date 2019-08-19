@@ -680,7 +680,7 @@ Qxd5 39.Qg7+ 1-0
 9.O-O O-O 10.Qd2 Re8 11.f4 Rc8 12.f5 Ne5 13.fxg6 hxg6 14.Nd5 Nxd5 15.exd5 Nxd3
 16.Qxd3 Bf5?! (16...Qb6+) 17.Rxf5 gxf5 18.Qxf5 Qb6+ 19.Kh1 Qxb2 (19...e6!)
 20.Rf1 f6? (20...Bf6) 21.Qe6+ Kf8 22.Nf4 Qxc2 23.h4 Qh7?? (23...Rc4 {=}) 24.h5
-Bh6 25.Ng6+ Kg7 26.Rxf6 Bxg5 (26...Rf8 27.Qxe7+ Kg8 28.Qe6+ Kg7 29.Nxf8)
+Bh6 25.Ng6+ Kg7 26.Rxf6! Bxg5 (26...Rf8 27.Qxe7+ Kg8 28.Qe6+ Kg7 29.Nxf8)
 27.Rf7+ Kh6 28.Nf8+ Bf6 29.Rxh7+ (29.Qe3+) Kg5 30.Qe3+ Kf5 31.Qf3+ Ke5 32.Ne6
 Rc4 33.h6 Rec8 34.Rg7 Rh4+ 35.Kg1 Rc1+ 36.Kf2 Rc2+ 37.Kg3 Rxh6 38.Rg4 1-0
 
@@ -696,8 +696,8 @@ Rc4 33.h6 Rec8 34.Rg7 Rh4+ 35.Kg1 Rc1+ 36.Kf2 Rc2+ 37.Kg3 Rxh6 38.Rg4 1-0
 1.d4 Nf6 2.f3 g6 3.e4 d6 4.Bg5 Bg7 5.Qd2 Na6 6.Nc3 c6 7.Bh6 Bxh6 8.Qxh6 Qb6
 9.O-O-O Bd7 10.Bc4 Qb4 11.Bb3 c5 12.a3 Qa5 13.e5 dxe5 14.dxe5 (14.Bxf7+!!) c4
 15.exf6 cxb3 16.fxe7 bxc2? 17.Rd5 Qb6 18.Qg7 Qe3+ 19.Rd2?? Qe1+ 20.Kxc2 Bf5+
-21.Ne4 Bxe4+?? (21...Rc8+) 22.fxe4 Qxe4+?? 23.Kc1 Qc6+ 24.Kd1 Kxe7 25.Nf3 Rhd8
-26.Re1+ 1-0
+21.Ne4 Bxe4+?? (21...Rc8+) 22.fxe4 Qxe4+?? 23.Kc1?? Qc6+?? 24.Kd1 Kxe7 25.Nf3
+Rhd8 26.Re1+ 1-0
 
 [Event "Friendly Match"]
 [Site "Vantaa FIN"]
@@ -814,3 +814,21 @@ Ne7 22.Kb1 Nc6 23.h3 Na5 24.Rhg1 Qf8 25.g4 Kd7 26.f5 hxg4 27.hxg4 Nc4 28.Rh1
 Rh6?? 29.Rxh6 (29.fxe6+! Kxe6 30.Qf6+ Kd7 31.e6+) Qxh6 30.fxe6+ fxe6 31.Qf7+
 Kc8 32.Qxe6+ Kb8 33.Qxd5 Ne3 34.Qh1 Qg5 35.Rg1 Nc4 36.Qg2 Qe3 37.Nb4 Nd2+
 38.Ka2 c5 39.Rh1 Rxa3+ 40.bxa3 Ne4 41.Rh8+ Kc7 42.Nd5+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2019.08.19"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "0-1"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bg5 Bg7 5.Qd2 h6 6.Be3 Ng4 7.Bf4 e5 8.dxe5 dxe5
+9.Qxd8+ Kxd8 10.O-O-O+ Nd7 11.Bg3 h5 12.Be2 (12.Nf3 c6 13.h3 h4 14.Nxh4) c6
+13.h3 Nh6 14.Nf3 Kc7 15.Ng5 Nc5 16.Bc4? f6 17.Nf7 Nxf7 18.Bxf7 g5 19.h4 g4
+20.f4 (20.f3) Ne6 21.Ne2 Bd7 22.Rhf1 Raf8 23.Bg6 Be8 24.Bxe8 Rxe8 25.fxe5 fxe5
+26.Rf7+ Kc8 27.Rdd7? Rd8 28.Rxd8+ Rxd8 29.b3 Bh6+ 30.Kb2 Rd2 31.Rf6 Rxe2
+32.Bxe5 (32.Rxe6) Rxe4 33.Rxe6 Bg7 34.Rxc6+ bxc6 35.Bxg7 Re2 36.g3 Re3 37.Bd4
+Rxg3 38.Bxa7 Rh3 39.Kc1 Rh1+ 40.Kd2 g3 0-1
