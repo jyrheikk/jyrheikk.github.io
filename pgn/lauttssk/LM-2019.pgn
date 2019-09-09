@@ -146,3 +146,17 @@ Nf6 29.Ke2 Nd5 30.Kd3 Be5 31.Nd4? Rd8 32.Kc4 Bxg3 33.fxg3 Ne3+ 34.Kc3 Nxd1+
 9.Ne5 Bd6 10.Nxc6 bxc6 11.Bg3 cxd4 12.exd4 Re8 13.Nf3 Bb7 14.Ne5 c5 15.dxc5
 Bxc5 16.O-O-O Rc8 17.Kb1 Qb6 18.Bh4 Ne4 19.Ka1 Bxf2 20.Bxe4 Bxh4 21.Bxh7+ Kh8
 22.Nxf7# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.09"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "3000+30"]
+[Variant "Chess960"]
+[FEN "qnrknrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKNRBB w - - 0 1"]
+
+1.b3 f5 2.g3 c6 3.f4 d5 4.Nd3 Nd7 5.Ne5 Nef6 6.Qd4 Be6 7.Nc3? c5 (7...g6)
+8.Qa4?! Nxe5?? 9.fxe5 Nd7 10.Nxd5 b6?? 11.Nf4 Qxh1 12.Nxe6+ Ke8 13.Nxf8 1-0
