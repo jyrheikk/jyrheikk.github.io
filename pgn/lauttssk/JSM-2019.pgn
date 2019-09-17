@@ -1,0 +1,73 @@
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Koskinen, Erkki"]
+[Result "1-0"]
+[Section "II Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Gambiitti 3"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 Nc6 5.d5 Ne5 6.Qd4 Nf7 7.Bh4?! (7.h4) g6
+8.O-O-O Bh6+ 9.Kb1 O-O 10.Nxe4 Bg7 11.Nf3 c6 12.dxc6 bxc6 13.Bxf6 exf6 14.Nd6
+Nxd6 15.Qxd6 Qb6 16.Bc4+ Kh8 17.Rhe1 Qb8 18.h4 Qxd6 19.Rxd6 Rb8 20.c3 Rb6
+21.Red1 c5? 22.Rxb6 axb6 23.Rd6 Rd8 24.Rxb6 (24.Bd5! b5 25.Rb6) d6 25.a4 Bf5+
+26.Ka2 Be4 27.a5 f5? 28.Ng5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Lehtinen, Jarmo"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "4"]
+[WhiteTeam "Shakkiseura Gambiitti 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.b3 e5 2.Bb2 Nc6 3.g3 d5 4.Bg2 Nf6 5.d3 Bc5 6.e3 h5 7.h3 Bf5 8.Nd2 Qd7 9.Bxe5
+Nxe5 10.d4 Bb4 11.dxe5 Ne4 12.Bxe4 dxe4 13.Qe2 O-O-O 14.Rd1 Qc6 15.Qc4 Qxc4
+16.bxc4 Rxd2 17.Rxd2 Rd8 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Siikonen, Timo"]
+[Black "Visti, Heikki"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Kulttuuri-Shakki -58 2"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Qe2 Nxd5 5.d4 e6 6.Nf3 Be7 7.Ne5 O-O 8.Nxd7
+Nxd7 9.O-O Bf6 10.c3 g6 11.Bh6 Re8 12.Bxd7 Qxd7 13.Nd2 e5 14.Qf3 Bg7 15.Bxg7
+Kxg7 16.c4 Nb6 17.d5 f5 18.Qc3 Kg8 19.Nf3 Na4 20.Qc2 Nc5 21.b4 Ne4 22.Nd2 Nf6
+23.Qc3 Qf7 24.Nf3 Ne4 25.Qe3 Qf6 26.Nd2 Nxd2 27.Qxd2 e4 28.Rad1 Rad8 29.Qd4
+Kf7 30.Qxa7 f4 31.Qxb7 Re7 32.Qc6 Rd6 33.Qc5 f3 34.Qe3 Re5 35.c5 Rg5 36.Qxe4
+0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Pesola, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Section "II Division:1"]
+[Board "5"]
+[WhiteTeam "Kulttuuri-Shakki -58 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 Be7 6.O-O O-O 7.Re1 d6 8.Nbd2 Bg4
+(8...Na5) 9.h3 Bh5 10.Nf1 Bg6 11.Ne3 Na5 12.Bb5 a6 13.Ba4 b5 14.Bc2 Qd7 15.Nh4
+Bh7 16.Nef5 Bxf5 (16...c5) 17.Nxf5 Kh7 18.d4 Rad8 (18...Rfe8) 19.a4 Nc6
+20.axb5 axb5 21.Qf3 Rg8 22.d5 Nb8 23.Nxe7 (23.Bd3 Rc8) Qxe7 24.Bd3 b4 25.cxb4
+c6 26.Bd2 Kh8 27.Bc3 cxd5 28.exd5 Qb7 29.Bc4 Rc8 30.b3 Qc7 31.Qe3 Nbd7 32.b5
+(32.Ra6) Qb6 (32...Nb6 33.Bb4 (33.Ba5 Nxc4) 33...Nfxd5) 33.Qe2 Rgf8 34.Ra6 Qb8
+35.Bb4 Nc5 36.Rc6 Rxc6 37.dxc6 Qb6 38.Qe3 Ne8 39.Bxc5 Qxc5 40.Qxc5 dxc5
+41.Rxe5 Nc7 42.Rxc5 Rb8 43.Re5 f6 44.Re7 1-0
