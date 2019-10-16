@@ -174,12 +174,67 @@ Nf8 17.f4 Ng6 18.Bf2 Qd7 19.Nf3 Bc6 20.Qe2 c4 21.Bc2 Qf7 22.Kh2 Bd8 23.Rg1 Bc7
 [BlackTeam "Etelä-Vantaan Shakki 4"]
 [ECO "D45"]
 
-1.c4 c6 2.d4 d5 3.e3 Nf6 4.Nc3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.g4 Nxg4 8.Rg1
-Ndf6 9.h3 Bh2 10.Rg2 Qc7 11.hxg4 Bd6 12.g5 Nh5 13.c5 Be7 14.Bd3 Bd7 15.
-Bxh7 O-O-O 16.Bd3 g6 17.Bd2 Ng7 18.O-O-O Nf5 19.Ne5 Rh7 20.f4 Rf8 21.Rgg1
-f6 22.Nxg6 Rff7 23.Nxe7+ Rxe7 24.gxf6 Ref7 25.Rg8+ Be8 26.Bxf5 exf5 27.
-Rxe8+ Kd7 28.Re5 Rxf6 29.Rxf5 Rhf7 30.Rxf6 Rxf6 31.Rg1 Qd8 32.Rg7+ Kc8 33.
-Qh7 Qe8 34.Rxb7 Kd8 35.Rb8# 1-0
+1.c4 c6 2.d4 d5 3.e3 Nf6 4.Nc3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.g4 Nxg4 8.Rg1 Ndf6
+9.h3 Bh2 10.Rg2 Qc7 11.hxg4 Bd6 12.g5 Nh5 13.c5 Be7 14.Bd3 Bd7 15.Bxh7 O-O-O
+16.Bd3 g6 17.Bd2 Ng7 18.O-O-O Nf5 19.Ne5 Rh7 20.f4 Rf8 21.Rgg1 f6 22.Nxg6 Rff7
+23.Nxe7+ Rxe7 24.gxf6 Ref7 25.Rg8+ Be8 26.Bxf5 exf5 27.Rxe8+ Kd7 28.Re5 Rxf6
+29.Rxf5 Rhf7 30.Rxf6 Rxf6 31.Rg1 Qd8 32.Rg7+ Kc8 33.Qh7 Qe8 34.Rxb7 Kd8
+35.Rb8# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Kuokkanen, Jaakko"]
+[Black "Lehtinen, Tero"]
+[Result "1-0"]
+[Section "II Division:1"]
+[Board "1"]
+[WhiteTeam "Kulttuuri-Shakki -58 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.d4 d6 2.e4 Nd7 3.Nf3 c6 4.Be2 e5 5.O-O Be7 6.a4 Ngf6 7.Nc3 a5 8.h3 Qc7 9.Be3
+h6 10.Qd2 g5 11.Nh2 Nf8 12.Ng4? Nxg4 13.Bxg4 Bxg4 14.hxg4 h5 15.gxh5 Rxh5
+16.Ne2 O-O-O 17.Ng3 Rh7 18.Nf5 Ng6 19.Rfd1 Rdh8 20.Kf1 f6 21.g3 Bf8 22.c3 Qf7
+23.d5 c5? (23...Nf4!) 24.b4 Rh1+ 25.Ke2 Rxd1 26.Rxd1 c4 27.Qa2 Qc7 28.bxa5
+Qxa5 29.Qxc4+ Kb8 30.Rb1 Rh7 31.Bb6 Qa6 32.Qxa6 bxa6 33.Bd8+ Rb7 34.Rxb7+ Kxb7
+35.a5 Nh8 36.Bxf6 Nf7 37.Kf3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Männistö, Kari"]
+[Black "Ruotanen, Helge"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Kulttuuri-Shakki -58 2"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nc6 5.Nf3 Bg4 6.Be3 Bxf3 7.gxf3 e5 8.d5 Nd4
+9.Be2? c5 10.dxc6 bxc6 11.f4 Ne7 12.fxe5 dxe5 13.Qd2 Qa5 14.Rd1 Rd8 15.Qc1 O-O
+16.O-O?? Qxc3 17.Rxd4 Qxc1 18.Rxc1 exd4 19.Bg5 Rd7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.09.14"]
+[Round "1"]
+[White "Koskinen, Veikko"]
+[Black "Rautio, Reijo"]
+[Result "1/2-1/2"]
+[Section "II Division:1"]
+[Board "3"]
+[WhiteTeam "Kulttuuri-Shakki -58 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[ECO "A02"]
+
+1.f4 d6 2.Nf3 Bg4 3.e3 e5 4.Be2 exf4 5.exf4 Be7 6.O-O Nf6 7.b3 Nd5 8.Ne1 Bxe2
+9.Qxe2 O-O 10.Bb2 Bf6 11.c3 Nd7 12.Qf3 c6 13.Na3 b5 14.Kh1 Nc5 15.Nxb5 Re8
+16.Na3 Qe7 17.Nc4 Rad8 18.Ba3 Ne4 19.Nd3 Nb6 20.Rad1 Nxc4 21.bxc4 Qe6 22.Nb2
+d5 23.d4 dxc4 24.Rde1 Qd5 25.Na4 Qa5 26.Rxe4 Qxa4 27.Bc5 Qxa2 28.Rfe1 Rxe4
+29.Qxe4 h6 30.Qxc6 Qd2 31.Qe4 Qxc3 32.Re3 Qa5 33.Ra3 Qd2 34.Re3 c3 35.Re2 Rb8
+36.g3 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
