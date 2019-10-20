@@ -399,6 +399,32 @@ Bd6 1/2-1/2
 [Site "Helsinki FIN"]
 [Date "2019.10.20"]
 [Round "3"]
+[White "Al Najar, Huda"]
+[Black "Kivinen, Jyrki"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "3"]
+[WhiteTeam "Matinkylän Shakkikerho 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1726"]
+[BlackElo "1993"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg4 6.Be2 cxd4 7.cxd4 e6 8.O-O Nf6
+9.Nc3 Qd8 10.Qa4 Be7 11.Be3 O-O 12.Rfd1 Nd5 13.Nxd5 Qxd5 14.Rd2 a6 15.a3 b5
+16.Qd1 Na5 17.h3 Bh5 18.g4 Bg6 19.Ne5 Rac8 20.Bf3 Be4 21.Bxe4 Qxe4 22.Nd7 Rfd8
+23.Nb6 Rb8 24.d5 exd5 25.Nxd5 Nc4 26.Nxe7+ Qxe7 27.Rxd8+ Rxd8 28.Qb3 Nxe3
+29.Qxe3 Qxe3 30.fxe3 Rd2 31.b4 Kf8 32.a4 Rb2 33.axb5 axb5 34.Ra7 h6 35.Rb7
+Rxb4 36.Kf2 g6 37.Kf3 Kg7 38.h4 Rb1 39.g5 hxg5 40.hxg5 b4 41.e4 b3 42.Kf2 b2
+43.Kg2 Kf8 44.Kh2 Ke8 45.e5 Kd8 46.Kg2 Kc8 47.Rb3 Kc7 48.Rc3+ Kd7 49.Rb3 Kc6
+50.Rb8 Kd5 51.Rb5+ Ke4 52.Kh2 Kf5 53.Kg2 Re1 54.Rxb2 Rxe5 55.Rf2+ Ke6 56.Rf6+
+Ke7 57.Ra6 Rxg5+ 58.Kf3 Re5 59.Kf4 Re6 60.Ra7+ Kf6 61.Ra5 Rb6 62.Ra4 g5+
+63.Kg4 Kg6 64.Ra5 f5+ 65.Kg3 Rb3+ 66.Kg2 f4 67.Ra8 Kf5 68.Rf8+ Kg4 69.Rg8 Rb2+
+70.Kh1 Kh4 71.Rh8+ Kg3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.10.20"]
+[Round "3"]
 [White "Helenius, Martti"]
 [Black "Rautio, Reijo"]
 [Result "1-0"]
@@ -419,6 +445,23 @@ Bxc3 36.Rh7+ Kg8 37.Qxc3 Rb8 38.Rh5 Ra8 39.Be4 Ra6 40.c5 c6 41.Qb3 Bc8 42.d6
 [Site "Helsinki FIN"]
 [Date "2019.10.20"]
 [Round "3"]
+[White "Siikonen, Timo"]
+[Black "Vainikka, Toni"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Hämeenlinnan Shakkikerho"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3
+Qd8 9.Nxe4 Be7 10.Bg5 O-O 11.Bxe7 Qxe7 12.Nxd4 Nxd4 13.Qxd4 b6 14.Ng3 Qg5
+15.Re5 Qg6 16.Qe4 Be6 17.Qc6 Rfd8 18.Rae1 h6 19.f4 Qg4 20.f5 Qd4+ 21.Kh1??
+Bd5? (21...Qxe5) 22.Qb5 Qf2 23.Rg1?? Bxg2+ 24.Rxg2 Rd1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.10.20"]
+[Round "3"]
 [White "Vähäuski, Toni"]
 [Black "Suihko, Ismo"]
 [Result "1-0"]
@@ -433,6 +476,28 @@ h6 10.Be3 Re8 11.a4 Bd7 12.a5 Bf8 13.Nh2 Qc8 14.Nd2 Be6 15.f4 Bxb3 16.Qxb3 Qe6
 (23...d5 24.dxe5 dxe4 25.Nd4 Nd5) 24.dxe5 dxe5 25.Rfd1 Red8 26.Bb6 Rxd1+
 27.Rxd1 Rb7 (27...Kf7) 28.Rd8 Kf7 29.Nh4 g5 30.fxg6+ Kg7 31.Be3 Rc7 32.Kf2 Rb7
 33.Bc5 Nxg6 34.Nf5+ Kf7 35.Bxf8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.10.20"]
+[Round "3"]
+[White "Heimonen, Arto"]
+[Black "Peuhu, Ari"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Hämeenlinnan Shakkikerho"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O d6 6.h3 h6 7.c3 O-O 8.a4 Re8 9.b4
+a6 10.Qb3 Rf8 11.Nh4? Nxe4 12.Ng6 Nf6 13.Nxf8 d5 14.Ng6 fxg6 15.b5 Na5
+16.Bxd5+ Qxd5 17.Qc2 Nb3 18.Ra2 Nxc1 19.Rxc1 axb5 20.c4 bxc4 21.dxc4 Qf7
+22.Nd2 Bf5 23.Qb2 b6 24.Qxe5 Bd6 25.Qc3 Ne4 26.Qf3 Re8 27.Qd1 Nxd2 28.Rxd2 Bf4
+29.c5 Bxd2 30.Qxd2 Qd7 31.Qb4 Re4 32.Qb3+ Be6 33.Qg3 Qd2 34.Rc3 Qf4 35.Qxf4
+Rxf4 36.cxb6 cxb6 37.Rc6 Kf7 38.Rxb6 Rxa4 39.Rb7+ Kf6 40.Rb6 Ra1+ 41.Kh2 g5
+42.Kg3 Ra3+ 43.Kh2 Rd3 44.Rb4 Ke5 45.Rb7 Rd7 46.Rb5+ Bd5 47.Rb2 h5 48.Re2+ Kf5
+49.g3 Bf3 50.Re1 Rd1 51.Rxd1 Bxd1 52.h4 gxh4 53.Kh3 hxg3 54.fxg3 Bg4+ 55.Kg2
+Ke4 56.Kf2 g5 57.Kg2 Ke3 58.Kg1 Kf3 59.Kh2 Kf2 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
