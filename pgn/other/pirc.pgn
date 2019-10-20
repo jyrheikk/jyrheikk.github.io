@@ -832,3 +832,25 @@ Kc8 32.Qxe6+ Kb8 33.Qxd5 Ne3 34.Qh1 Qg5 35.Rg1 Nc4 36.Qg2 Qe3 37.Nb4 Nd2+
 26.Rf7+ Kc8 27.Rdd7? Rd8 28.Rxd8+ Rxd8 29.b3 Bh6+ 30.Kb2 Rd2 31.Rf6 Rxe2
 32.Bxe5 (32.Rxe6) Rxe4 33.Rxe6 Bg7 34.Rxc6+ bxc6 35.Bxg7 Re2 36.g3 Re3 37.Bd4
 Rxg3 38.Bxa7 Rh3 39.Kc1 Rh1+ 40.Kd2 g3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.10.20"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Sinervuo, Veli-Pekka"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Matinkylän Shakkikerho 4"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 c5 4.d5 d6 5.Bd3 Nf6 6.Nge2 O-O 7.O-O a6 8.a4 e6 9.Ng3
+exd5 10.Nxd5 (10.exd5) Nxd5 11.exd5 Nd7 12.c4?! f5 13.f4 Nf6 14.Be2 h5 15.Bf3
+Ng4 16.Ne2 Re8 17.Ra3 Bd7 18.h3 Nf6 (18...b5!) 19.Kh2 (19.a5) b5 20.b3 Ne4
+21.Qc2 bxc4 22.bxc4 Rb8 23.Ng3 Nxg3 24.Kxg3 Bd4 25.Rd1 Qf6 26.Bd2 Qg7 27.Rb1
+h4+ 28.Kh2 Bf2 29.Rxb8 Bg3+ 30.Kh1 Rxb8 31.Bd1 Qd4 32.Be3 Qb2 33.Rb3 Rxb3
+34.Qxb3 Qa1 35.Kg1 Kf7 36.Kf1 Ke7 37.Ke2?? g5 38.fxg5 f4 39.Bd2?? (39.Bf2)
+Qe5+ 40.Kf1 Qd4 41.Be1 Bxe1 42.Kxe1 Qg1+ 43.Kd2 Qxg2+ 44.Kc1 Qxh3 45.Qb2 Qe3+
+46.Kb1 Qe5 47.Qg2 Bf5+ 48.Bc2 h3 49.Qf1 h2 0-1
