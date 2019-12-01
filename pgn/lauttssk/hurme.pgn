@@ -1,0 +1,29 @@
+[Event "SM-liiga"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Hurme, Harri"]
+[Black "Sorri, Juhani"]
+[Result "*"]
+[WhiteTeam "Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakkikerho"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pp3pp1/2p2np1/8/P1BpP1P1/2N4P/1P3P2/R1BQK2R w KQkq - 0 12"]
+
+12.e5! Bb4 {12...dxc3 13.Bxf7+ Kxf7 14.Qxd8 cxb2 15.Qc7+ Ke6 16.Bxb2!} 13.Bg5
+O-O! 14.Qc2 Re8 15.O-O-O Rxe5 16.f4 Rxg5 17.fxg5 Nd5 18.Rxd4 Qxg5+ 19.Qd2
+Qxd2+ 20.Kxd2 Na6 21.Bxd5 cxd5 22.Rxd5 Nc5 *
+
+[Event "?"]
+[Site "Espoo FIN"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Hurme, Harri"]
+[Black "Hentunen, Asko"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Qc2 Bb7 7.a3 Bxc3+ 8.Nxc3 f5
+9.d5 Nxc3 10.Qxc3 O-O 11.b4 exd5 12.Bb2! Rf7 13.O-O-O!? {13.cxd5} dxc4?!
+{13...c5} 14.Bxc4 d5 15.Rhg1 Qd6 16.g4 f4? {16...Nd7!} 17.e4! c6 18.exd5 cxd5
+19.Rxd5! Bxd5 20.Rd1! Qf8 21.Rxd5 Kh8 22.Rh5! Nd7 23.g5! Rc8 24.Kb1 Re7
+25.Qh3! Rxc4 26.Rxh7+ Kg8 27.g6 Re1+ 28.Ka2 1-0
