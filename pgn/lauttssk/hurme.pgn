@@ -20,6 +20,7 @@ Qxd2+ 20.Kxd2 Na6 21.Bxd5 cxd5 22.Rxd5 Nc5 *
 [Round "?"]
 [White "Hurme, Harri"]
 [Black "Hentunen, Asko"]
+[WhiteTitle "FM"]
 [Result "1-0"]
 
 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Qc2 Bb7 7.a3 Bxc3+ 8.Nxc3 f5
@@ -27,3 +28,53 @@ Qxd2+ 20.Kxd2 Na6 21.Bxd5 cxd5 22.Rxd5 Nc5 *
 (13...c5) 14.Bxc4 d5 15.Rhg1 Qd6 16.g4 f4? (16...Nd7!) 17.e4! c6 18.exd5 cxd5
 19.Rxd5! Bxd5 20.Rd1! Qf8 21.Rxd5 Kh8 22.Rh5! Nd7 23.g5! Rc8 24.Kb1 Re7
 25.Qh3! Rxc4 26.Rxh7+ Kg8 27.g6 Re1+ 28.Ka2 1-0
+
+[Event "?"]
+[Site "Espoo FIN"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Hurme, Harri"]
+[Black "Rytshagov, Mihail"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[SetUp "1"]
+[FEN "4R3/p5pk/7p/r1B2P2/1pn1p1PP/8/n4K2/6N1 w - - 0 46"]
+
+46.g5! hxg5 (46...Rxc5 47.g6#) 47.Nh3! gxh4 48.Ng5+?! (48.Re6!) Kh6 49.Nxe4
+Kh5 50.Kf3! Ra6! 51.Bd4! Nc3! 52.Bxg7! Nxe4! 53.Kf4! Rh6! 54.Bxh6! Ned6
+55.Re6! Nf7! 56.Bg7! b3 57.Re7 Nh6? (57...Ng5! 58.Rb7 Nh3+ 59.Kf3 Ng5+ 60.Kf4
+Nh3+ {=}) 58.Bf8!! Nd6 (58...b2 59.Rh7) 59.Bxh6! b2 60.Bf8! Nxf5 61.Rb7! Nd4
+62.Ba3 Ne2+ 1-0
+
+[Event "Karpov-simultaani"]
+[Site "Valkeakoski FIN"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Karpov, Anatoli"]
+[Black "Hurme, Harri"]
+[Result "*"]
+[WhiteTitle "WC"]
+[BlackTitle "FM"]
+[SetUp "1"]
+[FEN "5r1k/2p4p/p1Np1r2/3Pp1qn/4Ppb1/P1NQ4/1PP2RPP/4K2R b - - 0 24"]
+
+24...Qh4! 25.Qf1! Rh6 26.Nb4?! (26.Rg1! Qxh2 (26...Rhf6 {=}) 27.g3! Qh3
+28.Qxh3 Bxh3) Ng3! 27.hxg3 Qxh1 28.gxf4 Rxf4 29.Rxf4 exf4 30.Nd3 f3 31.gxf3
+Bxf3 32.Qxh1 Rxh1 33.Kf2 Bg4 {-/+} *
+
+[Event "Karpov-simultaani"]
+[Site "Valkeakoski FIN"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Karpov, Anatoli"]
+[Black "Hurme, Harri"]
+[Result "1/2-1/2"]
+[WhiteTitle "WC"]
+[BlackTitle "FM"]
+[SetUp "1"]
+[FEN "8/7p/5k2/3P4/5K2/P4N2/8/5r2 b - - 0 50"]
+
+50...Ra1? (50...Rd1! 51.Ng5 Kg6!) 51.Ng5! h5 52.Ne4+ Kg6! 53.d6! Rxa3?
+(53...Rd1! 54.Ke5 Kf7! 55.Ng5+ Ke8! {-+}) 54.d7! Rd3 55.Nc5! Rd5 56.Ne6 Rxd7
+57.Nf8+ 1/2-1/2
