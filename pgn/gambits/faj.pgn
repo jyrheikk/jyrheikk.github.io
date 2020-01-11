@@ -1845,3 +1845,22 @@ Rxg2+ 22.Kf1 Rg4 23.Qxg4 Qxg4 24.Rd2 Rxd2 25.Bxd2 Qf3+ 26.Ke1 Bb5 0-1
 16.Nd4 Ne5 17.Bxg4? (17.f3) Nxg4 18.N2f3? (18.Nf1) Ne4 19.Rf1 c5 20.Kg2
 (20.Ne2 Bxg3 21.Nxg3 Nxg3 22.Qe1 Nxf1 23.Qxf1 Nxh2) Nexf2 (20...Nexf2 21.Qc1
 Qh3+ 22.Kg1 Bxg3) 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.01.11"]
+[Round "5"]
+[White "Hytönen, Harri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "II Division:2"]
+[Board "3"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2012"]
+[BlackElo "2083"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nd2 Bb4 5.a3 Bxd2+ 6.Bxd2 Nc6 7.Nf3 Qe7 8.e3
+Nxe5 9.Be2 d6 10.O-O O-O 11.Rc1 b6 12.Bc3 Nxc3 13.Rxc3 Bb7 14.Nxe5 Qxe5
+(14...dxe5 15.c5) 15.Bf3 Be4 1/2-1/2
