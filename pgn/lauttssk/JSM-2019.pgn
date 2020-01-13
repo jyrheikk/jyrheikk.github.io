@@ -1038,6 +1038,24 @@ Bh7 23.Qh4 Bg8 24.Qh8 Nd5 25.Nxd5 cxd5 26.Bb5 Qb6 27.Bxe8 Rxe8 28.Rac1 Qxb2
 [Site "Vantaa FIN"]
 [Date "2020.01.11"]
 [Round "4"]
+[White "Pankkonen, Janne"]
+[Black "Nevalainen, Olli-Matti"]
+[Result "0-1"]
+[Section "III Division:1"]
+[Board "2"]
+[WhiteTeam "Shakkiseura Gambiitti 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Nf3 O-O 6.Be2 Nc6 7.d5 Nb8 8.O-O Nbd7
+9.Nd4 Nc5 10.f3 e6 11.b4 e5 12.Nc2 Ncd7 13.Be3 Ne8 14.c5 f5 15.a4 f4 16.Bf2
+Qg5 17.Na3 h5 18.cxd6 cxd6 19.Ncb5 a6 20.Na7 h4 21.Nxc8 h3 22.g4 fxg3 23.Bxg3
+Rxc8 24.Rc1 Nef6 25.Nc4 Ne8 26.Qd2 Bh6 27.Qxg5 Bxg5 28.Rc2 Nb6 29.a5 Nxc4
+30.Rxc4 Nc7 31.f4 exf4 32.Bg4?? fxg3 33.Rxf8+ Rxf8 34.Rxc7 Be3+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
+[Date "2020.01.11"]
+[Round "4"]
 [White "Vartiainen, Turo"]
 [Black "Ristoja, Aulikki"]
 [Result "1-0"]
