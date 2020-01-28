@@ -138,3 +138,32 @@ Rxh2+ 23.Kxh2 Qh4# 0-1
 9.e5 Nc6 10.exd6 cxd6 11.Re1+ Kf8 12.Bf4 g5 13.Bg3 Na5 14.Qb4 Nxc4 15.Qxc4 Ne7
 16.h3 (16.Rad1) Nf5 17.Bh2 Qc6 18.Qd3 Be6 19.g4 Bc4?? 20.Qxf5 d5 21.Ne5 Bxe5
 22.Bxe5 Rg8 23.b3 Ba6 24.Nxd5 Qxd5 25.Bg7+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2018.03.07"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 f5 2.g4 fxg4 3.e4 d6 4.h3 Nf6 5.Nc3 Nc6 6.Be3 e5 7.d5 Ne7 8.Be2 c5?
+9.hxg4 Qb6 10.Qd2 (10.g5) Bxg4 11.f3 Bd7 12.O-O-O O-O-O 13.Nh3 h6 14.Ng5 Be8
+15.Ne6 Rd7? 16.Bb5 Bf7 17.Bxd7+ Kxd7? 18.Na4 Qa6 (18...Qb5 19.Naxc5+! dxc5
+20.a4 Qb6 21.Bxc5 Qa6 22.Qc3 {+-}) 19.Nexc5+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.01.28"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 f5 2.g4 fxg4 3.e4 d6 4.Be2 Nf6 5.Nc3 Nc6 6.Be3 b6 7.h3 gxh3 8.Nxh3 e5
+9.d5 Ne7 10.Ng5 g6? 11.Bb5+ Bd7 12.Ne6 Qc8 13.Qf3 Neg8 14.Bxd7+ Qxd7 15.Nb5
+Ke7 16.Nbxc7 Rc8 17.Nxf8 Kxf8 18.Ne6+ Ke7 19.c3 Rc4 20.Bg5 Qb5 21.b3 Rc8
+22.O-O-O a5 23.Kb2 a4 24.Qd3 Qxd3 25.Rxd3 Kd7 26.f3 Nh5 27.bxa4 h6 28.Be3 Rb8
+29.c4 Ne7 30.Rb3 Nc8 31.a5 Re8 32.axb6 Rxe6 33.dxe6+ Kxe6 34.b7 Ne7 35.Ba7 1-0

@@ -428,7 +428,7 @@ Rd4 57.h6 1-0
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2014.04.09"]
-[Round "?"]
+[Round "-"]
 [White "Siikonen, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -487,7 +487,7 @@ Rd5 27.Kf1 Kd7 28.Ke2 1/2-1/2
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2016.03.16"]
-[Round "?"]
+[Round "-"]
 [White "Siikonen, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
@@ -549,7 +549,7 @@ Bd6 (17...Nfg6) 18.Qxf4 Qxf4 19.gxf4 Nxf3+ 20.Nxf3 Rxf3 21.Be3 Rh3 22.Kg2 Rh6
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2018.03.14"]
-[Round "?"]
+[Round "-"]
 [White "Siikonen, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -581,7 +581,7 @@ Nxf6 20.Ne5 Qb6 21.Qf3 (21.d7! Red8 22.Nxg6 fxg6 23.Rd6 Bxd6 24.Qxe6+ Kg7
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2018.10.17"]
-[Round "?"]
+[Round "-"]
 [White "Siikonen, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -591,4 +591,22 @@ Nxf6 20.Ne5 Qb6 21.Qf3 (21.d7! Red8 22.Nxg6 fxg6 23.Rd6 Bxd6 24.Qxe6+ Kg7
 (7...a6) 8.Ne2 e6 9.Na3 Be7 10.Nc4 Qd7 11.c3 O-O 12.Qxb7 Nb6?! 13.Qa6 Qd5
 14.Ne3 Qe4 15.Ng3 Qg6 16.Qb5 Nb8 17.Qe5? Bd6 18.Qe4? Bxg3 (18...f5) 19.Qxg6
 Bxf2+ 20.Kxf2 hxg6 21.Ng4 N8d7 22.b3 c5 23.Be3 Nd5 24.dxc5?? f5 25.c6 fxg4+
+0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.01.28"]
+[Round "-"]
+[White "Siikonen, Timo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "960+8"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Nbd7 4.c4 a6 5.Ba4 b5 6.cxb5 Nxd5 7.bxa6 Rxa6 8.Ne2
+e5 9.Nbc3 Nf6 10.O-O c5 11.d3 Be7 12.Bb5 Rd6 13.Qa4 O-O 14.Ne4 Nb6 15.Qc2 Nxe4
+16.dxe4 Rg6 17.Ng3 Bb7 18.Be3 Qa8 19.f3 Rc8 20.Rfd1 Qa5 21.a4 c4 22.Nf5 Bb4
+23.Qf2 h6 24.Nh4 Re6 25.Qg3 Kh7 26.Bxb6?! Qxb6+ 27.Kh1 Bc6? 28.Bxc4 Rf6 29.Nf5
+Rg6 30.Qh3 Bxa4 31.b3? (31.Nxh6) Rxc4 32.Rxa4 Rc2 33.Nh4 Rg5 34.f4 exf4
+35.Nf3?? Rgxg2 36.Qf5+ Rg6 37.e5 Qf2 (37...Rxh2+! 38.Nxh2 Qc6+) 38.Qh3 Be7
+39.Rxf4 Bc5? 40.Rf1? (40.Ng5+) Qe3 41.Ng5+?? Rxg5 42.Qxe3 Bxe3 43.Rxf7 Rgg2
 0-1
