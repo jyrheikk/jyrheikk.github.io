@@ -4269,3 +4269,18 @@ Qxe8 35.Qd4+ 1-0
 1.d4 d5 2.c4 e6 3.e4 Nf6 4.f3 dxe4 5.Nc3 exf3 6.Nxf3 c6 7.Bd3 Bd6 8.O-O Nbd7
 9.Qe1 O-O 10.Qh4 Be7 11.Bg5 Re8 12.Rad1 Nf8 13.Ne5 Ng6 14.Bxg6 hxg6? 15.Rd3
 Rf8 16.Rh3 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.02.04"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Mäntsälä, Juha"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 e6 3.c4 Nf6 4.e5 Ng8 5.Nc3 Bb4 6.Qg4 Bf8 7.Bd2 h5 8.Qf3 Ne7 9.Bg5
+Nbc6 10.O-O-O Qd7 11.g3 Nf5 12.Bh3 (12.cxd5) Nfxd4 13.Qe3? Bc5 14.Kb1 b6?
+(14...Nxe5 15.Qxe5 f6 16.Qe3 (16.Bxf6 gxf6 17.Qxf6?? Qh7+)) 15.cxd5 Nf5
+16.dxc6 (16.Qe4) Qxc6?? 17.Qd3 (17.Rd8#) Bd7?? 18.Bg2 Qxg2 19.Qxd7+ Kf8
+20.Qd8+ 1-0
