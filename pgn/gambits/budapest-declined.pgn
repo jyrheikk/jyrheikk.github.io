@@ -306,3 +306,17 @@ Qxg5 8.Nf3 Qe3 9.Qd3 e4 10.Nxe4? (10.Qxe4) Re8 11.Nfd2 f5 12.Qxe3 Nxe3
 c6 9.a3 Bd6 10.c5 Bc7 11.f4 exf3 12.Nxf3 Ne4 13.Nxe4 dxe4 14.Nd2? Qh4
 15.g3?? Bxg3 16.hxg3 Qxg3+ 17.Kh1 Re6 18.Rf5 Qh3+ 19.Kg1 Rg6+ 20.Kf2
 Qg3+ 21.Kf1 Qg1# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.02.13"]
+[Round "?"]
+[White "Suihko, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.d4 Nf6 2.c4 e5 3.e3 exd4 4.exd4 Bb4+ 5.Nc3 O-O 6.Bd2 Nc6 7.Nf3 d5 8.c5? Bg4
+9.Be2 Bxf3 10.Bxf3 Nxd4 11.a3? Bxc5 12.Be3 Nxf3+ 13.Qxf3 Bxe3 14.fxe3 c6
+15.O-O Re8 16.Rad1 Qb6 17.Qe2 Qxe3+ 18.Qxe3 Rxe3 19.h3 Rae8 20.Kf2 Ne4+
+21.Nxe4 R8xe4 22.Rd2 f6 23.Rc1 Kf7 {no more moves recorded} 0-1
