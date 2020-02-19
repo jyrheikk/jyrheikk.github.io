@@ -821,7 +821,7 @@ e6 9.Ne2 Bd6 10.O-O O-O 11.Ng3 Bxg3? 12.Qxg3 Bg6 13.h4 Kh8 14.Qf3 f6? 15.h5
 Bf7 16.h6 f5? 17.hxg7+ Kxg7 18.Qg3+ Bg6 19.Qe5+ Kf7 20.Bg5 Re8 21.Rae1
 (21.Qf6+ Kg8 22.Bh6 Qd7 23.Bxe6+ Rxe6 24.Qf8#) 1-0
 
-[Event "Casual Game"]
+[Event "Lauttasaari Christmas Tournament"]
 [Site "Helsinki FIN"]
 [Date "2018.12.19"]
 [Round "16"]
@@ -834,3 +834,20 @@ Bf7 16.h6 f5? 17.hxg7+ Kxg7 18.Qg3+ Bg6 19.Qe5+ Kf7 20.Bg5 Re8 21.Rae1
 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 Bxc2 8.Qxb7
 Nd7 9.Bb5 Bf5 10.Nf3 Rb8 11.Qc6 Rb6 12.Qc4 a6 13.Bc6 e5? 14.Nxe5 Qf6 15.O-O
 Rxc6 16.Nxc6 Bd6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.02.19"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Babamusta, Elton"]
+[Result "1-0"]
+[WhiteElo "2056"]
+[BlackElo "2052"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 Bf5 5.g4 Bc8 6.g5 Nd5 7.fxe4 Nb6 8.Be3 Nc6
+9.Nf3 e6 10.Qd2 Be7 11.h4 Na5 12.b3 O-O 13.h5 f5 14.g6 fxe4 (14...h6 15.Bxh6)
+15.gxh7+ Kh8 16.Ne5 Bh4+ 17.Kd1 Kxh7 18.Ng6 (18.h6!) Rxf1+ 19.Rxf1 Nd5 20.Nxd5
+(20.Rf8) Qxd5 21.Nxh4 Qxh5+ 22.Kc1 1-0
