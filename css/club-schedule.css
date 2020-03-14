@@ -44,3 +44,8 @@ a.disabledLink:hover {
   background-color: yellow;
   padding: 0 1px;
 }
+
+.exception {
+  background-color: red;
+  padding: 0 1px;
+}
