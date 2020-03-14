@@ -1697,3 +1697,107 @@ Nd8?? (19...Nxe5 20.dxe5 Rc4 21.Be3) 20.Rfe1? (20.Nd7 Re8 21.Nb6 Rc6 22.Nxd5)
 Ne6 21.Bh2 b4 22.Rac1?? (22.c4 Rfd8) Bg5 23.Rc2?? (23.Rb1 Bd2 24.Red1 bxc3
 25.bxc3 Bxc3 26.Nf3 Rc4 27.Rb7 Re8 28.Bg3 f6 29.Ra7 Nxd4) Nxd4 24.cxd4 Rxc2
 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.14"]
+[Round "7"]
+[White "Haapasalo, Jukka-Pekka"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "II Division:2"]
+[Board "1"]
+[WhiteTeam "Salon Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2081"]
+[BlackElo "2170"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.d4 dxc4 7.Ne5 Nc6 8.Nxc6
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.14"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Närhi, Kimmo"]
+[Result "1/2-1/2"]
+[Section "II Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Salon Shakkikerho 2"]
+[WhiteElo "2088"]
+[BlackElo "2080"]
+
+1.d4 Nf6 2.f3 d5 3.e4 e6 4.Bg5 Be7 5.Bd3 dxe4 6.fxe4 Nxe4 7.Bxe7 Qxe7 8.Nf3
+Nf6 9.O-O O-O 10.Qe1 c5 11.Qh4 Nc6 12.Ne5 h6 13.Nxc6 bxc6 14.Nd2 cxd4 15.Qxd4
+c5 16.Qe5 Bb7 17.Rae1 Rad8 18.Re2 Qd6 19.Nc4 Qd4+ 20.Kh1 Bd5 21.b3 Qxe5
+22.Nxe5 Nd7 23.Ng4 Rfe8 24.c4 Bc6 25.Kg1 h5 26.Nf2 Nf6 27.Bb1 Rd4 28.Re5 Nd7
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.14"]
+[Round "7"]
+[White "Pelto, Juho"]
+[Black "Kivinen, Jyrki"]
+[Result "0-1"]
+[Section "II Division:2"]
+[Board "3"]
+[WhiteTeam "Salon Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2072"]
+[BlackElo "1969"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Nc6 6.dxc5 Qxc5 7.Na3 Bd7 8.Nb5 Ng4
+9.Qe2 O-O-O 10.h3 Nge5 11.Be3 Nxf3+ 12.Qxf3 Qe5 13.Qxf7 a6 14.Nd4 Nxd4 15.cxd4
+Qa5+ 16.Bd2 Qb6 17.Bc3 Be6 (17...e5!) 18.Qf4 Rd6 19.Be2 Bd5 20.O-O Rf6 21.Bg4+
+e6 22.Qe5 h5?? 23.Qxd5 (23.Rfc1!) hxg4 24.Qc4+ Kb8 25.d5 Rg6 26.Qe4 Rhh6
+27.Bd2 gxh3 28.Bxh6 Rxh6 (28...Rxg2+ 29.Kh1 gxh6) 29.g3 Bc5 30.Rac1 Ka7 31.Qc4
+Bd4 32.b4 exd5 33.Qxd5 Qxb4 34.Rcd1 Bb6 35.Rb1 Qc3 36.Rb3 Bxf2+ 37.Rxf2 Qe1+
+38.Rf1 h2+ 39.Kg2 Qe2+ 40.Rf2 h1=Q# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.14"]
+[Round "7"]
+[White "Sobenin, Evgeny"]
+[Black "Tocklin, Tomi"]
+[Result "1-0"]
+[Section "II Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Salon Shakkikerho 2"]
+[WhiteElo "1995"]
+[BlackElo "1799"]
+
+1.d4 Nf6 2.Nf3 c5 3.c4 g6 4.Nc3 cxd4 5.Nxd4 Nc6 6.e4 d6 7.Be2 Bg7 8.Nb3 O-O
+9.O-O b6 10.Bg5 Bb7 11.f4 Rc8 12.Kh1 a6 13.Qd2 Qc7 14.Rac1 Nb8 15.Qe3 Nbd7
+16.Nd5 Nxd5 17.cxd5 Qd8 18.Rxc8 Bxc8 19.Nd4 Bb7 20.Rc1 Bxd4 21.Qxd4 f6 22.Bh6
+Re8 23.Bg4 b5? 24.Be6+ Kh8 25.Bf7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.14"]
+[Round "7"]
+[White "Riekkinen, Keijo"]
+[Black "Kumar, Ashwin"]
+[Result "1/2"]
+[Section "II Division:2"]
+[Board "5"]
+[WhiteTeam "Salon Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1764"]
+[BlackElo "1945"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Bxc3 4.bxc3 Nf6 5.Ba3 d6 6.Bg2 O-O 7.Nf3 Re8 8.O-O Nc6
+9.Rb1 Bd7 10.d3 Qc8 11.Re1 b6 12.Nd2 Qa6 13.Qc1 Rad8 14.e4 Na5 15.Nf1 Qc8
+16.Ne3 Bh3 17.Bh1 c6 18.Qc2 Be6 19.Bb4 Nb7 20.Qa4 c5 21.Ba3 Na5 22.Bc1 Rf8
+23.Qc2 h6 24.f3 Nc6 25.g4 Kh7 26.Qf2 Rh8 27.Qg2 Kg8 28.Kf2 Kf8 29.Rg1 Ke7
+30.Nd5+ Bxd5 31.cxd5 Nb8 32.h4 Qa6 33.Ke3 g5 34.h5 Nbd7 35.c4 Ra8 36.Rb3 Rhb8
+37.Qb2 Ne8 38.Bd2 Nc7 39.Rb1 Qc8 40.Bg2 a6 41.a4 Ra7 42.Bf1 Rab7 43.Be2 Qe8
+44.Kf2 Nf8 45.Qa2 b5 46.a5 b4 47.Bd1 Qd8 48.R3b2 Ne8 49.Bb3 Ng7 50.Qa4 Nd7
+51.Rh1 Nf6 52.Rbb1 Qc8 53.Rbg1 Nfe8? 54.Bxg5+ hxg5 55.h6 Nf6 56.hxg7 Qg8
+57.Rh8 Qxg7 58.Rxb8 Rxb8 59.Qc6 Qh8 60.Qc7+ Nd7 61.Qc6? Qh2+ 62.Rg2 Qh4+
+(62...Qf4) 63.Ke2 Qh1 64.Rf2 Qa1 65.Ba4 Rd8 66.Rf1 Qb2+ 67.Ke3 Qd4+ 68.Ke2
+1/2-1/2
