@@ -2,7 +2,7 @@
   "alekhine.pgn": 5,
   "owen.pgn": 7,
   "caro-kann.pgn": 13,
-  "french.pgn": 39,
+  "french.pgn": 40,
   "austrian.pgn": 50,
   "pirc.pgn": 49,
   "center-counter.pgn": 83,
@@ -19,5 +19,5 @@
   "bird.pgn": 6,
   "reti.pgn": 8,
   "benko.pgn": 17,
-  "misc.pgn": 81
+  "misc.pgn": 82
 }
