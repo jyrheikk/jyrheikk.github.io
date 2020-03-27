@@ -1,0 +1,13 @@
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.03.27"]
+[Round "1"]
+[White "Siikonen, Timo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+[Mode "ICS"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Nbd7 4.Nc3 a6 5.Bxd7+ Qxd7 6.Qf3 b5 7.d6?! (7.Nge2)
+Rb8 8.dxc7 Qxc7 9.Qg3 e5?! (9...Qxg3) 10.d4 b4 11.dxe5?? (11.Nce2 Bb7) bxc3
+12.exf6 Qxg3 13.hxg3 cxb2 14.fxg7? bxa1=Q 0-1
