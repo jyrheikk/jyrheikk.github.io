@@ -1682,6 +1682,27 @@ g5 30.Bxd6 cxd6 31.Re7+ Kg6 32.Rb7 Ra5 33.Rb4 d5 34.Ke2 Kf5 35.f3 g4 36.h4 Kf6
 [Site "Helsinki FIN"]
 [Date "2020.02.09"]
 [Round "5"]
+[White "Nevalainen, Olli-Matti"]
+[Black "Kukkonen, Simo"]
+[Result "1/2-1/2"]
+[Section "III Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[BlackTeam "Itä-Helsingin Shakkikerho 3"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 e6 4.Nf3 d5 5.Bg5 Be7 6.e3 O-O 7.Qb3 c6 8.Bd3 b6 9.Bf4
+Nbd7 10.cxd5 Nxd5 11.Nxd5 exd5 12.Qc2 Bb4+ 13.Nd2 Qf6 14.h3 c5 15.dxc5 Nxc5
+16.O-O Nxd3 17.Qxd3 Bb7 18.a3 Be7 19.Qd4 Qe6 20.Nf3 h6 21.Qe5 Qd7 22.Rac1 Rac8
+23.Nd4 Rf6 24.Rxc8+ Bxc8 25.Qb8 Rf8 26.Rc1 Bc5 27.b4 Ba6 28.Qc7 Qxc7 29.Bxc7
+Bxd4 30.exd4 Rc8 31.f3 Kf7 32.Kf2 Bc4 33.Be5 g5 34.f4 b5 35.g3 Rc6 36.fxg5
+hxg5 37.h4 Kg6 38.hxg5 Kxg5 39.Bf4+ Kg6 40.Rh1 Kg7 41.Re1 Ra6 42.Re3 Kf7
+43.Kf3 Re6 44.Be5 Rh6 45.Kf4 Rh5 46.Bb8 a6 47.Re5 Kf6 48.g4 Rh3 49.Rxf5+ Kg6
+50.Rg5+ (50.Be5!) Kf7 51.Rf5+ Kg6 52.Rg5+ 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.02.09"]
+[Round "5"]
 [White "Sjövall, Tiia"]
 [Black "Miikkulainen, Jouko"]
 [Result "0-1"]
@@ -1754,8 +1775,8 @@ c5 16.Qe5 Bb7 17.Rae1 Rad8 18.Re2 Qd6 19.Nc4 Qd4+ 20.Kh1 Bd5 21.b3 Qxe5
 Qa5+ 16.Bd2 Qb6 17.Bc3 Be6 (17...e5!) 18.Qf4 Rd6 19.Be2 Bd5 20.O-O Rf6 21.Bg4+
 e6 22.Qe5 h5?? 23.Qxd5 (23.Rfc1!) hxg4 24.Qc4+ Kb8 25.d5 Rg6 26.Qe4 Rhh6
 27.Bd2 gxh3 28.Bxh6 Rxh6 (28...Rxg2+ 29.Kh1 gxh6) 29.g3 Bc5 30.Rac1 Ka7 31.Qc4
-Bd4 32.b4 exd5 33.Qxd5 Qxb4 34.Rcd1 Bb6 35.Rb1 Qc3 36.Rb3 Bxf2+ 37.Rxf2 Qe1+
-38.Rf1 h2+ 39.Kg2 Qe2+ 40.Rf2 h1=Q# 0-1
+Bd4 32.b4 exd5 33.Qxd5 Qxb4 34.Rcd1 Bb6 35.Rb1 Qc3 36.Rb3 Bxf2+?? (36...Qc2!)
+37.Rxf2?? Qe1+ 38.Rf1 h2+ 39.Kg2 Qe2+ 40.Rf2 h1=Q# 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -1782,7 +1803,7 @@ Re8 23.Bg4 b5? 24.Be6+ Kh8 25.Bf7 1-0
 [Round "7"]
 [White "Riekkinen, Keijo"]
 [Black "Kumar, Ashwin"]
-[Result "1/2"]
+[Result "1/2-1/2"]
 [Section "II Division:2"]
 [Board "5"]
 [WhiteTeam "Salon Shakkikerho 2"]
