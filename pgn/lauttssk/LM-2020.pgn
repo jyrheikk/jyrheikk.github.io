@@ -11,3 +11,17 @@
 1.e4 d5 2.exd5 Nf6 3.Bb5+ Nbd7 4.Nc3 a6 5.Bxd7+ Qxd7 6.Qf3 b5 7.d6?! (7.Nge2)
 Rb8 8.dxc7 Qxc7 9.Qg3 e5?! (9...Qxg3) 10.d4 b4 11.dxe5?? (11.Nce2 Bb7) bxc3
 12.exf6 Qxg3 13.hxg3 cxb2 14.fxg7? bxa1=Q 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.05.02"]
+[Round "1"]
+[White "Suihko, Ismo"]
+[Black "Nevalainen, Olli-Matti Nevalainen"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nf3 Be6 8.O-O Be7
+9.h3 Nbd7 10.a3 b5 11.b4 Rc8 12.Ne2 Nb6 13.Bb2 O-O 14.c3 Bc4 15.Re1 Qc7 16.Bc2
+Bxe2 17.Rxe2 Nc4 18.Bd3 Nxb2 19.Rxb2 Qxc3 20.Rc2 Qb3 21.Rxc8 Qxd1+ 22.Rxd1
+Rxc8 23.Ne1 g6 24.Nc2 Rc3 25.f3 Nh5 26.Kf2? Bh4+ 27.Ke2 Nf4+ 28.Kd2? Rxd3+
+29.Kc1 Ne2+ 0-1
