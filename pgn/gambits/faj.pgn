@@ -1864,3 +1864,17 @@ Qh3+ 22.Kg1 Bxg3) 0-1
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nd2 Bb4 5.a3 Bxd2+ 6.Bxd2 Nc6 7.Nf3 Qe7 8.e3
 Nxe5 9.Be2 d6 10.O-O O-O 11.Rc1 b6 12.Bc3 Nxc3 13.Rxc3 Bb7 14.Nxe5 Qxe5
 (14...dxe5 15.c5) 15.Bf3 Be4 1/2-1/2
+
+[Event "Lauttasaari Cup"]
+[Site "lichess.org"]
+[Date "2020.05.25"]
+[Round "?"]
+[White "Nevalainen, Olli-Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+[Mode "ICS"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Qc2 d5 5.a3 Bf5 6.Qa4+? Nc6 7.Nd2?? Nc5 8.Qd1
+Nd4 9.Ndf3 Nc2+ 10.Kd2 dxc4+ 11.Kc3 0-1
