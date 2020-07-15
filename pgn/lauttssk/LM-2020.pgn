@@ -60,6 +60,24 @@ Nd7 15.O-O-O Qc7? 16.Qc3 O-O 17.exd5 exd5 18.Rxd5 Nf6 19.Rg5 Qd6?? 20.Rd1 Qe6
 
 [Event "Lauttasaari Ch"]
 [Site "lichess.org"]
+[Date "2020.07.08"]
+[Round "2"]
+[White "Heimonen, Arto"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "1660"]
+[BlackElo "1358"]
+[Mode "ICS"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 c4 7.Qg4 g6 8.Nf3 Nd7
+9.Be2 Nb6 10.O-O Bd7 11.Bg5 f6 12.exf6 Nxf6 13.Qh4 Rf8 14.Ne5 Ba4 15.Bg4 Qe7
+16.Rfe1 O-O-O 17.Nxg6 hxg6 18.Rxe6 Qxe6 19.Bxe6+ Bd7 20.Bxf6 Rde8 21.Bxd7+
+Nxd7 22.Be5 Nxe5 23.dxe5 Rxe5 24.Qd4 Rfe8 25.f4 Re2 26.Qxa7 Rxc2 27.Qa8+ Kd7
+28.Qa4+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
 [Date "2020.07.14"]
 [Round "3"]
 [White "Nevalainen, Olli-Matti"]
