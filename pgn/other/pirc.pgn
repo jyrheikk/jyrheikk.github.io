@@ -854,3 +854,18 @@ h4+ 28.Kh2 Bf2 29.Rxb8 Bg3+ 30.Kh1 Rxb8 31.Bd1 Qd4 32.Be3 Qb2 33.Rb3 Rxb3
 34.Qxb3 Qa1 35.Kg1 Kf7 36.Kf1 Ke7 37.Ke2?? g5 38.fxg5 f4 39.Bd2?? (39.Bf2)
 Qe5+ 40.Kf1 Qd4 41.Be1 Bxe1 42.Kxe1 Qg1+ 43.Kd2 Qxg2+ 44.Kc1 Qxh3 45.Qb2 Qe3+
 46.Kb1 Qe5 47.Qg2 Bf5+ 48.Bc2 h3 49.Qf1 h2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.07.29"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Aakio, Seppo"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 d6 2.e4 c6 3.f4 Qc7 4.c4 Nd7 5.Nf3 e5 6.Nc3 Ngf6 7.Be2 Be7 8.O-O O-O
+9.dxe5 dxe5 10.f5 a5 11.Kh1 Nc5 12.Qc2 h6 13.Nxe5 Qxe5?? 14.Bf4 Qd4 15.Rad1
+Nd3 16.Rxd3 Qxc4 17.Rg3 Qc5 18.Bxh6 Ne8 19.Bxg7 Nxg7 20.f6 Bxf6 21.Rxf6 Qe5
+22.Rh6 Qf4 23.Rh5 Qxg3 24.hxg3 Nxh5 25.Bxh5 Be6 26.Qc1 Rfd8 27.Qg5+ Kf8 28.e5
+Rd4 29.Bf3 Ke8?? 30.Qg8+ 1-0
