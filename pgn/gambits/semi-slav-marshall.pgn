@@ -704,3 +704,15 @@ Be4 36.Ke3 Kf7 37.f5 1-0
 9.Qd2 O-O 10.Bxf6 gxf6 11.f3 Bf5 12.g4 Bg6 13.h4 h5? 14.gxh5 Bxh5 15.fxe4 cxd5
 16.exd5 Nd7? 17.Rh3 e4? (17...Nc5 18.Qh6 Bg4) 18.Qh6 Bg6 19.h5 Ne5 20.hxg6
 Nf3+ 21.Rxf3 fxg6 22.Qxg6+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.08.10"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[TimeControl "720+6"]
+
+1.d4 d5 2.e4 e6 3.c4 c6 4.Nc3 Bb4 5.Qg4 Qf6 6.e5 Qg6 7.Qd1 f6? 8.f4 (8.Be2) f5
+9.Be2 Qxg2?? 10.Bf3 1-0
