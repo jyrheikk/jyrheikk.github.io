@@ -869,3 +869,25 @@ Qe5+ 40.Kf1 Qd4 41.Be1 Bxe1 42.Kxe1 Qg1+ 43.Kd2 Qxg2+ 44.Kc1 Qxh3 45.Qb2 Qe3+
 Nd3 16.Rxd3 Qxc4 17.Rg3 Qc5 18.Bxh6 Ne8 19.Bxg7 Nxg7 20.f6 Bxf6 21.Rxf6 Qe5
 22.Rh6 Qf4 23.Rh5 Qxg3 24.hxg3 Nxh5 25.Bxh5 Be6 26.Qc1 Rfd8 27.Qg5+ Kf8 28.e5
 Rd4 29.Bf3 Ke8?? 30.Qg8+ 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.08.12"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Nouro, Mikael"]
+[Result "0-1"]
+[Section "M"]
+[Board "1"]
+[BlackTitle "IM"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Gambiitti"]
+[WhiteElo "2088"]
+[BlackElo "2322"]
+[TimeControl "900"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 g6 4.Bg5 c6 5.Qd2 b5 6.Bd3 Nbd7 7.f4 h6 8.Bh4 e5 9.fxe5
+dxe5 10.d5 (10.Nf3) b4 11.dxc6 bxc3 12.cxd7+? (12. Qxc3) Nxd7 13.Qf2 cxb2
+14.Rb1 Qa5+ 15.Ke2 Qxa2 16.Nf3 a5 17.Rhd1 Ba6? 18.Bxa6 Rxa6 19.Rxd7 (19.Nxe5!)
+Kxd7 20.Nxe5+ Kc8 21.Qd4 Ba3? 22.Qd7+ Kb8 23.Qb5+ Kc7 24.Qxa6 Qe6 25.Qxa5+ Kc8
+26.Qa8+ Kc7 27.Qxh8 (27.Qxa3) {no more moves recorded} 0-1
