@@ -1461,3 +1461,16 @@ Nf6 29.Ke2 Nd5 30.Kd3 Be5 31.Nd4? Rd8 32.Kc4 Bxg3 33.fxg3 Ne3+ 34.Kc3 Nxd1+
 24.c5 Qg3 25.Qc3 (25.Ra3!) Bxh3 26.Bf1 h4 27.a6?? Bxg2 28.axb7+ Kb8 29.Bxg2 h3
 30.Qc2 hxg2 31.Qxg2 Qf4 32.Rdd3 g4 33.fxg4 Rxg4 34.Rg3 Qxd4+ 35.Qf2 (35.Kf1
 Qd1+ 36.Kf2 Rd8!) (35.Rbe3 Rhg8) Rxg3+ 36.Rxg3 Qd1+ 37.Qf1 Rh1+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.08.12"]
+[Round "?"]
+[White "Tuovinen, Jukka"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Qd3 Nxd5 5.Qb5+ Nc6 6.Qxb7 Ndb4 7.Bb5 Bd7 8.d5
+Rb8 9.dxc6 Nxc6?? (9...Bg4) 10.Qa6 (10.Qxc6!) Nb4 11.Bxd7+ Qxd7 12.Qe2 {no
+more moves recorded} 1-0
