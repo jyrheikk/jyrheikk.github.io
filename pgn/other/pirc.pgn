@@ -887,7 +887,25 @@ Rd4 29.Bf3 Ke8?? 30.Qg8+ 1-0
 [TimeControl "900"]
 
 1.d4 Nf6 2.Nc3 d6 3.e4 g6 4.Bg5 c6 5.Qd2 b5 6.Bd3 Nbd7 7.f4 h6 8.Bh4 e5 9.fxe5
-dxe5 10.d5 (10.Nf3) b4 11.dxc6 bxc3 12.cxd7+? (12. Qxc3) Nxd7 13.Qf2 cxb2
+dxe5 10.d5 (10.Nf3) b4 11.dxc6 bxc3 12.cxd7+? (12.Qxc3) Nxd7 13.Qf2 cxb2
 14.Rb1 Qa5+ 15.Ke2 Qxa2 16.Nf3 a5 17.Rhd1 Ba6? 18.Bxa6 Rxa6 19.Rxd7 (19.Nxe5!)
 Kxd7 20.Nxe5+ Kc8 21.Qd4 Ba3? 22.Qd7+ Kb8 23.Qb5+ Kc7 24.Qxa6 Qe6 25.Qxa5+ Kc8
 26.Qa8+ Kc7 27.Qxh8 (27.Qxa3) {no more moves recorded} 0-1
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.08.12"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Ruotanen, Helge"]
+[Result "1/2-1/2"]
+[Section "M"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[TimeControl "900"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Bg5 Nc6 5.d5 Nd4 6.Qd2 c5 7.Nd1 Bd7 8.c3 Nb5 9.f4
+h6 10.Bh4 Nf6 11.e5 dxe5 12.fxe5 Ne4 13.Qe3 g5? 14.Qxe4 gxh4 15.e6 Nd6
+16.exd7+ Qxd7 17.Qe3 O-O-O 18.Nf3 Qf5 19.Bd3 Qxd5 20.O-O {no more moves
+recorded} 1/2-1/2
