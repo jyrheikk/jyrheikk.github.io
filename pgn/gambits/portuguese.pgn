@@ -1474,3 +1474,16 @@ Qd1+ 36.Kf2 Rd8!) (35.Rbe3 Rhg8) Rxg3+ 36.Rxg3 Qd1+ 37.Qf1 Rh1+ 0-1
 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Qd3 Nxd5 5.Qb5+ Nc6 6.Qxb7 Ndb4 7.Bb5 Bd7 8.d5
 Rb8 9.dxc6 Nxc6?? (9...Bg4) 10.Qa6 (10.Qxc6!) Nb4 11.Bxd7+ Qxd7 12.Qe2 {no
 more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.09.07"]
+[Round "?"]
+[White "Tuovinen, Jukka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Qd3 Nxd5 5.Nc3? Nb4 6.Qb5+ N8c6 7.Qa4 a6 8.a3 b5
+9.Bxb5 axb5 10.Qxb5 Nxc2+ 11.Kf1 Nxd4 0-1
