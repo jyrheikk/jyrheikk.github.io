@@ -120,7 +120,7 @@ Bf4 44.Bg2 Kg6 45.Be4+ Kg7 46.d4 cxd4 47.Kxd4 h6 48.c5 dxc5+ 49.Kxc5 Kf6
 [Result "1-0"]
 [TimeControl "3000+30"]
 [Variant "Chess960"]
-[FEN "rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN w GAga - 0 1"]
+[FEN "rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN w KQkq - 0 1"]
 [TimeControl "3000+30"]
 
 1.c4 e6 2.d4 Nhg6 3.e4 d6 4.Qd3 c6 5.Nfg3 Ba5+ 6.Bd2 Bxd2+ 7.Qxd2 Qc7 8.O-O
