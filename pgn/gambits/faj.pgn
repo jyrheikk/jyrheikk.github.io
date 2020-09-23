@@ -141,7 +141,7 @@ Be7 9.Bxe7 Qxe7 10.exd6 Qf6 11.Qd5 Nxd6 12.Nfd2 Qxb2 13.c5 Qc1# 0-1
 12.Nc3 g4 13.Ng5 Bh6 14.h4 gxh3 15.f4 Bxc4 (15...Bxg5 16.fxg5 Qe5 {-+})
 16.Qe3+ Ne7 17.Rc1 d5 18.Rxh3 d4? (18...Kd7!? 19.Nce4 dxe4 20.Rxc4 {+=})
 19.Nce4 Qg7 20.Qf3 Bd5 21.Qh5+ Qg6 22.Nf6+ Kd8 23.Nxd5 Nxd5 24.Nf7+
-Ke8 25.Nxh8 Qxh5 26.Rxh5 Bxf4 1-0 {no more moves recorded}
+Ke8 25.Nxh8 Qxh5 26.Rxh5 Bxf4 {no more moves recorded} 1-0
 
 [Event "Golders Green Rapidplay"]
 [Site "London GB"]
@@ -1878,3 +1878,18 @@ Nxe5 9.Be2 d6 10.O-O O-O 11.Rc1 b6 12.Bc3 Nxc3 13.Rxc3 Bb7 14.Nxe5 Qxe5
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Qc2 d5 5.a3 Bf5 6.Qa4+? Nc6 7.Nd2?? Nc5 8.Qd1
 Nd4 9.Ndf3 Nc2+ 10.Kd2 dxc4+ 11.Kc3 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.09.23"]
+[Round "4"]
+[White "Lallukka, Taneli"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.Nbd2 Nc5 6.Nb3 Ne4 7.g3 d6 8.Bf4 g5
+9.Qd3 Bf5 (9...Nxf2!) 10.Bxg5 Be7 11.Bxe7 Qxe7 12.exd6 Nxd6 13.Qc3 O-O-O
+14.O-O-O?? Ne4 15.Rxd8+ Rxd8 16.Qe3 Nb4 (16...Nxf2! 17.Qxf2 Qe4) 17.Nfd4 Bg6
+(17...Nxa2+! 18.Kb1 Nb4) 18.Bh3+ Kb8 19.a3 c5 (19...Na2+! 20.Kd1 c5) 20.Nb5
+Na2+ 21.Kb1 Nec3+?? (21...Nxf2+ {-+}) 22.Ka1 {no more moves recorded} 1-0
