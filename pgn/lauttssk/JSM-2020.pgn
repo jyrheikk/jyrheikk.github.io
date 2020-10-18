@@ -82,3 +82,24 @@ Bxf6 28.Bxf6 exf6 29.Qd1 Kg7 30.c3 Qb6 31.Qa1 Bc4 32.Be2 a5 33.Bxc4 Rxc4
 40.Kg1 Qxd4 41.b3 Qc3 42.Qb1 Qb4 43.Qd1 h5 44.g3 Qe4 45.Qa1 Qe5 46.Qd1 f5
 47.Kg2 Kh6 48.Qd2+ Kh7 49.f4 Qe6 50.Qxa5 Qxb3 51.Qd2 Qc4 52.h4 Qe4+ 53.Kh2
 Qb7 54.Qd4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.10.18"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Yrjölä, Jouni"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[WhiteElo "2088"]
+[BlackElo "2295"]
+[BlackTitle "GM"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 e5 4.Nf3 Nbd7 5.Be3 Be7 6.h3 O-O 7.Qd2 c6 8.g4
+b5 9.g5 Ne8 10.O-O-O Qc7 11.Ne2 Nb6 12.Ng3 g6 13.Nh2 Be6 14.f4 exf4
+15.Bxf4 a5 16.Kb1 Qb7 17.h4 (17.Ng4) Nc4 18.Qg2 d5 19.e5? (19.h5) b4
+20.h5 a4 21.b3? axb3 22.cxb3 Nc7 23.Nf3 Nb5 24.Rc1 Nc3+ 25.Rxc3 bxc3
+26.Ne2 Rxa2 (26...Qxb3+!) 0-1
