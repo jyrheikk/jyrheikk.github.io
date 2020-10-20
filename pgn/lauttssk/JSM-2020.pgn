@@ -124,3 +124,92 @@ Nbc6 10.g4 a5 11.g5 h5 12.gxh6 Bxh6 13.Ng4 Bg7 14.h4 Qc7 15.Rb1 O-O-O 16.c3 e5
 31.Nxe4 Nxe4 32.Bxe4 Bh3 33.Qd2 Bxf1 34.Rxf1 Nf5 35.Kg2 Bf6 36.d6 Nxd6 37.Bxg6
 Rd8 38.Be3 Qc6+ 39.Kh2 Nc4 40.Qe2 Nxe3 41.Qxe3 Bxh4 42.Bh5 Kb8 43.Be2 Rxf2+
 44.Rxf2 Bxf2 45.Qxf2 Qh6+ 46.Kg3 Qg5+ 47.Bg4 Rd3+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.10.18"]
+[Round "3"]
+[White "Nurk, Ivo"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Section "II Division:1"]
+[Board "1"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nge2 c6 7.O-O Re8 8.b3
+Nbd7 9.Bb2 b6 10.Ng3 Bd6 11.e4 dxe4 12.Ncxe4 Be7 13.Qe2 Bb7 14.Rfd1 Qc7
+15.Rac1 h6 16.Bb1 Rad8 17.Qc2 Nf8 18.Nxf6+ Bxf6 19.Ne4 Qe7 20.Nxf6+ Qxf6
+21.Re1 Qg6 22.Qe2 Qg5 23.Rc3 Qe7 24.Rg3 Kh8 25.Qg4 f6 26.h4 Qf7 27.Qf4
+Rd7 28.Rge3 Rde7 29.Ba3 Rd7 30.Bxf8 Qxf8 31.Rxe6 Rxe6 32.Rxe6 Qg8 33.Qf5
+Bc8 34.Re8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.10.18"]
+[Round "3"]
+[White "Henttonen, Tero"]
+[Black "Syvälahti, Heikki"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Karjaan Ura"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 c6 5.Bf4 Nf6 6.Bc4 Bf5 7.Nge2 e6 8.Qd2
+Bb4 9.a3 Ne4 10.Qe3 Nxc3 11.Nxc3 Be7 12.O-O-O Nd7 13.f3 Nb6 14.Bb3 Qd7
+15.g4 Bg6 16.Be5 Rg8 17.Ne4 O-O-O 18.Nc5 Bxc5 19.dxc5 Nd5 20.Qe1 Qe7
+21.Bd6 Qg5+ 22.Kb1 b6 23.h4 Qe3 24.Qxe3 Nxe3 25.Rde1 Ng2 26.Rxe6 fxe6
+27.Bxe6+ Kb7 28.Bxg8 Rxg8 29.h5 Be8 30.Rh2 Ne3 31.b3 Nd5 32.c4 Nf6 33.Re2
+Nd7 34.Re7 Ka6 35.cxb6 axb6 36.b4 h6 37.Kc2 Kb7 38.Kd2 Kc8 39.Ke3 Kd8
+40.f4 g6 41.Rh7 gxh5 42.Be7+ Kc7 43.gxh5 Bxh5 44.Rxh6 Re8 45.Re6 Bf7
+46.Bd6+ Kd8 47.Rxe8+ Kxe8 48.Kd4 Be6 49.a4 Kd8 50.a5 bxa5 51.bxa5 Kc8
+52.a6 Bf7 53.f5 Bg8 54.f6 Bf7 55.Be5 Nb6 56.c5 (56.Kc5 {=}) Nd7 57.Bd6
+Nxf6 58.Ke5 Ne8 59.Kd4 Bh5 60.Bg3 Be2 61.a7 Kb7 62.Bb8 Bf3 63.Ke5 Bd5
+64.Kf5 Ng7+ 65.Ke5 Ne6 66.Kd6 Ka8 67.Kd7 Nxc5+ 68.Kc7 Na6+ 69.Kb6 Nxb8
+70.axb8=Q+ Kxb8 71.Kc5 Kc7 72.Kd4 Kd6 73.Kc3 c5 74.Kd2 Ke5 75.Kc3 Ke4
+76.Kc2 Kd4 77.Kd2 Kc4 78.Kc2 Be4+ 79.Kd2 Kb3 80.Kc1 c4 81.Kd1 Kb2 82.Kd2
+c3+ 83.Ke3 c2 84.Kxe4 c1=Q 85.Kd4 Qc3+ 86.Kd5 Kb3 87.Ke4 Kc4 88.Kf5 Kd5
+89.Kf4 Qd3 90.Kg5 Qf3 91.Kg6 Ke6 92.Kg5 Qf5+ 93.Kh4 Qg6 94.Kh3 Kf5 95.Kh2
+Kf4 96.Kh1 Kf3 97.Kh2 Qg2# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.10.18"]
+[Round "3"]
+[White "Titovets, Sergei"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[Section "II Division:1"]
+[Board "3"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.b4 e6 2.Bb2 Nf6 3.a3 d5 4.g3 b6 5.Bg2 Bb7 6.d3 Nbd7 7.Nd2 Be7 8.e4
+dxe4 9.dxe4 O-O 10.Ne2 c5 11.b5 Qc7 12.O-O Rfd8 13.Nc3 Rab8 14.Qe2 h6
+15.f4 Nf8 16.Nc4 Ne8 17.Rae1 Nd6 18.Ne3 Ne8 19.Bh3 Ra8 20.e5 a6 21.a4
+axb5 22.axb5 f6? 23.Nc4 Bd5 24.Nxd5 exd5 25.Ne3 d4 26.Nf5 fxe5 27.fxe5
+Ne6?? 28.Qc4 Qd7 29.Nxe7+ Qxe7 30.Bxe6+ Kh8 31.Rf7 Qg5 32.Rf8+ Kh7
+33.Bf5+ g6 34.Qg8# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.10.18"]
+[Round "3"]
+[White "Valli, Kari"]
+[Black "Wikman, Jimmy"]
+[Result "0-1"]
+[Section "II Division:1"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Karjaan Ura"]
+
+1.d4 d5 2.Bf4 e6 3.Nf3 c5 4.e3 Qb6 5.Na3 c4 6.Qc1 Bxa3 7.bxa3 Nf6 8.c3
+O-O 9.Be2 Nbd7 10.Ne5 Ne4 11.f3 Nd6 12.Nxd7 Bxd7 13.Bxd6 Qxd6 14.O-O e5
+15.Qb2 exd4 16.exd4 b6 17.Rfe1 Rfe8 18.Bf1 Qf4 19.Qf2 f6 20.g3 Qd6 21.
+Qb2 Kf7 22.Bg2 Rxe1+ 23.Rxe1 Re8 24.Rxe8 Bxe8 25.Kf2 g5 26.Bh3 Bd7 27.Qc2
+Kg7 28.Bf5 Bxf5 29.Qxf5 Qxa3 30.Qd7+ Kh6 31.g4 Qxc3 32.Qxd5 Qd2+ 33.Kg3
+c3 34.Qd8 (34.Qf7) Qe1+ 35.Kg2 Qe6 36.d5 Qf7 37.d6 c2 38.Qe7 Kg7 39.Qe3
+Qxa2 40.Qe7+ Qf7 41.Qe3 Qd7 42.Qd2 c1=Q 43.Qxc1 Qxd6 44.Qc8 Qe7 45.Qc4
+Qb7 46.Qb5 a6 47.Qf5 h6 48.h4 gxh4 49.Qh5 b5 50.Qxh4 b4 51.Qf2 a5 52.Kg3
+b3 53.Qb2 a4 54.f4 a3 0-1
