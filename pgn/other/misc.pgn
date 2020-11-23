@@ -1403,3 +1403,22 @@ b5 9.g5 Ne8 10.O-O-O Qc7 11.Ne2 Nb6 12.Ng3 g6 13.Nh2 Be6 14.f4 exf4
 9.O-O a5 10.Be3 Bxe3 11.fxe3 Qb6 12.d4 Qxb2?! 13.Rb1? Qa3 14.dxe5 Ng4 15.Qd4
 Qe7 16.Rfd1 Qxe5 17.Qxe5 Nxe5 18.h3 Na6 19.e4 Nb4 20.Rb2? Nc4 21.Rbb1 Nxc2
 22.exf5 N2e3 23.Rdc1 Nxg2 24.Kxg2 Ne3+ 25.Kh2 Rxf5 26.g4 Rf8 27.Na4? 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "lichess.org"]
+[Date "2020.11.23"]
+[Round "?"]
+[White "Suominen, Antti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+[Mode "ICS"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Be7 4.Nc3 c6 5.d4 exd4 6.Qxd4 Qb6 7.Qd3 Na6 8.Nf3 O-O
+9.O-O Nb4 10.Qd1 a5 11.a3 Na6 12.Be3 Qd8 13.Ne1 d6 14.Na4 Be6 15.Qc2 Nd7
+16.Nd3 b5 17.cxb5 cxb5 18.Bxa8 Qxa8 19.Nb6 Qb7 20.Nxd7 Bxd7 21.Rfc1 Rc8 22.Qd2
+Nc5 23.Bxc5 dxc5 24.Qxa5 c4 25.Nf4 Bg4 26.f3 g5 27.fxg4?? gxf4 (27...Bc5+)
+28.Kf2 Bc5+ 29.Ke1 Ra8 30.Qc3 Qh1+ 31.Kd2 Be3+ 32.Kc2 Qe4+ 33.Kd1 Rd8+ 34.Ke1
+Qh1# 0-1
