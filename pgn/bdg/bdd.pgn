@@ -59,6 +59,18 @@ Re2 29.Rg1 Qd2 30.Qg3 Rd8 31.h4 (31.h4 f4 32.Qh3 Rxd6 33.h5 Qxa2!? 34.h6+ Kf8
 9.Rd1 Bd7 10.Qb3 Qc7 11.d6 Qb6?? 12.Bxb6 1-0
 
 [Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.03.11"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Puusa, Arto"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.c4 c5 4.d5 e6 5.Nc3 Nf6 6.f3 exd5 7.cxd5 Bf5 8.fxe4 Nxe4
+9.Nxe4 Bxe4 10.Qa4+ Nc6 11.Qxe4+ Ne7?? 12.Bb5+ 1-0
+
+[Event "Casual Game"]
 [Site "Internet Gaming Zone"]
 [Date "1996.05.09"]
 [Round "-"]
