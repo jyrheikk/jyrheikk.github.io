@@ -1,0 +1,137 @@
+[Event "Casual Game"]
+[Site "Jyväskylä FIN"]
+[Date "1985.??.??"]
+[Round "-"]
+[White "Haapala, Jari"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nf6 3.d3 Nc6 4.c3 d5 5.exd5 Nxd5 6.Be2 Bg4? 7.h3 Bh5 8.O-O Qf6
+9.Bg5 Qe6 10.Nbd2 h6 11.Bh4 g5 12.Bg3 O-O-O 13.c4 Nf4 14.Bxf4 gxf4 15.Ne4 f5
+16.Ned2 Rg8 17.Kh1 Rg7 18.b4?! Bxb4 19.Rb1 e4 20.Ne1 f3! 21.gxf3 Qg6! 22.fxe4
+Bxe2 23.Qxe2 Nd4 24.Qe3 Bxd2 25.Qxd2 Nf3! 26.Qf4 Nxe1 27.Qg3 Rxd3! 28.Qxg6
+Rxh3+ 29.Kg1 Rxg6# 0-1
+
+[Event "Casual Game"]
+[Site "Jyväskylä FIN"]
+[Date "1985.??.??"]
+[Round "-"]
+[White "Kuru, Lauri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.Qe2 d6 6.d4 fxe4 7.Qxe4 Bb6? 8.Bxc6+
+bxc6 9.Qxc6+ Bd7 10.Qe4 Nf6 11.Qe2 e4 12.Ng5 d5 13.O-O O-O 14.c4 c6 15.c5 Bc7
+16.f3 exf3 17.Nxf3 Bg4 18.Bg5 Re8 19.Qd3 Re6 20.Nbd2 Qe8 21.Bxf6 Rxf6 22.Rae1
+Qh5 23.Re7 Bb8 24.Rfe1 Bf4 25.Rb7 Rh6! 26.Ree7 Bxh2+ 27.Kf1 Bg3! 28.Rxg7+ Kh8
+29.Ng1 Qh4 30.Ndf3 Re8!! 31.Ne5 Rf6+ 32.Ngf3 Qh1+ 33.Ke2 Qxg2+? (33...Qe1#)
+34.Kd1 Bxf3+ 35.Nxf3 Qxf3+ 36.Qxf3 Rxf3 37.Rxh7+ Kg8 38.Rh1?? Rd3+ 39.Kc2 Rxd4
+40.Rg1 Rg4 41.Rb3 Re2+ 42.Kd1 Rd2+! 43.Kc1 Rd3! 44.Kc2 Rxb3 45.Kxb3 Kf7 0-1
+
+[Event "Kalakukko Tournament"]
+[Site "Kuopio FIN"]
+[Date "1986.04.26"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Uusitalo, Pekka"]
+[Result "1-0"]
+[WhiteElo "1528"]
+[BlackElo "1683"]
+[TimeControl "40/5400:900"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.Bxf7+ Kf8? 8.Bb3
+Ngxe5 9.Bg5 Be7 10.Nxe5 Nxe5 11.Qxd4!? Nf3+ 12.gxf3 Bxg5 13.Re1! d6 14.Nc3 Qf6
+15.Qe4 Qe7 16.Qd5 c6 17.Rxe7! cxd5 18.Re2 d4 19.Nb5 Bf4 20.Nc7 Rb8 21.Re8# 1-0
+
+[Event "Finland School Team Ch"]
+[Site "Kuopio FIN"]
+[Date "1986.05.03"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Zetterman, Tommi"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Jyväskylän Lyseon lukio"]
+[BlackTeam "?"]
+[TimeControl "40/4800:600"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Qe7 4.Nf3 Nxe4 5.Be2 d5 6.O-O g6 7.Re1 c6 8.Nc3 Nxc3
+9.dxc3 Bg7 10.c4 O-O 11.cxd5 cxd5 12.Bc4 Qc7 13.Bxd5 Bf5 14.c3 Nc6 15.Bg5 Bg4
+16.h3 Bxf3 17.Qxf3 Ne5 18.Qg3 Rac8 19.Bf4 Rfe8 20.Re3 b6? 21.Rae1 Qc5 22.Bb3
+Kf8 23.Bxe5 Bxe5 24.Rxe5 Rxe5 25.Rxe5 Qc7 26.Qf4 Kg7 27.Qd4 f6 28.Rd5 Qc6
+29.Rd6 Qa8 30.Qxf6+ Kh6 31.Qh4+ Kg7 32.Rd7+ Kf8 33.Qf6+ 1-0
+
+[Event "Finland School Team Ch"]
+[Site "Kuopio FIN"]
+[Date "1986.05.04"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Ekonsalo, Tommi"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Jyväskylän Lyseon lukio"]
+[BlackTeam "?"]
+[TimeControl "40/4800:600"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Nh5?? 7.Ng5 O-O 8.Qxh5 h6
+9.Nxf7 Qe7 10.Nxh6+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2004.04.14"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "0-1"]
+[Stage "Final"]
+[TimeControl "900"]
+
+1.e4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.e5 Qe7
+9.O-O Nd7 10.Bf4 O-O 11.Qh5 g6 12.Qh6 Re8 13.Rae1 Nc5 14.Bg5 Qf8 15.Qh4 Nxd3
+16.cxd3 Be7 17.Bf6 Ba6 18.f4 Bxf6 19.Qxf6 Bxd3 20.Rf3 Re6 21.Qh4 Bc2 22.Re2
+Be4 23.Rh3 Qc5+ 24.Kf1 h5 25.g4 Kg7 26.gxh5 (26.Qg5!) Rh8 27.Qg5 Bf5 28.h6+
+Kh7 29.Rh4 Bd3 30.f5 Bxe2+ 31.Nxe2 Qe7 32.fxg6+ fxg6 33.Qg4 Rxe5 34.Nf4 Qf6
+35.Qd7+ Re7 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2011.05.11"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Homenko, Jelena"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d5 4.exd5 Nxd5 5.d4 Bd6 6.f4 O-O 7.Bc4 Be6 8.O-O Nd7
+(8...Nxf4!) 9.f5 Nxe5 10.dxe5 Nb6 11.Bd3 Bc5+ 12.Kh1 Bc4 13.f6 Bxd3 14.cxd3
+Nd7 (14...g6) 15.Qg4 g6 16.Qg5 (16.d4!) Bd4 17.Re1? (17.Qh6 Nxf6) c5?
+(17...Re8 {-/+}) 18.Re4 Qa5? (18...Nxf6 19.exf6 Bxf6 20.Qh6 Qb6 21.Nc3 Rfd8
+22.Re2 Rxd3 23.Bg5 Bxc3 24.bxc3 Rxc3? 25.Rae1 Qc6 26.Bf6! Qxf6 27.Re8+ Rxe8
+28.Rxe8#) 19.Bd2 Qb5 20.Rxd4 cxd4 21.Qh6 Nxf6 22.exf6 1-0
+
+[Event "Thematic Philidor Defence Tournament"]
+[Site "Helsinki FIN"]
+[Date "2017.01.25"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Hämäläinen, Leo"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.Bc4 h6 5.dxe5 Bxf3? 6.Qxf3 Qe7 7.exd6 cxd6 8.O-O
+Nf6 9.Nc3 Nc6 10.Nd5 Qd7 11.Nxf6+ gxf6 12.Qxf6 Rg8 13.e5 dxe5 14.Be3 Bg7
+15.Qh4 Ne7 16.Rad1 Qc6 17.Bb3 Bf6 18.Qh3 Nf5 19.Bd5 Qxc2 20.Bxb7 Rd8 21.Rc1
+Qxb2 22.Bc6+ Ke7 23.Qxf5 Rxg2+ 24.Kxg2 Rg8+ 25.Kh1 Rd8 26.Bc5+ 1-0
+
+[Event "Thematic Philidor Defence Tournament"]
+[Site "Helsinki FIN"]
+[Date "2017.01.25"]
+[Round "2"]
+[White "Kaiju, Kauko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600+5"]
+
+1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.c4 c6 7.Be2 Bf5 8.Nc3 Be7 9.h4
+h6 10.Nh3 d4 11.Nb1? (11.Bg4) Qa5+ 12.Bd2 Qxe5 13.Qb3 Qc7 14.Bf4 Qb6 15.Nd2
+Nd7 16.g4 Bh7 17.Qxb6 axb6 18.Bg3 g5 19.hxg5 hxg5 20.a3 Bg6 21.O-O-O e3
+22.Nf3?? (22.Nb3) Rxa3 23.Bd3 Rxd3 24.Nhxg5 Rc3+ 25.bxc3 Ba3# 0-1
