@@ -672,6 +672,20 @@ Qe7+ 9.Kf2 O-O 10.Re1 Qd8 11.Ne4 Nc6 12.c3 Bg4 13.Bc2 f5 14.Ng3 Qf6 15.Qd3 g6
 (21...Re4) 22.Rae1 Kg7 23.Qf3 Qg5 24.Nf4 Rxe1 25.Rxe1 h4 26.Ne2 Rh8 27.Rg1
 hxg3+ 28.Nxg3 Qd2+ 29.Kf1 Qxc2 30.Nxf5+ Kg8 31.Ne3 Qd3+ 32.Ke1 Rh2 0-1
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2013.07.10"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Paukku, Jukka"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6 5.fxe4 c5 6.d5 exd5 7.exd5 Bd6 8.Nf3 O-O
+9.Be2 Bg4 10.O-O Nbd7 11.Bg5 h6 12.Ne4 Qc7 13.Bxf6 Bxf3? 14.Rxf3 Bxh2+? 15.Kh1
+Nxf6 16.d6 (16.Nxf6+ gxf6 17.g3 {+-}) Qd8 17.Nxf6+ gxf6 18.Kxh2 {no more moves
+recorded} 1-0
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2013.10.23"]
