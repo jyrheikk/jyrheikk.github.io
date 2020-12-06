@@ -1,0 +1,350 @@
+[Event "Teboil Tournament"]
+[Site "Helsinki FIN"]
+[Date "1991.08.11"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Haavisto, Lauri"]
+[Result "1/2-1/2"]
+[WhiteElo "1931"]
+[BlackElo "1735"]
+[TimeControl "40/5400:1800"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 exf3 6.Nxf3 Nf6 7.Bd3 Nc6 8.Bc2 Bb4
+9.O-O Bxc3 10.bxc3 O-O 11.Bf4 (11.Ba3) Ne7 12.Ne5 c5 13.Qd2 Qa5 14.Qe3 cxd4
+15.cxd4 b5 16.Qf3 Ba6 17.Nc6 Nxc6 18.Qxc6 Qb6 19.Qxb6 axb6 (19...axb6 20.cxb5
+Bxb5 21.Rfb1 {=}) 1/2-1/2
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "1995.01.16"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Sjöberg, Mikael"]
+[Result "1-0"]
+[WhiteTeam "ICL"]
+[BlackTeam "Sanoma"]
+[TimeControl "900"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 exf3 6.Nxf3 Nf6 7.Bf4 Bb4 8.Qa4+ Nc6
+9.a3 Bxc3+ 10.bxc3 O-O 11.Rd1 Ne4 12.Qc2 g5 13.Be3 g4 14.Nd2 Qh4+?! 15.g3 Nxg3
+16.Bf2 f4 17.Bg2 f3 18.Bf1? (18.hxg3 Qe7 19.Bf1 e5 20.d5 Bf5 21.Ne4) Qh6
+19.Rg1 Nxf1 20.Kxf1 (20.Rxg4+ Kh8 21.Nxf1 e5 22.Rh4 Qg7) e5 {no more moves
+recorded} 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.02.19"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Pietilä, Jari"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 e6 2.c4 d5 3.e4 dxe4 4.Nc3 f5 5.f3 Nf6 6.Be3 Bb4 7.Qb3 Bxc3+ 8.Qxc3 O-O
+9.O-O-O Qe7 10.h4 Nbd7 11.h5 e5 12.h6 g6 13.Bg5 exd4 14.Rxd4 Ne5 15.Nh3 c5
+16.Rd5! Nxd5 17.cxd5 Qd6 18.f4 Re8 19.fxe5 Qxe5 20.Qb3 Qd6 21.Bb5 Bd7
+(21...Rf8 22.Qc3 Qc7 (22...Rf7 23.Be8) 23.Bf4) 22.Qc3 Qe5 (22...Re7 23.Bf4 Qb6
+24.d6) 23.Bxd7 Qxc3+ 24.bxc3 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.02.19"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Pietilä, Jari"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 e6 2.c4 d5 3.e4 dxe4 4.Nc3 e5 5.d5 f5 6.f3 Bc5 7.fxe4 Bxg1 8.Rxg1 fxe4
+9.Qh5+ Kf8 10.Nxe4 Nf6 11.Qh4 Bf5 12.Ng3 Bg6 13.Bg5 Nbd7 14.O-O-O h6 15.Bd3
+Bxd3 16.Rxd3 Kg8 17.Bxf6 Nxf6 18.Nf5 Qd7 19.Rf1 Kh7 20.Rg3 Rhg8 21.Nxg7 Rxg7
+22.Rxf6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.02.19"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Pietilä, Jari"]
+[Result "1-0"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+
+1.d4 e6 2.c4 d5 3.e4 dxe4 4.Nc3 e5 5.d5 f5 6.f3 Bc5 7.fxe4 Bxg1 8.Rxg1 Qh4+
+9.g3 Qxh2 10.Rg2 Qh1 11.Nb5 Na6 12.d6 Nf6 13.dxc7 O-O 14.Be3 Ng4 15.Qd5+ Kh8
+16.Bc5 Nxc5 17.Qxc5 Bd7 18.O-O-O Bxb5 19.cxb5 fxe4 (19...Qh6+ 20.Kb1 Qe3
+21.Qxf8+ {+-}) 20.Qxf8+! (20.Rgd2) Rxf8 21.Rgd2 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.02.19"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Pietilä, Jari"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 e6 2.c4 d5 3.e4 dxe4 4.Nc3 e5 5.d5 f5 6.f3 Bc5 7.fxe4 Bxg1 8.Rxg1 Qh4+
+9.g3 Qxh2 10.Be3 Nf6 11.Bc5 Na6 12.Rg2 Qh1 13.Ba3 fxe4 14.Qa4+ Bd7 15.Nb5 Qh6
+16.d6 c6 17.Nc7+ Nxc7 18.dxc7 Qe3+ 19.Be2 Qb6 20.Qb4 Qxc7?? 21.Qe7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1996.03.22"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Chessmaster 3000"]
+[Result "1-0"]
+[BlackType "program"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 Bb4 6.Be3 Nf6 7.Qb3 Nc6 8.O-O-O Bd7?
+9.d5 exd5 10.Nxd5 (10.cxd5 Bxc3 11.dxc6 Bxb2+ 12.Qxb2 bxc6 13.Bc5 {+-}) a5
+11.Nxb4 Nxb4 (11...axb4 12.Bc5 b6 13.Bxb4 Nxb4 14.Qxb4 Rxa2 {=/+}) 12.Bc5 b5
+(12...Na6 (12...b6 13.Bxb4 axb4 {=/+}) 13.Ba3 c5! 14.Qxb7 Nb4) 13.cxb5
+(13.Bxb4 axb4 14.cxb5 Qe7 15.Bc4) Rb8 14.Bc4 Qc8 15.a3 (15.Bf7+ Kd8 16.Qe6 Qb7
+17.Be7+ Kc8 18.Bxf6!? Nd3+ 19.Rxd3 exd3 20.Be7 Qxb5 21.Qb3 d2+! 22.Kxd2 Qf1
+{-+}) Na6 (15...Nd3+? 16.Bxd3 exd3 17.Re1+) 16.Bf7+ Kd8 17.Bd4 c6 18.b6 Ke7
+19.Be5 a4 20.Bd6+ Kd8 21.Qe3 Qb7 (21...h6!) 22.Bxb8 Nxb8 23.Qg5 Kc8 24.Qxg7
+Rd8 25.Qxf6 Qxb6 1-0
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.06.03"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "lynx"]
+[Result "1-0"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+[Mode "ICS"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 f5 5.f3 exf3 6.Nxf3 Nf6 7.Bd3 Bb4 8.Qa4+ Nc6
+9.a3 Bxc3+ 10.bxc3 Bd7 11.Qc2 O-O 12.O-O Ne7 13.Bg5 h6 14.Bh4 Ng6 15.Bg3 Nh5
+16.Be5 Nxe5 17.Nxe5 Be8 18.g4 Qg5 19.Rae1 Nf4 20.h4 Nh3+ 21.Kg2 Qxh4 22.gxf5
+(22.Re3! {wins the knight}) Nf4+ 23.Rxf4 Qxf4 24.fxe6 Bh5 25.Bh7+ Kh8 26.Ng6+
+Bxg6 27.Bxg6 Qf3+ 28.Kg1 Rf4 (28...Qg3+) 29.Qg2 (29.Re2) Rg4 30.Qxg4 Qxg4+
+31.Kf2 Qxg6 32.Ke3 {moral victory for Black} 1-0
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.06.03"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "lynx"]
+[Result "1-0"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+[Mode "ICS"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 f5 5.Be2 Nf6 6.Be3 Bb4 7.g4 O-O 8.g5 Bxc3+
+9.bxc3 Ne8 10.h4? (10.Bf4) f4 11.Bc1 f3 12.Bf1 Nd6 13.Ba3 Nd7 14.Bh3 Nf5
+15.Qd2 Re8 (15...e3? 16.fxe3 f2+ 17.Qxf2) 16.O-O-O c6 17.h5 Nb6 18.Bf1 e5
+19.d5 cxd5 20.cxd5 Bd7 21.Nh3 Ba4 22.Re1 Qxd5 23.Qxd5 Nxd5 24.Bc4 Rad8 25.Rxe4
+Kh8 26.Bxd5 Rxd5 27.Rxa4 Rc8 28.Bb4 Rb5 29.Rd1 g6 30.h6 Kg8 31.Rd7 1-0
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.07.01"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "ricky29"]
+[Result "1-0"]
+[TimeControl "300"]
+[Mode "ICS"]
+
+1.d4 c6 2.e4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 Nf6 6.Bf4 e6 7.Qd2 c5 8.d5 exd5 9.cxd5
+Bd7 10.O-O-O a6 11.g4 b5 12.gxf5 Bxf5 13.fxe4 Bxe4 14.Nxe4 Nxe4 15.Re1 Qe7
+16.Qc2 Qh4 17.Qxe4+ Be7 18.d6 Ra7 19.Nh3 Rd7 20.dxe7 Rxe7 21.Qxe7+ Qxe7
+22.Rxe7+ Kxe7 23.Bg2 Nd7 24.Bb7 Rd8 25.Bxa6 b4 26.Bc4 Nf6 27.Re1+ Kf8 28.Ng5
+Rd4 29.Ne6+ Kg8 30.Nxd4+ Kf8 31.Nf5 g6 32.Bh6# 1-0
+
+[Event "Casual Game"]
+[Site "Internet Gaming Zone"]
+[Date "1996.08.15"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "saladin"]
+[Result "1-0"]
+[TimeControl "300"]
+[Mode "ICS"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 f5 5.f3 Bb4 6.a3 Bxc3+ 7.bxc3 Nf6 8.Bg5 exf3
+9.Nxf3 h6 10.Bh4 g5 11.Bf2 Ne4 12.Ne5 Qf6? 13.Qh5+ Ke7 14.Ng6+ Kd6? 15.c5+
+Kd5?? 16.c4+ Kc6 17.Ne5+ Qxe5 18.dxe5 Rd8 19.Qxh6 Bd7 20.h4 gxh4 21.Rxh4 Na6
+22.Qe3 Rh8 23.Rxe4 fxe4 24.Qxe4# 1-0
+
+[Event "Casual Game"]
+[Site "Chessmaster Online"]
+[Date "1996.08.30"]
+[Round "-"]
+[White "Laucius, Povilas"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[TimeControl "1800"]
+[Termination "time forfeit"]
+[Mode "ICS"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 e5 5.dxe5 Qxd1+ 6.Kxd1 f5 7.f3 exf3 8.Nxf3 c6
+9.Bd3 Bb4 10.Ne2 Ne7 11.Kc2 O-O 12.a3 Ba5 13.Rd1 Re8 14.c5 Ng6 15.Bc4+ Kh8
+16.Bf7 Re7 17.Bxg6 hxg6 18.Bg5 Re8 19.Nf4 Kh7 20.b4 Bc7 21.Re1 a5 22.Nd3 axb4
+23.axb4 Rxa1 24.Rxa1 Nd7 25.Bf4 Nf8 26.Ng5+ Kg8 27.Ra8 Nh7 28.Nf3 Kf8 29.Kc3
+Be6 30.Ra7 Bc8 31.h4 Ke7 32.Nd2 Kf8 33.Nc4 Bb8 34.Ra8 Be6 35.Nd6 Rd8 36.Nxb7?
+Bxe5+ 37.Nxe5 Rxa8 38.Nxg6+ Kf7 39.Ne5+ Kg8 40.Nxc6 Nf6 41.Kd4 Ra1 42.Nd6 Rd1+
+43.Ke5 Re1+ 44.Kd4 Nd5 45.Be5 Rd1+ 46.Kc4 Ne3+ (46...Ne7+ 47.Kb5 Bd7 {-+})
+47.Kb5 Nxg2 48.Bg3 Bd7 49.Kb6 f4 50.Bf2 Rd2 51.Be1 Re2 52.Bc3 Bxc6 53.Kxc6 f3
+54.Bd4 f2 55.Bxf2 Rxf2 56.b5 Nxh4 57.b6 Rf8 58.b7 Ng6 59.Nc8 Ne5+ 60.Kb6 Kf7
+61.b8=Q Nd7+ 62.Kc7 Nxb8 63.Kxb8 g5 64.Kb7 g4 65.Nd6+ Ke6 66.Ne4 Ke5 67.Ng3
+Kf4 68.Nf1 Kf3 69.c6 Kf2 70.c7 Kxf1 71.c8=Q Rxc8 72.Kxc8 g3 73.Kc7 g2 74.Kc6
+1/2-1/2
+
+[Event "Casual Game"]
+[Site "?"]
+[Date "1997.10.17"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Fuller, Keith"]
+[Result "0-1"]
+[BlackUSCF "2265"]
+[EventDate "1997.07.11"]
+[Mode "EM"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 Bb4 5.Be3 Bxc3+ 6.bxc3 f5 7.Qh5+ g6 8.Qd1 Nc6
+9.h4 Qe7 10.Bg5 Nf6 11.h5 O-O 12.hxg6 hxg6 13.a4 Rf7 14.Rh6 Kg7 15.Ne2 e5
+16.Qd2 Bd7 17.Ng3 f4 (17...Rh8?? 18.Nh5+ gxh5 19.Bxf6+ Rxf6 20.Qg5 {+-})
+18.dxe5 Nxe5 19.Bxf4 (19.Qxf4 Nfg4) Nfg4 20.Rh1 e3 21.Qd4 exf2+ 22.Ke2 (22.Kd2
+Bxa4) Rxf4 23.Qxf4 Rf8 24.Qe4 (24.Qd4 c5 25.Qe4) Bc6 (24...Bc6 25.Qb1 Nxc4+
+26.Kd1 Rd8+ 27.Kc1 Qe1+ 28.Kc2 Qd2+ 29.Kb3 Na5+ 30.Kb4 Rd4+ 31.Kxa5 Qxc3+
+32.Qb4 Qxb4#) 0-1
+
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "1998.06.06"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaiju, Kauko"]
+[Result "1/2-1/2"]
+[TimeControl "1500"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 Bb4 5.Be3 f5 6.Qb3 Bxc3+ 7.Qxc3 Nf6 8.f3 O-O
+9.h4 c6 10.h5 h6 11.Nge2 a5 12.Nf4 Na6 13.Ng6 Re8 14.O-O-O Nb4 15.Kb1 b5
+16.Qd2 bxc4 17.Bxc4 Ba6 18.Bxa6 Rxa6 19.Bxh6? Qd5 20.b3 exf3 21.gxf3 Qxf3
+22.Bf4 Ne4 23.Qc1 Nc3+ 24.Ka1 a4 25.Rhf1 axb3 26.a3 (26.Rxf3?? Rxa2#) Nc2+
+27.Kb2 Nxd1+ 28.Qxd1 Qxd1 29.Rxd1 Nxa3 30.Kxb3 Nb5 31.Be5 Rea8 32.Rg1 Kh7
+33.h6 gxh6?? (33...Kxh6 34.Nf4 R8a7! {-+}) 34.Nf8+ Rxf8 35.Rg7+ Kh8 36.Rf7+
+Kg8 37.Rg7+ 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1999.04.14"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaiju, Kauko"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 f5 5.Bf4 Bb4 6.Qb3 Nc6 7.O-O-O Bxc3 8.Qxc3 g5
+9.d5 gxf4 10.Qxh8 Qg5 11.Nh3 Qg6 12.dxc6 bxc6 13.Nxf4 Qg5 14.g3 Ba6 15.h4 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1999.04.14"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaiju, Kauko"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 f5 5.Bf4 Bd6 6.Nh3 Bxf4 7.Nxf4 Nf6 8.Be2 g5
+9.Bh5+?? Ke7 (9...Kf8) 10.Qb3 gxf4 11.Qb4+ Qd6? 12.c5 Qd7 13.c6+ Qd6 14.cxb7
+Qxb4 15.bxa8=Q Nxh5 16.Qxa7 Qb6 17.Qa3+ Qd6 18.Qb3 Nc6 19.O-O-O Ba6 20.d5 Rb8
+21.Qa4 Nb4 22.dxe6 Nd3+ 23.Rxd3 Bxd3 24.Rd1 Kxe6 25.g4 fxg4 26.Nxe4 Qb4?
+27.Qxb4 Rxb4 28.Nc5+ Kf5 29.Rxd3 Rc4+ 30.Rc3 Rxc3+ 31.bxc3 Ke5 32.a4 Nf6 33.a5
+Nd5 34.a6 Nxc3 35.a7 Ne2+ 36.Kd2 g3 37.hxg3 fxg3 38.fxg3 Nxg3 39.a8=Q 1-0
+
+[Event "Casual Game"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "-"]
+[White "Stewart, Michael"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[BlackUSCF "2264"]
+[EventDate "1999.03.02"]
+[Mode "EM"]
+[Termination "abandoned"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 Bb4 5.Ne2 Nc6 6.Be3 f5 7.a3 Bxc3+ 8.Nxc3 Nf6
+9.Be2 O-O 10.O-O Ne7 11.b4 b6 *
+
+[Event "TGT 42.1 (Diemer-Duhm Gambit)"]
+[Site "?"]
+[Date "1999.06.06"]
+[Round "-"]
+[White "Lund, Fred"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Mode "EM"]
+[Termination "abandoned"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 Bb4 6.Qb3 c5 7.dxc5 Nc6 8.Be3 e5 9.Rd1
+Qe7 10.fxe4 f4 0-1
+
+[Event "TGT 42.1 (Diemer-Duhm Gambit)"]
+[Site "?"]
+[Date "1999.06.06"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Bennett, Michael"]
+[Result "1-0"]
+[BlackElo "1890"]
+[Mode "EM"]
+[Termination "abandoned"]
+
+1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 Bb4 6.Bf4 Nf6 7.Qb3 1-0
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2000.03.20"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Ritvanen, Kari"]
+[Result "1-0"]
+[WhiteTeam "Nokia"]
+[BlackTeam "Tilastokeskus"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 f5 5.f3 exf3 6.Nxf3 Bd7 7.Ne5 Nf6 8.Bg5 Be7
+9.Bxf6 Bxf6 10.Qh5+ Ke7?? (10...g6 {-/+}) 11.Qf7+ Kd6 12.c5# 1-0
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2002.03.26"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Sundsten, Kaj"]
+[Result "1-0"]
+[WhiteTeam "Nokia"]
+[BlackTeam "Tilastokeskus"]
+[TimeControl "300"]
+
+1.d4 e6 2.e4 d5 3.c4 dxe4 4.Nc3 f5 5.f3 Bb4 6.Qb3 Bxc3+ 7.Qxc3 Nf6 8.Be3 O-O
+9.O-O-O a5 10.Nh3 a4 11.Be2 Qe7 12.Rhg1 Nc6 13.d5 exd5 14.cxd5 Ne5 (14...Nb4
+15.Bc4 b5 16.a3) 15.Bc5 Qf7? 16.Ng5? Qg6 17.Ne6 Bxe6 18.dxe6 e3?? 19.Qxe5 Rfe8
+20.h4 Nh5 21.Bc4 b6 22.Bxe3 Kh8 23.g4 Red8? 24.gxh5 Rxd1+ 25.Kxd1 Qxh5
+26.Qxg7# 1-0
+
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "2006.03.16"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Meri, Heikki"]
+[Result "1-0"]
+[WhiteTeam "Nokia"]
+[BlackTeam "Taksi"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 f5 5.f3 exf3 6.Nxf3 g6 7.Bg5 Be7 8.Bf4 Bf6
+9.Be2 Ne7 10.Qd2 O-O 11.O-O-O Nbc6 12.Nb5 Bd7 13.d5 e5 14.Bh6 Nd4 15.Nbxd4
+exd4 16.Nxd4 Rf7 17.h4 Kh8 18.h5 Ng8 19.hxg6 Nxh6 20.gxf7 Nxf7 21.Nf3 Ng5
+22.Kb1 Qg8 23.Rh5 Ne4 24.Qh6 Ng3?? 25.Qxf6+ {no more moves recorded} 1-0
