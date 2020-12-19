@@ -30,6 +30,19 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 
 [Event "Fischerandom Tournament"]
 [Site "Helsinki FIN"]
+[Date "2014.11.22"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kokkala, Janne"]
+[Result "0-1"]
+[TimeControl "1200+10"]
+[Variant "Chess960"]
+[FEN "2r1k1br/pp1pq2p/2p3p1/4bp2/n7/2P1P1N1/PP1Q1PPP/1BKR2BR b KQkq - 0 1"]
+
+1...Bxc3! 2.bxc3 Qa3+ 3.Kc2 Qb2+ 4.Kd3 Bc4+! 5.Kd4 Qb5 6.e4 Qc5# 0–1
+
+[Event "Fischerandom Tournament"]
+[Site "Helsinki FIN"]
 [Date "2017.11.29"]
 [Round "2"]
 [White "Heikkinen, Jyrki"]
@@ -37,7 +50,7 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 [Result "1-0"]
 [TimeControl "600+5"]
 [Variant "Chess960"]
-[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq -"]
+[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq - 0 1"]
 
 1.e4 Rc8 2.d5 exd5 3.e5 Ng4 4.Nd4 Qd7? 5.e6 Qe8 6.Qf5 N4e5? 7.exf7+ Nxf7
 8.Qxg6 Qe5 9.Ngf5 Ng5 10.f4 Qe4+ 11.Ka1 Nf7 12.Qxg7#
@@ -69,7 +82,7 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 [Result "1-0"]
 [TimeControl "40/4800:600"]
 [Variant "Chess960"]
-[FEN "rnkrnbbq/pppppppp/8/8/8/8/PPPPPPPP/RNKRNBBQ w - - 0 1"]
+[FEN "rnkrnbbq/pppppppp/8/8/8/8/PPPPPPPP/RNKRNBBQ w KQkq - 0 1"]
 
 1.g4 g5 2.Bg2 Nd6 3.d4 Nc6 4.e3 f6 5.Nd3 Bc4 6.b3 Bxd3 7.Rxd3 e6 8.c4 f5 9.c5
 Ne8 (9...Ne4) 10.Nc3 (10.gxf5) Rb8 11.a3 Na5 12.Kc2 d5? 13.gxf5 c6 14.fxe6 Be7
@@ -107,7 +120,7 @@ O-O-O 9.O-O-O} 9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7
 [Result "1-0"]
 [TimeControl "3000+30"]
 [Variant "Chess960"]
-[FEN "qnrknrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKNRBB w - - 0 1"]
+[FEN "qnrknrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKNRBB w KQkq - 0 1"]
 
 1.b3 f5 2.g3 c6 3.f4 d5 4.Nd3 Nd7 5.Ne5 Nef6 6.Qd4 Be6 7.Nc3? c5 (7...g6)
 8.Qa4?! Nxe5?? 9.fxe5 Nd7 10.Nxd5 b6?? 11.Nf4 Qxh1 12.Nxe6+ Ke8 13.Nxf8 1-0
@@ -142,6 +155,9 @@ O-O-O 9.O-O-O} 9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7
 [FEN "r4rk1/pbqnnppp/1pppp3/8/2PPPP2/6N1/PP1QBNPP/2R2RK1 w - - 4 13"]
 [TimeControl "3000+30"]
 
+{rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN}
+{1.c4 e6 2.d4 Nhg6 3.e4 d6 4.Qd3 c6 5.Nfg3 Ba5+ 6.Bd2 Bxd2+ 7.Qxd2 Qc7 8.O-O
+Nd7 9.f4 Ne7 10.Nf2 b6 11.Be2 Bb7 12.Rac1 O-O}
 13.f5 Rad8 14.Ng4 exf5 15.exf5 f6 16.Nh5 d5 17.Nf4 Qd6 18.Ne6 a5 19.Rc3 Rde8
 20.c5 bxc5 21.dxc5 Qb8 22.Rh3 Rf7 23.Bd3 Qa7 24.Rc1 (24.Qh6!! gxh6 25.Nxh6+
 Kh8 26.Nxf7+ Kg8 27.Rg3+ Ng6 28.Nh6+ Kh8 29.fxg6) Ba6 25.Qxa5 Ra8 26.Bb1 Be2
