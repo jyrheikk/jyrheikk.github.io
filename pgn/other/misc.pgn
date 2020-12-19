@@ -473,21 +473,6 @@ Nxe6 23.Nc4 Re7 24.a5 Nd4 25.Ra2 Bf6 26.Rad2 Rd8 27.Na3 fxe4 28.fxe4 Kf7
 Rb8 10.Nd5 Qd6 11.Bb6) Nf6 9.Bc4 O-O 10.e5 Ng4?? (10...b5) 11.Bb6
 Qxe5+ 12.Nxe5 {no more moves recorded} 1-0
 
-[Event "Fischerandom Tournament"]
-[Site "Helsinki FIN"]
-[Date "2011.11.26"]
-[Round "4"]
-[White "Heikkinen, Jyrki"]
-[Black "Kauppala, Pekka"]
-[Result "0-1"]
-[TimeControl "600+5"]
-[Variant "Chess960"]
-[FEN "rbnkqrbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKQRBN w KQkq - 0 1"]
-
-1.Ng3 f5 2.f4 g5 3.Bd4 gxf4 4.Bxh8 fxg3 5.Qxg3 Bd5 6.Bc3 Rg8 7.Qh4 Rxg2 8.Nd3
-c6 9.Qxh7 Rxh2 10.Qxf5 Nd6 11.Qf8 Ne4 12.Bg7 Nf6 13.Rxf6 Rh1+ 14.Rf1?? (14.Ne1
-Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
-
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2011.12.21"]
@@ -586,20 +571,6 @@ Nf8 10.Ng5 Ne6 11.Nxe6 Bxe6 12.Na4 b6 13.O-O Qd7 14.b4 c5 15.Nc3 c4 16.Be2 Kf8
 17.Bf3 Kg8 18.a4 Kh7 19.Ne2 a5 20.b5 Nh6 21.c3 Nf5 22.Ng3 Nh4 23.Bd1 Bg4 24.f3
 Be6 25.Bc2 Nf5 26.Kh1 h4 27.Ne2 f6 28.Rae1 g5 29.exf6 exf6 30.Be3 {no more
 moves recorded} 0-1
-
-[Event "Fischerandom Tournament"]
-[Site "Helsinki FIN"]
-[Date "2017.11.29"]
-[Round "2"]
-[White "Heikkinen, Jyrki"]
-[Black "Kivinen, Jyrki"]
-[Result "1-0"]
-[TimeControl "600+5"]
-[Variant "Chess960"]
-[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq -"]
-
-1.e4 Rc8 2.d5 exd5 3.e5 Ng4 4.Nd4 Qd7? 5.e6 Qe8 6.Qf5 N4e5? 7.exf7+ Nxf7
-8.Qxg6 Qe5 9.Ngf5 Ng5 10.f4 Qe4+ 11.Ka1 Nf7 12.Qxg7#
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
