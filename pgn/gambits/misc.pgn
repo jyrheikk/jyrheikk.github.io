@@ -58,19 +58,6 @@ Rfd8 18.axb4 Bxf3 19.gxf3 Nxb4 20.Qb3 Qh3+ 21.Ke1 Nd3+ 22.Bxd3 Rxd3
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
-[Date "2000.11.13"]
-[Round "?"]
-[White "Rantanen, Matti"]
-[Black "Heikkinen, Jyrki"]
-[Result "1-0"]
-[EventDate "2000.06.08"]
-[Mode "EM"]
-
-1.d4 e5 2.dxe5 Nc6 3.Nf3 Nge7 4.Bf4 Ng6 5.Bg3 Qe7 6.Nc3 Qc5 7.Qd5 Nb4 8.Qb3
-Be7 9.O-O-O O-O 10.a3 Nc6 11.Na4 (11.Na4 Qa5 12.Rd5) 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
 [Date "2003.07.09"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
@@ -83,33 +70,6 @@ gxh6 9.O-O-O d6 10.Qh5 Bg5+ 11.Kb1 Be6 12.Bxe6 fxe6 13.h4 Bf6 14.Qxh6 Qe8
 15.h5 Bg7 16.Qg5 Kh8 17.h6 Bf6 18.Qe3 Rg8 19.g4? Rxg4 20.Nb5 Qf7 21.Nfd4 Nxd4
 22.Nxd4 Rag8 23.Qf3 c5 24.e5? dxe5 25.Nb5 e4 (25...Rb4) 26.Nd6 Qg6? 27.Qxg4!
 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2010.01.27"]
-[Round "?"]
-[White "Rantanen, Matti"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[TimeControl "900"]
-
-1.d4 e5 2.dxe5 f6 3.exf6 Nxf6 4.Nf3 Nc6 5.e3 d5 6.Be2 Bd6 7.O-O O-O 8.c4 dxc4
-9.Bxc4 Kh8 10.Nc3 Bg4 11.Be2 Qe8 12.h3 Bxf3 13.Bxf3 Qe5 14.g3 h5 15.h4 g5
-16.hxg5 Qxg5 17.e4 Qg6 18.Kg2 Ne5 19.Rh1 Nxf3 20.Qxf3 Ng4 21.Qd3?? (21.Bf4
-Bxf4 22.gxf4 {+/-}) Rxf2+ 22.Kg1 Raf8 23.Bd2 Bc5 0-1
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2013.11.06"]
-[Round "12"]
-[White "Ertbjerg, Per"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[TimeControl "180+2"]
-
-1.d4 e5 2.dxe5 f6 3.exf6 Nxf6 4.Nc3 d5 5.Bg5 Bb4 6.Nf3 Nc6 7.e3 Bg4 8.Bb5 O-O
-9.Bxc6 bxc6 10.Qd4 c5 11.Bxf6?? (11.Qxg4) cxd4 12.Bxd8 dxc3 13.bxc3? Bxc3+
-14.Ke2 Bxa1 15.Bxc7 Rac8 16.Rxa1 Rxc7 17.Kd2 Bxf3 18.gxf3 Rxf3 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
