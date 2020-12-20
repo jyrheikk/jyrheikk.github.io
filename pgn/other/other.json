@@ -1,5 +1,5 @@
 {
-  "english.pgn": 6,
+  "english.pgn": 7,
   "qgambit.pgn": 16,
   "dutch.pgn": 12,
   "benoni.pgn": 35,
@@ -17,16 +17,16 @@
   "center-counter.pgn": 84,
   "austrian.pgn": 50,
   "pirc.pgn": 61,
+  "open.pgn": 6,
   "scotch.pgn": 7,
   "petrov.pgn": 3,
-  "open.pgn": 6,
   "french.pgn": 42,
   "alekhine.pgn": 5,
   "modern.pgn": 4,
-  "bird.pgn": 6,
   "reti.pgn": 8,
-  "grob.pgn": 3,
+  "bird.pgn": 6,
   "benko.pgn": 19,
-  "misc.pgn": 24,
+  "grob.pgn": 3,
+  "misc.pgn": 23,
   "fischer-random.pgn": 10
 }
