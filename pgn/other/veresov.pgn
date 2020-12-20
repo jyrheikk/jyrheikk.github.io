@@ -1,0 +1,131 @@
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
+[Date "1999.09.25"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Yrjönen, Markku"]
+[Result "1-0"]
+[Section "I division"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Pohjois-Kymen Shakki"]
+[WhiteElo "1949"]
+[BlackElo "1932"]
+[TimeControl "40/7200:1800"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.a3 Bxc3+ 5.bxc3 Nxe4 6.Qg4 f5 7.Qxg7 Qf6 8.Qxf6
+Nxf6 9.Be2 b6 10.Bf3 Nc6 11.Bf4 Kd8 12.Nh3 Ba6 13.Ng5 Re8 (13...Rf8? 14.Bxc6
+{+-}) 14.Be5 Nd5 15.Nxh7 Nxe5 16.dxe5 c6 17.O-O-O! Nxc3 (17...Re7) 18.Bxc6
+Nxd1 19.Rxd1 Re7 20.Nf6 Rc8 21.Bxd7 Kc7 22.Bxc8 Kxc8 23.h4 Rg7 24.h5 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2003.07.29"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Ojanen, Hannu"]
+[Result "1-0"]
+[WhiteElo "2006"]
+[BlackElo "2142"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Nc3 e6 3.a3 Be7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.Be2 Qa5 8.O-O cxd4
+9.Nxd4 Nc6 10.Be3 a6 11.Bf3 Qc7 12.Qe2 b5? 13.Nxc6 Qxc6 14.e5 Nd5 15.Nxd5 exd5
+16.exd6 Qxd6 17.Rad1 Bb7 18.Qd3 Qc7 19.Bg4 Rfd8 20.Bd4 Qc4 21.Qh3 a5 22.Bf5 g6
+23.Be6! b4 24.Bxf7+ Kxf7 25.Qxh7+ Ke8 26.Rfe1 1-0
+
+[Event "Lauttasaari Chess Club 60th Anniversary"]
+[Site "Helsinki FIN"]
+[Date "2008.03.29"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+[WhiteElo "2052"]
+[BlackElo "2105"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4? 4.e5 Nd5 5.Qg4 Kf8 6.a3 Bxc3+ 7.bxc3 Nxc3 8.a4
+(8.Bg5!) f5 9.Qf3 Ne4 10.h4 c5 11.Bd3 Qa5+ 12.Ke2 Nc3+ (12...Nc6!) 13.Kf1 cxd4
+14.Ba3+ Kf7 15.Qh5+ g6 16.Qg5 Nd5? (16...Qd8) 17.h5 Rg8 18.hxg6+ hxg6 19.Rh7+
+Rg7 20.Qh6 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2009.12.09"]
+[Round "?"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Semi-Final"]
+[TimeControl "1800"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Nc3 d5 3.Nf3 Bf5 4.e3 e6 5.Nh4 Bg4 6.Be2 Bxe2 7.Qxe2 Ne4 8.Nf3 Nxc3
+9.bxc3 Nd7 10.O-O Nb6 11.Nd2 Qd7 12.c4 Qa4 13.cxd5 exd5 14.Qd3 O-O-O 15.c3 h5
+16.e4 dxe4 17.Nxe4 h4 18.h3 g6 19.Ng5 Qd7 20.Qf3 f5 21.Bf4 Rh5 22.Rfe1 Re8
+23.Rxe8+ Qxe8 24.Qe3 Qxe3 25.fxe3 Be7 26.Ne6 Kd7 27.Nxc7 g5 28.Be5 Nc4
+29.Nb5?? (29.Nd5) a6 30.Na7 Nxe5 31.dxe5 Bc5 32.Rd1+ Kc7 33.e6 Bxe3+ 34.Kf1
+Bxa7 {no more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2009.12.30"]
+[Round "?"]
+[White "Kohvakka, Raimo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.g3 e5 7.Bg2 Bb4 8.Bg5 h6
+9.Bxf6 Qxf6 10.O-O Bxc3 11.bxc3 Ba6 12.Re1 O-O? 13.Qd2? (13.Qxd7 {+/-}) d5
+14.Rab1 Rab8 15.Qe3 Qe7 16.Rb4 d4? (16...Rxb4) 17.Qe4? (17.Rxd4 {+/-}) Rxb4
+18.cxb4 Qxb4 19.Rd1 Qa5 20.Qxc6 Rc8 (20...Bxe2) 21.Qe4 Rc7 (21...Qc5) 22.Rb1
+g6 23.h4 Bc8 24.Rb8 Kg7 25.h5 Bf5 26.Qf3? (26.Qa8 {=}) Rxc2 27.hxg6 Bxg6
+28.Qg4?? (28.Qa8 {=/+}) Qe1+ 29.Bf1 d3 30.Qb4 Qxb4 31.Rxb4 d2 0-1
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2015.04.14"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Peltola, Risto"]
+[Result "1-0"]
+[Section "A"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 3"]
+[TimeControl "900"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Nd5 5.Qg4 g6 6.a3 h5 7.Qg3 Be7 8.Ne4 Bh4 9.Qf3
+Nc6 10.c4 Nxd4 11.Qd3 f5 12.exf6 e5 13.cxd5 Bxf6 14.Nf3 Nxf3+ 15.gxf3 d6
+16.Rg1 Bf5 17.Qb5+ Kf7 18.Qxb7 Rb8 19.Qxa7 Rb3 20.Be2 Qd7 21.Qa6 Kg7 22.Qc4
+Rhb8 23.Bd1 R3b7 24.b4 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2017.01.18"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Mäntsälä, Juha"]
+[Result "1-0"]
+[TimeControl "240+2"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4? 4.e5 Nd5 5.Qg4 O-O 6.a3 (6.Bh6) Bxc3+ 7.bxc3 Nxc3?
+8.Bg5 Qe8?? 9.Bf6 g6 10.Qf4 Nd5 11.Qh6 Nxf6 12.exf6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2020.09.09"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Henttonen, Tero"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Nd5 5.Ne4 cxd4 6.f4 Bb4+ 7.Kf2 Qb6 8.Bd3 d6?
+9.Nf3 Nd7 10.a3 Bc5 11.b4 Nxb4 12.axb4 Bxb4 13.Bd2 Bxd2 14.Qxd2 dxe5 15.fxe5
+Nc5 16.Nd6+ Kf8 17.Qf4 Qc7 18.Rhf1 Qe7 19.Kg1 a6 20.Ng5 Nxd3 21.cxd3
+(21.Qxf7+! Qxf7 22.Rxf7+ Kg8 23.Raf1 Bd7 24.Rxd7 Nxe5 25.Nxe6!) Bd7 22.Ngxf7
+Kg8 23.Qg4 Rf8 24.Nh6# 1-0

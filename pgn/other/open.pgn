@@ -2,20 +2,6 @@
 [Site "Jyväskylä FIN"]
 [Date "1985.??.??"]
 [Round "-"]
-[White "Haapala, Jari"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-
-1.e4 e5 2.Nf3 Nf6 3.d3 Nc6 4.c3 d5 5.exd5 Nxd5 6.Be2 Bg4? 7.h3 Bh5 8.O-O Qf6
-9.Bg5 Qe6 10.Nbd2 h6 11.Bh4 g5 12.Bg3 O-O-O 13.c4 Nf4 14.Bxf4 gxf4 15.Ne4 f5
-16.Ned2 Rg8 17.Kh1 Rg7 18.b4?! Bxb4 19.Rb1 e4 20.Ne1 f3! 21.gxf3 Qg6! 22.fxe4
-Bxe2 23.Qxe2 Nd4 24.Qe3 Bxd2 25.Qxd2 Nf3! 26.Qf4 Nxe1 27.Qg3 Rxd3! 28.Qxg6
-Rxh3+ 29.Kg1 Rxg6# 0-1
-
-[Event "Casual Game"]
-[Site "Jyväskylä FIN"]
-[Date "1985.??.??"]
-[Round "-"]
 [White "Kuru, Lauri"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -42,24 +28,6 @@ Qh5 23.Re7 Bb8 24.Rfe1 Bf4 25.Rb7 Rh6! 26.Ree7 Bxh2+ 27.Kf1 Bg3! 28.Rxg7+ Kh8
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.Bxf7+ Kf8? 8.Bb3
 Ngxe5 9.Bg5 Be7 10.Nxe5 Nxe5 11.Qxd4!? Nf3+ 12.gxf3 Bxg5 13.Re1! d6 14.Nc3 Qf6
 15.Qe4 Qe7 16.Qd5 c6 17.Rxe7! cxd5 18.Re2 d4 19.Nb5 Bf4 20.Nc7 Rb8 21.Re8# 1-0
-
-[Event "Finland School Team Ch"]
-[Site "Kuopio FIN"]
-[Date "1986.05.03"]
-[Round "1"]
-[White "Heikkinen, Jyrki"]
-[Black "Zetterman, Tommi"]
-[Result "1-0"]
-[Board "3"]
-[WhiteTeam "Jyväskylän Lyseon lukio"]
-[BlackTeam "?"]
-[TimeControl "40/4800:600"]
-
-1.e4 e5 2.Nf3 Nf6 3.Nxe5 Qe7 4.Nf3 Nxe4 5.Be2 d5 6.O-O g6 7.Re1 c6 8.Nc3 Nxc3
-9.dxc3 Bg7 10.c4 O-O 11.cxd5 cxd5 12.Bc4 Qc7 13.Bxd5 Bf5 14.c3 Nc6 15.Bg5 Bg4
-16.h3 Bxf3 17.Qxf3 Ne5 18.Qg3 Rac8 19.Bf4 Rfe8 20.Re3 b6? 21.Rae1 Qc5 22.Bb3
-Kf8 23.Bxe5 Bxe5 24.Rxe5 Rxe5 25.Rxe5 Qc7 26.Qf4 Kg7 27.Qd4 f6 28.Rd5 Qc6
-29.Rd6 Qa8 30.Qxf6+ Kh6 31.Qh4+ Kg7 32.Rd7+ Kf8 33.Qf6+ 1-0
 
 [Event "Finland School Team Ch"]
 [Site "Kuopio FIN"]
@@ -92,21 +60,6 @@ Kf8 23.Bxe5 Bxe5 24.Rxe5 Rxe5 25.Rxe5 Qc7 26.Qf4 Kg7 27.Qd4 f6 28.Rd5 Qc6
 Be4 23.Rh3 Qc5+ 24.Kf1 h5 25.g4 Kg7 26.gxh5 (26.Qg5!) Rh8 27.Qg5 Bf5 28.h6+
 Kh7 29.Rh4 Bd3 30.f5 Bxe2+ 31.Nxe2 Qe7 32.fxg6+ fxg6 33.Qg4 Rxe5 34.Nf4 Qf6
 35.Qd7+ Re7 0-1
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2011.05.11"]
-[Round "-"]
-[White "Heikkinen, Jyrki"]
-[Black "Homenko, Jelena"]
-[Result "1-0"]
-
-1.e4 e5 2.Nf3 Nf6 3.Nxe5 d5 4.exd5 Nxd5 5.d4 Bd6 6.f4 O-O 7.Bc4 Be6 8.O-O Nd7
-(8...Nxf4!) 9.f5 Nxe5 10.dxe5 Nb6 11.Bd3 Bc5+ 12.Kh1 Bc4 13.f6 Bxd3 14.cxd3
-Nd7 (14...g6) 15.Qg4 g6 16.Qg5 (16.d4!) Bd4 17.Re1? (17.Qh6 Nxf6) c5?
-(17...Re8 {-/+}) 18.Re4 Qa5? (18...Nxf6 19.exf6 Bxf6 20.Qh6 Qb6 21.Nc3 Rfd8
-22.Re2 Rxd3 23.Bg5 Bxc3 24.bxc3 Rxc3? 25.Rae1 Qc6 26.Bf6! Qxf6 27.Re8+ Rxe8
-28.Rxe8#) 19.Bd2 Qb5 20.Rxd4 cxd4 21.Qh6 Nxf6 22.exf6 1-0
 
 [Event "Thematic Philidor Defence Tournament"]
 [Site "Helsinki FIN"]
