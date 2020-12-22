@@ -37,7 +37,7 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 [Result "0-1"]
 [TimeControl "1200+10"]
 [Variant "Chess960"]
-[FEN "2r1k1br/pp1pq2p/2p3p1/4bp2/n7/2P1P1N1/PP1Q1PPP/1BKR2BR b KQkq - 0 1"]
+[FEN "2r1k1br/pp1pq2p/2p3p1/4bp2/n7/2P1P1N1/PP1Q1PPP/1BKR2BR b - - 0 1"]
 
 1...Bxc3! 2.bxc3 Qa3+ 3.Kc2 Qb2+ 4.Kd3 Bc4+! 5.Kd4 Qb5 6.e4 Qc5# 0–1
 
@@ -50,7 +50,7 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 [Result "1-0"]
 [TimeControl "600+5"]
 [Variant "Chess960"]
-[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w KQkq - 0 1"]
+[FEN "r5k1/5pp1/2q1pnnp/1p6/p1pP4/4PNN1/PPQ2PP1/1K1R4 w - - 0 1"]
 
 1.e4 Rc8 2.d5 exd5 3.e5 Ng4 4.Nd4 Qd7? 5.e6 Qe8 6.Qf5 N4e5? 7.exf7+ Nxf7
 8.Qxg6 Qe5 9.Ngf5 Ng5 10.f4 Qe4+ 11.Ka1 Nf7 12.Qxg7#
@@ -68,6 +68,23 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 
 {nqrbbkrn/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKRN}
 {1.c4 Ng6 2.O-O e5 3.e3 c5 4.Ng3 O-O} 5.Bc2 Nb6 6.Nb3 f6 7.Be4 (7.h4) Bf7
+8.Qd3?? Be7? (8...d5) 9.Na5 Rc7 10.Nf5 Re8 11.h4 Nc8 12.f4 b6 13.Nb3 exf4
+14.exf4 Nf8 15.Bg3 (15.Qg3) d6? 16.Ne3 b5 17.cxb5 Nb6 18.Bc6 Rd8 19.Nd5 Nxd5
+20.Bxd5 Nd7?? 21.Bxf7+ Kxf7 22.Qxh7 Qxb5 23.Nd4 Qxb2 24.Nf5 Nf8 25.Qxg7+ Ke8
+26.Rfe1 Rdd7 27.Rb1 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.03.26"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuovinen, Jukka"]
+[Result "1-0"]
+[TimeControl "3000+30"]
+[Variant "Chess960"]
+[FEN "nqrbbkrn/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKRN w KQkq - 0 1"]
+
+1.c4 Ng6 2.O-O e5 3.e3 c5 4.Ng3 O-O 5.Bc2 Nb6 6.Nb3 f6 7.Be4 (7.h4) Bf7
 8.Qd3?? Be7? (8...d5) 9.Na5 Rc7 10.Nf5 Re8 11.h4 Nc8 12.f4 b6 13.Nb3 exf4
 14.exf4 Nf8 15.Bg3 (15.Qg3) d6? 16.Ne3 b5 17.cxb5 Nb6 18.Bc6 Rd8 19.Nd5 Nxd5
 20.Bxd5 Nd7?? 21.Bxf7+ Kxf7 22.Qxh7 Qxb5 23.Nd4 Qxb2 24.Nf5 Nf8 25.Qxg7+ Ke8
@@ -110,6 +127,22 @@ O-O-O 9.O-O-O} 9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7
 15.Na3 Nc6 16.Nd3 Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7
 22.Rg1 Rdg8 23.Rxg7 Qxg7 24.Nf2 Nb4 25.Nd3 Nxd3+ 26.Bxd3 Qg2 27.Qxh7 Qxd2+
 28.Bc2 Qc3+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.06.06"]
+[Round "2"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3000+30"]
+[Variant "Chess960"]
+[FEN "bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w KQkq - 0 1"]
+
+1.e4 c5 2.b3?? Bxh2 3.c4 Nc6 4.Ne3 Ng6 5.g3 Bxg1 6.Qxg1 e6 7.f4 b6 8.Nf2 O-O-O
+9.O-O-O f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7 15.Na3 Nc6
+16.Nd3 Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7 22.Rg1 Rdg8
+23.Rxg7 Qxg7 24.Nf2 Nb4 25.Nd3 Nxd3+ 26.Bxd3 Qg2 27.Qxh7 Qxd2+ 28.Bc2 Qc3+ 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -166,3 +199,26 @@ g6 (33...Ra4 34.Rb8+ Rf8 35.Rb7 Rxd4 36.Rexe7) 34.Rg3 Bh5 35.Rb4 g5 36.Kf2 Ra5
 37.a4 Rxc5?? 38.Rb8+ Rf8 39.Rxf8+ Kxf8 40.Ne6+ Kf7 41.Nxc5 Kf8 42.a5 Nc8
 43.Rh3 Bf7 44.Rxh7 Ke7 45.Bd3 Na7 46.Nb7 Nc8 47.Nd8 Kxd8 48.Rxf7 Ke8 49.Rb7
 Kd8 50.a6 c5 51.Bb5 Nd6 52.Rd7+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2020.09.14"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[TimeControl "3000+30"]
+[Variant "Chess960"]
+[FEN "rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN w KQkq - 0 1"]
+[TimeControl "3000+30"]
+
+1.c4 e6 2.d4 Nhg6 3.e4 d6 4.Qd3 c6 5.Nfg3 Ba5+ 6.Bd2 Bxd2+ 7.Qxd2 Qc7 8.O-O
+Nd7 9.f4 Ne7 10.Nf2 b6 11.Be2 Bb7 12.Rac1 O-O 13.f5 Rad8 14.Ng4 exf5 15.exf5
+f6 16.Nh5 d5 17.Nf4 Qd6 18.Ne6 a5 19.Rc3 Rde8 20.c5 bxc5 21.dxc5 Qb8 22.Rh3
+Rf7 23.Bd3 Qa7 24.Rc1 (24.Qh6!! gxh6 25.Nxh6+ Kh8 26.Nxf7+ Kg8 27.Rg3+ Ng6
+28.Nh6+ Kh8 29.fxg6) Ba6 25.Qxa5 Ra8 26.Bb1 Be2 27.Qxa7 Rxa7 28.Ne3 Ne5 29.Rc3
+Ng4 30.Rb3 Ra8 31.Rg3 Nxe3 32.Rgxe3 Bg4 33.Nd4 g6 (33...Ra4 34.Rb8+ Rf8 35.Rb7
+Rxd4 36.Rexe7) 34.Rg3 Bh5 35.Rb4 g5 36.Kf2 Ra5 37.a4 Rxc5?? 38.Rb8+ Rf8
+39.Rxf8+ Kxf8 40.Ne6+ Kf7 41.Nxc5 Kf8 42.a5 Nc8 43.Rh3 Bf7 44.Rxh7 Ke7 45.Bd3
+Na7 46.Nb7 Nc8 47.Nd8 Kxd8 48.Rxf7 Ke8 49.Rb7 Kd8 50.a6 c5 51.Bb5 Nd6 52.Rd7+
+1-0
