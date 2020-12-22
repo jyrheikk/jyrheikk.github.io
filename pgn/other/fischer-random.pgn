@@ -75,23 +75,6 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
-[Date "2019.03.26"]
-[Round "1"]
-[White "Heikkinen, Jyrki"]
-[Black "Tuovinen, Jukka"]
-[Result "1-0"]
-[TimeControl "3000+30"]
-[Variant "Chess960"]
-[FEN "nqrbbkrn/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKRN w KQkq - 0 1"]
-
-1.c4 Ng6 2.O-O e5 3.e3 c5 4.Ng3 O-O 5.Bc2 Nb6 6.Nb3 f6 7.Be4 (7.h4) Bf7
-8.Qd3?? Be7? (8...d5) 9.Na5 Rc7 10.Nf5 Re8 11.h4 Nc8 12.f4 b6 13.Nb3 exf4
-14.exf4 Nf8 15.Bg3 (15.Qg3) d6? 16.Ne3 b5 17.cxb5 Nb6 18.Bc6 Rd8 19.Nd5 Nxd5
-20.Bxd5 Nd7?? 21.Bxf7+ Kxf7 22.Qxh7 Qxb5 23.Nd4 Qxb2 24.Nf5 Nf8 25.Qxg7+ Ke8
-26.Rfe1 Rdd7 27.Rb1 1-0
-
-[Event "Lauttasaari Ch"]
-[Site "Helsinki FIN"]
 [Date "2019.05.23"]
 [Round "3"]
 [White "Heikkinen, Jyrki"]
