@@ -113,22 +113,6 @@ O-O-O 9.O-O-O} 9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
-[Date "2019.06.06"]
-[Round "2"]
-[White "Henttonen, Tero"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[TimeControl "3000+30"]
-[Variant "Chess960"]
-[FEN "bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w KQkq - 0 1"]
-
-1.e4 c5 2.b3?? Bxh2 3.c4 Nc6 4.Ne3 Ng6 5.g3 Bxg1 6.Qxg1 e6 7.f4 b6 8.Nf2 O-O-O
-9.O-O-O f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7 15.Na3 Nc6
-16.Nd3 Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7 22.Rg1 Rdg8
-23.Rxg7 Qxg7 24.Nf2 Nb4 25.Nd3 Nxd3+ 26.Bxd3 Qg2 27.Qxh7 Qxd2+ 28.Bc2 Qc3+ 0-1
-
-[Event "Lauttasaari Ch"]
-[Site "Helsinki FIN"]
 [Date "2019.09.09"]
 [Round "5"]
 [White "Heikkinen, Jyrki"]
