@@ -166,26 +166,3 @@ g6 (33...Ra4 34.Rb8+ Rf8 35.Rb7 Rxd4 36.Rexe7) 34.Rg3 Bh5 35.Rb4 g5 36.Kf2 Ra5
 37.a4 Rxc5?? 38.Rb8+ Rf8 39.Rxf8+ Kxf8 40.Ne6+ Kf7 41.Nxc5 Kf8 42.a5 Nc8
 43.Rh3 Bf7 44.Rxh7 Ke7 45.Bd3 Na7 46.Nb7 Nc8 47.Nd8 Kxd8 48.Rxf7 Ke8 49.Rb7
 Kd8 50.a6 c5 51.Bb5 Nd6 52.Rd7+ 1-0
-
-[Event "Lauttasaari Ch"]
-[Site "Helsinki FIN"]
-[Date "2020.09.14"]
-[Round "5"]
-[White "Heikkinen, Jyrki"]
-[Black "Kauppinen, Janne"]
-[Result "1-0"]
-[TimeControl "3000+30"]
-[Variant "Chess960"]
-[FEN "rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN w KQkq - 0 1"]
-[TimeControl "3000+30"]
-
-1.c4 e6 2.d4 Nhg6 3.e4 d6 4.Qd3 c6 5.Nfg3 Ba5+ 6.Bd2 Bxd2+ 7.Qxd2 Qc7 8.O-O
-Nd7 9.f4 Ne7 10.Nf2 b6 11.Be2 Bb7 12.Rac1 O-O 13.f5 Rad8 14.Ng4 exf5 15.exf5
-f6 16.Nh5 d5 17.Nf4 Qd6 18.Ne6 a5 19.Rc3 Rde8 20.c5 bxc5 21.dxc5 Qb8 22.Rh3
-Rf7 23.Bd3 Qa7 24.Rc1 (24.Qh6!! gxh6 25.Nxh6+ Kh8 26.Nxf7+ Kg8 27.Rg3+ Ng6
-28.Nh6+ Kh8 29.fxg6) Ba6 25.Qxa5 Ra8 26.Bb1 Be2 27.Qxa7 Rxa7 28.Ne3 Ne5 29.Rc3
-Ng4 30.Rb3 Ra8 31.Rg3 Nxe3 32.Rgxe3 Bg4 33.Nd4 g6 (33...Ra4 34.Rb8+ Rf8 35.Rb7
-Rxd4 36.Rexe7) 34.Rg3 Bh5 35.Rb4 g5 36.Kf2 Ra5 37.a4 Rxc5?? 38.Rb8+ Rf8
-39.Rxf8+ Kxf8 40.Ne6+ Kf7 41.Nxc5 Kf8 42.a5 Nc8 43.Rh3 Bf7 44.Rxh7 Ke7 45.Bd3
-Na7 46.Nb7 Nc8 47.Nd8 Kxd8 48.Rxf7 Ke8 49.Rb7 Kd8 50.a6 c5 51.Bb5 Nd6 52.Rd7+
-1-0
