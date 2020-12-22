@@ -39,7 +39,7 @@ Rxe1+ (14...Bg3 15.Qxe8+ Kc7) 15.Kxe1 Bg3+ 16.Rf2 Qxf8 17.Bxf8 Kc7) Qxf8 0-1
 [Variant "Chess960"]
 [FEN "2r1k1br/pp1pq2p/2p3p1/4bp2/n7/2P1P1N1/PP1Q1PPP/1BKR2BR b - - 0 1"]
 
-1...Bxc3! 2.bxc3 Qa3+ 3.Kc2 Qb2+ 4.Kd3 Bc4+! 5.Kd4 Qb5 6.e4 Qc5# 0–1
+1...Bxc3! 2.bxc3 Qa3+ 3.Kc2 Qb2+ 4.Kd3 Bc4+! 5.Kd4 Qb5 6.e4 Qc5# 0-1
 
 [Event "Fischerandom Tournament"]
 [Site "Helsinki FIN"]
