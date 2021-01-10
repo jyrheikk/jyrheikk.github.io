@@ -534,3 +534,20 @@ Re8+ 30.Ne6+ Kf7 31.Rf2 Qxc4 32.Re2 Rf5 33.Ng5+ Kf8 34.Rxe8+ Kxe8 35.Ne6 Re5+
 15.exf4 Kf7 16.Be2 Na5 17.Qb4 Be6 18.Rfe1 b6 19.Bb5 Rc8 20.Qd2 Nc4 21.Qe2 Qf6
 22.Bxc4 Rxc4 23.Bd6 Qg6 24.g3 Re8 25.Be5 h5 26.Rc1 b5 27.h4 Qg4 28.Qb2 a6
 29.Rxc4 dxc4 30.a4 Bd5 31.Qe2 Qxe2 32.Rxe2 b4 33.Rb2 b3 34.Rb1 c3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.01.09"]
+[Round "5"]
+[White "Leino, Jukka"]
+[Black "Kivinen, Jyrki"]
+[Result "1-0"]
+[Section "II Division:1"]
+[Board "1"]
+[WhiteTeam "Salon Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "2113"]
+[BlackElo "1985"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 a6 6.Be2 Qc7 7.Be3 Bd6? 8.Qd2
+Nf6?? 9.Ndb5 {+-} axb5 10.Nxb5 Qb8 11.Nxd6+ Ke7? 12.Bc5 1-0
