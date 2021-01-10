@@ -1,3 +1,21 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1985.02.02"]
+[Round "2"]
+[White "Matilainen, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "D"]
+[TimeControl "40/5400:1800"]
+
+1.g3 d5 2.Bg2 Nc6 3.e3 Nf6 4.Ne2 e5 5.O-O Bf5 6.c3 Qd7 7.d4 Bh3 8.dxe5 Nxe5
+9.Nf4 Bxg2 10.Kxg2 Ng6 11.Nd2 Bd6 12.Nf3 Nxf4+ 13.exf4 O-O-O? 14.Be3 Kb8 15.b4
+h6 16.a4 g5?? 17.a5? (17.Qd4) gxf4 18.Bd4 Ng4 19.Bxh8 Rxh8 20.Qxd5 Rg8 21.h3??
+Nf6 22.Qd4 Qd8? (22...fxg3 23.Qxf6? gxf2+ 24.Kxf2 Bg3+) 23.b5 fxg3 24.Ne5
+gxf2+ 25.Kxf2? Qc8 (25...Bc5!) 26.a6 Qf5+ 27.Ke1 Qxe5+ 28.Qxe5 Bxe5 29.Ra3 Rf8
+30.c4 Nd7 31.Raf3 f6 32.Rf5 c6 33.Kd2 cxb5 34.cxb5 Kc7 35.Rh5 bxa6 36.bxa6 Rh8
+37.Rb1 Nc5 38.Rh4 Kc6 39.Rc4 Rd8+ 40.Kc2 Rd7 41.Rb5?? 0-1
+
 [Event "Tampere University of Technology Ch"]
 [Site "Tampere FIN"]
 [Date "1990.10.01"]

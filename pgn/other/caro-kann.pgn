@@ -6,8 +6,10 @@
 [Black "Olufsen, Ove"]
 [Result "1-0"]
 [Board "3"]
-[WhiteTeam "Suomi 2"]
-[BlackTeam "Norja"]
+[WhiteTeam "Finland 2"]
+[BlackTeam "Norway"]
+[WhiteElo "1605"]
+[BlackElo "1777"]
 [TimeControl "40/7200:1800"]
 
 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Bxd3 8.Qxd3
@@ -37,6 +39,7 @@ Qxb2 25.Qd7+ Kb6 26.Be3+ Nc5 27.Qe7 Ka6 28.Qxc5 Qf6 29.Rd6 1-0
 [White "Heikkinen, Jyrki"]
 [Black "Kontulainen, Hanne"]
 [Result "1-0"]
+[Section "C"]
 [TimeControl "40/5400:1800"]
 
 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Bxd3 8.Qxd3
@@ -50,6 +53,7 @@ Qc7 9.O-O e6 10.Re1 Ngf6 11.Ng5! h6? 12.Rxe6+! Be7 13.Nf5! Nd5 14.Nd6+ Kf8
 [White "Heikkinen, Jyrki"]
 [Black "Kaarlonen, Kaarlo"]
 [Result "1-0"]
+[Section "B"]
 [WhiteElo "1782"]
 [BlackElo "1937"]
 [TimeControl "40/5400:1800"]
@@ -57,7 +61,27 @@ Qc7 9.O-O e6 10.Re1 Ngf6 11.Ng5! h6? 12.Rxe6+! Be7 13.Nf5! Nd5 14.Nd6+ Kf8
 1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Bxd3 8.Qxd3 e6
 9.O-O Ngf6 10.Re1 Be7 11.c4 O-O 12.Bf4 Rc8 13.Rad1 Qa5 14.a3 Rfe8 15.Ng5 Nf8
 16.Qf3 Ng6 17.Be5 h6 18.b4 Qd8 19.N5e4 Nxe4 20.Rxe4 a5 21.Nh5 Bf8 22.Rg4 axb4
-23.Qg3 Kh7 24.axb4 Qe7 25.c5 Red8 26.Rd3 f6 27.Bxf6 gxf6 28.Rxg6 Ra8 29.h4 1-0
+23.Qg3 Kh7 24.axb4 Qe7 25.c5 Red8 26.Rd3 f6?? 27.Bxf6 gxf6 28.Rxg6 Ra8 29.h4
+1-0
+
+[Event "PasVS Tournament"]
+[Site "Helsinki FIN"]
+[Date "1991.06.30"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Tiitta, Sauli"]
+[Result "0-1"]
+[WhiteElo "1910"]
+[BlackElo "2058"]
+[TimeControl "40/5400:1800"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bb3 h6
+9.N5f3 c5 10.Be3 Nbd5 11.c3 Qc7 12.Ne5 a6 13.Ngf3 b5 14.O-O c4 15.Bc2 Bb7
+16.Nxf7? Kxf7 17.Ne5+ Kg8 18.Ng6 Bd6 19.f4 Ne7 20.Nxh8 Kxh8 21.Bd2 Bd5 22.a4
+Rf8 23.axb5 axb5 24.Ra2 b4 25.Ra4 b3 26.Bd1 Ne4 27.g3 Qc6 28.Ra1 Qe8 29.Qe1
+Ng8 30.Be3 Qg6 31.Ra6 Ngf6 (31...Ng5!) 32.Bf3 Nh5 33.Bg2 Bxf4 34.Bxf4 Rxf4
+35.Rxf4 Nxf4 36.Bf1 Nd3 37.Bxd3 cxd3 38.Qe3 d2 39.Ra1 Qg5 40.Qd3 Qg4 41.c4
+Bxc4 42.Qb1 Qe2 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]

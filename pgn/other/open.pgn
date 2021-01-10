@@ -14,36 +14,6 @@ Qh5 23.Re7 Bb8 24.Rfe1 Bf4 25.Rb7 Rh6! 26.Ree7 Bxh2+ 27.Kf1 Bg3! 28.Rxg7+ Kh8
 34.Kd1 Bxf3+ 35.Nxf3 Qxf3+ 36.Qxf3 Rxf3 37.Rxh7+ Kg8 38.Rh1?? Rd3+ 39.Kc2 Rxd4
 40.Rg1 Rg4 41.Rb3 Re2+ 42.Kd1 Rd2+! 43.Kc1 Rd3! 44.Kc2 Rxb3 45.Kxb3 Kf7 0-1
 
-[Event "Kalakukko Tournament"]
-[Site "Kuopio FIN"]
-[Date "1986.04.26"]
-[Round "1"]
-[White "Heikkinen, Jyrki"]
-[Black "Uusitalo, Pekka"]
-[Result "1-0"]
-[WhiteElo "1528"]
-[BlackElo "1683"]
-[TimeControl "40/5400:900"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.Bxf7+ Kf8? 8.Bb3
-Ngxe5 9.Bg5 Be7 10.Nxe5 Nxe5 11.Qxd4!? Nf3+ 12.gxf3 Bxg5 13.Re1! d6 14.Nc3 Qf6
-15.Qe4 Qe7 16.Qd5 c6 17.Rxe7! cxd5 18.Re2 d4 19.Nb5 Bf4 20.Nc7 Rb8 21.Re8# 1-0
-
-[Event "Finland School Team Ch"]
-[Site "Kuopio FIN"]
-[Date "1986.05.04"]
-[Round "5"]
-[White "Heikkinen, Jyrki"]
-[Black "Ekonsalo, Tommi"]
-[Result "1-0"]
-[Board "3"]
-[WhiteTeam "Jyväskylän Lyseon lukio"]
-[BlackTeam "?"]
-[TimeControl "40/4800:600"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Nh5?? 7.Ng5 O-O 8.Qxh5 h6
-9.Nxf7 Qe7 10.Nxh6+ 1-0
-
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2004.04.14"]

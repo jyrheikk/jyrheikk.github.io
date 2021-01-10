@@ -1,0 +1,50 @@
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1985.03.13"]
+[Round "8"]
+[White "Hämäläinen, Vesa"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Board "3"]
+[WhiteTeam "Ruthin ravintola 2"]
+[BlackTeam "Jyväskylän Lyseon lukio 2"]
+[TimeControl "40/5400:900"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.Ng5 Nh6 6.Qf3 Qe7 7.Nc3 Nd4 8.Qd1 Bg4
+9.f3 f6 10.Nd5 Qd7 11.c3 Nc6 12.Ne6?? Bxe6 13.Nxc7+ Qxc7 14.Bxe6 Qe7 15.Bd5 f5
+16.Qa4 Qd7 17.Bg5 Nf7 18.Bh4 g5 19.Bf2 Bxf2+ 20.Kxf2 fxe4 21.dxe4 Rf8 22.h3 h5
+23.Qb3 Nh6 24.Be6 Qe7 25.Rad1 Rf6 26.Bc4 g4 27.Be2 gxf3 28.Bxf3 O-O-O 29.Ke2
+Rdf8 30.Kd2 Kb8 31.Kc1 h4 32.Be2 Rf2 33.Bf3 Rc8 34.Rd3 Nd4 35.Qd1 Qg5+ 36.Kb1
+Nxf3 37.gxf3 Qg2 38.Qc1 Rc6 39.Rhd1 Rxb2+ 40.Qxb2 Rb6 41.Qxb6 axb6 42.Rxd6
+Qxf3 43.c4 Qxe4+ 44.Kb2 Nf5 45.Rd8+ Ka7 46.R1d3 b5 47.c5 Qb4+ 48.Kc2 Qxc5+
+49.Kd1 e4 50.R3d5 Ne3+ 51.Ke2 Nxd5 0-1
+
+[Event "Kalakukko Tournament"]
+[Site "Kuopio FIN"]
+[Date "1986.04.26"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Uusitalo, Pekka"]
+[Result "1-0"]
+[WhiteElo "1528"]
+[BlackElo "1683"]
+[TimeControl "40/5400:900"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.Bxf7+ Kf8? 8.Bb3
+Ngxe5 9.Bg5 Be7 10.Nxe5 Nxe5 11.Qxd4!? Nf3+ 12.gxf3 Bxg5 13.Re1! d6 14.Nc3 Qf6
+15.Qe4 Qe7 16.Qd5 c6 17.Rxe7! cxd5 18.Re2 d4 19.Nb5 Bf4 20.Nc7 Rb8 21.Re8# 1-0
+
+[Event "Finland School Team Ch"]
+[Site "Kuopio FIN"]
+[Date "1986.05.04"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Ekonsalo, Tommi"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Jyväskylän Lyseon lukio"]
+[BlackTeam "Minna Canthin lukio"]
+[TimeControl "40/4800:600"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Nh5?? 7.Ng5 O-O 8.Qxh5 h6
+9.Nxf7 Qe7 10.Nxh6+ 1-0

@@ -1,3 +1,17 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1985.02.03"]
+[Round "4"]
+[White "Teriö, Jaakko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "D"]
+[TimeControl "40/5400:1800"]
+
+1.d4 Nf6 2.f3 d5 3.Bf4 e6 4.a3 Be7 5.e3 O-O 6.Bd3 c5 7.dxc5 Bxc5 8.Ne2 Nc6
+9.Qd2 e5 10.Bg5 e4 11.Bxf6? Qxf6 12.fxe4 dxe4 13.Bxe4 Qxb2 (13...Qh6) 14.O-O??
+0-1
+
 [Event "Casual Game"]
 [Site "Internet Gaming Zone"]
 [Date "1996.09.24"]
