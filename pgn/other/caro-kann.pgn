@@ -130,6 +130,29 @@ gxf5 23.Rxe6 Qf7 24.Qxc6 b4 25.Nd5 Bg7 26.Nxb4 Rab8 27.d5 f4 28.Nd3 Rfc8
 29.Rxf4 Qh5 30.Qd7 Qd1+ 31.Ne1 Rd8 32.Qxa7 Qxd5 33.Re7 Qd2 34.Rg4 Ra8 35.Re8+
 1-0
 
+[Event "Finland Team Ch"]
+[Site "Uusikaupunki FIN"]
+[Date "2003.03.15"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Männistö, Kari"]
+[Result "1/2-1/2"]
+[Section "II division"]
+[Stage "Qualifier"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Uudenkaupungin Shakkikerho"]
+[TimeControl "40/7200:1800"]
+
+1.d4 c6 2.e4 d5 3.Nc3 g6 4.e5 e6 5.Nf3 a6 6.Be2 c5 7.O-O Nc6 8.Bf4 cxd4 9.Nxd4
+Bd7 10.Bf3 Nxd4 11.Qxd4 Ne7 12.Bg5 Bg7 13.Qh4 h6 14.Bf6 Bxf6 15.Qxf6 O-O
+16.Qf4 Kh7 17.Rad1 Rc8 18.Be2 Nc6 19.Qg3 Qe7 20.f4 b5 21.a3 Na5 22.Rd3 Nc4
+23.Rb1 Rc7 24.Nd1 Rfc8 25.Qg4 h5 26.Rh3 Rh8 27.Bd3 Kg7 28.Qe2 Qc5+ 29.Kh1 Bc6
+30.Nf2 Qd4 31.Rf3 Re7 32.c3 Qa7 33.Rd1 Qa8 34.Re1 Qb8 35.Bb1 Qc7 36.Qc2 d4
+37.Ne4 Bxe4 38.Rxe4 dxc3 39.Rxc3 Qa7 40.Ba2 Nb6 41.Rc6 Rd8 42.h3 Nd5 43.Rd6
+Rc7 44.Qd2 Rdc8 45.Bxd5 exd5 46.Rxd5 Rc2 47.Qd4 Qxd4 48.Rdxd4 Rxb2 49.Rd7 Rcc2
+50.e6 Rxg2 51.Rxf7+ Kh6 52.e7 Rgf2 53.Kg1 Rg2+ 54.Kf1 Rh2 1/2-1/2
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2005.08.31"]

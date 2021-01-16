@@ -65,6 +65,41 @@ Bxh6 45.Ne4 Qxf3 46.Bxf3 Nf5 47.Bg4 Nd4+ 48.Kc3 Bf8 49.b4 b6 50.Ng5 Be7
 Bd8 62.Kf3 Bb6 63.Bf1 h4 64.Bd3 h3 65.Kg3 h2 66.Be4 h1=Q 67.Bxh1 Kf5 68.Bg2 e4
 69.Bh3+ Ke5 70.Bg2 d3 71.c7 Bxc7 72.Kf2 Bb6+ 0-1
 
+[Event "Pyynikki Tournament"]
+[Site "Tampere FIN"]
+[Date "1991.05.19"]
+[Round "4"]
+[White "Helander, Olli"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "A"]
+[WhiteElo "2013"]
+[BlackElo "1899"]
+[TimeControl "40/5400:1800"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Bd3 O-O 6.Nge2 e5 7.d5 Nh5 8.O-O f5 9.f4
+Qh4 10.g3 Qh3 11.exf5 exf4? (11...Nf6) 12.Bxf4 Bxf5 13.Bxf5 Rxf5 14.Ne4 Rf8
+15.Ng5 Qd7 16.Ne6 Rf7 17.Rb1 a5 18.Nxg7 Nxf4?? 19.Nxf4 Rxg7 20.Ne6 Rf7 21.Qd4
+Na6 22.Rxf7 Qxf7 23.Rf1 Qe7 24.Qd2 Nc5 25.Nf4 b6 26.Re1 Qf7 27.Qe3 Rf8 28.h4
+h6 29.Kg2 Kh7 30.a3 a4 31.Qe2 Qf6 32.Qe7+ Qf7 33.Qe3 Qf6 34.Re2 g5 35.hxg5
+hxg5 36.Nh3 g4 37.Nf4 Rf7 38.Kg1 Kg8 39.Qe8+ Rf8 40.Qe3 Rf7 41.Kg2 Nd7 42.Qe8+
+Nf8 43.Qxa4 Ng6 44.Qe8+ Kh7 45.Qe4 Kh6 46.Nxg6?? (46.Qe6) Qf1+ 47.Kh2 Qh3+ 0-1
+
+[Event "Golders Green Rapidplay"]
+[Site "London GB"]
+[Date "1997.01.18"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Harris, Costas"]
+[Result "1-0"]
+[TimeControl "1800"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.e5 dxe5 7.fxe5 Nfd7 8.Nf3 c5
+9.Bf4 e6 10.Bg5 Qb6 11.Na4 Qa5+ 12.b4 cxb4 13.Bd2 Nc6 14.a3 Nxd4 15.Nxd4 Qxe5+
+16.Be2 Qxd4 17.Ra2 Qh4+ 18.g3 Qe4 19.Rf1 bxa3 20.Rxa3 Ne5 21.Bb4 Re8 22.Nb6
+Rb8 23.Rxa7 Nc6 24.Rf4 Qh1+ 25.Rf1 Qxh2 26.Qb3 Nxa7 27.Bd6 Nc6 28.Qf3 f5
+29.Bxb8 Nxb8?? (29...Nd4) 30.Rh1 Bc3+ 31.Kf1 {no more moves recorded} 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "1998.09.16"]
@@ -278,29 +313,6 @@ Kf8 31.Kg3 Bd4 32.b3 Bh5 33.Be6 Qe8 34.Qe4 Re7 35.Qd5 Qd8 36.a6 Ra7 37.Bh3 Kg7
 Ne4 9.cxd5 Nxg5 10.Nxg5 e6 11.Nf3 exd5 12.Rc1 c6 13.a4 Nd7 14.Qb3 a5 15.Rfd1
 Qe7 16.Bd3 Qb4 17.Qc2 f5 18.Nxd5? cxd5 19.Qc7 Bc8 20.Qc6 Ra7 21.Qxd5+ Kh8
 22.Rc4 Qe7 23.Rdc1 Bb7 24.Qb5 Ba6 0-1
-
-[Event "SPS Firm League"]
-[Site "Helsinki FIN"]
-[Date "2006.10.24"]
-[Round "1"]
-[White "Korhonen, Pasi"]
-[Black "Heikkinen, Jyrki"]
-[Result "1/2-1/2"]
-[Board "1"]
-[WhiteTeam "Taksi"]
-[BlackTeam "Nokia"]
-[WhiteElo "2120"]
-[BlackElo "2069"]
-[TimeControl "40/5400:900"]
-
-1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 d6 5.e4 O-O 6.Nge2 c6 7.O-O Ne8 8.d3 f5 9.Be3
-Nf6 10.h3 Nh5 11.Qd2 e5 12.exf5 gxf5 13.Bg5 Qb6 14.Bf3 Nf6 15.Kh2 Be6 16.b4
-Nbd7 17.Rab1 Qc7 18.a4 Rad8 19.Bg2 Kh8 20.Rfe1 Bf7 21.f4 h6 22.Bh4 Rde8
-23.fxe5 dxe5 24.Rf1 Bg6 25.d4 Ne4 26.Nxe4 fxe4 27.Rbe1 Rxf1 28.Rxf1 e3
-(28...exd4! 29.Nxd4 e3 30.Qd1 Qd6 31.Ne2 Qxd1 32.Rxd1 Ne5) 29.Qxe3 exd4 30.Qf4
-Qxf4 31.Nxf4 Bc2 32.Rf2 d3 33.Ng6+ Kg8 (33...Kh7 34.Ne7 Nf6 35.Bxf6 Bxf6
-36.Be4+ Kg7 37.Nf5+ Kh8 38.Nd6 Re6 39.c5 Be7 {-/+}) 34.Ne7+ Kh8 35.Ng6+ Kg8
-36.Ne7+ 1/2-1/2
 
 [Event "SPS Firm League"]
 [Site "Espoo FIN"]

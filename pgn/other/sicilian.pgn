@@ -220,6 +220,7 @@ hxg5 60.Ke5 Kg7 61.Ra4 Rf4 1/2-1/2
 [White "Heikkinen, Jyrki"]
 [Black "Pukkila, Markku"]
 [Result "1/2-1/2"]
+[Section "B"]
 [TimeControl "7200"]
 
 1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 e6 5.Be3 a6 6.c4 Bb4 7.Nd2 Nf6 8.f3 O-O
@@ -239,6 +240,7 @@ axb5 45.h6 Rb1 46.Kg2 Rb2+ 47.Kf3 Rh2 48.Rb7 Kxh6 49.Rxb5 Kg6 50.Kf4 Rf2+
 [White "Heikkinen, Jyrki"]
 [Black "Teeriaho, Tuomo"]
 [Result "1-0"]
+[Section "A"]
 [TimeControl "40/5400:1800"]
 [ECO "B21"]
 
@@ -293,6 +295,45 @@ Nf4 22.Qd2 Nxd5 23.Bd4 1-0
 Qc8 15.Qg4 Nd4 16.cxd4 Qxc4 17.Bh6 g6 18.Bxf8 Rxf8 19.fxg6 fxg6 20.Qd7 Rf7
 21.dxe5 Qxc2 22.e6 Rg7 23.Rc1 Qf5 24.Rfe1 h5 25.Qxb7 a5 26.Qb8+ Kh7 27.Rc8 Kh6
 28.Rh8+ Rh7 29.g3 Qf6 30.Rc8 Bb4 31.Re2 g5 32.Qe5 Qe7 33.Rc7 Qxc7 34.Qf6# 1-0
+
+[Event "Gambiitti Tournament"]
+[Site "Helsinki FIN"]
+[Date "1992.10.24"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Lammi, Esa"]
+[Result "1-0"]
+[Section "B"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5
+Nb8 9.Qf3 Be7 10.Qc3 Na6 11.Be3 b6?? 12.Qc6+ Bd7 13.Nxd6+ (13.Qb7) Kf8 14.Qc4
+Bxd6 15.Qxa6 Qc7 16.Qc4 Rc8 17.Qxc7 Rxc7 18.O-O-O Bf5 19.Bd3 e4 20.Be2 Ke7
+21.g4 Bg6 22.h4 f6 23.h5 Bf7 24.Rd4 Kd8 25.Rhd1 Re8 26.Bb5 Ree7 27.Kb1 Rc5
+28.Bc6 a5 29.Ra4 Kc7 30.Bxc5 Bxc5 31.Rc4 Re5 32.Re1 (32.d6+!!) Kd6 33.Rcxe4
+Rxe4 34.Rxe4 Bxf2 35.c4 Bg3 36.Be8 Bg8 37.a3 Be5 38.Kc2 Ke7 39.Bc6 Bf7 40.b4
+axb4 41.axb4 Kd6 42.Kb3 g6 43.hxg6 Bxg6 44.Re1 h5 45.gxh5 Bxh5 46.Ka4 Bg4
+47.Kb5 Kc7 48.Rg1 f5 49.Rh1 Bd4 50.Rh7+ Kd6 51.c5+ bxc5 52.bxc5+ Ke5 53.d6 f4
+54.d7 Bxd7 55.Rxd7 1-0
+
+[Event "Helsingin Shakkiklubi Tournament"]
+[Site "Helsinki FIN"]
+[Date "1993.05.15"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Ristoja, Jan"]
+[Result "0-1"]
+[Section "B"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 d6 7.c4 Be7 8.O-O Bd7
+9.a3 O-O 10.f4 Qb6 11.e5?? Nxd4 (11...dxe5) 12.Kh1 g6 13.Bc2 Ne8 14.Bxd4 Qc7
+15.Nd2 Bc6 16.Qg4 d5 17.f5 exf5 18.Bxf5 h5 19.Qg3 Ng7 20.Bd3 Rad8 21.c5
+(21.Rxf7!! Rxf7 22.Qxg6 Kf8 23.Qh6 Ke8 24.Bg6 Bf8 25.Rf1) Bd7 22.h4 Be6 23.Rf4
+Qd7 24.Raf1 Rc8 25.b4 a5 26.Rf6 Bg4 27.Bb1 (27.Qf4) axb4 28.axb4 Rc6 29.b5
+(29.Rd6!) Re6 30.Nf3? Qxb5 31.Nh2 Qe2 32.Bd3 Qd2 33.Nxg4 hxg4 34.R1f2 Qc1+
+35.Rf1 Qd2 36.Ba1?? Nh5 37.Qxg4 Qxd3 38.R6f3 Qe4 39.Qh3 Qxh4 40.Qxh4 Bxh4
+41.Rb1 Re7 42.Rfb3 Rc8 43.Bd4 Ng3+ 44.Kh2 Nf5 45.Bg1 Rcc7 46.g4 Ng7 47.Kh3 Bg5
+48.Rd1 Rcd7 49.Bh2 Ne6 50.Rb6 Nxc5 51.Rb5 Ne6 52.Rbxd5 Rxd5 53.Rxd5 Nf4+
+54.Bxf4 Bxf4 55.Rb5 Bxe5 56.g5 Bf4 57.Kg4 Re5 58.Rxb7 Bxg5 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -352,6 +393,21 @@ fxe5 10.fxe5 Bd7 11.Nh3 Qh4+ 12.Ke2 dxc4 13.Bg5 cxd3+ 14.Kxd3 Qd4+ 15.Kc2 Qxe5
 16.Be3 c5 17.Nd5 Qc6 18.Bg2 (18.c4!) Ne7 19.O-O-O Ng6 20.h3 Ne5 21.Nxf6+! gxf6
 (21...Ke7 22.Ng8+ Ke8 (22...Bxg8+ 23.Bg5+) 23.Qxf8+!! Kxf8 24.Rxd8+ Kf7
 25.Rf1+) 22.Rxd8+ Kxd8 23.Qxf6+ Kd7 24.Qxh8 Bd6 25.Rd1 1-0
+
+[Event "Golders Green Rapidplay"]
+[Site "London GB"]
+[Date "1996.07.13"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Cave, Matthew"]
+[Result "1-0"]
+[TimeControl "1800"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 d6 4.Nxd4 Nf6 5.f3 a6 6.c4 Nc6 7.Nc3 g6 8.Be3 Bg7
+9.Be2 Bd7 10.Qd2 h5 11.Nd5 Rc8 12.O-O Nxd5 13.exd5 Ne5 14.b3 O-O 15.h3 Be8
+16.f4 Nd7 17.f5 Bxd4 18.Bxd4 Nf6 19.Qh6 Qd7 20.Bd3 Qd8 21.fxg6 fxg6 22.Bxg6
+Rc7 23.Bh7+ Kh8 24.Rae1 e5 25.dxe6 Qe7 26.Bg6+ Kg8 27.Bf7+ Bxf7 28.exf7+ Qxf7
+29.Rxf6 1-0
 
 [Event "Zone July Double Round-Robin Chess Tourney"]
 [Site "Internet Gaming Zone"]
@@ -452,6 +508,22 @@ Bc3+ 16.Ke2 f5 17.Qg5 Bxa1?? (17...Nc6 {-+}) 18.Qe7+ Kg8 19.Bf6 1-0
 22.Qh5+ {=}) d5? 21.exd5 (21.Nxe7 Kxe7 22.Qg7+ Ke6 23.exd5+ {+-}) Bf8 22.d6
 Kd8 (22...Bd7 23.Ng7+ Kd8 24.Ne6+ {transposes to the text move}) 23.Ng7 Bd7
 24.Ne6+ Bxe6 25.Qxe6 Bxd6 26.Bf5 (26.Bf5 Kc7 27.Qd7+ Kb8 28.Rxd6) 1-0
+
+[Event "HSK Tournament"]
+[Site "Helsinki FIN"]
+[Date "1998.05.17"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Tonteri, Ari"]
+[Result "1/2-1/2"]
+[Section "B"]
+[TimeControl "40/5400:1800"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 d6 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.a4 Be7 8.Bd3 Nc6
+9.f4 Qc7 10.O-O O-O 11.f5 e5 12.Nb3 Nb4 13.Be2 b6 14.g4 Bb7 15.Bf3 d5 16.exd5
+Rfd8 17.Rc1 Nfxd5 18.Nxd5 Nxd5 19.Qe2 Nxe3 20.Bxb7 Qxb7 21.Qxe3 h6 22.Qxe5 Bf6
+23.Qg3 Bxb2 24.Rb1 Bf6 25.h4 Qe4 26.g5 Bd4+ 27.Nxd4 Qxd4+ 28.Rf2 hxg5 29.hxg5
+Rac8 30.Kh2 (30.Qf4) Rc3 1/2-1/2
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]

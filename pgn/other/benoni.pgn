@@ -1,3 +1,18 @@
+[Event "Golders Green Rapidplay"]
+[Site "London GB"]
+[Date "1996.05.18"]
+[Round "2"]
+[White "von Schlippe, Nick"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1800"]
+
+1.d4 c5 2.d5 f5 3.Nc3 g6 4.e4 fxe4 5.Nxe4 Bg7 6.Bd3 Nf6 7.Ng5 O-O 8.N1h3 e5
+9.O-O h6 10.Ne4? (10.Bxg6) d6 11.f4 Bf5 12.Qf3 Nxe4 13.Bxe4 Nd7 14.g4? Bxe4
+15.Qxe4 Qh4 16.Nf2 exf4 17.Qe6+ Rf7 18.Bxf4 Ne5 19.Bg3 Qg5 20.h4 Qe3 21.Kh2
+Kh7 22.Rae1 Qf3 23.Rxe5?? (23.Ne4) Bxe5 24.Bxe5 dxe5 25.Qxe5 Raf8 26.h5 gxh5
+0-1
+
 [Event "SPS Firm League"]
 [Site "Helsinki FIN"]
 [Date "1999.03.04"]
@@ -27,6 +42,24 @@
 9.O-O O-O 10.Ng5 h6 11.Nf3 a6 12.a4 Re8 13.f5 Ne5 14.Nxe5 Rxe5 15.fxg6 fxg6
 16.Bxg6 Bg4 17.Qd3 c4 18.Qg3 Qb6+ 19.Kh1 h5 20.Bf4 Nd7 21.h3 Re7 22.Bg5 Be5
 23.Qh4 Bxh3 24.Qxh5+ Kg7 25.Bh6+ 1-0
+
+[Event "Lauttasaari Club Tournament"]
+[Site "Helsinki FIN"]
+[Date "2001.08.15"]
+[Round "?"]
+[White "Rantanen, Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "A"]
+[TimeControl "40/5400:900"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 c5 4.d5 b5 5.Bg5 exd5 6.cxd5 Qa5+ 7.Bd2 Qb6 8.e4 Be7
+9.Bd3 O-O 10.O-O d6 11.h3 Nbd7 12.Bf4 Bb7 13.Re1 a5 14.a4 bxa4 15.Nbd2 Qxb2??
+16.Nc4 Qb3 17.Qe2 Bxd5 18.Reb1 Bxc4 19.Bxc4 Qc3 20.Bd2 Qb4 21.Bxb4 axb4 22.Bb5
+Nb6 23.Nd2 Nfd7 24.Bxd7 Nxd7 25.Qb5 Nb6 26.Qxb6 Bf6 27.Ra2 b3 28.Nxb3 Rab8
+29.Qxd6 axb3 30.Ra4 Bd4 31.Rxd4 cxd4 32.Qxd4 Rb7 33.Qd5 Rfb8 34.Rb2 h6 35.f4
+Rb4 36.Qd3 R4b7 37.Kf2 Rb4 38.Kf3 R4b5 39.g4 Kh8 40.h4 Kg8 41.e5 Kf8 42.h5 Kg8
+43.Qc3 Rb4 44.f5 Kf8 45.Qc5+ Kg8 46.e6 f6 47.e7 Kf7 48.Qc7 R4b7 49.Qd8 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -203,6 +236,7 @@ Nxf5 27.gxf5 Qd2 28.Qg2 Qxc3 29.f6 Qxf6 30.Bxb7 Bb5 31.Rxe8+ Rxe8
 [White "Norri, Joose"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[WhiteTitle "IM"]
 [WhiteElo "2427"]
 [BlackElo "2048"]
 [TimeControl "7200"]
