@@ -254,9 +254,9 @@ Rd3+ 37.b3 Qe7+ 38.Qb4 0-1
 [Result "1-0"]
 [TimeControl "40/5400:1800"]
 
-1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 c6 6.dxc6 Qxc6 7.Qf3
-Qxc4 8.Na3 Qc6 9.b3 e5 10.Bb2 Bd6 11.Rc1 Qd7 12.Nc4 Nc6 13.Qg3 O-O
-14.Nf3 Bc7 15.Ncxe5 Qd5 16.O-O Nd7? (16...Rfe8 17.d4 Nd7 18.Qh4 Ndxe5
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 c6 6.dxc6 Qxc6 7.Qf3 Qxc4
+8.Na3 Qc6 9.b3 e5 10.Bb2 Bd6 11.Rc1 Qd7 12.Nc4 Nc6 13.Qg3 O-O 14.Nf3 Bc7
+(14...Nh5!) 15.Ncxe5 Qd5 16.O-O Nd7?? (16...Rfe8 17.d4 Nd7 18.Qh4 Ndxe5
 19.dxe5 Bxe5 20.Nxe5 Nxe5 21.Rfd1 Qa5 22.Qh5) 17.Nxc6! 1-0
 
 [Event "Casual Game"]

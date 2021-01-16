@@ -20,6 +20,7 @@
 [White "Höijärvi, Kari"]
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
+[Section "B"]
 [TimeControl "7200"]
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.e3 Bg4 7.exd6 Bxd6
@@ -311,6 +312,7 @@ Nxa1 14.e3 Be7 15.Qxg7 Bf6 16.Qh6 Qd7!? 17.Qxf6 Qa4+ 18.Ke1 Nc2+
 [White "Viljanen, Jouko"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "B"]
 [WhiteElo "1720"]
 [TimeControl "40/5400:1800"]
 

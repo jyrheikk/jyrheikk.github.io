@@ -115,6 +115,46 @@ c6 9.O-O O-O 10.Re1 Bxd4+ 11.Qxd4 cxb5 12.Bd2 Nc6 13.Qd3 Bf5 14.g4 Bxe4
 15.Rxe4 Qd7 16.f5 d5 17.Rae1 f6 18.Bf4 Rfd8 19.Re6 a6 20.g5 d4 21.Qb3 Qf7
 22.Kh1 d3?? 23.g6 1-0
 
+[Event "Heart of Finland"]
+[Site "Jyväskylä FIN"]
+[Date "1991.07.18"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Laitinen, Pauli"]
+[Result "1-0"]
+
+1.e4 e5 2.f4 exf4 3.Qf3 Nc6 4.c3 d6 5.d4 Bd7 6.Bxf4 Qe7 7.Bd3 O-O-O 8.Ne2 Re8
+9.O-O h5 10.Nd2? g5 11.Bg3 f5 12.exf5 g4 13.Qf2 Bh6 14.Nf4 h4 15.Ng6 Be3
+16.Nxe7+ Rxe7 17.Bf4 Bxf2+ 18.Rxf2 g3 19.Rff1 gxh2+ 20.Kxh2 Nf6 21.Bg5 Rf7
+22.Rf3 Ne7 23.Re1 Kd8 24.Ne4 Ng4+ 25.Kh3 Nh6 26.Bxh6? (26.Nf6!) Rxh6 27.Ng5
+Bxf5+ 28.Bxf5 Rxf5 29.Rxf5 Nxf5 30.Nf7+ Kd7 31.Nxh6 Nxh6 32.Kxh4 Nf5+ 33.Kh3
+Ne7 34.g4 Ke8 35.Rf1 a5 36.g5 b5 37.Kh4 c5 38.Kh5 cxd4 39.cxd4 Nd5 40.g6 Ke7
+41.g7 1-0
+
+[Event "Heart of Finland"]
+[Site "Jyväskylä FIN"]
+[Date "1991.07.21"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuomala, Tapio"]
+[Result "0-1"]
+[WhiteElo "1921"]
+[BlackElo "2072"]
+
+1.e4 e5 2.f4 exf4 3.Qf3 Qf6 4.c3 d6 5.d4 Qh4+ 6.g3 fxg3 7.hxg3 Qf6 8.Qg2 Nc6
+9.Bc4 Bg4 10.Be3 O-O-O 11.Nd2 h6 12.Ngf3 g5 13.Rf1 Qe7 14.O-O-O Nf6 15.Rde1
+Na5 16.Bd3 Qd7 17.Qf2 Bh5 18.Nh2 Bg7 19.e5 Ng4 20.Nxg4 Bxg4 21.exd6 Qxd6
+22.Qxf7? (22.Bf5+ Bxf5 23.Qxf5+ Qd7 24.Qxa5) Rd7 23.Bf5 Bxf5 24.Qxf5 Qa6??
+(24...b6) 25.Bxg5 Nc6 26.Bf4 (26.Ne4) Qxa2 27.Re3 Qf7 28.Qh3 Qd5 29.Rfe1 Kb8
+30.Nf3 Rdd8 31.Ne5 Nxe5 32.Bxe5 Bxe5 33.Rxe5 Qa2 34.Qg2 a5 35.Rb5 b6 36.Qc6
+(36.Re7!?) Qf7 37.Ree5 Qd7 38.Qc4 Rhe8 39.Red5 Qe7 40.Re5 Qd7 41.Rbd5 Qc8
+42.Rxa5! Rxe5 43.Rxe5 Qg4 44.Qd3 Rg8 45.Re3 Qg5 46.Kc2 Rf8 47.Qe2 Qg6+ 48.Kc1
+h5 49.Re6 Qg5+ 50.Kb1 Qf5+ 51.Kc1 Ka7 52.Re5 Qg6 53.Rxh5 Qxg3 54.Rh7??
+(54.Kb1) Qg1+ 55.Kd2 Rf2 56.Rxc7+ Kb8 57.Re7 Rxe2+ 58.Rxe2 Qb1 59.Ke3 Kc7
+60.Rd2 Kd6 61.Ke2 Kd5 62.Ke3 b5 63.Re2 Kc4 64.Rd2 Qg1+ 65.Rf2 Qe1+ 66.Re2 Qg3+
+67.Kd2 Kb3 68.Kc1 Qg1+ 69.Kd2 Kxb2 70.Kd3+ Kb3 71.Re3 Qg6+ 72.Ke2 Kc2 73.Rf3
+Qg4 74.Kf2 Kd2 75.Rg3 0-1
+
 [Event "SPS Firm League"]
 [Site "Helsinki FIN"]
 [Date "1992.10.15"]

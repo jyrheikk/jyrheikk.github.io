@@ -76,6 +76,28 @@ Bf4 20.a3? Nxd4 21.Kg2 e5 22.Rd3 Rd6 23.c5 Rf6 24.Rad1 Kd7 25.b4 Kc6
 26.a4 a5 27.bxa5 Kxc5 28.Rc3+ Kd6 29.Rb1 Rg6+ 30.Kf1?? Bh2 31.Rxb7
 Rg1# 0-1
 
+[Event "Finland Team Ch"]
+[Site "Espoo FIN"]
+[Date "2001.01.13"]
+[Round "5"]
+[White "Saren, Ilkka"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:D"]
+[Board "4"]
+[WhiteTeam "Suomalainen Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
+[WhiteTitle "FM"]
+[TimeControl "40/7200:1800"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Qxe2 Qxd5 6.Nf3 e6 7.O-O Be7 8.c4 Qh5
+9.Bf4 c6 10.Nc3 O-O 11.Rad1 Qf5 12.Bg3 Re8 13.a3 Nh5 14.Ne5 Na6 15.Rd3 Nf4
+16.Bxf4 Qxf4 17.Rfd1 Rf8 18.Rf3 Qh6 19.Rh3 Qf4 20.g3 Qf5 21.Rh5 g5 22.Rd3 Qf6
+23.Nd7 Qg6 24.Nxf8 Bxf8 25.g4 Rd8 26.b4 Bg7 27.Qd2 h6 28.Rhh3 Nc7 29.Rhf3 b5
+30.cxb5 cxb5 31.h3 a6 32.Qd1 Nd5 33.Nxd5 Rxd5 34.Rd2 Qe4 35.Rfd3 Qf4 36.Qf3
+Qxf3 37.Rxf3 Bxd4 38.Kg2 Rd6 39.Rc3 Bxc3 40.Rxd6 a5 41.Rd8+ Kg7 42.bxa5 Bxa5
+43.Rb8 1-0
+
 [Event "SPS Firm League"]
 [Site "Helsinki FIN"]
 [Date "2001.02.08"]
