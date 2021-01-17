@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="icon" type="image/x-icon" href="/pgn/chess.ico" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/pgn-viewer.css" />
+<title>Diemer–Duhm Gambit games of Jyrki Heikkinen</title>
+</head>
+
+<body>
+<h3>Diemer–Duhm Gambit (1.d4 d5 2.c4 e6 3.e4) games of Jyrki Heikkinen</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="qgd-tarrasch">Queen's Gambit Declined, Tarrasch (3...c5)</option>
+  <option value="semi-slav-marshall">Semi-Slav Marshall (3...c6)</option>
+  <option value="ddg-Bb4">DDG 4...Bb4 (3...dxe4 4.Nc3 Bb4)</option>
+  <option value="ddg-f5">DDG f5 (3...dxe4 4.Nc3 f5)</option>
+  <option value="ddg-kmoch">Kmoch Variation (3...dxe4 4.Nc3 Nf6 5.f3 Bb4)</option>
+  <option value="ddg-keres">Keres Variation (3...dxe4 4.Nc3 Nf6 5.f3 c5)</option>
+  <option value="ddg-charousek">Charousek Variation (3...dxe4 4.Nc3 Nf6 5.f3 Be7)</option>
+  <option value="ddg-misc">Rare miscellaneous (3... *)</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p id="shortUrl"></p>
+
+<p>[
+BDG <a href="/pgn/bdg/pgn.html">viewer</a> /
+<a href="/pgn/bdg/">PGN</a> |
+DDG <a href="/pgn/ddg/pgn.html">viewer</a> /
+<a href="/pgn/ddg/">PGN</a> |
+gambits <a href="/pgn/gambits/pgn.html">viewer</a> /
+<a href="/pgn/gambits/">PGN</a>
+]</p>
+
+<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+
+<script src="/pgn/js/pgnyui.js"></script>
+<script src="/pgn/js/pgnviewer.js"></script>
+<script src="/pgn/js/pgnfetch.js"></script>
+<script src="/pgn/js/pgnshorturl.js"></script>
+
+</body>
+</html>
