@@ -1649,3 +1649,17 @@ g5 28.Rf1 h5 29.a3 h4 30.Ka2 Kd6 31.Kb3 Kd5 32.Re1 b5 33.Rd1 a5 34.Re1 a4+
 e6 9.Be3 f6 10.h3 h5 11.c4 Qa5 12.hxg4 hxg4 13.Nh2?? Qh5 (13...Rxd4!) 14.Bf4
 f5 (14...Rxd4 15.Bxg4 Rxd1 16.Bxh5 Rxa1 17.Rxa1 Rxh5) 15.d5 Bd6 16.Qd2? g5
 17.dxc6 Bxf4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.02.03"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.e5 Bf5 3.d4 e6 4.g4 Bg6 5.h4 h6 6.Bg2 c5 7.c3 cxd4 8.cxd4 Bb4+ 9.Nc3
+Nc6 10.Nh3 Nge7 11.Nf4 Bh7 12.Be3 a6 13.Nh5 O-O 14.Qd2 Rc8? 15.Bxh6 Bxc3
+16.bxc3 Bg6 17.Bxg7 Re8 18.Qh6 f5 19.exf6 (19.Bf6) Bxh5 20.Qxh5 Rf8 21.fxe7
+Qxe7 22.Be5 Nxe5 23.Qxe5 Qf7 24.O-O Rxc3 25.g5 {no more moves recorded} 1-0
