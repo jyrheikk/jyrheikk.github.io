@@ -180,7 +180,7 @@ Rxd3 16.Ne2 Bg4 17.Nf4 Rxe3+ 18.fxe3 Qxc5 19.O-O Qxe3+ 20.Kh1 e5 21.Nd5 Qd2
 [Section "I division"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Remi"]
+[BlackTeam "Shakkiseura Remissi"]
 [WhiteElo "2030"]
 [BlackElo "2133"]
 [TimeControl "40/7200:1800"]
@@ -339,7 +339,7 @@ Ra2+ 29.Rxa2 bxa2 30.Ra1? (30.Be3) Rb8 31.Rh1?? (31.Rxa2 Bd2+ 32.Ka1 Bxa2
 [Section "II Division:1"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Remi 2"]
+[BlackTeam "Shakkiseura Remissi 2"]
 [WhiteElo "2059"]
 [BlackElo "1771"]
 [TimeControl "40/6600:1800+30"]
@@ -565,3 +565,19 @@ Rxc2 37.Kxc2 Bb3+ 38.Kd3 Bxe5 39.b6 Rc8? 40.b7? (40.Nxb3)  Bc4+ 41.Ke4 Bxa6??
 1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bc4 e5 6.Qh5 Qe7 7.Qxe5 Qxe5 8.dxe5
 Nc6 9.Bf4 Be7 10.Ne2 g5 11.Bg3 h5 12.h4 gxh4 13.Bxh4 Nxe5 14.Bxe7 Kxe7 15.Bd5
 f5 16.Nf4 h4 17.O-O-O c6 18.Bb3 Bd7 19.f3 {no more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.02.10"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bf4 Nc6 6.Bb5 e6 7.Qd2 Be7 8.O-O-O
+a6 9.Bxc6+ bxc6 10.f3 Qd5 11.b3 Ba3+ 12.Kb1 a5 13.Ne2 exf3 14.gxf3 (14.Nc3)
+Bb4 15.c3 Bd6 16.Rhg1 a4 17.b4 Ba6 18.Nc1?? Rg8?? (18...Qf5+) 19.Bh6 Qxf3
+20.Rde1 O-O-O 21.Bxg7 Bc4 22.Bh6 Rg6 23.h4 Rxh6 24.Qxh6 Qxc3 25.Qe3 Bxb4
+26.Qxc3 Bxc3 {no more moves recorded} 0-1
