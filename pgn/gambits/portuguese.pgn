@@ -1509,3 +1509,18 @@ more moves recorded} 1-0
 
 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Qd3 Nxd5 5.Nc3? Nb4 6.Qb5+ N8c6 7.Qa4 a6 8.a3 b5
 9.Bxb5 axb5 10.Qxb5 Nxc2+ 11.Kf1 Nxd4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.03.03"]
+[Round "9"]
+[White "Åberg, Tomi"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bb5+ Nbd7 6.c4 a6 7.Bxd7+ Qxd7 8.Ne2 e6
+9.dxe6 Qxe6 10.Qa4+ Nd7 11.Nc3 O-O-O 12.Bg5 f6 13.Bh4 Nb6 14.Qb3 Rxd4 15.Bf2
+Rd3 16.O-O g5?? (16...Qxc4) 17.Nd4 Qd7 18.Nxf5 Qxf5 19.Rad1 Rxd1 20.Rxd1 Bc5
+21.Ne4 Bxf2+ 22.Kxf2 g4 23.c5 Nd7 24.c6 Nb6?? (24...Nc5) 25.cxb7+?? (25.Qxb6)
+Kb8 26.Nc5?? Qxc5+ 27.Kg3 gxf3 0-1
