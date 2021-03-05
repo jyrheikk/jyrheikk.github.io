@@ -185,3 +185,23 @@ Ng4+) a5 8.Be2 h6 9.Be3 Bxe3 10.fxe3 fxe4 11.Nxe4 Nxe4 12.dxe4 Na6 13.O-O Be6
 14.Qe1 Nc5 15.Nd2 Qg5 16.Rxf8+ Rxf8 17.Bf3 Bxc4 18.Nxc4 Rxf3 19.Kh1? Nd3
 20.gxf3 (20.Qc3 Nf2+ 21.Kg1 Nh3+ 22.Kh1 Rf2 23.g3 Qh5) Nxe1 21.Rxe1 b6 {no
 more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "lichess.org"]
+[Date "2021.03.05"]
+[Round "?"]
+[White "Nevalainen, Olli-Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1200+10"]
+[Mode "ICS"]
+
+1.d4 f5 2.Nc3 Nf6 3.Bf4 e6 4.h3 Be7 5.e3 O-O 6.Bd3 d5 7.Nf3 c5 8.Nb5?! c4
+9.Nc7 cxd3 10.Nxa8 Na6 11.cxd3 Qa5+? 12.Nd2? (12.Ke2) Bd7 13.Rc1 Rxa8 14.a3
+Bb5 15.Rc3 Qd8 16.O-O Bd6 17.Bxd6 Qxd6 18.Nf3 Nc7? 19.Qd2 Nd7 20.Rfc1 Bc6
+21.Qc2 a5 22.a4 Na6 23.Nd2 Nb4 24.Qb1 Bxa4 25.Rc8+ Rxc8 26.Rxc8+ Nf8 27.Rc3
+Bb5 28.Nf3 Nc6 29.e4 dxe4 30.dxe4 g6 31.exf5 gxf5 32.Qd1 Ng6 33.Qd2 Qf4 34.Qe1
+Qd6 35.Qd2 Kg7 36.h4 h6 37.h5 Nf4 38.Ne5?? Ne2+ 39.Kh1 Nxc3 40.Qxc3 Qxd4
+41.Qg3+ Kf6 42.Nf3 Qg4 43.Qc7 Qxh5+ 44.Kg1 Qf7 45.Qf4 Kg7 46.Qg3+ Kh7 47.Qd6
+Ba6 48.Qg3 Qd7 49.Qh4 Qg7 50.Qf4 Be2 51.Nh4 Ba6 52.Qd6 Qe7 53.Qg3 Qf7 54.Qd6
+Nb4 55.Nf3 Nd5 56.Ne5 Qe7 57.Qa3 Qxa3 58.bxa3 Kg7 0-1
