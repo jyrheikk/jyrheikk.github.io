@@ -1524,3 +1524,23 @@ more moves recorded} 1-0
 Rd3 16.O-O g5?? (16...Qxc4) 17.Nd4 Qd7 18.Nxf5 Qxf5 19.Rad1 Rxd1 20.Rxd1 Bc5
 21.Ne4 Bxf2+ 22.Kxf2 g4 23.c5 Nd7 24.c6 Nb6?? (24...Nc5) 25.cxb7+?? (25.Qxb6)
 Kb8 26.Nc5?? Qxc5+ 27.Kg3 gxf3 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "lichess.org"]
+[Date "2020.02.03"]
+[Round "?"]
+[White "Varjokallio, Matti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1200+10"]
+[Mode "ICS"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Qxe2 Qxd5 6.Nf3 e6 7.O-O Be7 8.c4 Qf5
+9.Nc3 c6 10.h3 O-O 11.a3 a5 12.Be3 Bd6? 13.Nh4? (13.g4 Nxg4 14.Nh4) Qh5
+14.Qxh5 Nxh5 15.g3 Nd7 16.Ng2 Rfd8 17.d5 exd5 18.cxd5 cxd5 19.Nxd5 Nhf6 20.Nc3
+Bc5 21.Rfd1 Kf8 22.Kf1 Rac8 23.f4 Re8 24.Bxc5+ Nxc5 25.Re1 Nd3 26.Rxe8+ Kxe8
+27.Nb5 Ne4 28.Ke2 Nxb2 29.Kf3 f5 (29...Nd2+) 30.Re1 Rc2 31.Nd6+ Kd7 32.Nxe4
+fxe4+ 33.Rxe4 Nc4 34.Rd4+ Kc6 35.Ne3 Nxe3 36.Kxe3 Rc3+ 37.Rd3 Rxd3+ 38.Kxd3 b5
+39.g4? (39.Kd4) Kd5 40.h4 b4? (40...g6) 41.axb4 axb4 42.g5?? (42.h5) b3 43.g6
+h5 44.Kc3 Ke4 45.Kxb3 Kxf4 46.Kc4 Kg4 47.Kd5 Kxh4 48.Ke6 Kg5 49.Kf7 Kh6 50.Ke6
+h4 51.Kf5 h3 0-1
