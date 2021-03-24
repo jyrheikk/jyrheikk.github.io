@@ -851,3 +851,17 @@ Rxc6 16.Nxc6 Bd6 1-0
 9.Nf3 e6 10.Qd2 Be7 11.h4 Na5 12.b3 O-O 13.h5 f5 14.g6 fxe4 (14...h6 15.Bxh6)
 15.gxh7+ Kh8 16.Ne5 Bh4+ 17.Kd1 Kxh7 18.Ng6 (18.h6!) Rxf1+ 19.Rxf1 Nd5 20.Nxd5
 (20.Rf8) Qxd5 21.Nxh4 Qxh5+ 22.Kc1 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.03.24"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Lindholm, Arto"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 e6 8.Qxb7
+Nd7 9.Nf3 Rb8 10.Qc6 Rb6 11.Qa4 Bd6 12.Bb5 a6 13.Bc6 Ke7 14.O-O Nb8 15.d5 Nxc6
+16.dxc6 Bc5+ 17.Nd4 Bxd4+ 18.cxd4 Qd5 19.Qa3+ Kd8 20.Qg3 Bg6 21.c4 Qxc4 22.d5
+Re8?? 23.Be3 Rb5 24.Rac1 Qe4 25.d6 cxd6?? 26.Qxd6+ 1-0
