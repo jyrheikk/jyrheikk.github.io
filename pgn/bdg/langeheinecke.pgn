@@ -1405,3 +1405,18 @@ Re7 37.d6 (37.hxg6+) Qd2+ 38.Kg1 Re1?? 39.Qxd7 Qe3+ 40.Kg2 Rxf1?? 41.Qxf7+ Kh8
 9.h4 Nd5?? 10.Ncxd5 exd5 11.h5 Qe7 12.Kf2 O-O 13.hxg6 fxg6 14.Nxd5 Qe6 15.Bc4
 Kh8 16.Rxh7+ Kxh7 17.Nf6+ (17.Qh1+ Kg8 18.Ne7+) Rxf6 18.Bxe6 Rxe6 19.c4 Nd7
 20.Bg5 Rh8 21.c5 Be7 22.Qb3 1-0
+
+[Event "Casual Game"]
+[Site "lichess.org"]
+[Date "2021.03.25"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Kumar, Ashwin"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[Mode "ICS"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 g6 6.Qd2 Bg7 7.O-O-O O-O 8.Bh6 Nd5
+9.Ne4 Nd7 10.h4 N7f6 11.h5 Bf5 12.Bxg7 Kxg7 13.hxg6 Bxg6 14.Qh6+ Kg8 15.Bd3
+Nxe4 16.Bxe4 Nf6 17.Ne2 Nxe4 18.fxe4 f5 19.Nf4 Qd6 20.e5 Qa6 21.e6 Rf6 22.Nxg6
+Qxe6 23.Qxh7# 1-0
