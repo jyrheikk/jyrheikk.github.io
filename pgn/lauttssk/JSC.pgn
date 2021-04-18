@@ -516,7 +516,7 @@ Kg7 52.Qg5+ Kh7 53.Qf5+ Kg8 54.Qg5+ Kh8 55.Qf6+ Kg8 56.Qg5+ Kh7
 h6 12.O-O Bf6 13.g4 fxg4 14.Bxg4 (14.Bf4) Kg7 15.Bf4 Nxg4 16.Qxg4 Bd4+
 17.Kh1 Rf8? 18.Qh4 (18.Bxh6+! Kxh6 19.Qh4+ Kg7 20.Ng5 Rxf1+ 21.Rxf1
 Qh8 22.Rf7+ Kg8 23.Nh7 {+-}) Rxf4 19.Rxf4 Bf6 20.Qg3 (20.Rxf6! exf6
-21.Nf4 {+-}) b5 21.Rg1 g5 22.Rf5 Kh7 23.Nxg5+ hxg5 24.Rxg5 (24.Dh4+!)
+21.Nf4 {+-}) b5 21.Rg1 g5 22.Rf5 Kh7 23.Nxg5+ hxg5 24.Rxg5 (24.Qh4+!)
 Bxg5 25.Qxg5 Qf8 1-0
 
 [Event "Finland Team Cup 2012"]
@@ -632,7 +632,7 @@ Nge7 8.O-O Bxc3 9.bxc3 O-O 10.Ng5 Qd5 11.Bd3 h6 12.Ne4 Ne5 13.c4 Qc6
 [Black "Kauppala, Pekka"]
 [Result "1/2-1/2"]
 [Board "1"]
-[WhiteTeam "Shakkikerho Remi"]
+[WhiteTeam "Shakkiseura Remissi"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2219"]
 [BlackElo "2086"]
@@ -652,7 +652,7 @@ Nge7 8.O-O Bxc3 9.bxc3 O-O 10.Ng5 Qd5 11.Bd3 h6 12.Ne4 Ne5 13.c4 Qc6
 [Result "1-0"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Shakkikerho Remi"]
+[BlackTeam "Shakkiseura Remissi"]
 [WhiteElo "2035"]
 [BlackElo "2108"]
 
@@ -672,7 +672,7 @@ Ne6 21.R4d2 Qc5 22.Qb3 Qb6 23.Qa3 Qc5 24.Qa4 Qb6 25.Bd6 h6 26.Qa3 a6
 [Black "Piippo, Mikko"]
 [Result "1-0"]
 [Board "3"]
-[WhiteTeam "Shakkikerho Remi"]
+[WhiteTeam "Shakkiseura Remissi"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2082"]
 [BlackElo "1816"]
@@ -695,7 +695,7 @@ Kd7 39.Nb5 Ne8 40.Kc4 Nxd6+ 41.Nxd6 Kxd6 42.Kb5 Kc7 43.g4 f6 44.h4 g6
 [Result "0-1"]
 [Board "4"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Shakkikerho Remi"]
+[BlackTeam "Shakkiseura Remissi"]
 [WhiteElo "1772"]
 [BlackElo "2081"]
 
@@ -713,7 +713,7 @@ Qd7 27.Be3 Rf3 28.Rh1 Rxh3+ 0-1
 [Black "Turtiainen, Kimmo"]
 [Result "0-1"]
 [Board "5"]
-[WhiteTeam "Shakkikerho Remi"]
+[WhiteTeam "Shakkiseura Remissi"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2059"]
 [BlackElo "1800"]
@@ -740,7 +740,7 @@ Re2+ 44.Rf2 Rxf2+ 45.Kxf2 Kxf5 46.Ke3 g5 47.d4 Nd7 48.c4 h5 49.b4 Ke6
 [Result "1-0"]
 [Board "6"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Shakkikerho Remi"]
+[BlackTeam "Shakkiseura Remissi"]
 [WhiteElo "1695"]
 [BlackElo "1990"]
 
