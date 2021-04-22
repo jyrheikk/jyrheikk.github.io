@@ -34,17 +34,28 @@ Qc7 10.Ng5 Bf5 11.Nb5 Qd7 12.b4 a6 13.Nc3 Rad8 14.Nf3 Be6 15.Qa4 Rb8 16.Ng5 b5
 [Round "1"]
 [White "Kauppala, Pekka"]
 [Black "Suihko, Ismo"]
-[Result "1-0"]
+[Result "*"]
 [Variant "Chess960"]
 [FEN "nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w CGcg - 0 1"]
 
 1.g4 Nc6 2.c4 d6 3.Nc3 g6 4.e3 e6 5.d4 Bd7 6.Nb3 a6 7.f4 Be7 8.d5 exd5 9.cxd5
-Na7 10.Kc2 Nb6 11.Kb1 h6 12.Bd3 f5 13.g5 hxg5 14.fxg5 Qh5 15.h4 O-O-O 16.Nd4
-Rh8 17.Qg2 Qh7 18.Nce2 Qf7 19.Nf4 Kb8 20.Rh1 Rc8 21.Ba5 Qe8 22.Nfe6 Bxe6
-23.Nxe6 Qa4 24.Qd2 Nxd5 25.Bc4 Nxe3 26.Bxc7+ Rxc7 27.Nxc7 (27.b3) Nxc4 28.Qc3
-Rc8 (28...Ne5) 29.Nd5 Nb5 30.Qd3 Bd8 31.b3 Nca3+ 32.Kb2 Qa5? {+-} (32...Qg4!
-{-+}) 33.Rxc8+ Kxc8 34.h5 gxh5 35.g6 Bg5 36.g7 Qd8 37.Qxf5+ Kb8 38.Qf8 Bc1+
-39.Rxc1 1-0
+Na7 10.Kc2 Nb6 11.Kb1 h6 12.Bd3 f5 13.g5 hxg5 14.fxg5 Qh5 15.h4 {15...O-O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Espoo FIN"]
+[Date "2021.04.11"]
+[Round "1"]
+[White "Kauppala, Pekka"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Variant "Chess960"]
+[FEN "2kr2r1/nppbb3/pn1p2p1/3P1pPq/7P/1NNBP3/PP6/1KR1B1RQ w - - 0 16"]
+
+16.Nd4 Rh8 17.Qg2 Qh7 18.Nce2 Qf7 19.Nf4 Kb8 20.Rh1 Rc8 21.Ba5 Qe8 22.Nfe6
+Bxe6 23.Nxe6 Qa4 24.Qd2 Nxd5 25.Bc4 Nxe3 26.Bxc7+ Rxc7 27.Nxc7 (27.b3) Nxc4
+28.Qc3 Rc8 (28...Ne5) 29.Nd5 Nb5 30.Qd3 Bd8 31.b3 Nca3+ 32.Kb2 Qa5? {+-}
+(32...Qg4! {-+}) 33.Rxc8+ Kxc8 34.h5 gxh5 35.g6 Bg5 36.g7 Qd8 37.Qxf5+ Kb8
+38.Qf8 Bc1+ 39.Rxc1 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
