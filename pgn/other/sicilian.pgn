@@ -795,3 +795,23 @@ Qc5+ 26.Kb3 Bc2#) Bf5# 0-1
 23.Qe1 Bb5 24.b3 Qd7 25.Re6 Ne3 26.Rb6 Bxf4 27.Bxe3 dxe3 28.Qe2 Bxc4 29.bxc4
 Ra8 30.g3 Bh6 31.Kg2 Qe7 32.Rb5 Ra2 33.Rb8+ Kf7 34.Rb1 Qa7 35.Nh4 (35.Ne5+)
 Qa8+ 36.Nf3 g5 37.Rc1?? g4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2021.06.08"]
+[Round "1"]
+[White "Siikonen, Timo"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "2700+30"]
+[Mode "ICS"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 g6 4.Bb5 Bg7 5.Bxc6 bxc6 6.O-O Nf6 7.d3 O-O 8.Nc3 d6
+9.Bd2 Rb8 10.Rb1 Ne8 11.Qe1 f5 12.e5 d5? 13.Qh4 (13.Na4) Nc7 14.Ng5 h6 15.Nf3
+Be6 16.Qg3 Kh7 17.Nh4 Bf7 18.Qh3 Nb5 19.Ne2 d4 20.b3 Qd7 21.Ng3 Be6 22.Nf3 Kg8
+23.Ne2 Bf7 24.Rfe1 Qd5 25.Nh4 Kh7 26.Kh1 Qd7 27.Ng1 Rh8 28.Qg3 Qe6 29.Ngf3 Kg8
+30.Re2 Kf8 31.Qe1 Ke8 32.b4 Na3 33.Rb2 a5 34.c3 dxc3 35.Bxc3 axb4 36.Qd1 Nb5
+37.Be1 Rd8 38.g3 Qd5 39.Re3 Nd4 40.Kg1 g5! 41.fxg5 Bh5 42.g6 Bxe5? (42...Rf8)
+43.Rf2? (43.Rxe5) Bf6 44.Qd2 Bg5 45.Nxg5 hxg5 46.Ng2 Nf3+ 47.Rexf3 Bxf3
+48.Qxg5 Qxd3?? 49.g7 Rg8 50.Nf4?? (50.Qg6+ Kd7 51.Rd2) Bd5?? (50...Qe4 {-+})
+51.Nxd3 1-0
