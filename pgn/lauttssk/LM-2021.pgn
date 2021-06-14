@@ -225,3 +225,22 @@ Ng4+ 56.Kf4 Nxe3 57.h5 Nd5+ 58.Kg4?? Nf6+ 1/2-1/2
 
 1.e4 e6 2.Nf3 d5 3.Nc3 Bb4 4.Be2 a6 5.0-0 c5 6.d3 Nc6 7.Be3 d4 8.Bg5 f6 9.Qd2
 fxg5 10.Nxg5 e5 11.Rab1 b6 12.Qc1 dxc3 13.bxc3 Ba5 14.Rd1 Bxc3 15.Ne6 Bxe6 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2021.06.13"]
+[Round "1"]
+[White "Nevalainen, Olli-Matti"]
+[Black "Henttonen, Tero"]
+[Result "1/2-1/2"]
+[TimeControl "3600+30"]
+[Mode "ICS"]
+
+1.d4 Nf6 2.Nc3 e6 3.Bf4 d5 4.e3 c5 5.Nb5 Na6 6.a4 Bd7 7.c3 c4 8.Nf3 Nh5 9.Bg3
+Nxg3 10.hxg3 Be7 11.Qc2 h6 12.Be2 Nc7 13.Nxc7+ Qxc7 14.b4 a5 15.b5 Bd6 16.O-O
+f5 17.Nh4 Kf7 18.f4 Be7 19.Nf3 Bf6 20.Nh2 Rag8 21.g4 g6 22.g3 Ke7 23.Kf2 b6
+24.Rh1 Kd8 25.Rag1 fxg4 26.Nxg4 Bg7 27.Nh2 Bf8 28.Nf3 Bd6 29.Ke1 g5 30.Kd2 g4
+31.Nh4 h5 32.Rg2 Qc8 33.Rgh2 Kc7 34.Ng6 Be8 35.Nh4 Qd7 36.Rf1 Rf8 37.Rg2 Rh6
+38.e4 Qh7 39.e5 Be7 40.Qxh7 Rxh7 41.Rh2 Bxh4 42.Rxh4 Bg6 43.Rfh1 Rfh8 44.Bd1
+Kd7 45.Bc2 Bxc2 46.Kxc2 Ke7 47.Kd2 Kf7 48.Ke3 Kg6 49.Rf1 Kf5 50.Rf2 Rf8
+51.Rfh2 Kg6 52.Rf2 Kf5 1/2-1/2
