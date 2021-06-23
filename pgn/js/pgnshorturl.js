@@ -20,7 +20,7 @@ function waitGameChange() {
   }
 
   function getShortUrl() {
-    return window.location.href + '#' + getArgs();
+    return window.location.href.split('#')[0] + '#' + getArgs();
   }
 
   function getArgs() {
