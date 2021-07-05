@@ -12,7 +12,7 @@
   "london.pgn": 10,
 
   "owen.pgn": 8,
-  "sicilian.pgn": 49,
+  "sicilian.pgn": 50,
   "caro-kann.pgn": 15,
   "nimzowitsch.pgn": 7,
   "center-counter.pgn": 101,
@@ -31,5 +31,5 @@
   "benko.pgn": 5,
   "grob.pgn": 5,
   "misc.pgn": 35,
-  "fischer-random.pgn": 10
+  "fischer-random.pgn": 11
 }
