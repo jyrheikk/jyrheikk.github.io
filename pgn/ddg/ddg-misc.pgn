@@ -782,3 +782,17 @@ Nbc6 10.O-O-O Qd7 11.g3 Nf5 12.Bh3 (12.cxd5) Nfxd4 13.Qe3? Bc5 14.Kb1 b6?
 (14...Nxe5 15.Qxe5 f6 16.Qe3 (16.Bxf6 gxf6 17.Qxf6?? Qh7+)) 15.cxd5 Nf5
 16.dxc6 (16.Qe4) Qxc6?? 17.Qd3 (17.Rd8#) Bd7?? 18.Bg2 Qxg2 19.Qxd7+ Kf8
 20.Qd8+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2020.07.05"]
+[Round "Quarter-Final"]
+[White "Heikkinen, Jyrki"]
+[Black "Turtiainen, Kimmo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 Nc6 5.Be3 Bb4 6.g3 Nf6 7.Bg2 O-O 8.Ne2 Ne7
+9.Qc2 c6 10.O-O Ng6 11.Nxe4 Be7 12.h4 Qa5 13.a3 Ng4 14.c5 Qc7 15.h5 Nxe3
+16.fxe3 f5?? 17.hxg6 fxe4 18.gxh7+ Kh8 19.Nf4 Rf6 20.Bxe4 g5 21.Ng6+ Rxg6
+22.Bxg6 Qxg3+ 23.Qg2 Qxe3+ 24.Qf2 Qe5?? 1-0
