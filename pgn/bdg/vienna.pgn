@@ -865,3 +865,19 @@ Rxc6 16.Nxc6 Bd6 1-0
 Nd7 9.Nf3 Rb8 10.Qc6 Rb6 11.Qa4 Bd6 12.Bb5 a6 13.Bc6 Ke7 14.O-O Nb8 15.d5 Nxc6
 16.dxc6 Bc5+ 17.Nd4 Bxd4+ 18.cxd4 Qd5 19.Qa3+ Kd8 20.Qg3 Bg6 21.c4 Qxc4 22.d5
 Re8?? 23.Be3 Rb5 24.Rac1 Qe4 25.d6 cxd6?? 26.Qxd6+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.07.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Sjövall, Tiia"]
+[Result "1-0"]
+[TimeControl "480+4"]
+[Stage "Semi-Final"]
+[Termination "time forfeit"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6 6.g5 Nd5 7.Nxe4 e5 8.dxe5 Nc6
+9.Bb5 Nb4 10.Qe2? (10.Bf4) a6 11.Bxc6+ Nxc6 12.Bf4 Qe7?! 13.O-O-O Rd8 14.Rxd8+
+Kxd8 15.Qc4 Kc8 16.Ne2 Nxe5 17.Qc3 Nxf3? 18.Nd6+ (18.N2g3!) Kb8 19.Qxf3 cxd6
+20.Nc3 Qd7 21.Rd1 Qf5 1-0
