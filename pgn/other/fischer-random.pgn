@@ -4,14 +4,27 @@
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Wigelius, Pentti"]
-[Result "1-0"]
+[Result "*"]
 [TimeControl "600+5"]
 [Variant "Chess960"]
 [FEN "rknbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQRN w AGag - 0 1"]
 
 1.f4 f6 2.e3 e5 3.Bg3 e4 4.f5 Be7? 5.Qc4 Bd6 6.Qxe4 Bxg3 7.Nxg3 Nd6 8.Qd3 Bf7
-9.Bf3 O-O-O 10.Nce2 Bc4 11.Qa3 Nb5 12.Qa4 Qc5 13.d3 Bf7 14.Ne4 Qb6 15.c4 Nd6
-16.c5 Qb5? 17.Nxd6+ 1-0
+9.Bf3 {9...O-O-O} *
+
+[Event "Fischerandom Tournament"]
+[Site "Helsinki FIN"]
+[Date "2010.04.28"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Wigelius, Pentti"]
+[Result "1-0"]
+[TimeControl "600+5"]
+[Variant "Chess960"]
+[FEN "2kr1qrn/pppp1bpp/3n1p2/5P2/8/3QPBN1/PPPP2PP/RKN3R1 w GA - 5 10"]
+
+10.Nce2 Bc4 11.Qa3 Nb5 12.Qa4 Qc5 13.d3 Bf7 14.Ne4 Qb6 15.c4 Nd6 16.c5 Qb5?
+17.Nxd6+ 1-0
 
 [Event "Fischerandom Tournament"]
 [Site "Helsinki FIN"]
@@ -99,17 +112,28 @@ Kb8 30.Qc6 Rc8 31.Qxa6 Bd8 32.Qxb5+ Nb6 33.e4 Qf7 34.d7 Qc4+ 35.Qxc4 Nxc4
 [Round "2"]
 [White "Henttonen, Tero"]
 [Black "Heikkinen, Jyrki"]
+[Result "*"]
+[TimeControl "3000+30"]
+[Variant "Chess960"]
+[FEN "bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w CGcg - 0 1"]
+
+1.e4 c5 2.b3?? Bxh2 3.c4 Nc6 4.Ne3 Ng6 5.g3 Bxg1 6.Qxg1 e6 7.f4 b6 8.Nf2
+{8...O-O-O 9.O-O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.06.06"]
+[Round "2"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
 [Result "0-1"]
 [TimeControl "3000+30"]
 [Variant "Chess960"]
 [FEN "b1kr1qr1/p2p1ppp/1pn1p1n1/2p5/2P1PP2/1P2N1P1/P2P1N2/BBKR2Q1 b - - 3 9"]
 
-{bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN}
-{1.e4 c5 2.b3?? Bxh2 3.c4 Nc6 4.Ne3 Ng6 5.g3 Bxg1 6.Qxg1 e6 7.f4 b6 8.Nf2
-O-O-O 9.O-O-O} 9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7
-15.Na3 Nc6 16.Nd3 Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7
-22.Rg1 Rdg8 23.Rxg7 Qxg7 24.Nf2 Nb4 25.Nd3 Nxd3+ 26.Bxd3 Qg2 27.Qxh7 Qxd2+
-28.Bc2 Qc3+ 0-1
+9...f6 10.Qh2 Qf7 11.g4 Nd4 12.Bxd4 cxd4 13.Nc2 e5 14.f5 Ne7 15.Na3 Nc6 16.Nd3
+Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7 22.Rg1 Rdg8
+23.Rxg7 Qxg7 24.Nf2 Nb4 25.Nd3 Nxd3+ 26.Bxd3 Qg2 27.Qxh7 Qxd2+ 28.Bc2 Qc3+ 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -198,6 +222,7 @@ Kd8 50.a6 c5 51.Bb5 Nd6 52.Rd7+ 1-0
 [Black "Kauppala, Pekka"]
 [Result "*"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "bnnqrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNQRBKR w EHeh - 0 1"]
 
 1.e4 c5 2.Bc4? a6 3.Qh5 e6 4.a4 d5 5.Bf1 b6 6.exd5 exd5 7.Be2? Nc6 8.b3
@@ -211,6 +236,7 @@ d4 {9.O-O} *
 [Black "Kauppala, Pekka"]
 [Result "*"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "b1nqrbkr/5ppp/ppn5/2p4Q/P2p4/1P6/2PPBPPP/BNN1RRK1 b eh - 1 9"]
 
 9...Re5 10.Qh3 Nb4 11.Na3 Nd6 12.f4 Re6 13.Bf3 Rh6 (13...Ne4) 14.Qg3
@@ -225,6 +251,7 @@ Rh6 21.Qf3 Qd8 22.Nf2 Bxf2+ 23.Rxf2 {23...O-O} *
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "3q1rk1/2n2ppp/pp1n3r/2p1RP2/P2p4/NP3Q2/2PP1RPP/B5K1 w - - 0 24"]
 
 24.c3 dxc3 25.Bxc3 Re8 26.Re3 Rxe3 27.dxe3?! Qh4? 28.Be5 Nce8? 29.Bf4 Rf6
