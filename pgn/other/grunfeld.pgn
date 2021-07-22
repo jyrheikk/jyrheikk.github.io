@@ -408,3 +408,20 @@ Kg5 40.f4+ Kf6 41.Qd8+ Qe7 42.Qd4+ Kf5 43.Qd5+ Kg4 44.Re8 Qh4 45.f3# 1-0
 21.Bf1 Qf6 22.Re3 h5 23.g3 Nd5 24.Rd3 Rxc3 25.Rxc3 Nxc3 26.Qxc3 Qxc3 27.Rxc3
 Rd1 28.Rc7? (28.f4) Ba6 29.Rxa7 Bxf1 30.Kh2 Rd2 31.Kg1 Bxh3 32.Ra8+ Kg7 33.Rb8
 Bg4 34.Rxb6 Bf3 35.a4 Rd1+ 36.Kh2 Rh1# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.07.21"]
+[Round "?"]
+[White "Kumar, Ashwin"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Nf3 O-O 6.Ne5 b6 7.Qc2 Bb7 8.Bd2 Nbd7
+9.Nxd7 Qxd7 10.cxd5 Nxd5 11.f3 c5 12.Nxd5 Qxd5 13.dxc5 Rac8 14.Bb4 Qg5 15.Qf2
+a5 16.Ba3 bxc5 (16...Rfd8 17.cxb6?? Rc3! 18.f4 Qd5) 17.Rc1 Rfd8 18.Bc4 Bh6
+(18...Bd4! 19.f4 Qxg2) 19.Rc3 Bg7 20.Rc2 Kf8? 21.O-O h5 22.b3 Rd6 23.Rfc1 Rcd8
+24.Bf1 Rd1 25.Rxc5 Rxc1?? 26.Rxg5 Rb1 27.h4 Ba6 28.Kh2 Rxf1 29.Qg3 Bf6 30.Qc7
+Bxg5?? 31.Qxd8+ Kg7 32.hxg5 Rf2 33.Bxe7 1-0
