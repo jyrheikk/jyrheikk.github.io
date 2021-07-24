@@ -252,8 +252,8 @@ Kd7 45.Bc2 Bxc2 46.Kxc2 Ke7 47.Kd2 Kf7 48.Ke3 Kg6 49.Rf1 Kf5 50.Rf2 Rf8
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "*"]
-[Variant "Chess960"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "bnnqrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNQRBKR w EHeh - 0 1"]
 
 1.e4 c5 2.Bc4? a6 3.Qh5 e6 4.a4 d5 5.Bf1 b6 6.exd5 exd5 7.Be2? Nc6 8.b3
@@ -266,8 +266,8 @@ d4 {8...d4 9.O-O} *
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "*"]
-[Variant "Chess960"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "b1nqrbkr/5ppp/ppn5/2p4Q/P2p4/1P6/2PPBPPP/BNN1RRK1 b eh - 1 9"]
 
 9...Re5 10.Qh3 Nb4 11.Na3 Nd6 12.f4 Re6 13.Bf3 Rh6 (13...Ne4) 14.Qg3
@@ -281,8 +281,8 @@ Rh6 21.Qf3 Qd8 22.Nf2 Bxf2+ 23.Rxf2 {23.Rxf2 O-O} *
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
-[Variant "Chess960"]
 [TimeControl "40/5400:900+30"]
+[Variant "Chess960"]
 [FEN "3q1rk1/2n2ppp/pp1n3r/2p1RP2/P2p4/NP3Q2/2PP1RPP/B5K1 w - - 0 24"]
 
 24.c3 dxc3 25.Bxc3 Re8 26.Re3 Rxe3 27.dxe3?! Qh4? 28.Be5 Nce8? 29.Bf4 Rf6
@@ -336,3 +336,35 @@ Bxe5 23.Bxe5 f6 24.Bb2 Rcd8 25.e4 Rxd1+ 26.Rxd1 Nd6 27.Qxc5 Rd8 28.e5 fxe5
 35.Bxa5 Bxa2 36.Bxb4 Bxb3 37.c5 Ba4 38.Kf2 Kf7 39.Bc3 Nc6 40.Ke3 g5 41.fxg5
 hxg5 42.Bxc6? Bxc6 43.g3 Kg6 44.Kd4 Kf5 45.Ke3 Kg4 46.h4 gxh4 47.gxh4 Kxh4
 48.Kf4 Kh5 49.Ke5 Bd5 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.07.24"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Nevalainen, Olli-Matti"]
+[Result "*"]
+[TimeControl "3600+30"]
+[Variant "Chess960"]
+[FEN "qrkbbrnn/pppppppp/8/8/8/8/PPPPPPPP/QRKBBRNN w BFbf - 0 1"]
+
+1.Nf3 f5 2.d4 Nf6 3.e3 Nf7 4.Ng3 e6 5.Bb4 d6 6.Be2 Be7 7.c4 Bd7 (7...b5) {8.O-O
+O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.07.24"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Nevalainen, Olli-Matti"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+[Variant "Chess960"]
+[FEN "qr3rk1/pppbbnpp/3ppn2/5p2/1BPP4/4PNN1/PP2BPPP/QR3RK1 w - - 1 9"]
+
+9.Ne5 Rbd8 10.Nxd7 Rxd7 11.d5 exd5 12.Nxf5 dxc4 13.Bxc4 Qe8 14.b3 Kh8 15.Rbd1
+Bd8 16.Bc3 Ng5 17.Bb2 (17.f3 g6? 18.Ng3) Qe4 18.Ng3 Qe7 19.Qb1 Nfe4 20.Nxe4
+(20.Nh5!) Nxe4 21.Bd5 Nc5 22.b4 c6 23.Bxc6 (23.bxc5! cxd5 24.Rxd5 dxc5??
+25.Rh5) bxc6 24.bxc5 d5 25.Qc2 Rb7 26.Bd4 Bc7 27.Rb1 Rfb8 28.Rxb7 Rxb7 29.Qf5
+Rb8 30.Rb1 Rf8 31.Qg4 Qf7 32.f4 Ba5 33.Rb2 h5 34.Qg5 Bd8?? 35.Qh6+ Kg8 36.Qxc6
+Bg5 37.Rb7 Qf5 38.Rxg7+ 1-0
