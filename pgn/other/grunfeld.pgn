@@ -419,7 +419,7 @@ Bg4 34.Rxb6 Bf3 35.a4 Rd1+ 36.Kh2 Rh1# 0-1
 [Stage "Final"]
 [TimeControl "1200+10"]
 
-1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Nf3 O-O 6.Ne5 b6 7.Qc2 Bb7 8.Bd2 Nbd7
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Nf3 O-O 6.Bd2 b6 7.Ne5 Bb7 8.Qc2 Nbd7
 9.Nxd7 Qxd7 10.cxd5 Nxd5 11.f3 c5 12.Nxd5 Qxd5 13.dxc5 Rac8 14.Bb4 Qg5 15.Qf2
 a5 16.Ba3 bxc5 (16...Rfd8 17.cxb6?? Rc3! 18.f4 Qd5) 17.Rc1 Rfd8 18.Bc4 Bh6
 (18...Bd4! 19.f4 Qxg2) 19.Rc3 Bg7 20.Rc2 Kf8? 21.O-O h5 22.b3 Rd6 23.Rfc1 Rcd8
