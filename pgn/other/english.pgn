@@ -326,3 +326,17 @@ Ng4 20.cxd6 Qxd6 21.Nf3 Bd5 22.Qd4 Bf6 23.Qxa7 Ra8 24.Qc5 Qxc5 25.Rxc5 Rxa3
 Nc5 23.Bxc5 dxc5 24.Qxa5 c4 25.Nf4 Bg4 26.f3 g5 27.fxg4?? gxf4 (27...Bc5+)
 28.Kf2 Bc5+ 29.Ke1 Ra8 30.Qc3 Qh1+ 31.Kd2 Be3+ 32.Kc2 Qe4+ 33.Kd1 Rd8+ 34.Ke1
 Qh1# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.08.09"]
+[Round "?"]
+[White "Suihko, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.c4 e5 2.Nc3 f5 3.a3 Nf6 4.d3 Bc5 5.Bg5? Bxf2+ 6.Kxf2 Ng4+ 7.Ke1 Qxg5 8.Nf3
+Qe3 9.Qd2?? Qf2+ 10.Kd1 Ne3+ 11.Kc1 Nxf1 12.Nd1 Qxg2 13.Rg1?? (13.Qg5 Qxg5+
+(13...Qxh1?? 14.Qxg7 Rf8 15.Qxe5+ Kd8 16.Qg7 {=})) Qxg1 14.Nxg1 Nxd2 15.Kxd2
+0-1
