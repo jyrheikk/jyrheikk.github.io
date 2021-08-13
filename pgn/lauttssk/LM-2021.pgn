@@ -5,6 +5,7 @@
 [White "Kauppinen, Janne"]
 [Black "Koymatli, Nihal"]
 [Result "1-0"]
+[Section "B"]
 [Termination "time forfeit"]
 
 1.c4 c5 2.Nc3 Nf6 3.g3 e5 4.Bg2 Be7 5.d3 O-O 6.Nf3 Nc6 7.O-O d6 8.a3 Be6 9.Rb1
@@ -20,6 +21,7 @@ Qc7 10.Ng5 Bf5 11.Nb5 Qd7 12.b4 a6 13.Nc3 Rad8 14.Nf3 Be6 15.Qa4 Rb8 16.Ng5 b5
 [White "Sjövall, Tiia"]
 [Black "Paasonen, Pasi"]
 [Result "1-0"]
+[Section "B"]
 [Mode "ICS"]
 
 1.b3 Nf6 2.Bb2 e6 3.e3 Be7 4.f4 d5 5.Nf3 b6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O c5
@@ -35,6 +37,7 @@ Qc7 10.Ng5 Bf5 11.Nb5 Qd7 12.b4 a6 13.Nc3 Rad8 14.Nf3 Be6 15.Qa4 Rb8 16.Ng5 b5
 [White "Kauppala, Pekka"]
 [Black "Suihko, Ismo"]
 [Result "*"]
+[Section "A"]
 [Variant "Chess960"]
 [FEN "nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w CGcg - 0 1"]
 
@@ -48,6 +51,7 @@ Na7 10.Kc2 Nb6 11.Kb1 h6 12.Bd3 f5 13.g5 hxg5 14.fxg5 Qh5 15.h4 {15...O-O-O} *
 [White "Kauppala, Pekka"]
 [Black "Suihko, Ismo"]
 [Result "1-0"]
+[Section "A"]
 [Variant "Chess960"]
 [FEN "2kr2r1/nppbb3/pn1p2p1/3P1pPq/7P/1NNBP3/PP6/1KR1B1RQ w - - 0 16"]
 
@@ -64,6 +68,7 @@ Bxe6 23.Nxe6 Qa4 24.Qd2 Nxd5 25.Bc4 Nxe3 26.Bxc7+ Rxc7 27.Nxc7 (27.b3) Nxc4
 [White "Oiling, Alexander"]
 [Black "Mäntsälä, Juha"]
 [Result "0-1"]
+[Section "B"]
 
 1.e4 e6 2.d4 d5 3.e5 f6 4.Nf3 f5 5.Bd3 h6 6.O-O a6 7.Nbd2 Ne7 8.b3 Bd7 9.c4
 Bc6 10.Ba3 b5 11.c5 a5 12.b4 axb4 13.Bxb4 Na6 14.Ba3 Ng6 15.Qe2? Nf4 16.Qe3
@@ -82,6 +87,7 @@ Qg1+ 57.Ke2 Rxg7 58.Qxe6+ Kb7 0-1
 [White "Mäntsälä, Juha"]
 [Black "Sjövall, Tiia"]
 [Result "0-1"]
+[Section "B"]
 
 1.d4 Nf6 2.e3 d5 3.c4 c6 4.h3 Bf5 5.Nc3 e6 6.Nge2 dxc4 7.Ng3 b5 8.Nce2 Bd3
 9.b3 Qa5+ 10.Bd2 Bb4 11.Bxb4 Qxb4+ 12.Qd2 Nd5 13.Rc1 Qxd2+ 14.Kxd2 Bxe2
@@ -97,6 +103,7 @@ a3 29.Nb3 Nd5 30.Bxd5 exd5 31.Re2+ Kd6 32.Ra2 Rb8 33.Na5 Rxb4 34.Rxa3 Rb5
 [White "Valli, Kari"]
 [Black "Kauppinen, Janne"]
 [Result "0-1"]
+[Section "B"]
 [Termination "time forfeit"]
 
 1.d4 Nf6 2.Bf4 d6 3.Nf3 Bf5 4.Nbd2 h6 5.h3 Nbd7 6.e3 e6 7.g4 Bh7 8.g5 hxg5
@@ -113,6 +120,7 @@ gxf5 36.a3 Rh3+ 37.Kg2 Rd3 38.Nf3 Nxd5 39.cxd5 Rxd5 0-1
 [White "Koymatli, Nihal"]
 [Black "Oiling, Alexander"]
 [Result "0-1"]
+[Section "B"]
 
 1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.O-O?? Nxe4 7.d3 Nef6 8.Bf4
 e6 9.Qe2 Bc5 10.c3 Nb6 11.Bb3 O-O 12.d4 Bd6 13.Be3 Qc7 14.Rfe1 Ng4 15.Bg5
@@ -129,9 +137,10 @@ Nf3+?? 36.Bxf3 g5 37.Re5 Rae8 38.Rae1 Rxe5 39.Rxe5 g4 40.Bg2 Nf4 41.Bf1 Re8
 [White "Paasonen, Pasi"]
 [Black "Mäntsälä, Juha"]
 [Result "1-0"]
-[ECO "D02"]
+[Section "B"]
 [WhiteElo "1358"]
 [BlackElo "1332"]
+[ECO "D02"]
 
 1.Nf3 d5 2.d4 g6 3.Bf4 Nf6 4.e3 a6 5.c4 e6 6.Nc3 Bg7 7.Be2 O-O 8.O-O Re8 9.h3
 Nbd7 10.Re1 dxc4 11.Bxc4 Nb6 12.Bb3 c6 13.Rc1 Nfd5 14.Bg5 f6 15.Bh4 Nxc3
@@ -146,6 +155,7 @@ Kf8 30.Rf1+?? Qf7 31.Qg7+ Ke7 32.Rxf7+ Kd8 1-0
 [White "Oiling, Alexander"]
 [Black "Valli, Kari"]
 [Result "1-0"]
+[Section "B"]
 
 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.a3 Be7 6.e4 d5? 7.e5 Nfd7 8.cxd5 exd5
 9.Nxd5 c5 10.Nf3 Bb7 11.Bc4 Nc6 12.Be3 cxd4 13.Nxd4 Nxd4 (13...Ndxe5) 14.Bxd4
@@ -165,6 +175,7 @@ Kxh3 53.b8=Q Kxg4 54.Qb4+ Kf5 55.Kd6 g4 56.Kd5 Kg5 57.Qe4 f5 58.Qg2 Kf4
 [White "Suihko, Ismo"]
 [Black "Nevalainen, Olli-Matti"]
 [Result "0-1"]
+[Section "A"]
 [TimeControl "3600+25"]
 [Mode "ICS"]
 
@@ -184,6 +195,7 @@ Kd3 0-1
 [White "Siikonen, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[Section "A"]
 [TimeControl "2700+30"]
 [Mode "ICS"]
 
@@ -204,6 +216,7 @@ Be6 16.Qg3 Kh7 17.Nh4 Bf7 18.Qh3 Nb5 19.Ne2 d4 20.b3 Qd7 21.Ng3 Be6 22.Nf3 Kg8
 [White "Kauppinen, Janne"]
 [Black "Oiling, Alexander"]
 [Result "1/2-1/2"]
+[Section "B"]
 
 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 c5 5.cxd5 Nxd5 6.Nc3 cxd4 7.Nxd4 Bb4 8.Bd2 O-O
 9.Be2 e5 10.Nc2 Bf5 11.O-O Nxc3 12.bxc3 Bxc3 13.Bxc3 Qxd1 14.Bxd1 Rc8 15.Bxe5
@@ -222,6 +235,7 @@ Ng4+ 56.Kf4 Nxe3 57.h5 Nd5+ 58.Kg4?? Nf6+ 1/2-1/2
 [White "Koymatli, Nihal"]
 [Black "Paasonen, Pasi"]
 [Result "0-1"]
+[Section "B"]
 
 1.e4 e6 2.Nf3 d5 3.Nc3 Bb4 4.Be2 a6 5.O-O c5 6.d3 Nc6 7.Be3 d4 8.Bg5 f6 9.Qd2
 fxg5 10.Nxg5 e5 11.Rab1 b6 12.Qc1 dxc3 13.bxc3 Ba5 14.Rd1 Bxc3 15.Ne6 Bxe6 0-1
@@ -233,6 +247,7 @@ fxg5 10.Nxg5 e5 11.Rab1 b6 12.Qc1 dxc3 13.bxc3 Ba5 14.Rd1 Bxc3 15.Ne6 Bxe6 0-1
 [White "Nevalainen, Olli-Matti"]
 [Black "Henttonen, Tero"]
 [Result "1/2-1/2"]
+[Section "A"]
 [TimeControl "3600+30"]
 [Mode "ICS"]
 
@@ -252,6 +267,7 @@ Kd7 45.Bc2 Bxc2 46.Kxc2 Ke7 47.Kd2 Kf7 48.Ke3 Kg6 49.Rf1 Kf5 50.Rf2 Rf8
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "*"]
+[Section "A"]
 [TimeControl "40/5400:900+30"]
 [Variant "Chess960"]
 [FEN "bnnqrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNQRBKR w EHeh - 0 1"]
@@ -266,6 +282,7 @@ d4 {8...d4 9.O-O} *
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "*"]
+[Section "A"]
 [TimeControl "40/5400:900+30"]
 [Variant "Chess960"]
 [FEN "b1nqrbkr/5ppp/ppn5/2p4Q/P2p4/1P6/2PPBPPP/BNN1RRK1 b eh - 1 9"]
@@ -281,6 +298,7 @@ Rh6 21.Qf3 Qd8 22.Nf2 Bxf2+ 23.Rxf2 {23.Rxf2 O-O} *
 [White "Heikkinen, Jyrki"]
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
+[Section "A"]
 [TimeControl "40/5400:900+30"]
 [Variant "Chess960"]
 [FEN "3q1rk1/2n2ppp/pp1n3r/2p1RP2/P2p4/NP3Q2/2PP1RPP/B5K1 w - - 0 24"]
@@ -296,6 +314,7 @@ Rh6 21.Qf3 Qd8 22.Nf2 Bxf2+ 23.Rxf2 {23.Rxf2 O-O} *
 [White "Valli, Kari"]
 [Black "Sjövall, Tiia"]
 [Result "1/2-1/2"]
+[Section "B"]
 
 1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bg4 5.Be2 Bd6 6.h3 Bh5 7.Nf1 h6 8.Ng3 Bg6 9.b3
 Qa5+ 10.Nd2 Bb4 11.Bb2 d4 12.a3 Bxd2+ 13.Qxd2 Qxd2+ 14.Kxd2 Ne7 15.Rhf1 Nd7
@@ -312,6 +331,7 @@ Kf7 41.Kc4 Ke6 42.Kd4 f5 43.g3 g5 44.Ke3 Ke5 45.exf5 Kxf5 46.Kf3 1/2-1/2
 [White "Mäntsälä, Juha"]
 [Black "Koymatli, Nihal"]
 [Result "1-0"]
+[Section "B"]
 
 1.e4 e5 2.b3 Nf6 3.Nc3 Bc5 4.h3 d6 5.Nf3 O-O 6.Bc4 Nc6 7.O-O Qe8 8.d3 a6
 9.Bd5? Nxd5 (9...Ne7!) 10.Nxd5 Qd8 11.Rb1 Be6 12.Nc3 b5 13.Ne2 d5 14.exd5 Bxd5
@@ -327,6 +347,7 @@ bxc4 21.bxc4 Be6 22.f4 Nb4?? (22...f5) 23.Bxb4 axb4 24.Rxb4? (24.f5) Rxa2?
 [White "Sjövall, Tiia"]
 [Black "Kauppinen, Janne"]
 [Result "1/2-1/2"]
+[Section "B"]
 
 1.b3 d5 2.Bb2 Bf5 3.e3 e6 4.f4 Nf6 5.Nf3 h6 6.Be2 Nbd7 7.O-O Be7 8.d3 O-O
 9.Ne5 c5 10.Qe1 Rc8 11.Qg3 b5 12.Nd2 a5 13.Ndf3 b4 14.Nh4 Bh7 15.Rad1 Ne8
@@ -344,6 +365,7 @@ hxg5 42.Bxc6? Bxc6 43.g3 Kg6 44.Kd4 Kf5 45.Ke3 Kg4 46.h4 gxh4 47.gxh4 Kxh4
 [White "Heikkinen, Jyrki"]
 [Black "Nevalainen, Olli-Matti"]
 [Result "*"]
+[Section "A"]
 [TimeControl "3600+30"]
 [Variant "Chess960"]
 [FEN "qrkbbrnn/pppppppp/8/8/8/8/PPPPPPPP/QRKBBRNN w BFbf - 0 1"]
@@ -358,6 +380,7 @@ O-O} *
 [White "Heikkinen, Jyrki"]
 [Black "Nevalainen, Olli-Matti"]
 [Result "1-0"]
+[Section "A"]
 [TimeControl "3600+30"]
 [Variant "Chess960"]
 [FEN "qr3rk1/pppbbnpp/3ppn2/5p2/1BPP4/4PNN1/PP2BPPP/QR3RK1 w - - 1 9"]
@@ -376,6 +399,7 @@ Bg5 37.Rb7 Qf5 38.Rxg7+ 1-0
 [White "Kauppinen, Janne"]
 [Black "Paasonen, Pasi"]
 [Result "0-1"]
+[Section "B"]
 [WhiteElo "1492"]
 [BlackElo "1358"]
 [ECO "D38"]
@@ -388,3 +412,21 @@ Bd3 30.Nf3 f6 31.Ne1 Rb3 32.Qa1 Bf5 33.Ra7 Qc6 34.Ra6 Qd7 35.Nf3 Reb8 36.Nd2
 R3b4 37.Ra7 Qb5 38.Ra5 Qb7 39.Qc3 (39.Nxc4!) Bd3 40.Raa1 f5 41.Nf3 Rb3 42.Qa5
 Rb1 43.Ne1 Rxc1 44.Rxc1 Be2 45.g3 Kh8 46.Kg2 Qd7 47.Nc2 Qe6 48.f3?? Rb2 49.Qd2
 Bd3 50.Kf2 g5 51.Qc3 Ra2 52.Qd2 f4 53.exf4 Qxh3 54.Qe3 Rxc2+ 55.Rxc2 Qf1# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2021.08.12"]
+[Round "3"]
+[White "Suihko, Ismo"]
+[Black "Henttonen, Tero"]
+[Result "0-1"]
+[Section "A"]
+[Mode "ICS"]
+
+1.c4 e5 2.Nc3 Nf6 3.e4 Nc6 4.Nf3 Bb4 5.d3 h6 6.Bd2 d6 7.a3 Bc5 8.Be2 a6 9.O-O
+O-O 10.h3 Nd4 11.b4 Nxf3+ 12.Bxf3 Bd4 13.Rb1 Bd7 14.Ne2 Ba7 15.Ng3 Qc8 16.Kh2
+Nh7 17.Bg4 Bxg4 18.Qxg4 Qxg4 19.hxg4 Nf6 20.f3 Kh7 21.Nh5 Nxh5 22.gxh5 f5
+23.exf5 Rxf5 24.g4 Rf7 25.Kg3 Raf8 26.Rbe1 Bd4 27.Rb1 b5 28.Kg2 c6 29.Kg3 d5
+30.c5 Rd7 31.Rfe1 Rdf7 32.Rf1 g5 33.Rbe1 Kg7 34.Be3 Bc3 35.Re2 e4 36.dxe4 dxe4
+37.f4?? Be5 38.Ref2 Bc7 39.Bd4+ Kg8 40.Be5 e3 41.Bxc7 exf2 42.Rxf2 Rxc7 43.f5
+Rd7 0-1
