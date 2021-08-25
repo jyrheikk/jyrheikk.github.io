@@ -439,6 +439,7 @@ Rd7 0-1
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
 [Section "A"]
+[Mode "ICS"]
 
 1.e4 c5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 cxd4 6.Qxd4 Bg4 7.Be3 Qxd4 8.Nxd4
 e5 9.Nb3 Nf6 10.f3 Bh5 11.N1d2 Nd7 12.O-O-O b5 13.Na5 c5 14.c4 f6 15.Nb1 Bf7
@@ -446,3 +447,23 @@ e5 9.Nb3 Nf6 10.f3 Bh5 11.N1d2 Nd7 12.O-O-O b5 13.Na5 c5 14.c4 f6 15.Nb1 Bf7
 f5 23.exf5 gxf5 24.f4 e4 25.h4 Bd6 26.Nd2 a5 27.Kc2 a4 28.Nh5 Rhg8 29.Nf1 Ra8
 30.Rb1 Be7 31.Nd2 Nb8 32.Ng3 Nc6 33.Ne2 Rgd8 34.Rhd1? Rd3 35.Nf1? axb3+
 36.axb3 Ra2+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.08.12"]
+[Round "5"]
+[White "Paasonen, Pasi"]
+[Black "Valli, Kari"]
+[Result "0-1"]
+[Section "B"]
+[WhiteElo "1358"]
+[BlackElo "1507"]
+[ECO "E61"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Bf4 d6 5.Nc3 O-O 6.e3 Nbd7 7.Be2 c5 8.O-O h6 9.h3
+b6 10.Qc2 Bb7 11.Rad1 Nh5 12.Bh2 Nhf6 13.Rfe1 Rc8 14.b3 a6 15.Bd3 Bxf3 16.gxf3
+Nh7 17.d5 Ng5 18.Kg2 f5 19.Qd2 Ne5 20.Bxe5 dxe5 21.f4 Nh7 22.Bb1 Qd6 23.f3
+Rcd8 24.a4 g5 25.Ne2 gxf4 26.exf4 Qg6+ 27.Kf2 e4 28.Rg1 Qf6 29.Rg3 Rd6 30.Rdg1
+Qh4 31.Kf1 Rf7 32.fxe4 fxe4 33.Bxe4 Ng5 34.Bg2 Bd4 35.Nxd4 Rxf4+ 36.Nf3 Qxg3
+37.Qe2 Rdf6 38.Qxe7 Rxf3+ 39.Bxf3 Rxf3+ 40.Ke2 Qf2+ 41.Kd1 Qxg1+ 42.Kd2 Rf2+
+43.Kd3 Qd1+ 0-1
