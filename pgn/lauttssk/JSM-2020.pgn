@@ -725,3 +725,25 @@ Rf6 29.f4 Qf7 30.Qd2 Rc3 31.Rf2 Qc7 32.Raf1 Qe7 33.fxe5 Rxf2+ 34.Rxf2 dxe5
 O-O 9.O-O-O Re8 10.a3 Ba5 11.Nb3 e5 12.g4 Bxc3 13.Qxc3 b5 14.g5 Nh5 15.Qd2
 g6 16.Bh3 Nb8 17.Nc5 Re7 18.Qd6 Ng7 19.Rd2 Ne8 20.Qd5 Nc7 21.Qd3 Qe8
 22.Rhd1 Kg7 23.Qd6 Ne6 24.Qxe5+ Kg8 25.Nxe6 fxe6 26.Bd4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.08.21"]
+[Round "?"]
+[White "Olli-Pekka, Peitsalo"]
+[Black "Velagapudi, Vihan"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Matinkylän Shakkikerho 6"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 Ne7 7.Be2 c5 8.dxc5 Nc6
+9.O-O Ndxe5 10.Nxe5 Nxe5 11.Bf4 Nd7 12.Be3 Be7 13.a4 O-O 14.a5 a6 15.g4
+Bg6 16.f4 Be4 17.Bf3 Bxf3 18.Qxf3 Rc8 19.Qf2 Qc7 20.Kh1 Nxc5 21.Nd4 Ne4
+22.Qg2 Bf6 23.c3 Bxd4 24.Bxd4 f6 25.g5 fxg5 26.fxg5 Rxf1+ 27.Qxf1 Nxg5
+28.Qg2 Ne4 29.Rg1 e5 30.Be3 Rf8 31.h3 g6 32.Qg4 Nf2+ 33.Bxf2 Rxf2 34.Qg3
+Qf7 35.b4 Qf3+ 36.Qxf3 Rxf3 37.Kg2 Rxc3 38.Rf1 Kg7 39.Rd1 d4 40.Re1 Re3
+41.Rxe3 dxe3 42.Kf3 Kf6 43.Kxe3 Kf5 44.Kf3 e4+ 45.Ke3 g5 46.Ke2 Kf4 47.Kf2
+e3+ 48.Ke2 h5 49.Ke1 Kf3 50.b5 axb5 51.a6 bxa6 52.h4 g4 53.Kf1 b4 0-1
