@@ -467,3 +467,24 @@ Rcd8 24.a4 g5 25.Ne2 gxf4 26.exf4 Qg6+ 27.Kf2 e4 28.Rg1 Qf6 29.Rg3 Rd6 30.Rdg1
 Qh4 31.Kf1 Rf7 32.fxe4 fxe4 33.Bxe4 Ng5 34.Bg2 Bd4 35.Nxd4 Rxf4+ 36.Nf3 Qxg3
 37.Qe2 Rdf6 38.Qxe7 Rxf3+ 39.Bxf3 Rxf3+ 40.Ke2 Qf2+ 41.Kd1 Qxg1+ 42.Kd2 Rf2+
 43.Kd3 Qd1+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.08.23"]
+[Round "7"]
+[White "Mäntsälä, Juha"]
+[Black "Kauppinen, Janne"]
+[Result "0-1"]
+[Section "B"]
+
+1.c4 e6 2.Nc3 d5 3.e4 dxe4 4.Nxe4 Nf6 5.Nc3 c5 6.Nf3 Nc6 7.d3 Be7 8.Bf4 a6
+9.Be2 O-O 10.a3 h6 11.h4 Bd6 12.Bxd6 Qxd6 13.O-O Qe7 14.Re1 Rd8 15.Bf1 b6
+16.Ne5 Nd4 17.f4 Bb7 18.Re3 Nf5 19.Rh3 Nd7 20.Qg4 Nxe5 21.fxe5 Rd4 22.Ne4 Bxe4
+23.dxe4 Rad8 24.Be2 Qb7 25.Bf3 Qc7 26.Qf4 Rxc4 27.Qh2 Nd4 28.Rf1 Nc6 29.g3
+Nxe5 30.g4 Nxf3+ 31.Rhxf3 Qxh2+ 32.Kxh2 Rxe4 33.Rg3 Rdd4 34.Kh3 f6 35.b3 b5
+36.Rc1 c4 37.bxc4 Rxc4 38.Rxc4 Rxc4 39.g5 hxg5 40.hxg5 fxg5 41.Rxg5 Rc3+
+42.Kh4 Rxa3 43.Re5 Kf7 44.Re1 b4 45.Rb1 a5 46.Kg4 b3 47.Kf4 a4 48.Ke4 Ra2
+49.Kd3 Rh2 50.Kc3 e5 51.Kb4 Rh4+ 52.Ka3 Ke6 53.Rg1 Kf6 54.Rf1+ Rf4 55.Rc1 g5
+56.Rc6+ Kf5 57.Rb6 g4 58.Rc6 g3 59.Rc1 g2 60.Rg1 Rg4 61.Kb2 Kf4 62.Ka3 Kf3
+63.Kb2 Kf2 64.Rd1 g1=Q 65.Rxg1 Rxg1 66.Ka3 e4 67.Kxa4 b2 68.Ka3 b1=Q 69.Ka4
+Rg8 0-1
