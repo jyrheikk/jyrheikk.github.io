@@ -508,3 +508,44 @@ Rg8 0-1
 Ba8 30.Qa7 Nd2 31.Ba2 Nc4 32.Nf3 Nxa3 33.Rc7 Qf6 34.Ne5 Re8 35.Rd7 Nc4 36.Rf7
 Qh6 37.Qd7?? Nd6?? (37...Rxe5!) 38.Re7 Rxe7 39.Qxe7 Qh5 40.Qxd6 Qd1+ 41.Kf2
 Qd2+ 42.Kg3 Qxe3+ 43.Nf3 Qe8 44.Bxd5+ Bxd5 45.Qxd5+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.09.27"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "*"]
+[TimeControl "3600+30"]
+[Variant "Chess960"]
+[FEN "rqbnnbkr/pppppppp/8/8/8/8/PPPPPPPP/RQBNNBKR w AHah - 0 1"]
+
+1.b4 e5 2.Bb2 d6 3.d4 c6 4.e4 Nf6 5.Bd3 Be7 6.Ne3 (6.dxe5 dxe5 7.Nf3 Bd6
+8.Ne3) b5 7.Nf3 exd4 8.Nxd4 {8...O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.09.27"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "*"]
+[TimeControl "3600+30"]
+[Variant "Chess960"]
+[FEN "rqbn1rk1/p3bppp/2pp1n2/1p6/1P1NP3/3BN3/PBP2PPP/RQ4KR w AH - 1 9"]
+
+9.Ndf5 Bxf5 10.Nxf5 Qc7 11.Qc1 Ne6 {12.O-O}
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.09.27"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+[Variant "Chess960"]
+[FEN "r4rk1/p1q1bppp/2ppnn2/1p3N2/1P2P3/3B4/PBP2PPP/R1Q2RK1 b - - 4 12"]
+
+12...Kh8 13.f4 Ne8 $4 14.Nxe7 Qxe7 15.f5 Nd8 16.f6 Nxf6 17.Rxf6 gxf6 18.Qh6
+Ne6 19.Bxf6+ Qxf6 20.Qxf6+ Kg8 21.Rf1 1-0
