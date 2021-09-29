@@ -1663,3 +1663,16 @@ f5 (14...Rxd4 15.Bxg4 Rxd1 16.Bxh5 Rxa1 17.Rxa1 Rxh5) 15.d5 Bd6 16.Qd2? g5
 Nc6 10.Nh3 Nge7 11.Nf4 Bh7 12.Be3 a6 13.Nh5 O-O 14.Qd2 Rc8? 15.Bxh6 Bxc3
 16.bxc3 Bg6 17.Bxg7 Re8 18.Qh6 f5 19.exf6 (19.Bf6) Bxh5 20.Qxh5 Rf8 21.fxe7
 Qxe7 22.Be5 Nxe5 23.Qxe5 Qf7 24.O-O Rxc3 25.g5 {no more moves recorded} 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.09.29"]
+[Round "-"]
+[White "Graf, Lukas"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Bg4 4.Be2 Bxe2 5.Qxe2 c6 6.Nf3 Nxd5 7.Nxd5 Qxd5 8.O-O
+e6 9.b3 Bd6 10.g3 Nd7 11.c4 Qh5 12.Re1 O-O-O 13.Bb2 Rhg8 14.Rac1 g5 15.Nd4 g4
+(15...Qxe2! 16.Rxe2 Nc5) 16.c5 Bc7 (16...Be5!) 17.b4? (17.Nxc6! bxc6 18.Qa6+
+Kb8 19.Re4 Nxc5 20.Qxc6) Ne5 18.Kh1 Rxd4 19.Bxd4 Nf3 20.Bb2 Qxh2# 0-1
