@@ -865,3 +865,15 @@ f5 23.exf5 gxf5 24.f4 e4 25.h4 Bd6 26.Nd2 a5 27.Kc2 a4 28.Nh5 Rhg8 29.Nf1 Ra8
 Qc6 16.Qe2 Bd6 17.Bb2 Qc7 18.g3 h5 19.h4 Bxg3 20.fxg3 Qxg3+ 21.Qg2 Qxh4 22.Rf3
 Bc6 23.Qg3 Qg4 (23...Rd4!) 24.Qxg4 hxg4 25.Rg3 Bf3 26.Re1 Rh1+ 27.Kf2 Rh2+
 28.Ke3 Nd5# 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.10.06"]
+[Round "-"]
+[White "Graf, Lukas"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c5 2.c3 Nc6 3.Bb5 Qa5 4.Bxc6 dxc6 5.Nf3 Bg4 6.O-O O-O-O 7.h3 Bh5 8.Qb3
+Bxf3 9.gxf3 c4 10.Qxc4 Qg5+ 11.Kh1 e6 (11...Qh6) 12.d4 Qh5 13.Be3? Qxh3+
+14.Kg1 Nf6 15.a4 g5 16.d5?? Bd6 17.f4 gxf4 18.Bd4 Rhg8# 0-1
