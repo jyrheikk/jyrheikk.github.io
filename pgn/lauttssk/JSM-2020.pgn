@@ -747,3 +747,27 @@ Bg6 16.f4 Be4 17.Bf3 Bxf3 18.Qxf3 Rc8 19.Qf2 Qc7 20.Kh1 Nxc5 21.Nd4 Ne4
 Qf7 35.b4 Qf3+ 36.Qxf3 Rxf3 37.Kg2 Rxc3 38.Rf1 Kg7 39.Rd1 d4 40.Re1 Re3
 41.Rxe3 dxe3 42.Kf3 Kf6 43.Kxe3 Kf5 44.Kf3 e4+ 45.Ke3 g5 46.Ke2 Kf4 47.Kf2
 e3+ 48.Ke2 h5 49.Ke1 Kf3 50.b5 axb5 51.a6 bxa6 52.h4 g4 53.Kf1 b4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Akaa FIN"]
+[Date "2021.10.17"]
+[Round "?"]
+[White "Tuomala, Tapio"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Akaan Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2085"]
+[BlackElo "2084"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.Bc4 Bg4 6.h3 Bh5 7.Qe2 e6 8.d3 c6
+9.Bd2 Qc7 10.g4 Bg6 11.Ne5 Bd6 12.f4 Bxe5 13.fxe5 Nd5 14.O-O-O Nxc3 15.Bxc3 b5
+16.Bb3 c5 17.h4 h5 18.gxh5 Bxh5 (18...Rxh5? 19.Bxe6) 19.Qg2 Bxd1 20.Qxa8 O-O?
+(20...Bh5) 21.Qg2 Bh5 22.Qg5 g6 23.Rg1 c4 24.dxc4 bxc4 25.Ba4 Bf3 26.h5 Qd8
+27.Qf4 Bxh5 28.Bb4? Qb6 29.Qh2 Qxb4 30.Qxh5 Kg7? (30...Qxa4 31.Qh6 Qxa2 32.Rh1
+Qa1+ 33.Kd2 Rd8+ 34.Ke2 Qxh1 35.Qxh1 Rd5 {=}) (30...c3 31.Bb3 Kg7 {-/+})
+31.Qg5? (31.Qh4) Rh8? (31...c3!) 32.Qf6+ Kg8 33.Be8 Rh7 (33...Qb7 34.Bxf7+)
+34.Qd8 (34.Bxf7+ Rxf7 35.Rxg6+ Kf8 36.Qd8#) Qb6 35.Bxf7+ Kxf7 36.Rf1+ Kg7
+37.Qf8# 1-0
