@@ -1687,7 +1687,7 @@ Kb8 19.Re4 Nxc5 20.Qxc6) Ne5 18.Kh1 Rxd4 19.Bxd4 Nf3 20.Bb2 Qxh2# 0-1
 [Result "1-0"]
 [Section "I Division:1"]
 [Board "2"]
-[WhiteTeam "Akaan Shakkikerho"]
+[WhiteTeam "Akaan Shakki"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [WhiteElo "2085"]
 [BlackElo "2084"]
@@ -1702,3 +1702,20 @@ Qa1+ 33.Kd2 Rd8+ 34.Ke2 Qxh1 35.Qxh1 Rd5 {=}) (30...c3 31.Bb3 Kg7 {-/+})
 31.Qg5? (31.Qh4) Rh8? (31...c3!) 32.Qf6+ Kg8 33.Be8 Rh7 (33...Qb7 34.Bxf7+)
 34.Qd8 (34.Bxf7+ Rxf7 35.Rxg6+ Kf8 36.Qd8#) Qb6 35.Bxf7+ Kxf7 36.Rf1+ Kg7
 37.Qf8# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.09.29"]
+[Round "-"]
+[White "Minin, Igor"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Bg4 4.Bc4 Nxd5 5.d4 e6 6.h3 Bh5 7.O-O Nc6 8.Qd3 Bxf3
+(8...Ndb4) 9.Qxf3 Nxd4 10.Qd1 Nf5 11.Re1 Nf6 12.Bf4 Nd6 13.c3 Nxc4 14.Qa4+ Qd7
+15.Qxc4 O-O-O 16.Na3 Nd5 17.Rad1 Bd6 18.Bxd6 Qxd6 19.Nb5 Qb6 20.b4 a6 21.a4??
+axb5 22.axb5 c6 23.bxc6 Qxc6 24.Qg4 f5 25.Qxg7 Rhg8 26.Qe5? Rxg2+ 27.Kxg2 Ne3+
+28.Kg3 Qg2+ (28...Rg8+!) 29.Kh4 Qxf2+ 30.Kg5 Rg8+ (30...h6+!) 31.Kf6 Rg6+??
+(31...Ng4+! 32.hxg4 fxg4+ 33.Ke7 Qf8+ 34.Kxe6 Qh6+ 35.Ke7 Rg7+ 36.Kf8 Rg5+)
+32.Kf7 Nxd1 33.Rxd1 Qh4 34.Qh8+ Kc7 35.Qe5+ (35.Rd4 Qg5 36.Qe5+ Kb6 37.Qc5+
+Ka6 38.Qa5#) Kc8 36.Qh8+ Kc7 37.Qe5+ Kc8 38.Qh8+ 1/2-1/2
