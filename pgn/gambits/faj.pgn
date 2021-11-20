@@ -764,6 +764,7 @@ Nxc3 9.Qxc3 a5 10.Bd2 g5 11.Nd4 Qd7 12.Nxe6 fxe6 13.Be2 h5 14.O-O g4
 [Result "1-0"]
 [WhiteElo "2423"]
 [WhiteElo "2041"]
+[WhiteTitle "IM"]
 [TimeControl "1200+10"]
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5.Qc2 f5 6.exf6 Nxf6 7.Nc3 Be7
@@ -1161,9 +1162,9 @@ more moves recorded} 0-1
 [Board "1"]
 [WhiteTeam "Matinkylän Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
-[WhiteTitle "GM"]
 [WhiteElo "2389"]
 [BlackElo "2030"]
+[WhiteTitle "GM"]
 [TimeControl "300"]
 [Termination "time forfeit"]
 
@@ -1895,3 +1896,29 @@ Nd4 9.Ndf3 Nc2+ 10.Kd2 dxc4+ 11.Kc3 0-1
 14.O-O-O?? Ne4 15.Rxd8+ Rxd8 16.Qe3 Nb4 (16...Nxf2! 17.Qxf2 Qe4) 17.Nfd4 Bg6
 (17...Nxa2+! 18.Kb1 Nb4) 18.Bh3+ Kb8 19.a3 c5 (19...Na2+! 20.Kd1 c5) 20.Nb5
 Na2+ 21.Kb1 Nec3+?? (21...Nxf2+ {-+}) 22.Ka1 {no more moves recorded} 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.11.20"]
+[Round "?"]
+[White "Norri, Joose"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Helsingin Shakkiklubi"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2244"]
+[BlackElo "2074"]
+[WhiteTitle "IM"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.Nbd2 Bb4 6.a3 Bxd2+ 7.Bxd2 Nxd2 8.Qxd2
+Qe7 9.Qc3 O-O 10.O-O-O Re8 11.Rd5 b6 (11...d6) 12.g3 Bb7 13.Bh3 Rad8 14.Rhd1
+Nb8 15.e4?! Bxd5 16.exd5 c5 17.Re1 Qf8 18.Re4 f5 19.Rf4 g6 20.Bf1 Qg7 21.Bd3
+Na6 22.Kc2 Nc7 23.h4 h5 24.Kb3 Rf8 25.Bf1 Rde8 26.Bg2 Kh8 27.Ka2 d6 28.e6 Qxc3
+29.bxc3 Kg7 30.Ng5 Rb8 31.Rf3 (31.Nf7? Rxf7 32.exf7 Kxf7) Rfc8 32.Bf1 a6
+(32...Kf6) 33.a4 Kf6 34.Re3 Ke7 35.f3 b5 36.a5 Rb7 37.g4 hxg4 38.fxg4 fxg4
+39.Rg3 Rcb8 40.Rxg4 bxc4 41.Bxc4 Rb2+ 42.Ka3 Rb1 43.Ne4 Ra1+ 44.Ba2 Nxd5
+45.Rxg6 c4 (45...Ne3?? 46.Rg7+ Kf8 47.Rf7+ Kg8 48.Nf6+ Kh8 49.Rh7#) 46.Rg2
+Rb3+ 47.Ka4 Ne3 48.Rh2 Nd1 0-1
