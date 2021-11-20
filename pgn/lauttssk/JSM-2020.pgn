@@ -907,6 +907,27 @@ Rb3+ 47.Ka4 Ne3 48.Rh2 Nd1 0-1
 [Site "Helsinki FIN"]
 [Date "2021.11.20"]
 [Round "?"]
+[White "Ashwin Kumar"]
+[Black "Jyrki Parkkinen"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi"]
+[ECO "D06"]
+
+1.d4 d5 2.c4 c5 3.cxd5 Nf6 4.Nf3 cxd4 5.Qxd4 Qxd5 6.Nc3 Qxd4 7.Nxd4 a6 8.g3 e5
+9.Nf3 Nc6 10.Bg2 Bb4 11.Bd2 Be6 12.a3 Be7 13.Ng5 Bb3 14.O-O Rd8 15.Bc1 O-O
+16.Nge4 Nxe4 17.Bxe4 f5 18.Bg2 Rd7 19.e4 Bc4 20.Rd1 Rxd1+ 21.Nxd1 f4 22.Bf1
+Bb3 23.Nc3 Nd4 24.Bd3 Bc5 25.gxf4 exf4 26.Bb1 g5 27.Ba2 Bxa2 28.Nxa2 Rd8 29.b4
+Bb6 30.Nc3 Nb3 31.Rb1 Nxc1 32.Rxc1 Rd2 33.Nd1 Kf7 34.Kf1 Ke6 35.Ke1 Ra2 36.Rc3
+Ke5 37.Rh3 Bd4 38.Rxh7 Kxe4 39.Rxb7 Kf3 40.Rh7 g4 41.h4 Re2+ 42.Kf1 Bxf2
+43.Nxf2 Rxf2+ 44.Ke1 g3 45.Rc7 Ra2 46.a4 g2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.11.20"]
+[Round "?"]
 [White "Suihko, Ismo"]
 [Black "Khanov, Pavel"]
 [Result "0-1"]
