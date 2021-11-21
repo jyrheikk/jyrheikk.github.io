@@ -17,7 +17,7 @@
   "nimzowitsch.pgn": 7,
   "center-counter.pgn": 104,
   "austrian.pgn": 52,
-  "pirc.pgn": 64,
+  "pirc.pgn": 62,
   "open.pgn": 4,
   "italian.pgn": 3,
   "scotch.pgn": 7,
@@ -30,6 +30,6 @@
   "bird.pgn": 6,
   "benko.pgn": 5,
   "grob.pgn": 5,
-  "misc.pgn": 36,
+  "misc.pgn": 38,
   "fischer-random.pgn": 13
 }
