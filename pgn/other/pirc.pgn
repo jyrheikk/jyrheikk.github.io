@@ -1064,3 +1064,22 @@ Nd6 16.Nxh7 c5?? 17.Nxf8 Kxf8 18.Bxg6 Nf5 19.Bxf5 exf5 20.Qh5 Nc6 21.Ne2 c4
 9.Bxf6 Bxf6 10.e5 Bg7 (10...Bd7! 11.exf6? Bc6) 11.e6 (11.Qf3) Rb8 12.dxc5 b6
 13.Nf3 Bb7 14.Qg5 bxc5 15.Nbd2 Bxf3 16.Nxf3 Rxb2 17.O-O Bxc3 18.Nh4 (18.Rab1)
 Bf6 19.Qh6+ Bg7 20.Qxg6 (20.Qxh7!) h6? 21.Qh7 Rxh7 22.Ng6# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.11.22"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bd3 Bg7 5.h4 h6 6.e5 dxe5 7.dxe5 Nd5 8.Bb5+ c6
+9.Qxd5 cxb5 10.Qxd8+ Kxd8 11.f4 a6 12.Be3 Bg4 13.Bb6+ Kc8 14.Nh3 Nd7 15.Be3 g5
+16.g3 e6 17.Kf2 gxf4 18.gxf4 Bf5 19.Kf3 Kc7 20.Nf2 Nb6 21.Nce4 Nc4 22.Bd4 Rad8
+23.Rad1 Rd5 24.b3 Rhd8 25.Nd6 Na3 26.Nxf5 (26.Bb6+! Kxb6 27.Rxd5 exd5 28.Nxf5)
+exf5 27.c3 b4 28.Rc1 bxc3 29.Bxc3 Kb8 30.Bb2 Nb5 31.Rhd1 Rd2? (31...Bf8) 32.a4
+Nc7 33.Ba3 Rxd1 34.Rxd1 Nd5 35.Bd6+ Nc7 36.Rg1 Bh8 37.Rc1 Rd7 38.Nd3 (38.Nd1!)
+b6 39.Nb4 Kb7 40.Bxc7 Rxc7 41.Rxc7+ Kxc7 42.Nd5+ Kc6 43.Ne7+ Kc5 44.Nxf5 h5
+45.Ke4 Kb4 46.Nd6 Kxb3 47.Nxf7 Bg7 48.f5 Kxa4 49.f6 Bf8 50.e6 b5 51.e7 1-0
