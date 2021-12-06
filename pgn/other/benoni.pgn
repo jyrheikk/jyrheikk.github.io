@@ -241,16 +241,16 @@ Nxf5 27.gxf5 Qd2 28.Qg2 Qxc3 29.f6 Qxf6 30.Bxb7 Bb5 31.Rxe8+ Rxe8
 [BlackElo "2048"]
 [TimeControl "7200"]
 
-1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 Bd6 6.g3 O-O 7.Bg2 Bc7 8.d6
-Ba5 9.Nh3 Nc6 10.O-O Bxc3 11.bxc3 b5 12.a4 b4 13.cxb4 cxb4 14.Bb2 a5
-15.e4 Ba6 16.Re1 Rc8 17.f4 Qb6+ 18.Kh1 Ne8 19.Qg4?! Nd4 20.Rad1? Nc2
-21.Ng5 Nxe1 22.Qf5 g6 23.Qe5 Rc3 (23...f6!?) 24.Rxe1 f6 25.Qd5+ Kg7
-26.Nf3? Nxd6? (26...Rxf3! {-+}) 27.e5 Bb7 28.Qxd6 Qxd6 29.exd6 Bxf3
-30.Bxc3 Bxg2+ 31.Kxg2 bxc3 32.Re7+ Kg8 33.Rxd7 c2 34.Rc7 Rd8 35.Rxc2
-Rxd6 36.Rc5 Ra6 37.Kf3 f5 38.Ke3 h5 39.Kd4 Kf7 40.Kc4 Ra8 41.Rc7+ Ke6
-42.Rc6+ Kf7 43.Kb5 h4 44.gxh4 Rh8 45.Rc2 Rxh4 46.Rf2 Rh3 47.Kxa5 Rb3
-48.Rc2 Kg7 (48...Kf6) 49.Rc4 Kh6 50.Rb4 Rh3 51.Kb5 g5 52.a5 Rxh2 53.a6
-gxf4 (53...Ra2 54.Ra4 Rb2+ 55.Kc6 {+-}) 54.a7 1-0
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 Bd6 6.g3 O-O 7.Bg2 Bc7 8.d6 Ba5
+9.Nh3 Nc6 10.O-O Bxc3 11.bxc3 b5 12.a4 b4 13.cxb4 cxb4 14.Bb2 a5 15.e4 Ba6
+16.Re1 Rc8 17.f4 Qb6+ 18.Kh1 Ne8 19.Qg4?! Nd4 20.Rad1? Nc2 21.Ng5 Nxe1 22.Qf5
+g6 23.Qe5 Rc3 (23...f6!?) 24.Rxe1 f6 25.Qd5+ Kg7 26.Nf3? Nxd6? (26...Rxf3!
+27.Bd4 Qxd6 28.Qxd6 Nxd6 29.Bxf3 Re8 {-/+}) 27.e5 Bb7 28.Qxd6 Qxd6 29.exd6
+Bxf3 30.Bxc3 Bxg2+ 31.Kxg2 bxc3 32.Re7+ Kg8 33.Rxd7 c2 34.Rc7 Rd8 35.Rxc2 Rxd6
+36.Rc5 Ra6 37.Kf3 f5 38.Ke3 h5 39.Kd4 Kf7 40.Kc4 Ra8 41.Rc7+ Ke6 42.Rc6+ Kf7
+43.Kb5 h4 44.gxh4 Rh8 45.Rc2 Rxh4 46.Rf2 Rh3 47.Kxa5 Rb3 48.Rc2 Kg7 (48...Kf6)
+49.Rc4 Kh6 50.Rb4 Rh3 51.Kb5 g5 52.a5 Rxh2 53.a6 gxf4 (53...Ra2 54.Ra4 Rb2+
+55.Kc6 {+-}) 54.a7 1-0
 
 [Event "SPS Firm League"]
 [Site "Helsinki FIN"]
@@ -642,7 +642,7 @@ Nxc5 38.Ne3 Rf3 39.Nxc4 Rxc3 40.Nxe5 Bf5 41.g4 hxg4 42.Nfxg4 Nd3 43.Rb1 Nf4+
 fxe6 10.Bc4 Qe7 11.O-O Ng4 12.Bc1 Nc6 13.h3 Nf6 14.f5? Kh8? 15.fxg6 hxg6
 16.Bg5 Bd7 17.Qe1 Qe8 18.Qh4+ Nh7 19.Be3 Kg8 20.Rad1 Nd4 21.Ng5? (21.Nxd4)
 Nxg5 22.Rxf8+ Qxf8 23.Bxg5 Qe8 24.Be7 Be5 25.Rf1 Nxc2?? 26.Rf8+? (26.Nd5!!
-{+-} exd5 27.Bxd5+ Kg7 28.Rf4!!) Qxf8 27.Bxf8 Rxf8 28.Qe7 Rf7 29.Bxe6 Bxe6
+{+-} exd5 27.Bxd5+ Kg7 28.Bg5!) Qxf8 27.Bxf8 Rxf8 28.Qe7 Rf7 29.Bxe6 Bxe6
 30.Qxe6 Kg7 31.Nd5 Nd4 32.Qg4 b5 33.axb5 axb5 34.Ne3 (34.h4) b4 35.h4 Rf4
 36.Qg5?? (36.Qd7+) Ne2+ 37.Kh1 Bf6 38.Qd5 Rxh4# 0-1
 
@@ -667,3 +667,24 @@ e6 10.dxe6 Bxe6 11.Nh3 Bxh3 12.Rxh3 d5 13.Bxg7 Kxg7 14.Bxa6 bxa6 15.Nxd5 Nxd5
 16.exd5 Re8+ 17.Kf1 Qf6 18.c4? Rab8 19.Rb1 Rb7 (19...Re4!) 20.Kg1 (20.b3) Kg8
 21.g4? hxg4 22.fxg4 Re4 23.g5 Qf5 24.Rg3 Rd4 (24...Rg4) 25.Qe1 {no more moves
 recorded} 0-1
+
+[Event "Finland Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.05"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Al Argha, Hisham"]
+[Result "1-0"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Matinkylän Shakkikerho 2"]
+[WhiteElo "2089"]
+[BlackElo "2100"]
+[BlackTitle "FM"]
+[TimeControl "900+5"]
+
+1.d4 Nf6 2.f3 c5 3.d5 d6 4.e4 e6 5.c4 exd5 6.cxd5 Be7 7.Nc3 O-O 8.Be3 Na6
+9.Qd2 Nc7 10.Bd3 Rb8 11.a4 b6 12.Nge2 a6 13.h4 Re8 14.h5 b5 15.g4 b4 16.Nd1
+Bxg4 17.fxg4 Nxg4 18.Ng3 (18.Bf4) Ne5?? (18...Nxd5) 19.O-O Qd7 20.Nf5 Bf6
+21.Be2 c4 22.Bg5 (22.Rc1) Qd8 23.Nh6+ Kh8 24.Bxf6 gxf6 25.Qf4 Rf8 26.Ne3 c3
+27.b3 Ne8 28.Rf2 Ng7 29.Nc2 Nxh5?? 30.Bxh5 1-0
