@@ -382,7 +382,7 @@ hxg3 28.f3 g2+ (28...Nf2!) 29.Rxg2 Nxg2 30.Kxg2 Qg7+ 31.Kf1 Qg3 32.Qe3 Rxf3+
 
 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bc4 c6 7.Bd2 e6 8.a3 Qc7
 9.Qe2 Bd6 10.h3 Nbd7 11.Nh4 Bxc2 12.Rc1 Bg6 13.Bxe6! fxe6 14.Nxg6 hxg6
-15.Qxe6+ Be7 16.Nb5 Qb8! 17.Bb4 c5 18.Rxc5 Kd8! 19.Rc3?? (19.Rc8+!! Kxc8
+15.Qxe6+ Be7?? 16.Nb5 Qb8! 17.Bb4 c5 18.Rxc5 Kd8! 19.Rc3?? (19.Rc8+!! Kxc8
 20.Bxe7 {+-}) Bxb4 0-1
 
 [Event "Casual Game"]
@@ -1715,7 +1715,8 @@ Qa1+ 33.Kd2 Rd8+ 34.Ke2 Qxh1 35.Qxh1 Rd5 {=}) (30...c3 31.Bb3 Kg7 {-/+})
 (8...Ndb4) 9.Qxf3 Nxd4 10.Qd1 Nf5 11.Re1 Nf6 12.Bf4 Nd6 13.c3 Nxc4 14.Qa4+ Qd7
 15.Qxc4 O-O-O 16.Na3 Nd5 17.Rad1 Bd6 18.Bxd6 Qxd6 19.Nb5 Qb6 20.b4 a6 21.a4??
 axb5 22.axb5 c6 23.bxc6 Qxc6 24.Qg4 f5 25.Qxg7 Rhg8 26.Qe5? Rxg2+ 27.Kxg2 Ne3+
-28.Kg3 Qg2+ (28...Rg8+!) 29.Kh4 Qxf2+ 30.Kg5 Rg8+ (30...h6+!) 31.Kf6 Rg6+??
-(31...Ng4+! 32.hxg4 fxg4+ 33.Ke7 Qf8+ 34.Kxe6 Qh6+ 35.Ke7 Rg7+ 36.Kf8 Rg5+)
-32.Kf7 Nxd1 33.Rxd1 Qh4 34.Qh8+ Kc7 35.Qe5+ (35.Rd4 Qg5 36.Qe5+ Kb6 37.Qc5+
-Ka6 38.Qa5#) Kc8 36.Qh8+ Kc7 37.Qe5+ Kc8 38.Qh8+ 1/2-1/2
+28.Kg3 Qg2+ (28...Rg8+! 29.Kh4 Ng2+ 30.Kh5 Qe8+ 31.Kh6 Qg6#) 29.Kh4 Qxf2+
+30.Kg5 Rg8+ (30...h6+!) 31.Kf6 Rg6+?? (31...Ng4+! 32.hxg4 fxg4+ 33.Ke7 Qf8+
+34.Kxe6 Qh6+ 35.Ke7 Rg7+ 36.Kf8 Rg5+) 32.Kf7 Nxd1 33.Rxd1 Qh4 34.Qh8+ Kc7
+35.Qe5+ (35.Rd4 Qg5 36.Qe5+ Kb6 37.Qc5+ Ka6 38.Qa5#) Kc8 36.Qh8+ Kc7 37.Qe5+
+Kc8 38.Qh8+ 1/2-1/2

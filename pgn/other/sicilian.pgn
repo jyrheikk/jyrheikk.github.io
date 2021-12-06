@@ -120,6 +120,8 @@ Rxa6 33.Rb7 d5 34.Nf3 e4 35.Ne5 h5 36.c4 dxc4 37.Nxc4 h4 38.Ne3 Ra1+ 39.Ke2 h3
 [White "Heikkinen, Jyrki"]
 [Black "Franssila, Tommi"]
 [Result "1-0"]
+[WhiteElo "1642"]
+[BlackElo "1979"]
 [TimeControl "40/5400:900"]
 
 1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Bc4 e6 6.Bf4 d6 7.Nb5 Nxe4 8.f3 a6
