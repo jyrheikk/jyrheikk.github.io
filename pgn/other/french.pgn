@@ -560,7 +560,7 @@ Qxg1# 0-1
 [TimeControl "300"]
 
 1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.a3 O-O 9.h4
-f6 10.Bd3 cxd4 11.Bxh7+ Kh8 12.Bg6 Ndxe5 13.Nxe5 1-0
+f6 10.Bd3 cxd4 11.Bxh7+ Kh8?? 12.Bg6 Ndxe5 13.Nxe5 1-0
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
