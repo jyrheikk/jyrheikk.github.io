@@ -1044,3 +1044,177 @@ Bxc6 23.Qxc6 Rec8 24.Nc5 Rb6 25.Qxe4 Qxe4 26.Nxe4 c6 27.Kf1 Re8 28.Nc5 Ra8
 29.Ra5 Kf7 30.Rca1 Ke7 31.Rxa6 Rbxa6 32.Rxa6 Rc8 33.Ra7+ Kf8 34.Ne6+ Kg8
 35.Ke2 g5 36.Kd3 Re8 37.Nc5 Rc8 38.Ke4 Re8+ 39.Kf5 Rd8 40.Ne4 Rd5+ 41.Kg6 Rd8
 42.Nxf6+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Lehtilä, Taneli"]
+[Black "Lehti, Juhani"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "1"]
+[WhiteTeam "Porin Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Nbd7 8.Nge2 h6
+9.Bh4 Nh5 10.Bxe7 Qxe7 11.Qd2 Nb6 12.O-O O-O 13.Rae1 Re8 14.Nc1 Be6 15.f3 Rad8
+16.Qf2 Nf6 17.h3 c5 18.dxc5 Qxc5 19.Nb3 Qb4 20.Nd4 Nc4 21.Rb1 Nxe3 22.Qxe3 Bf5
+23.Qxe8+ Rxe8 24.Nxf5 g6 25.Nxh6+ Kg7 26.Ng4 Nxg4 27.fxg4 Qd4+ 28.Rf2 Qxd3
+29.Rd1 Qc4 30.Rfd2 d4 31.Rxd4 Re1+ 32.Rxe1 Qxd4+ 33.Kh1 Qf2 34.Re2 Qf1+ 35.Kh2
+b5 36.Re4 Qd3 37.a3 a5 38.Re8 Qd7 39.Re4 Qd6+ 40.Kg1 b4 41.axb4 axb4 42.Ne2
+Qd2 43.b3 Qd1+ 44.Kf2 Qxb3 45.Re3 Qc2 46.Ke1 b3 47.Rc3 Qb1+ 48.Kd2 Qa2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Vuorisalo, Veli-Matti"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Porin Shakinystävät"]
+[WhiteElo "2089"]
+[BlackElo "2206"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 g6 4.Nf3 Bg7 5.Bg5 c6 6.Bd3 b5 7.Qd2 Qa5 8.O-O (8.e5!?
+dxe5 9.dxe5 Ng4 10.O-O Nxe5 11.Nxe5 Bxe5 12.Rae1 b4 13.Nb5) O-O 9.a3 Bg4
+10.Bh6?! (10.e5) Bxf3 11.gxf3 e5 12.d5 a6 13.b4 Qc7 14.Bxg7 Kxg7 15.a4 Nh5
+16.axb5 cxb5 17.Nxb5 Qd7 18.Kh1 Nf4 19.Rg1 Qh3 20.Rg3 Qd7 21.Nd4 Kh8 22.Ne2
+Nxd3 23.Qxd3 Qb7 24.Qd2 Kg7 25.f4 f5 26.f3 Nd7 27.fxe5 dxe5 28.c4 fxe4 29.fxe4
+Rab8 30.Rb1 Rf2 31.Qe3 Rbf8 32.Rg2 R2f3 33.Qd2 Nb6? (33...Nc5 34.Nd4!) 34.c5
+Nc4 35.Qg5 R8f6 36.Ng3 Kf8 37.Nf5 (37.Nh5!) R3xf5 38.exf5 Rxf5 39.Qd8+ Kg7
+40.c6 Qf7 41.Qd7 Qxd7 42.cxd7 Rf8 43.Rc2 Nb6 44.b5 a5 45.Rc6 Nxd7 46.b6 Nb8
+47.b7 a4 48.Rc8 a3 49.Ra1 e4 50.Rxf8 Kxf8 51.Rxa3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Olander, Aleksi"]
+[Black "Kauppala, Pekka"]
+[Result "1/2-1/2"]
+[Section "I Division:1"]
+[Board "3"]
+[WhiteTeam "Porin Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.Nf3 e5 5.e4 Bg4 6.dxe5 Bxf3 7.gxf3 Bxe5 8.Qb3 Nc6
+9.Be3 Rb8 10.O-O-O Nf6 11.f4 Bxc3 12.Qxc3 O-O 13.f3 Qe7 14.h4 Nh5 15.Bh3 f5
+16.exf5 Ng3 17.Rh2 Rbe8 18.Re1 Nxf5 19.Bxf5 Rxf5 20.h5 Qf6 21.Qxf6 Rxf6
+22.hxg6 hxg6 23.Reh1 Re7 24.Bd2 Kf7 25.Rg2 Nd4 26.f5 Rxf5 27.Rh7+ Kf6 28.Rh6
+Rg7 29.Bc3 c5 30.Bxd4+ cxd4 31.Rh4 Rxf3 32.Rxd4 Rd7 33.Rdg4 Rg7 34.Rd4 Rd7
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Aakio, Seppo"]
+[Black "Palenius, Jarmo"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Porin Shakinystävät"]
+
+1.e4 c6 2.c4 g6 3.d4 d6 4.Nc3 Bg7 5.Be3 Nd7 6.Qd2 a6 7.f3 h5 8.Nh3 b5 9.Ng5
+Nb6 10.b3 Nf6 11.Be2 Qc7 12.O-O b4 13.Nd1 a5 14.Nf2 O-O 15.Rac1 Nbd7 16.Nd3
+e6 17.Kh1 Nh7 18.Nxh7 Kxh7 19.Nf2 Nf6 20.Nh3 Kg8 21.Bh6 Nh7 22.Bxg7 Kxg7 23.f4
+c5 24.Ng5 f6 25.Nxh7 Kxh7 26.f5 exf5 27.exf5 Bxf5 28.Bxh5 Kg7 29.Bf3 Rae8
+30.Rcd1 Be4 31.Qf4 Bxf3 32.Rxf3 cxd4 33.h3 Qc5 34.Rxd4 Re5 35.Qd2 Re1+ 36.Kh2
+Qe5+ 37.Rg3 Re2 38.Qd3 f5 39.Rxd6 Rf6 40.Rd5 Qb2 41.Rxa5 f4 42.Rg4 f3 43.Rag5
+Rxg2+ 44.Rxg2 fxg2 45.Rxg2 Qe5+ 46.Qg3 Qe4 47.Qc7+ Kh6 48.Qb8 Kg7 49.Rd2 Rf7
+50.Qd6 Kh7 51.c5 Qe1 52.Rg2 Rg7 53.c6 Qe7 54.Qxe7 Rxe7 55.Rc2 Rc7 56.Kg3 Kg7
+57.Kf4 Kf6 58.h4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Ojala, Matias"]
+[Black "Kivinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:1"]
+[Board "5"]
+[WhiteTeam "Porin Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1873"]
+[BlackElo "1965"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 Bf5 4.c4 e6 5.Nc3 c6 6.Qb3 Qb6 7.c5 Qxb3 8.axb3 Nbd7
+9.b4 Nh5 10.Bg5 f6 11.Be2 fxg5 12.Bxh5+ Kd8 13.Be2 Be7 14.g4 Bg6 15.Nf3 Kc7
+16.h4 gxh4 17.Nxh4 Bf7 18.f4 b6 19.Kd2 Kb7 20.Ba6+ Kc7 21.Bd3 Kb7 22.Nf3 Bg6
+23.f5 exf5 24.gxf5 Bf7 25.Rhg1 Rhg8 26.e4 dxe4 27.Nxe4 Bd5 28.Nfg5 Bf6
+29.Nd6+ Kb8 30.Ne6 bxc5 31.bxc5 g5 32.Ba6 Bxe6 33.fxe6 Nf8 34.Ne8 Bxd4
+35.Rg4?? (35.Ra4) Nxe6 36.Rxd4 Nxd4 37.Nf6 Nb3+ 38.Kc3 Nxa1 39.Nxg8 Kc7
+40.Nh6 Rb8 41.b4 Re8 42.Nf5 Re5 43.Nd4 g4 44.Be2 h5 45.Bd1 Re1 46.Ba4 Rc1+
+47.Kb2 Rc4 48.Nxc6 a5 49.Bb5 Rc2+ 50.Kxa1 axb4 51.Nxb4 Rf2?? 52.Nd5+ Kb8 53.c6
+Rc2 54.c7+ Kc8 55.Bd3 Rc5 56.Bf5+ Kb7 57.Kb2 g3 58.c8=Q+ Rxc8 59.Bxc8+ Kxc8
+60.Nf4 h4 61.Nh3 Kd7 62.Kc3 Ke6 63.Kd4 Kf5 64.Ke3 Kg4 65.Nf2+ gxf2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Nyrhinen, Harri"]
+[Black "Degot, Konstantin"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Porin Shakinystävät"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 Nc6 6.Bc4 e6 7.cxd4 Be7 8.O-O d6
+9.Qe2 O-O 10.a3 Qb6 11.Rd1 Bd7 12.Nc3 Nxc3 13.bxc3 d5 14.Ba2 Rac8 15.Bb1 f6
+16.Qd3 f5 17.Ng5 Na5 18.Bc2 Qc7 19.Nxh7 Kxh7 20.Qh3+ Kg8 21.Rd3 Be8 22.Rg3
+Bd8 23.Bh6 Rf7 24.Qh5 Qe7 25.Bg5 Qd7 26.Rh3 Rf8 27.Qh7+ Kf7 28.Bh6 Rg8 29.Rg3
+Kf8 30.Rd1?? Qf7 31.Rdd3 gxh6 32.Rxg8+ Qxg8 33.Qxh6+ Ke7 34.Rg3 Qf8 35.Rg7+
+Bf7 36.Ba4 Nc6 37.Bd1 Ba5?? 38.Bh5 Nd8 39.Qf6+ Ke8 40.Bxf7+ Nxf7 41.Qxe6+ Kd8
+42.Rxf7 Qxf7 43.Qxf7 Rxc3 44.Qxd5+ Kc8 45.h4 Rc1+ 46.Kh2 Be1 47.e6 Bxf2
+48.Qd7+ Kb8 49 Qd8+ Rc8 50.e7 Bxh4 51.Qxc8+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Perho, Aki"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "7"]
+[WhiteTeam "Porin Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.d4 cxd4 8.Nxd4 Nxd4
+9.Qxd4 d6 10.h3 Ng4 11.Qd2 Ne5 12.b3 Qa5 13.Bb2 Bd7 14.Rad1 Bc6 15.Nd5 Qd8
+16.f4 Nd7 17.Bxg7 Kxg7 18.Qd4+ Kg8 19.e4 Bxd5 20.Qxd5 Qb6+ 21.Kh2 Nf6 22.Qd4
+Qc7 23.e5 dxe5 24.Qxe5 Rac8 25.Rfe1 Rfe8 26.Rd2 b6 27.Red1 a5 28.g4 a4 29.Bf3
+axb3 30.axb3 Qb8 31.Kg3 Kf8 32.h4 Qxe5 33.fxe5 Ng8 34.Bb7 Rc5 35.Rd5 e6
+36.Rxc5 bxc5 37.Bc6 Rb8 38.Bb5 Ne7 39.Ba4 h5 40.Rd7 Rc8 41.gxh5 gxh5 42.Kf4
+Ng6+ 43.Kg5 Nxe5 44.Rb7 Kg7 45.Kxh5?? Kf6 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.11"]
+[Round "?"]
+[White "Männistö, Kari"]
+[Black "Karjalainen Nuutti"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Porin Shakinystävät"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 Bd6 5.Bxd6 Qxd6 6.c3 O-O 7.Bd3 Nbd7 8.Nbd2 c5
+9.O-O e5 10.dxe5 Nxe5 11.Nxe5 Qxe5 12.h3 Bd7 13.Re1 Ne4 14.Nxe4 dxe4 15.Bxe4
+Bxh3 16.Qf3 Be6 17.Red1 Rab8 18.Bd5 Bf5 19.e4 Bg6 20.Qe3 Rfe8 21.f4 Qc7 22.e5
+c4 23.Rd2 Rbd8 24.Rad1 Bd3 25.Be4 Bxe4 26.Qxe4 Qb6+ 27.Kf1 Rxd2 28.Rxd2 Qc7
+29.Qd5 g6 30.Qd7 Rc8 31.Qxc7 Rxc7 32.Rd5 Kf8 33.Ke2 Ke7 34.Ke3 a6 35.a4 Rc6
+36.Ke4 Ke6 37.g4 h5 38.f5+ gxf5+ 39.gxf5+ Ke7 40.Rd2 Rb6 41.Kd4 Rc6 42.Rh2 Rh6
+43.Rh4 Rb6 44.Rh2 Rh6 45.Kxc4 h4 46.Kd4 h3 47.Kd5 f6 48.e6 Rh5 49.Ke4 Rh4+
+50.Kf3 Rxa4 51.Rxh3 Ra5 52.Rh7+ Ke8 53.Kg4 Rb5 54.Rh2 a5 55.Rf2 Re5 56.Kh5 Re4
+57.Rg2 b5 58.Rg7 Rf4 59.Kg6 1-0
