@@ -606,9 +606,23 @@ moves recorded} 1-0
 [Board "2"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Helsingin Shakkiklubi 2"]
+[WhiteElo "2089"]
+[BlackElo "2068"]
 [TimeControl "900+5"]
 
 1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 Bf5 7.Nge2 e6 8.g4 Bg6
 9.Nf4 Nd5 10.Bxd5 cxd5 11.h4 h6 12.Nxg6 fxg6 13.Qd3 Kf7 14.O-O-O Nc6 15.h5 Qf6
 16.f4 Bd6 17.Rdf1 a6 18.f5 gxf5 19.Nxd5 Qd8 20.Nf4 Nb4 21.Qb3 Bxf4 22.Bxf4
 Qxd4 23.gxf5 Rhc8 24.Qxe6+ Kf8 25.Bd6+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.12.15"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Mikko"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 c6 3.Nc3 Nf6 4.f3 dxe4 5.Bc4 Bf5 6.g4 Bg6 7.h4 h5 8.g5 Nd5 9.Nxe4
+e6 10.Nh3 Be7 11.Bb3 Nd7 12.c4 Nc7 13.Nf4 e5? 14.Nxg6 fxg6 15.c5 Rf8 16.Qc2
+Rxf3 17.Nd6+ Bxd6 18.Qxg6+ Rf7?? 19.Qxf7# 1-0
