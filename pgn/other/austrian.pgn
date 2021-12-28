@@ -396,6 +396,8 @@ Bf8 34.Ra8 Rxa8 35.Rxa8 Kf7 36.Rb8 Ba3 37.Rxb7 Ke7 38.c5 Kd8 39.c6 Bc8
 [Board "2"]
 [WhiteTeam "Nokia"]
 [BlackTeam "SanomaWSOY"]
+[WhiteElo "2030"]
+[BlackElo "2111"]
 [TimeControl "300"]
 
 1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.f4 Nd7 5.Bc4 e5 6.Nf3 Ne7? 7.Bxf7+! Kf8
@@ -746,6 +748,7 @@ d5 9.Bd3 b6 10.Qe2 Nd7 11.h4 c5 12.b3 Nc7 13.h5 cxd4 14.Bxd4 Nc5
 [BlackTeam "Shakkikerho Garde"]
 [WhiteElo "2051"]
 [BlackElo "2108"]
+[TimeControl "40/6600:1800+30"]
 
 1.d4 Nf6 2.Nc3 c5 3.d5 g6 4.e4 d6 5.f4 Bg7 6.e5 dxe5 7.fxe5 Ng4?
 (7...Nfd7 8.e6 fxe6 9.dxe6 Ne5) 8.e6 f5 9.Bb5+ Kf8 10.Be2 Ne5 11.Nh3
@@ -925,3 +928,17 @@ Nxc5 21.Bd6+) fxe4 19.Ng5 h6 20.Nh3 Nd4 21.Rhf1 Nxb5 22.Rxd5 Ke8? (22...Bxh3)
 23.Rxb5 Bxh3 24.gxh3 Rf8 25.Rb4 Rd8 26.Rxe4 (26.c3) Rd4 27.Rfe1 Rxf4 28.Rxe7+
 Kf8 29.Rxb7 a5 30.c3 Rd5 31.Ree7 Rg5 32.Kd2 Rf3 33.Rec7 Rg2+ 34.Ke1 Kg8 35.a4
 Rxh3 36.Rc8+ Kh7 37.b4 Rhxh2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.12.22"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Avuz, Kerimy"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.f4 Bg7 5.Bc4 O-O 6.e5 dxe5 7.fxe5 Nfd7 8.e6 Nb6
+9.exf7+ Kh8 10.Bb3 Bxd4 11.Nf3 Bf6 12.O-O Nc6 13.Bh6 Qxd1 14.Raxd1 Bg7 15.Bf4
+e6 16.Bxc7 Rxf7 17.Nb5 Nd5 18.Ng5 Rxc7? 19.Bxd5 Bd4+?? 20.Kh1 Rd7 21.Bxc6 bxc6
+22.Nxd4 c5 23.Rf8+ Kg7 24.Ngxe6+ Kh6 25.Rf3 (25.Rd3!) Rd5 26.Rh3+ Rh5 27.Rxh5+
+Kxh5 28.Nc7 Bg4 29.Nf3 {no more moves recorded} 1-0
