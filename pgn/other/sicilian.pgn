@@ -836,6 +836,23 @@ Be6 16.Qg3 Kh7 17.Nh4 Bf7 18.Qh3 Nb5 19.Ne2 d4 20.b3 Qd7 21.Ng3 Be6 22.Nf3 Kg8
 40.Qf3 Qxh4 41.Rc2 Qe1+ 42.Kh2 Rf5 43.Re2 Rh5+ 44.Qxh5 Qg3+ 45.Kg1 gxh5 46.Bb7
 Rd8 47.Bd5 f3 0-1
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.08.11"]
+[Round "-"]
+[White "Nikulina, Anna"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 5.Bc4 Nf6 6.O-O Qb6 7.Bb5 a6 (7...e5!
+8.Bxc6+ bxc6 9.Nb3 Nxe4) 8.Ba4 Bd7 9.Be3 Ng4 10.Nc3 Nxe3 11.fxe3 Ne5 12.Nd5
+Qa5 13.b4 (13.Bxd7+! Nxd7 14.Qh5 Ne5 15.b4 Qd8 16.Ne6 g6 17.Nec7+ Kd7 18.Qh3+
+Kc6 19.a4) Qxa4 14.Nc7+ Kd8 15.Nxa8 Nc4? 16.Qf3 Be8 17.Rad1 g6? 18.e5 Nxe5
+(18...dxe5 19.Nc6+ Kc8 20.Rd8#) 19.Qxb7 Qd7 20.Qb6+ Kc8 21.Qxa6+ Qb7 22.b5
+Nc4 23.Rb1 Nd2 24.Rfd1 Nxb1 25.Rxb1 Bh6 26.Kf2 Kb8 27.Nc6+ Kc8 (27...Bxc6
+28.bxc6 Qxb1 29.c7#) 28.Nb6+ Kc7 29.Nd5+ Kc8 30.Ndxe7+ Kc7 31.b6+ Qxb6
+32.Qc8# 1-0
+
 [Event "Lauttasaari Ch"]
 [Site "lichess.org"]
 [Date "2021.08.19"]
