@@ -1264,11 +1264,11 @@ Qxc4 43.d6 Qd3 44.Qf3 Qxb5 45.e5+ Kb8 46.dxc7+ Kxc7 47.Qf7+ Kb8 48.Qf6 Qd5+
 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.g4 Bg6 6.c4 h6 7.Bd3 Bxd3 8.Qxd3 c6
 9.dxc6 Nxc6 10.d5 e6 11.Qe3 Nb4 12.Na3 Bc5 13.Qe2 O-O 14.g5 exd5 15.Kf1 Re8
 16.Qd2 hxg5 17.h4 g4 18.h5 gxf3 19.h6 Ne4 20.Qf4 g5 21.h7+ Kh8 22.Qxf3 Re6
-23.Qg2 Qf6+ 24.Nf3 Nd3 25.cxd5 Re7 26.Nc4 b5 27.Ne3 Nxc1 28.Ng4 Qf4 29.Rh3 Nd3
-30.Rd1 Ndf2 31.Re1 Nxh3 32.Qxh3 Ng3+ 33.Kg2 Rxe1 34.Nxe1 Qd2+ 35.Kxg3 Qxe1+
-36.Kg2 Qg1+ 37.Kf3 Re8 38.Qh6 Re3+ 39.Nxe3 Qxe3+ 40.Kg2 Qf2+ 41.Kh3 Qf3+
-42.Kh2 Qf4+ 43.Kg2 Qg4+ 44.Kf1 Qf3+ 45.Ke1 Qe3+ 46.Kd1 Qd3+ 47.Ke1 Qe3+ 48.Kd1
-Qd3+ 1/2-1/2
+23.Qg2 Qf6+ 24.Nf3 Nd3 25.cxd5 Re7 26.Nc4 b5 27.Ne3 Nxc1 28.Ng4 Qf4
+(28...Nd2+) 29.Rh3 Nd3 30.Rd1 Ndf2 31.Re1 Nxh3 32.Qxh3 Ng3+ 33.Kg2 Rxe1
+34.Nxe1 Qd2+ 35.Kxg3 Qxe1+ 36.Kg2 Qg1+ 37.Kf3 Re8 38.Qh6 Re3+ 39.Nxe3 Qxe3+
+40.Kg2 Qf2+ 41.Kh3 Qf3+ 42.Kh2 Qf4+ (42...g4!) 43.Kg2 Qg4+ 44.Kf1 Qf3+ 45.Ke1
+Qe3+ 46.Kd1 Qd3+ 47.Ke1 Qe3+ 48.Kd1 Qd3+ 1/2-1/2
 
 [Event "Helsinki Rapid Team Ch"]
 [Site "Helsinki FIN"]
@@ -1517,6 +1517,8 @@ more moves recorded} 1-0
 [White "Åberg, Tomi"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[WhiteElo "2069"]
+[BlackElo "2056"]
 [TimeControl "180+2"]
 
 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bb5+ Nbd7 6.c4 a6 7.Bxd7+ Qxd7 8.Ne2 e6
@@ -1574,4 +1576,20 @@ Kf8 20.Qc2 Nf4 21.Re3 (21.Qe4? Qxb2+ 22.Re2 Nxe2) h6 22.N5e4 Nd3+ 23.Kg1 Qxb2
 16.bxc4 Qa5 17.Ne5 Bxe2 18.Qxe2 Qc7 19.c5 Ra8 20.Qf3 O-O 21.Qxc6 Rfc8 22.Qf3
 Bf8 23.Rfb1 Nd5 24.Nc4 Rab8 25.Nb6 Nxb6 26.Bf4 Qa7 27.Bxb8 Rxb8 28.cxb6 Rxb6
 29.Qe3 Rd6 30.Rd1 g6 31.Rab1 Bg7 32.Rb4 h5 33.Qf3 Qe7 34.Rb7 Rd7 35.Rdb1 Bxd4
-36.Rxd7 Qxd7 37.Rb7 Qe8 38.Qf4 e5 39.Qf6 {no more moves recorded} 1/2-1/2
+36.Rxd7 Qxd7 37.Rb7 Qe8 38.Qf4 e5 39.Qf6 Qf8 40.Qxa6 Qc5 41.Qf1 Qc6 42.Rb5 Kg7
+43.Qe2 Qa6 44.Rxe5 Qxa4 45.Re4 Qa1+ 46.Kh2 Bf6 {no more moves recorded}
+1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.01.05"]
+[Round "4"]
+[White "Lim, Andrew"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Nf3 Qxd5 5.Be2 Nc6 6.Be3 O-O-O 7.c3 h6? (7...e5)
+8.Nbd2 g5 9.Bc4 Qd6 10.Bxf7 e6 11.Bg6 Bf5 12.Bxf5 exf5 13.Nc4 Qe6 14.Nce5 Nxe5
+15.Nxe5 f4 16.Bd2 Bd6 17.Qe2 Rhe8 18.O-O-O Qxa2 19.Rhe1 Bxe5 20.dxe5 Nd5
+21.Qe4 Re6 22.Be3?? (22.g3) fxe3 23.Rxd5? Rxd5 0-1
