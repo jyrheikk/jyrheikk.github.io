@@ -626,3 +626,16 @@ Qxd4 23.gxf5 Rhc8 24.Qxe6+ Kf8 25.Bd6+ 1-0
 1.d4 d5 2.e4 c6 3.Nc3 Nf6 4.f3 dxe4 5.Bc4 Bf5 6.g4 Bg6 7.h4 h5 8.g5 Nd5 9.Nxe4
 e6 10.Nh3 Be7 11.Bb3 Nd7 12.c4 Nc7 13.Nf4 e5? 14.Nxg6 fxg6 15.c5 Rf8 16.Qc2
 Rxf3 17.Nd6+ Bxd6 18.Qxg6+ Rf7?? 19.Qxf7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.01.05"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Deschamps, Liam"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 exf3 6.Nxf3 e6 7.O-O Be7 8.Qe1 O-O
+9.Bd3 Nbd7 10.Qh4 h6? 11.Bxh6 Nh7 12.Bxh7+ Kxh7 13.Bg5+ Kg8 14.Bxe7 Qe8 15.Ng5
+1-0
