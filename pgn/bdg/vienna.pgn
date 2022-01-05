@@ -318,6 +318,8 @@ c6 9.Ne2 Bg6 10.O-O Nd7?? 11.Bxf7+ Bxf7 12.Qxf7+ Kd8 13.Nf4 1-0
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Helsingin Shakkiklubi 3"]
+[WhiteElo "2092"]
+[BlackElo "2150"]
 [TimeControl "900"]
 
 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 Qc8 8.Bc4
@@ -881,3 +883,19 @@ Re8?? 23.Be3 Rb5 24.Rac1 Qe4 25.d6 cxd6?? 26.Qxd6+ 1-0
 9.Bb5 Nb4 10.Qe2? (10.Bf4) a6 11.Bxc6+ Nxc6 12.Bf4 Qe7?! 13.O-O-O Rd8 14.Rxd8+
 Kxd8 15.Qc4 Kc8 16.Ne2 Nxe5 17.Qc3 Nxf3? 18.Nd6+ (18.N2g3!) Kb8 19.Qxf3 cxd6
 20.Nc3 Qd7 21.Rd1 Qf5 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.01.05"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Lindholm, Arto"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6 6.g5 Nh5 7.fxe4 e5 8.Be2 Nf4?
+(8...exd4) 9.Bxf4 exf4 10.Nf3 Bb4 11.Bd3 Nc6 12.a3 Be7 13.h4 h5 14.Bb5 a6
+15.Bc4 O-O 16.O-O Qd7 17.Kh2 Rad8 18.d5 Na5 19.Bd3 Qg4?? 20.Rg1 Qd7 21.b4 c6
+22.bxa5 Bc5 23.Rg2 Qc7 24.Qe2 Rfe8 25.e5 Qxa5 26.Bxg6? (26.Ne4) fxg6?
+(26...Qxc3) 27.Ne4 Rxd5 28.Nf6+! gxf6 29.gxf6 Bd4 30.Rxg6+ (30.Qe4!) Kh8
+31.Ng5 Qc7 32.Qxh5+ Qh7 33.Qxh7# 1-0
