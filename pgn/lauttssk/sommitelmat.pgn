@@ -141,22 +141,23 @@ Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 [FEN "5k2/Q3n3/1p6/2pb1pp1/P2p4/3P2P1/1PP3r1/5K2 b - 0 31"]
 
 31...Bf3 (31...Rxc2 {-/+}) 32.Qxb6 Nd5 33.Qxc5+? (33.Qh6+) Kf7 34.Qxd4 f4
-35.gxf4 gxf4 {mate net is ready} 36.Qa7+ Kg6 37.Qa6+ Kg5 38.d4 Ne3+ 39.Ke1
+35.gxf4 gxf4 {the mate net is ready} 36.Qa7+ Kg6 37.Qa6+ Kg5 38.d4 Ne3+ 39.Ke1
 Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
-[Date "2004.??.??"]
+[Date "2005.01.12"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Siikonen, Timo"]
-[Result "1-0"]
+[Result "*"]
+[TimeControl "1500"]
 [Stage "Final"]
 [FEN "r4rk1/p1p2ppp/bp2p3/3q4/3PN2B/5N2/P5PP/2Q1R1K1 w - - 0 20"]
 
-20.Nf6+!! (20.Bf6 Bd3 {was the actual continuation}) gxf6 21.Bxf6 Qf5 22.Qh6
-Qg6 23.Qh4 {this move I missed in my analysis during the game} Bb7 24.Re5 Bxf3
-25.Rg5 1-0
+20.Nf6+!! (20.Bf6 Bd3 {1-0 in 36, continued the game}) gxf6 21.Bxf6 Qf5 22.Qh6
+Qg6 23.Qf4 {this move I missed in my analysis} e5! 24.dxe5 Bc8 25.Nh4 Qg4
+26.Qe3 {+-} *
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
@@ -773,6 +774,17 @@ bxc6 22.Ba6# 1-0
 
 15.Nc6 Bxc6 16.Nd6# 1-0
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2015.01.07"]
+[Round "?"]
+[White "Vesely, Petr"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "5rk1/ppp4p/3p1p2/7q/2P3p1/1P2QbP1/PB3N2/5RK1 b - - 0 25"]
+
+25...Re8 26.Qf4?? (26.Qc3 Re2 27.Re1 {=}) Re2 27.Qxf6 Qh1+ 28.Nxh1 Rg2# 0-1
+
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
 [Date "2015.03.26"]
@@ -873,3 +885,87 @@ exf3 23.fxe5 Rxe5 24.Rag1 Re4+ 25.Kg5 Kg7 26.Rg4 h6+ 27.Kh4 g5# *
 
 18.Be5! Nxe7? (18...Bxe5 19.Rxe5 (19.Rfxf7? b5!)) 19.Rxf7 Qxc4 20.Rxg7+ Kh8
 21.Rxe7+ (21.Rxg6+) Kg8 22.Qxc4+ 1-0
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2019.10.28"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Elg, Marko"]
+[Result "*"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Gambiitti"]
+[WhiteElo "2033"]
+[BlackElo "2133"]
+[TimeControl "180+2"]
+[FEN "1kqr4/1bN2p2/pP1Q2p1/8/8/8/1KP2P2/R7 w - - 0 1"]
+
+1.Nxa6+ Ka8 2.Qb8+! (2.Nc7+ Kb8 3.Qc5 Rd6?? 4.Qa5?? (4.Qxd6) Rxb6+?? 5.Qxb6
+Qxc7 6.Qb4? (6.Ra8+! Kxa8 7.Qxc7) {draw, continued the game}) Qxb8 3.Nc7# *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.03.24"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "*"]
+[TimeControl "180+2"]
+[FEN "2kr3r/Qbpn1pp1/1pN1pn1p/2q5/6PP/2N5/PPP1B3/2KR1R2 w - - 4 20"]
+
+20.Qb8+! (20.Nxd8 Rxd8 21.Ba6 Qc6?? 22.Qa8+ Nb8 23.Rxd8+ (23.Bxb7+) Kxd8
+24.Qxb8+ Kd7 25.Bxb7 Qc5 26.Rd1+ Ke7 27.Qd8# {1-0, continued the game}) Nxb8
+21.Na7# *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.03.31"]
+[Round "1"]
+[White "Kauppinen, Janne"]
+[Black "Koymatli, Nihal"]
+[Result "*"]
+[Section "B"]
+[Termination "time forfeit"]
+[FEN "1r3rk1/3qbppp/2npbn2/1Np1p1N1/QP6/P2P2P1/4PPBP/1RB2RK1 b - - 0 18"]
+
+18...Nd4 (18...Ra8 {1-0 in 29, continued the game}) 19.Nc3 (19.bxc5 dxc5)
+(19.Nxe6 fxe6) Nxe2+! 20.Kh1 Nxc3 {-+} *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.07.07"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Wallin, Axel"]
+[Result "*"]
+[TimeControl "180+2"]
+[FEN "2rq2r1/pp2bpk1/4pn1p/4N3/2Pp4/3Q3P/PPB3P1/R4RK1 w - - 3 22"]
+
+22.Qh7+! (22.Qf3? {continued the game}) Nxh7 23.Rxf7+ Kh8 24.Rxh7# *
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2021.07.21"]
+[Round "?"]
+[White "Kumar, Ashwin"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+[FEN "2rr2k1/1b2ppbp/6p1/p1p3q1/2B5/B3PP2/PP3QPP/2R1K2R b K - 3 18"]
+
+18...Bd4! (18...Bh6 19.Rc3 {1-0 in 33, continued the game}) 19.f4 Qxg2 {-/+} *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.10.13"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Graf, Lukas"]
+[Result "*"]
+[FEN "3q1k1r/p3pB1p/3pPbp1/n1p3Q1/7N/8/Pr3PPP/R4RK1 w - - 2 19"]
+
+19.Qh6+ Bg7 20.Qxh7! (20.Qxg6 h6? 21.Qh7 Rxh7 22.Ng6# {1-0, continued the
+game}) Rxh7 21.Nxg6# *
