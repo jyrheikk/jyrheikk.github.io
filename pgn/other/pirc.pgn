@@ -55,8 +55,8 @@ Rxg2 50.d5+ Ke7 51.Rh8 Rb3+ 52.Kc4 Rxh3 53.Rh7+ Ke8?? (53...Kf8) 54.Ra1 Rc2+
 [TimeControl "600"]
 [Mode "ICS"]
 
-1.d4 g6 2.e4 d6 3.Bc4 Nc6 4.c3 a6 5.b4 b5 6.Bd5 Bb7 7.Bg5 h6? 8.Qb3
-hxg5 9.Bxf7+ Kd7 10.Qe6# 1-0
+1.d4 g6 2.e4 d6 3.Bc4 Nc6 4.c3 a6 5.b4 b5 6.Bd5 Bb7 7.Bg5 h6? 8.Qb3 hxg5
+9.Bxf7+ Kd7 10.Qe6# 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -1108,3 +1108,17 @@ Rab8 30.Rb1 Rf2 31.Qe3 Rbf8 32.Rg2 R2f3 33.Qd2 Nb6? (33...Nc5 34.Nd4!) 34.c5
 Nc4 35.Qg5 R8f6 36.Ng3 Kf8 37.Nf5 (37.Nh5!) R3xf5 38.exf5 Rxf5 39.Qd8+ Kg7
 40.c6 Qf7 41.Qd7 Qxd7 42.cxd7 Rf8 43.Rc2 Nb6 44.b5 a5 45.Rc6 Nxd7 46.b6 Nb8
 47.b7 a4 48.Rc8 a3 49.Ra1 e4 50.Rxf8 Kxf8 51.Rxa3 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.01.19"]
+[Round "9"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 g6 2.e4 Bg7 3.Bg5 c6 4.Qd2 d6 5.Nf3 Qc7 6.Bc4 e6 7.O-O b5 8.Bd3 Ne7 9.c4
+a6 10.Nc3 b4 11.Ne2 a5 12.Bh6 O-O 13.Bxg7 Kxg7 14.Rac1 Nd7 15.Qg5 Nf6 16.e5
+dxe5 17.dxe5 Nfg8 18.Ng3 f6? 19.Nh5+ Kh8 20.exf6 Nf5 21.Bxf5 exf5 22.Rfe1 Qd6?
+23.Rcd1 Qc7 24.Re7 Qb6 25.f7 (25.Ne5!) Nxe7 26.Qf6# 1-0
