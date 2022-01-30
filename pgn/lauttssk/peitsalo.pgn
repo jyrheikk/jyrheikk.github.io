@@ -6,6 +6,7 @@
 [Black "Peitsalo, Olli-Pekka"]
 [Result "0-1"]
 
+{Paras peli}
 1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 c5 5.cxd5 exd5 6.Nc3 Nc6 7.Bg2 Be7 8.O-O O-O
 9.Bg5 Be6 10.Rc1 cxd4 11.Nxd4 Qb6 12.Nxc6 bxc6 13.Na4 Qb5 14.b3 Bg4 15.Qd4
 Bf5 16.Qe5 Be6 17.Qc7 Ba3 18.Qxc6 Qxe2 19.Rc2 Qe5 20.Bxf6 gxf6 21.Rd2 Rfd8
@@ -22,6 +23,7 @@ Rc2 29.Qe3 Rxa2 30.Bf3 Bg4 31.Bxg4 Qxg4 32.f3 Rxd2 33.fxg4 Rxd1+ 34.Kg2 Rc8
 [Black "Peitsalo, Olli-Pekka"]
 [Result "0-1"]
 
+{Makea voitto}
 1.c4 Nf6 2.Nc3 e6 3.g3 Bb4 4.Bg2 O-O 5.e3 d5 6.cxd5 exd5 7.Nge2 c6 8.O-O Nbd7
 9.a3 Ba5 10.b4 Bc7 11.Qc2 Re8 12.Nd4 Nf8 13.h3 Ne6 14.Nxe6 Rxe6 15.d4 Ne8
 16.Bb2 Rh6 17.Kh2?? Bxh3 18.Kg1 Qd7 19.f4 Qg4 20.Qf2 Nf6 21.Bf3 Qg6 22.Rfb1
@@ -37,6 +39,7 @@ Bb6 30.Be3 gxf4 31.gxf4 Rxe3 32.Nd1 R3xe4 33.Rd2 Kh8 34.Qf2 Rg8 35.Ne3 Bf3+
 [Black "Kinnunen, Juha"]
 [Result "1-0"]
 
+{Onnekas voitto}
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7 7.Qf3+ Qf6
 8.Bxd5+ Ke8 9.Bxc6+ Qxc6 10.Qh5+ Kd8 11.O-O Qf6 12.d4 Qf5 13.Qd1 e4 14.Be3 Qg6
 15.Kh1 Bd6 16.c4 b6 17.Nc3 Rf8 18.Nb5 Bg4 19.Qd2 Qh5 20.Nxd6 cxd6 21.c5 d5
@@ -50,6 +53,7 @@ Bb6 30.Be3 gxf4 31.gxf4 Rxe3 32.Nd1 R3xe4 33.Rd2 Kh8 34.Qf2 Rg8 35.Ne3 Bf3+
 [Black "Peitsalo, Olli-Pekka"]
 [Result "1-0"]
 
+{Katkera tappio}
 1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 d6 5.c4 Nb6 6.dxc5 dxc5 7.Qxd8+ Kxd8 8.Bd3 e6
 9.Nf3 Nc6 10.Nc3 Be7 11.Ng5 Nxe5 12.Bf4 Bxg5 13.Bxe5 f6 14.Bd6 Nd7 15.Ne4 b6
 16.Nxg5 fxg5 17.Bg3 Ke7 18.Be2 h5?? 19.Bf3 Ba6 20.Bxa8 h4 21.Bxh4 gxh4 22.Bf3
@@ -69,6 +73,7 @@ Kb5 58.Rb4+ Kc5 59.Rb2 Kc4 60.Rxc2+ Bxc2 61.Kxc2 Kb5 62.Kd3 Kc5 63.Ke4 Kc4
 [Black "NN"]
 [Result "0-1"]
 
+{Pahin munaus}
 1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O a6 5.Bxc6+ bxc6 6.h3 e5 7.d3 Be6 8.Nc3 f6
 9.Ne2 d5 10.Ng3 Bd6 11.Nh4 Ne7 12.Qh5+ Kd7 13.Qf3 Qb6 14.Rd1 Qb5 15.c4 dxc4
 16.dxc4 Qxc4 17.Be3 Kc7 18.Rac1 Qxa2 19.Rxd6 Kxd6 20.Bxc5+ Kd7 21.Qd1+ Nd5
