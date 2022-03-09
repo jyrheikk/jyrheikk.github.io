@@ -1940,3 +1940,16 @@ Rb3+ 47.Ka4 Ne3 48.Rh2 Nd1 0-1
 Qxa2 14.Nb5 O-O 15.Nxc7 Rad8 16.Qb1 Bxc4 17.Qxb7 Nd4 (17...Qxe2 18.Qxc6 Rd1)
 18.Nxd4 Rxd4 19.Nb5 Bxb5 20.Qxb5 Rfd8 21.Bf3 a5 22.Rb1 Qxb1+ 23.Qxb1 Rd1+
 24.Qxd1 Rxd1+ 25.Kg2 a4 26.e3 Rd2 27.Kf1 a3 28.Ke1 Rd8 29.Be2 a2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.03.09"]
+[Round "-"]
+[White "Svensson, Magnus"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.Qc2 d5 7.cxd5 Qxd5 8.Nc3 Nxc3
+9.Qxc3 a5 10.Bf4 Bb4? 11.axb4 axb4 12.Qxc6+? (12.Qc1) Qxc6 13.Rxa8 O-O 14.g3
+b5 15.Rb8?? Qc2 16.Nd4 Qb1+ 17.Kd2 Qxb2+ 18.Ke3 Qc3+ 19.Ke4 f5+ 20.exf6 Re8+
+21.Be5 gxf6 22.Rxc8 Rxc8 23.Bxf6 c5 24.Bh3 Re8+ 25.Kd5 cxd4 26.Rd1 Qb3+ 0-1
