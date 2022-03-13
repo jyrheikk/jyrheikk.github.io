@@ -287,6 +287,22 @@ Rd5?? 35.Qc4+ Kd6 36.Rxd5+ Qxd5 37.Qxc8 Qa5 38.Qf8+ Ke6 39.Qh6+ Kd5 40.Qxg5
 Qa2 41.Kd2 Rxb1 42.Rxb1 Qxb1 43.Qxf5 Qf1 44.Bxd4 Qxg2+ 45.Kc3 b5 46.Qxe5+
 (46.Qd7#) 1-0
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.09.29"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Graf, Lukas"]
+[Result "1-0"]
+
+1.d4 Nf6 2.f3 d6 3.e4 g6 4.Bg5 Bg7 5.Bd3 O-O 6.Qd2 Nbd7 7.Bh6 Bxh6 8.Qxh6 e5
+9.c3 exd4 10.cxd4 Re8 11.Ne2 c5 12.O-O Qb6 13.Qe3 cxd4 14.Nxd4 Qxb2 15.Nd2 Qb6
+16.Nc4 Qd8 17.Nxd6 Nc5 18.Nxe8 Qxe8 19.Bc4 Bd7 20.Rae1 Rc8 21.e5 Nh5 22.e6
+Nxe6 23.Bxe6 Bxe6 24.Nxe6 Qxe6 25.Qxa7 Qd7 26.Rd1 Qc6 27.Rc1 Qd7 28.Rxc8+ Qxc8
+29.Rb1 Kg7 30.Qxb7 Qc5+ 31.Kh1 Qf2 (31...Ng3+!? 32.hxg3 Qh5+ 33.Kg1 Qc5+
+34.Kf1 Qc4+ 35.Kf2 Qd4+ 36.Ke2 (36.Kf1?? Qd3+ {=})  Qc4+) 32.Qb2+ Qxb2 33.Rxb2
+1-0
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2021.10.05"]

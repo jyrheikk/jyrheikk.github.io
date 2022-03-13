@@ -7,12 +7,12 @@
   "grunfeld.pgn": 24,
   "kid.pgn": 24,
   "veresov.pgn": 11,
-  "paleface.pgn": 18,
+  "paleface.pgn": 19,
   "trompowsky.pgn": 11,
   "london.pgn": 11,
 
   "owen.pgn": 9,
-  "sicilian.pgn": 55,
+  "sicilian.pgn": 56,
   "caro-kann.pgn": 15,
   "nimzowitsch.pgn": 7,
   "center-counter.pgn": 104,
@@ -22,7 +22,7 @@
   "italian.pgn": 3,
   "scotch.pgn": 7,
   "petrov.pgn": 4,
-  "french.pgn": 46,
+  "french.pgn": 47,
   "alekhine.pgn": 5,
   "modern.pgn": 4,
 
@@ -30,6 +30,6 @@
   "bird.pgn": 6,
   "benko.pgn": 5,
   "grob.pgn": 5,
-  "misc.pgn": 39,
+  "misc.pgn": 40,
   "fischer-random.pgn": 13
 }
