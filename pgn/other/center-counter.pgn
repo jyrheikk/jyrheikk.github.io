@@ -1720,3 +1720,17 @@ axb5 22.axb5 c6 23.bxc6 Qxc6 24.Qg4 f5 25.Qxg7 Rhg8 26.Qe5? Rxg2+ 27.Kxg2 Ne3+
 34.Kxe6 Qh6+ 35.Ke7 Rg7+ 36.Kf8 Rg5+) 32.Kf7 Nxd1 33.Rxd1 Qh4 34.Qh8+ Kc7
 35.Qe5+ (35.Rd4 Qg5 36.Qe5+ Kb6 37.Qc5+ Ka6 38.Qa5#) Kc8 36.Qh8+ Kc7 37.Qe5+
 Kc8 38.Qh8+ 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.03.30"]
+[Round "-"]
+[White "Graf, Lukas"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.Nf3 Bg4 6.Be2 Nc6 7.O-O O-O-O 8.d3
+e6 9.h3 Bh5 10.Nd2 Bg6 11.Bf3 Qd7 12.b3 Nd4 13.Be4 f5 14.Bf3 e5 15.c3 Nxf3+
+16.Nxf3 Qxd3 17.Qxd3 Rxd3 18.Nxe5 Rxc3 19.Nxg6 hxg6 20.Rd1 Rc2 21.Rd2 Rc6
+22.Bb2 Bb4 23.Rd3 g5 (23...Rg8) 24.Rad1 Rg6 25.Rd7 Bd6 (25...g4) 26.Rxg7 Rxg7
+27.Bxg7 Re8 28.Bf6 *
