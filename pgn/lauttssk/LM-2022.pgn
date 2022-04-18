@@ -16,3 +16,18 @@ Bxd6 29.Qxd6 Ba4 30.Qg3 Bxd1 31.Bxd1 Qd7 (31...Rxd5) 32.Bg4 Qd6 33.Qd3 Kh8
 48.Bh5 d3 49.Rf1 d2 50.Bd1 Rd4 51.g3 c3 52.Bc2 b5 53.Qg2 b4 54.Qf3 Qg4 55.Bd1
 Qxf3 56.Rxf3 Re4 57.Kg2 Rfe8 58.Rf2 Re1 59.Rf1 Rxf1 60.Kxf1 Re1+ 61.Kf2 Rxd1
 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2022.04.14"]
+[Round "1"]
+[White "Henttonen, Tero"]
+[Black "Nguyen, Huong"]
+[Result "1-0"]
+[Mode "ICS"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 bxc6 6.Nc3 d6 7.Be2 Be6 8.Bf4
+Qf6 9.Qd2 Rb8 10.Na4 Bb6 11.O-O Ne7 12.Nxb6 Rxb6 13.b3 h6 14.c4 c5 15.Rfd1 O-O
+16.Bg3 Nc6 17.f4 Nd4 18.Rf1 Rd8 19.Rad1 Bc8 20.Bd3 Bg4 21.Rde1 h5 22.h3 h4
+23.Bh2 Bc8 24.e5 Qh6 25.Qf2 a5 26.Be4 Qh5 27.f5 Re8 28.exd6 cxd6 29.Bf3 Nxf3+
+30.Qxf3 Qxf3 31.Rxe8+ Kh7 32.Rxf3 Ba6 33.Rf4 a4 34.Rxh4# 1-0
