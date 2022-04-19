@@ -31,3 +31,33 @@ Qf6 9.Qd2 Rb8 10.Na4 Bb6 11.O-O Ne7 12.Nxb6 Rxb6 13.b3 h6 14.c4 c5 15.Rfd1 O-O
 16.Bg3 Nc6 17.f4 Nd4 18.Rf1 Rd8 19.Rad1 Bc8 20.Bd3 Bg4 21.Rde1 h5 22.h3 h4
 23.Bh2 Bc8 24.e5 Qh6 25.Qf2 a5 26.Be4 Qh5 27.f5 Re8 28.exd6 cxd6 29.Bf3 Nxf3+
 30.Qxf3 Qxf3 31.Rxe8+ Kh7 32.Rxf3 Ba6 33.Rf4 a4 34.Rxh4# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.04.19"]
+[Round "1"]
+[White "Valli, Kari"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Variant "Chess960"]
+[FEN "qrkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKRNBBN w BDbd - 0 1"]
+
+1.f4 f6 2.Nf3 Nf7 3.Bd4 Ned6 4.Nf2 Nb5 5.e3 Nxd4 6.exd4 e6 7.a4 Bd6 8.Nd3 h5
+9.b4 Bh7 10.Nfe1 *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.04.19"]
+[Round "1"]
+[White "Valli, Kari"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Variant "Chess960"]
+[FEN "qr3rk1/pppp1npb/3bpp2/7p/PP1P1P2/3N4/2PP2PP/QRKRNB2 w BD - 3 11"]
+
+11.g3 Bf5 12.h3 b6 13.Qa2 a5 14.b5 Qh1 15.Bg2 Qh2 16.Rb3 Qxg3 17.Ne5 Qxf4
+18.Nxd7 Qxd4 19.Nxb8 Rxb8 20.Nf3 Qf2 21.Ne1 Ne5 22.Bc6 Rd8 23.Nd3 Bxd3 24.cxd3
+Kf7 25.Qc2 Bc5 26.Kb1 Qd4 27.Be4 Qxa4 28.Rf1 Rd4 29.Qa2 Qxa2+ 30.Kxa2 f5
+31.Bxf5 exf5 32.Rxf5+ Ke6 33.Rxh5 Nxd3 34.Rh7 Nc1+ 35.Kb2 Nxb3 36.Kxb3 Rb4+
+37.Kc2 Kf6 38.Rh8 Rxb5 39.Rc8 Bd6 40.Rh8 Rb4 41.Re8 Be5 42.Rf8+ Kg5 43.Rf7 a4
+44.Rf3 Rb2+ 45.Kc1 Rb3 46.Re3 Rxe3 47.dxe3 b5 0-1
