@@ -61,3 +61,17 @@ Kf7 25.Qc2 Bc5 26.Kb1 Qd4 27.Be4 Qxa4 28.Rf1 Rd4 29.Qa2 Qxa2+ 30.Kxa2 f5
 31.Bxf5 exf5 32.Rxf5+ Ke6 33.Rxh5 Nxd3 34.Rh7 Nc1+ 35.Kb2 Nxb3 36.Kxb3 Rb4+
 37.Kc2 Kf6 38.Rh8 Rxb5 39.Rc8 Bd6 40.Rh8 Rb4 41.Re8 Be5 42.Rf8+ Kg5 43.Rf7 a4
 44.Rf3 Rb2+ 45.Kc1 Rb3 46.Re3 Rxe3 47.dxe3 b5 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Espoo FIN"]
+[Date "2022.04.23"]
+[Round "1"]
+[White "Nikulina, Anna"]
+[Black "Suihko, Ismo"]
+[Result "0-1"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nc6 3.d4 cxd4 4.cxd4 e6 5.d5 exd5 6.exd5 Ne5 7.Nf3 d6 8.Bb5+ Bd7
+9.Qa4 Nxf3+ 10.gxf3 a6 11.Bxd7+ Qxd7 12.Nc3 Nf6 13.Qa5 Be7 14.Rg1 Nh5 15.Be3
+O-O 16.Ke2 Rfe8 17.Ne4 f6 18.Ng3 Nf4+ 19.Bxf4?? Bd8+ 20.Be3 Bxa5 21.Nh5 Qb5+
+22.Kd1 Qxd5+ 0-1
