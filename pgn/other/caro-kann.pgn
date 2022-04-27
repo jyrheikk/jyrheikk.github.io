@@ -246,3 +246,18 @@ h4 17.Bxf5 gxf5 18.Nxd5?! exd5 19.Nxf7 (19.Qxd5!) Kxf7 20.Qxd5+ Kg7
 Rxb4 22.Rd2 Rb8 23.Qf2 Qxf2 24.Rxf2 Bxf6 25.exf6 a4 26.Rc1 R4b7 27.Rfc2 Rd8
 28.Rc8 Rb8 29.Rxb8 Rxb8 30.Rc7 h6 31.Kc2 g5 32.fxg5 hxg5 33.Ra7 Rb4 34.g3 Kh7
 35.Rxf7+ Kg6 36.Ra7 Kxf6 37.b3 axb3+ 38.axb3 g4 {no more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.04.27"]
+[Round "-"]
+[White "Graf, Lukas"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 Nb6 7.Bf4 Bg4 8.h3 Be6
+9.b3 h6 10.Bd3 g6 11.O-O Bg7 12.Re1 Qc8 13.Kh2 g5 14.Be5 g4 15.Bxf6? Bxf6
+16.hxg4 Bxg4 17.Re4 h5 18.Qe2 h4 19.Nf1 Nd5 20.Qd2 Bxf3 21.gxf3 Qc7+ 22.Kh1
+O-O-O 23.c4 Nb6 24.Rc1 Bxd4 25.Rxd4 Rxd4 26.Bf5+ Rd7 27.Bxd7+ Qxd7 28.Qf4 Qe6
+29.Rc3? Qe1 (29...Qh3+) 30.Qc1 Qxf2 31.Nh2 f5 32.Qb1 Nd7 33.Qxf5?? Qe1+ 34.Kg2
+h3+ 0-1
