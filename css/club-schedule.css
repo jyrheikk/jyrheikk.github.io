@@ -18,30 +18,22 @@ a.disabledLink:hover {
   text-decoration: none;
 }
 
-#sortOptions,
-#showOptions,
 #feedback {
   background-color: #EEEEEE;
   padding: 0 1px;
 }
 
-#sortOptions,
-#content,
+#kerhot,
 #feedback {
   margin-top: 15px;
 }
 
-#content h3 {
+#kerhot h3 {
   margin-top: 15px;
 }
 
 .club {
   margin-top: 10px;
-}
-
-.youngsters {
-  background-color: #00FF00;
-  padding: 0 1px;
 }
 
 .highlight {
