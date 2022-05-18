@@ -943,3 +943,20 @@ bxc4 23.Rxd6 Qa5?? 24.Qh7 c3 25.Qxg6+ Rf7 26.Rh8+ (26.Rxe6+! {checkmates}) Ke7
 Qxf2+ 32.Kd3?? fxe4+?? (32...Bb5+ {checkmates}) 33.Kc4 Qe2+ 34.Kb4 Qb5+ 35.Ka3
 Qc5+ 36.Kb2 Qb5+ 37.Kc1?? Rf1+ 38.Kd2 e3+ 39.Kxe3 Qc5+ 40.Ke2 Bb5+ 41.Kd2 Qf2#
 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.05.18"]
+[Round "-"]
+[White "Poikala, Atro"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 e5 4.Bc4 d6 5.d4 cxd4 6.cxd4 exd4 7.Nxd4 Ne5 8.O-O Nf6
+9.Nc3 Nxc4 10.Qa4+ Bd7 11.Qxc4 Be7 12.Nf5 O-O 13.Re1 Rc8 14.Qb3 Bxf5 15.exf5
+Qd7 16.Nd5? Nxd5 17.Qxd5 Rc5 18.Qd3 Bf6 19.Be3 Rxf5 20.Re2 a6 21.Rd1 d5 22.Bc5
+Rc8 23.b4 Rg5 24.Rde1 h5 25.Be7 Bxe7 26.Rxe7 Qxe7 (26...Qc6) 27.Rxe7 Rc1+
+28.Qf1 Rxf1+ 29.Kxf1 b5 30.g3 Kf8 31.Ra7 Re5 32.Rxa6 Ke7 33.f4 Re4 34.a3 d4
+35.Rc6 Re3 36.Rc1 Rxa3 37.Rd1 d3 38.Kf2 Ke6 39.Ke3 Kd5 40.f5?? (40.Rxd3+??
+Rxd3+ 41.Kxd3 g6 42.h3 f6 43.g4 h4) (40.Rc1!) Kc4 41.Rc1+ Kxb4 42.Rb1+
+(42.Rc7) Kc4 43.Rc1+ Rc3 44.Rd1 b4 0-1
