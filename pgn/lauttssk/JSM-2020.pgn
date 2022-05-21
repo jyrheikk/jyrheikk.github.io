@@ -1336,3 +1336,48 @@ fxe5 30.fxe5 Qd5 31.Qb4 Rxe5 32.dxe5 Qxd1 33.Qc4+ Qd5 34.Qe2 Re8 35.Re1 Bb8
 43.Ra4 Ra6 44.g4 Bc7 45.g5+ Kf5 46.Rc4 Bd6 47.Ra4 Bc7 48.Rc4 Bxa5 49.Rf4+ Ke6
 50.Kg4 Ra7 51.Kh5 Bc7 52.Rf3 Bd6 53.Re3+ Kf7 54.Rf3+ Kg8 55.Rd3 Ra4 56.Rh3 g6+
 57.Kh6 Bf8# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.05.21"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Salvi, Tuomas"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Turun Työväen Shakkikerho 2"]
+[WhiteElo "2115"]
+[BlackElo "1781"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bc4 Nc6 6.c3 g6 7.Bg5 Bg7 8.Qd2 h6
+9.Be3 e5 10.d5 Ne7 11.O-O-O Nf5 12.Qc2 Nxe3 13.fxe3 O-O 14.Qxe4 Bf5 15.Qf3 h5
+16.h3 Qh4 17.Bb3 Qe4? (17...Rad8) 18.Kd2 (18.Qxe4 Bxe4 19.Bc2) Bh6 19.Ke2 c5?
+20.dxc6 bxc6 21.Qxe4 Bxe4 22.Nf3 Bxf3+ 23.gxf3 Rfd8 24.Ba4 c5 25.Bd7 Rab8
+26.b3 Kf8 27.Rd5 Rb7 28.Rhd1 Rc7 29.Bb5 Rb8 30.Bc4 Bg5 31.f4 Bh4 32.fxe5 Re8
+33.Rd7 Re7 34.Rxc7 Rxc7 35.Rf1 Kg7 36.e6 fxe6 37.Bxe6 Re7 38.Bd5 Bf6 39.Kd3
+Rc7 40.Rf4 Bg5 41.Ra4 Bf6 42.Ra6 g5 43.Re6 Kg6 44.e4 Kg7 45.e5 Be7 46.Ke4 Bd8
+47.Re8 Be7 48.Kf5 Rd7? 49.Ke6 Rxd5 50.Kxd5 (50.Rxe7+ Kf8 51.Rd7) Kf7 51.Rh8 g4
+52.Rh7+?! (52.Rxh5 g3 53.Rf5+) Kg6 53.Rh8 Kg5 (53...Kg7 54.hxg4! Kxh8 55.gxh5
+Kg7 56.Ke6 Kf8 57.Kd7 Bg5 58.e6) 54.hxg4 hxg4 55.Ke6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.05.21"]
+[Round "7"]
+[White "Kukkonen, Matti"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "5"]
+[WhiteTeam "Turun Työväen Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "1616"]
+[BlackElo "1991"]
+[ECO "B00"]
+
+1.e4 Nc6 2.Nc3 Nf6 3.Nf3 d6 4.d4 e5 5.dxe5 Nxe5 6.Nxe5 dxe5 7.Qxd8+ Kxd8 8.Bc4
+Bb4 9.Bd2 Ke7 10.O-O Rd8 11.Bg5 c6 12.Rad1 Be6 13.Bxe6 Kxe6 14.Bxf6 Kxf6
+15.Rxd8 Rxd8 16.Rd1 Rd4 17.Rxd4 exd4 18.Ne2 Ke5 19.f3 b5 20.Kf1 a5 21.a3 Bd2
+22.b3 a4 23.bxa4 bxa4 24.h3 c5 25.Ng3 Bc1 26.Ke2 c4 0-1
