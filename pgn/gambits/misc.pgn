@@ -158,3 +158,20 @@ Ke7 16.Nbxc7 Rc8 17.Nxf8 Kxf8 18.Ne6+ Ke7 19.c3 Rc4 20.Bg5 Qb5 21.b3 Rc8
 9.Nxf3 c6 10.Bd3 Nbd7 11.O-O Qa5 12.c4 O-O 13.Qe2 c5 14.Ne5 cxd4 15.Nxd7 Nxd7
 16.Qe4 g6 17.Rxf7! Rxf7 18.Qxg6+ Rg7 19.Qxe6+ Kh8 20.Qxh6+ Kg8 21.Re1 Ne5
 22.Qh5 (22.c5!) {+/-} *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.01"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Nikulina, Anna"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3 Nc6 5.Bf4 Bb4+ 6.Nc3 Bxc3+ 7.bxc3 Qe7 8.Qd5
+O-O (8...f6) 9.h3 Nh6 10.g4 Qa3 11.Qd3 d6 12.g5? (12.exd6) Bf5? (12...dxe5)
+13.e4? (13.Qe3) Bxe4 14.Qxe4 Qxc3+ 15.Ke2 Qxa1 16.gxh6 g6 17.h4? (17.Qc2) dxe5
+18.Bg5 Nd4+? (18...Qxa2+) 19.Nxd4 exd4 20.Kf3 Rfe8 21.Qf4 d3 22.Bf6? (22.Bg2)
+d2 23.Kg2 d1=Q 24.Bxa1 Qxa1 25.h5 Re6 26.Bd3 Qxa2? 27.hxg6 fxg6 28.Qxc7?
+(28.Qd4 Re7 29.c5) Qb2 29.c5 Rf8 30.Rf1 Re3? 31.Qd6? (31.Bc4+ Kh8 32.Qg7+ Qxg7
+33.hxg7+ Kxg7 34.fxe3) Ref3 32.Kg1 Rxf2?? (32...Kh8) 33.Bc4+ Kh8 34.Qxf8+ Rxf8
+35.Rxf8# 1-0
