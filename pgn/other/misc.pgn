@@ -658,3 +658,16 @@ moves recorded} 1-0
 1.d4 Nf6 2.Bf4 g6 3.h4 h5 4.Nf3 Bg7 5.Nc3 c5 6.dxc5 Qa5 7.Qd4 Nc6 8.Qc4 Ne4
 9.Bd2 Nxd2 10.Kxd2? d5 11.cxd6 Be6 12.d7+ Kf8 13.Qd3 Rd8 14.e3? Rxd7 15.Nd4
 Nxd4 16.exd4 Rxd4 {no more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.01"]
+[Round "-"]
+[White "Svensson, Magnus"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c5 6.dxc5 Qa5+ 7.Bd2 Qxc5 8.Qc2 d5
+9.b3?? Bf5 (9...Ng4!) 10.Qc1 (10.b4) Ne4 11.Be3 d4 12.Bh6 d3 13.Be3 Qb4+
+14.Bd2 Nxd2 15.Nbxd2 dxe2 16.a3 Qd6 17.Kxe2 Nc6 18.Ke1 Rfd8 19.Bf1 Qe6+ 20.Be2
+Bd3 21.Ng1 Nd4 0-1
