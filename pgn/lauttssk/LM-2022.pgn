@@ -155,3 +155,14 @@ Rxa2 23.Rcc7 Nf7 24.Qe2 Ra1+ 25.Kh2 Ra2 26.Re8 Qd6 27.Rcc8 Rxe8 28.Qxe8+ Kh7
 29.Ra1 Ke7 30.Ra3 Rb4 31.Kd3 f5 32.Kc3 Nd4 33.Nb5 Rxb5?? 34.axb5 Nxb5+ 35.Kxb3
 Nxa3 36.Kxa3 Kd7 37.b4 axb4+ 38.Kxb4 Kc6 39.f4 h6 40.h4 g5 41.hxg5 hxg5
 42.fxg5 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.06.07"]
+[Round "2"]
+[White "Oiling, Alexander"]
+[Black "Nikulina, Anna"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3 Nc6 5.Bf4 Bb4+ 6.Nbd2 Qe7 7.a3 Ngxe5 8.Nxe5
+Nxe5 9.axb4?? Nd3# 0-1
