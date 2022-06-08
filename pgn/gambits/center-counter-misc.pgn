@@ -5,6 +5,8 @@
 [White "Nevanlinna, Risto"]
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
+[WhiteElo "2340"]
+[TimeControl "600"]
 
 1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 Nxc6 5.c3 Bf5 6.Be2 Rc8 7.Nf3 e6
 8.O-O Be7 9.Bf4 O-O 10.Nbd2 a6 11.a4 Nd5 12.Bg3 h5 13.h4 Bg4 14.Re1 f5
@@ -85,3 +87,15 @@ Qb7 26.Qb3+ 1-0
 20.Qg4 c5 21.h5 e5 22.g6 Nf6 23.gxh7+ Kh8 24.Qg2 c4 25.Nd2 c3 26.Nf3??
 cxb2+ 27.Kb1 Qc3 (27...Nxe4 {-+}) 28.Rdg1?? (28.Ng5 Rxd1+ 29.Rxd1 Rf8
 {=/+}) Rd1+ 29.Rxd1 Qa3 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.08"]
+[Round "-"]
+[White "Ilkka, Oskari"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Bg4 4.h3 Bh5 5.g4 Bg6 6.d4 c6 7.dxc6 Nxc6 8.Nc3 e6
+9.Bg5 Qb6 10.Bb5 O-O-O (10...Ne4!) 11.Qe2 Nxd4 12.Nxd4 Qxd4 13.Be3 Qb4 14.Bxa7
+Ne4? (14...Bc5) 15.Rd1? (15.a3) Rxd1+ 16.Qxd1 Nxc3?? (16...Bd6) 17.Qd7# 1-0
