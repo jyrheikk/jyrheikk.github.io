@@ -425,3 +425,16 @@ Qxd2+ 15.Rxd2 Rae8 16.Rdf2) Nd4 14.Bh6 a6?? 15.h3?? (15.Bxg7) Bxf3 16.gxf3 b5
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 g6 6.Bf4 c6 7.Qd2 h5 8.Bd3 Bg4
 9.Ne5 Nd5 10.Nxd5 cxd5 11.Rf1 Qb6 12.c3 (12.Nxf7! Qxb2 13.Bxg6) Nc6? 13.Nxf7
 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.08"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Ilkka, Oskari"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 g6 6.Bc4 Bg7 7.Ne5 O-O 8.O-O c5
+9.d5 Nbd7 10.Nxd7 Qxd7 11.Qe2 a6 12.a4 Rd8 13.Bf4 Ng4 14.Rad1 Bxc3? 15.bxc3
+Qxa4? 16.d6? (16.h3) exd6 17.Bxd6 (17.Qe7) Nh6? (17...Bf5) 18.Rxf7 Nxf7
+19.Bxf7+ Kxf7 (19...Kg7 20.Qe7) 20.Qe7+ Kg8 21.Qxd8+ Kg7 22.Qf8# 1-0
