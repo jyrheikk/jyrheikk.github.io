@@ -119,3 +119,20 @@ Nf2+ 24.Rxf2 Bxf2 25.Nf7 Rxd5? 26.Nxh8 Rxb5? 27.Rxb5 Nxh8 28.Rxe5 Bd4??
 22.Qxc5 bxc3+ 23.Kxc3 Qxf3 24.Rf1? (24.dxc6) Qxe4? (24...Qg2) 25.Rhg1 cxd5
 26.Qxd5+ Qxd5 27.cxd5 Rc8+ 28.Kd3 Rab8 29.b3 Rb4 30.Rc1 Rd8 31.Rc5 a4 32.Rgc1
 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.06.13"]
+[Round "Quarter-Final"]
+[White "Heikkinen, Jyrki"]
+[Black "Kumar, Ashwin"]
+[Result "1-0"]
+[TimeControl "1200+10"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 Nc6 4.d5 Ne5 5.f4 Ng6 6.g3 c6 7.h4 Bg4 8.Be2 h5 9.Qd3
+cxd5 10.Nxd5 Bxe2 11.Nxe2 e6 12.Ne3? (12.Nxf6+) Be7 13.Bd2 Rc8 14.c4 Nd7 15.b4
+Qc7 16.O-O Bf6 17.Rab1 Ne7 18.Rfd1 Nb6? 19.c5 dxc5 20.bxc5 Nd7 21.e5 Nxe5
+22.fxe5 Bxe5 23.Qe4 Nc6 24.Kg2 O-O 25.Qf3 g6 26.Nc4 Bg7 27.Bf4 e5 28.Bg5 f6
+29.Be3 Rfd8 30.Nd6 Rb8 31.Nc3 (31.g4) Kh7 32.Nd5 Qd7 33.Nxf6+ (33.Nxb7) Bxf6
+34.Qxf6 Rf8 35.Qg5 Qe6 36.Ne4 Qxa2+ 37.Kg1 Qe6 38.Rd6 Qf5 39.Qh6+ Kg8 40.Rxg6+
+Kf7 41.Nd6+ (41.Rg7+ Ke8 42.Qxc6+) 1-0
