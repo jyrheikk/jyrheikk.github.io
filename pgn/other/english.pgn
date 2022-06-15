@@ -385,7 +385,7 @@ Kxf7 23.Qc7+ Nbd7 24.Rhf1 Qe5+ 25.Qxe5 Nxe5 26.Bb5 Red8 27.Rac1 Rac8 28.g4 h6
 
 1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.d4 exd4 5.Qxd4 d6 6.Bg2 Be6 7.Bf4 Nh5 8.Be3 Qa5
 9.O-O-O Be7 10.Qd3 (10.g4) O-O 11.Be4? f5 12.Bf3 Nf6 13.Nh3 Nbd7 14.b3 Ne5
-(14...Ne4!) 15.Qc2 b5 16.cxb5 Nxf3 17.exf3 cxb5 18.Kb2 Rac8 19. Qd3 d5?
+(14...Ne4!) 15.Qc2 b5 16.cxb5 Nxf3 17.exf3 cxb5 18.Kb2 Rac8 19.Qd3 d5?
 (19...b4 20.Na4 Nd7) 20.Nf4?? (20.Bd4) Ba3+ 21.Kb1 Rxc3 22.Qd2 Rfc8?
 (22...Bf7) 23.Nxe6 Bb4 24.Qd4?? (24.Nd4!) Qa6?? (24...R8c6) 25.Nxg7??
 (25.Qxb4) Rc2 26.a4 bxa4 (26...Bc3!) 27.Qxb4 axb3 28.Qxb3 Kxg7 (28...R2c3)
@@ -393,3 +393,16 @@ Kxf7 23.Qc7+ Nbd7 24.Rhf1 Qe5+ 25.Qxe5 Nxe5 26.Bb5 Red8 27.Rac1 Rac8 28.g4 h6
 Qb3+ 34.Ke2 Qc4+ 35.Ke3 Qb3+ 36.Kf4 Qc4 37.Rhd1 Nc5 38.Rxa7? Ne6+ (38...Nb3
 39.Ke3 f4+! 40.gxf4 Nxd4) 39.Ke3?? (39.Ke5 Qe2+ 40.Be3 {=}) Nxd4 40.Rxd4 Qc3+
 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.15"]
+[Round "-"]
+[White "Kääriäinen, Pinja"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.c4 e5 2.Nc3 f5 3.d3 Bc5 4.Nh3 Nf6 5.Bd2 O-O 6.Qb3 Kh8 7.O-O-O c6 8.g3 d5
+9.Bg5 d4 10.Na4 Na6 11.Nxc5 Nxc5 12.Qc2 Be6 13.Bg2 Qa5 14.Kb1 b5 15.Bxc6?!
+(15.Bd2 Qa6 16.Ng5 Bg8 17.Bb4) bxc4 16.Bxa8?? (16.dxc4) cxd3 (16...c3!)
+17.Rxd3 Qxa2+ 18.Kc1 Nxd3+ 19.Qxd3 Rxa8 20.f4 Ne4 21.fxe5 Rc8+ 22.Kd1 Qa1+ 0-1
