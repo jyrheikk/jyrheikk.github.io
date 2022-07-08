@@ -607,3 +607,19 @@ Rc7 40.Rf4 Bg5 41.Ra4 Bf6 42.Ra6 g5 43.Re6 Kg6 44.e4 Kg7 45.e5 Be7 46.Ke4 Bd8
 47.Re8 Be7 48.Kf5 Rd7? 49.Ke6 Rxd5 50.Kxd5 (50.Rxe7+ Kf8 51.Rd7) Kf7 51.Rh8 g4
 52.Rh7+?! (52.Rxh5 g3 53.Rf5+) Kg6 53.Rh8 Kg5 (53...Kg7 54.hxg4! Kxh8 55.gxh5
 Kg7 56.Ke6 Kf8 57.Kd7 Bg5 58.e6) 54.hxg4 hxg4 55.Ke6 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.07.08"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bf4 Nc6 6.c3 e5 7.dxe5 Qxd1+ 8.Rxd1
+Be6 9.b3 g5 10.Bxg5 Bg7 11.Bf6 Rg8 12.Bxg7 Rxg7 13.f4 a5 14.Kd2? (14.Ne2 a4
+15.Ng3 axb3 16.axb3 Bxb3 17.Rb1) a4 15.c4? (15.Ke3) Nb4 16.Kc3 Nd3?
+(16...Nxa2+) 17.Bxd3 exd3 18.Rxd3? (18.g3) Rxg2 19.Rg3 Rxg3+ 20.hxg3 axb3
+21.axb3? Ra1 22.Kb2 Rf1 0-1
