@@ -445,3 +445,18 @@ Ne7 22.Ne2 Nf5 23.Rhe1 Qa4 24.Bg1 Ba6 25.c5 Qc4 26.cxb6 cxb6 27.Qxc4+ Bxc4
 28.Nc3 Nxg3 29.Nxe4 Nxe4 30.Rxe4 Bd5 31.Re3 Rxh4 32.b4 a4 33.Rd2 Kb7 34.Kb2
 Rh3 35.Rdd3 Rh1 36.Rg3 Bf3 37.Rc3 Rd5 38.Kc2 Rdh5 39.Kd2 f5 40.b5 Bd5 41.Rc1
 R5h3 42.Rcc3 Rxg3 43.Rxg3 Bf3 44.Kc3 Bd5 45.Kb4 Bb3 46.Bf2 Rh2 47.Be3 Rc2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.07.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Saba"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 e6 3.c4 Nf6 4.Nc3 Bb4 5.a3 Bxc3+ 6.bxc3 Nxe4 7.Qf3 O-O 8.a4 Nc6
+9.Bd3 f5 10.Ne2 Qh4 11.g3 Qh3 12.Bb2 (12.Nf4) Na5 13.Nf4 Qh6 14.cxd5 exd5
+15.O-O Nd2? 16.Qxd5+ Kh8 17.Qxa5 g5 18.Qe5+ Kg8 19.Qd5+ Rf7 20.Ne2 Be6 21.Qxb7
+Raf8 22.Qb5?? (22.Rfd1) g4?? (22...Nf3+ 23.Kg2 f4!) 23.f4 Qh3 24.Qe5??
+(24.Rf2) Nf3+ 25.Rxf3 gxf3 26.Qxe6? Qg2# 0-1
