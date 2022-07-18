@@ -83,6 +83,7 @@ more moves recorded} 1/2-1/2
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Lappeenrannan Shakkikerho"]
+[WhiteElo "2069"]
 [BlackElo "2196"]
 [TimeControl "300"]
 
@@ -351,3 +352,18 @@ Nf5 23.Rxb7 {no more moves recorded} 0-1
 15.gxh7+ Kxh7 16.Be4+ Kg8 17.Rxf8+ Qxf8 18.Ne2 (18.g5!) exd4 19.Qd3 g6 20.Bxg6
 Qg7 21.Rf1 Nd7 22.Rf7 Qe5 23.Qh3 Qh2+? (23...Nf8 24.Rxb7) 24.Qxh2 Bxh2+
 25.Kxh2 Ne5 26.Rxb7 Nxg6 27.Nxd4 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.07.18"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Nguyen, Huong"]
+[Result "1-0"]
+[TimeControl "240+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Bg4 8. Be3 Bd6
+9.Qe1 h6 10.Qh4 a6? 11.Ne5 Bf5 12.Rxf5 exf5 13.Nxf7 Qe7 14.Re1 Rf8 15.Nxd6+
+Qxd6 (15...cxd6 16.Bxh6! Ne4 17.Bg5) 16.Bf4+ Qe7 17.Rxe7+ Kxe7 18.Nd5+ Kd7
+19.Nxc7 Nc6 20.Nxa8 Rxa8 21.d5 Nd4 22.Be5 Nxc2 23.Bxf6 gxf6 24.Qxf6 Re8
+25.Qxf5+ Kd6 26.Qg6+ Kc5 27.Qxe8 1-0
