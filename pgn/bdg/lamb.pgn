@@ -109,3 +109,16 @@ Nxc4 16.Ng5 Bxg2?? 17.Rxf6 gxf6 18.Qh5 Be4 19.Bxe4 Qxe4 20.Nxe4 Kh8 21.Nxf6
 (19.Rhe1) Rf7 20.Qh3 Ng6 21.e6 Rf8 22.Rhe1 Nf4 23.Bxf4 Rxf4 24.Ng5 Qg6 25.Nf7+
 Kg8 26.g3 Rf6 27.Ne5 Qe8 28.Nxc6 Qxc6 29.e7 Rh6 30.Qf5 Rf6 31.Qe5 Re8 32.Nb3
 Rf2 33.Re2 Qh6+ 34.Kb1 Qxh2?? 35.Qe6+ Kh8 36.Rd8 Qh5 37.g4 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.07.27"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Henttonen, Tero"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 Nc6 5.Bb5 Bd7 6.fxe4 e6 7.Nf3 a6 8.Be2 Bb4
+9.Qd3 Na7 10.O-O Bxc3 11.bxc3 Qe7 12.Ng5 (12.Rb1 O-O-O?? 13.Qxa6) h6 13.e5
+hxg5 14.Bxg5 Bc6 15.exf6 Qd7?? 16.fxg7 Rg8 17.Qh7 1-0
