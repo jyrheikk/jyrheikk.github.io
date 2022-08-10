@@ -210,3 +210,17 @@ more moves recorded} 1-0
 Qa4 23.Nf2 Bxf3 24.gxf3 Nf5 25.Qf4 (25.Rxf5 exf5 26.Nd3) Qc6 26.Bd3 Rfd8
 27.Rg1?? (27.Bxf5 exf5 28.Rxf5) Kh7?? (27...Nd5) 28.Bxf5 exf5 29.Rxf5?
 (29.Rxg6!!) Qxd6?? 30.Rxf6 Qxf4+ 31.Rxf4 {no more moves recorded} 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.08.10"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Kaitaranta, Sameli"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c5 5.d5 exf3 6.Nxf3 g6 7.Bg5 Bg7 8.Qd2 O-O
+9.O-O-O a6 10.Bh6 b5 11.Bxg7 Kxg7 12.h4 h5 13.Ng5 Bg4 14.Be2 Nbd7 15.Qf4 b4
+16.Bxg4 Nxg4 (16...bxc3) 17.Nce4 Ndf6 18.Nxc5 Rc8?? (18...Qa5) 19.Nce6+ fxe6
+20.Nxe6+ Kh7 21.Nxd8 Rcxd8 22.Rhf1 Kg7 23.Qxb4 Ne3? 24.Qxe7+ Kh6 25.Qxe3+ 1-0
