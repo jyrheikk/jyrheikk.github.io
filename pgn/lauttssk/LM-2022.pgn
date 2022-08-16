@@ -266,7 +266,7 @@ Kh8 22.g4 Qf6 23.Kg1 Rbd8? 24.Rf1 Qh4 25.Rxf7 c6 26.Rxf8+ Rxf8 27.Nf7+ Kg8??
 [FEN "r1bkrnq1/ppp3bp/2np1pp1/8/3P2PB/2N5/PPP1P2P/2KRRNQB b kq - 3 8"]
 [TimeControl "3600+30"]
 
-8.Bd7 9.h3 a6 10.e4 Qf7 11.Qf2 h6 12.e5 dxe5 13.dxe5 Nh7?? 14.Bd5 Qf8 15.e6 g5
-16.Bxc6 bxc6 17.Rxd7+ Kc8 18.Bg3 Re7 19.Bd6 (19.Nd5!) cxd6 20.Qb6 Rxd7
-21.exd7+ Kxd7 22.Qb7+ Kd8 23.Qxa8+ Kd7 24.Qb7+ Kd8 25.Na4 d5 26.Qb8+ Kd7
+8...Bd7 9.h3 a6 10.e4 Qf7 11.Qf2 h6 12.e5 dxe5 13.dxe5 (13.Bd5) Nh7?? 14.Bd5
+Qf8 15.e6 g5 16.Bxc6 bxc6 17.Rxd7+ Kc8 18.Bg3 Re7 19.Bd6 (19.Nd5!) cxd6 20.Qb6
+Rxd7 21.exd7+ Kxd7 22.Qb7+ Kd8 23.Qxa8+ Kd7 24.Qb7+ Kd8 25.Na4 d5 26.Qb8+ Kd7
 27.Nb6# 1-0
