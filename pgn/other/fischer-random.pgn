@@ -190,7 +190,7 @@ Qe7 17.Kb2 g6 18.Rc1 gxf5 19.gxf5 Rg4 20.Nf2 Rg5 21.Nh3 Rg7 22.Rg1 Rdg8
 [Result "*"]
 [TimeControl "3000+30"]
 [Variant "Chess960"]
-[FEN "r1b1knr1/ppq2ppp/2ppp1n1/8/2PPP3/6N1/PP1Q1PPP/R2B1RKN b ga - 2 8"]
+[FEN "r1b1knr1/ppq2ppp/2ppp1n1/8/2PPP3/6N1/PP1Q1PPP/R2B1RKN b ag - 2 8"]
 
 8...Nd7 9.f4 Ne7 10.Nf2 b6 11.Be2 Bb7 12.Rac1 {12...O-O} *
 
@@ -372,8 +372,37 @@ Nxb3 36.Kxb3 Rb4+ 37.Kc2 Kf6 38.Rh8 Rxb5 39.Rc8 Bd6 40.Rh8 Rb4 41.Re8 Be5
 [Result "0-1"]
 [TimeControl "3600+30"]
 [Variant "Chess960"]
-[FEN "rknbrnbq/pppppppp/8/8/8/8/PPPPPPPP/RKNBRNBQ w - - 0 1"]
+[FEN "rknbrnbq/pppppppp/8/8/8/8/PPPPPPPP/RKNBRNBQ w AEae - 0 1"]
 
 1.e4 e5 2.f3 Ne6 3.Nb3 g6 4.Ne3 Nb6 5.c3 a5 6.Bc2 (6.a4) a4 7.Nc1 c6 8.Bf2 d5
 9.exd5 cxd5 10.Qf1 Nc7 11.Nd3 f5 12.b3 Qf6 13.Nc5 a3 14.Qd3? Qc6 15.b4 d4
 16.Nf1?? Bc4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.08.16"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "*"]
+[Variant "Chess960"]
+[FEN "rnbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/RNBKRNQB w AEae - 0 1"]
+[TimeControl "3600+30"]
+
+1.g4 d6 2.f4 g6 3.Nc3 e5 4.fxe5 Bxe5 5.d4 Bg7 6.Bg5+ f6 7.Bh4 Nc6 {8.O-O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.08.16"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Variant "Chess960"]
+[FEN "r1bkrnq1/ppp3bp/2np1pp1/8/3P2PB/2N5/PPP1P2P/2KRRNQB b ae - 3 8"]
+[TimeControl "3600+30"]
+
+8...Bd7 9.h3 a6 10.e4 Qf7 11.Qf2 h6 12.e5 dxe5 13.dxe5 (13.Bd5) Nh7?? 14.Bd5
+Qf8 15.e6 g5 16.Bxc6 bxc6 17.Rxd7+ Kc8 18.Bg3 Re7 19.Bd6 (19.Nd5!) cxd6 20.Qb6
+Rxd7 21.exd7+ Kxd7 22.Qb7+ Kd8 23.Qxa8+ Kd7 24.Qb7+ Kd8 25.Na4 d5 26.Qb8+ Kd7
+27.Nb6# 1-0
