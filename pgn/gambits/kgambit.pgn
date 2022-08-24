@@ -348,3 +348,23 @@ Qc7 18.Bf4 (18.Kh1!) Bxf4 19.Qxf4 Qxf4 20.Rxf4 Rfe8 21.Ref1 Re6 22.Ng3 Rd8
 29.b3 Rxe4 30.Re2? Rxe2 31.Kxe2 f5 32.Kf3 Kf7 33.Kf4 Kf6 34.h4 g6 35.g4 fxg4
 36.Kxg4 h6 37.Kf4 g5+ 38.hxg5+ hxg5+ 39.Kg4 Kg6 40.a3 b6 41.b4 cxb4 42.axb4
 axb4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.08.24"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Svensson, Magnus"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.f4 exf4 3.Qf3 Nc6 4.c3 Nf6 5.d4 d5 6.e5 Ne4 7.Bxf4 Be7 8.Bd3 Bf5
+9.Ne2 Qd7 10.O-O O-O-O 11.Bb5 a6 12.Bxc6 Qxc6 13.Bg5? Bxg5 14.Qxf5+ Qe6 15.Qf3
+f6 16.Ng3 Nxg3 17.Qxg3 h5 18.h4 Bh6 19.Re1 f5 (19...Qb6) 20.b4 f4 21.Qf2 Rdf8
+22.Na3 (22.Nd2) Kb8 23.b5 a5 (23...f3) 24.Rad1 b6 25.c4 Qg4 26.cxd5 (26.Qf3)
+f3 27.d6 (27.Rd3) fxg2 28.dxc7+ Kxc7 (28...Ka7!) 29.Qxg2 Be3+ 30.Rxe3??
+(30.Kh1 Rf3 31.Qxg4) Qxd1+ 31.Kh2 Qxd4 32.Qc6+ Kb8 33.Qd6+ Qxd6 34.exd6 Rf2+
+35.Kg3 Rxa2 36.Nc4 Rd8 37.Re7 a4 38.Ne5 Rxd6 39.Nc6+ Kc8 40.Re8+ Kc7 41.Re7+
+Rd7 42.Re3 a3 43.Ne5 Rb2 44.Rxa3 Rd5 45.Ra7+ Kc8 46.Nc6 Rbxb5? 47.Ne7+ Kd8
+48.Nxd5 Rxd5 49.Rxg7 b5? (49...Rf5!) 50.Kf3 b4 51.Rb7 Rd4 52.Kg3 Kc8 53.Rb5
+Kc7 54.Rxh5 Kc6 55.Rf5 b3 56.h5 b2 57.Rf1 Kc5 58.h6 Kb4 (58...Kc4) 59.h7 Rd8
+60.Kg4 Rh8 61.Rf7 Kc3 62.Rc7+ Kd4 63.Rb7 Rxh7 64.Rxb2 1/2-1/2
