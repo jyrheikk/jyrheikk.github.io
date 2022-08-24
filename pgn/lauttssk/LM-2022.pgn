@@ -270,3 +270,17 @@ Kh8 22.g4 Qf6 23.Kg1 Rbd8? 24.Rf1 Qh4 25.Rxf7 c6 26.Rxf8+ Rxf8 27.Nf7+ Kg8??
 Qf8 15.e6 g5 16.Bxc6 bxc6 17.Rxd7+ Kc8 18.Bg3 Re7 19.Bd6 (19.Nd5!) cxd6 20.Qb6
 Rxd7 21.exd7+ Kxd7 22.Qb7+ Kd8 23.Qxa8+ Kd7 24.Qb7+ Kd8 25.Na4 d5 26.Qb8+ Kd7
 27.Nb6# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.08.24"]
+[Round "4"]
+[White "Kauppinen, Janne"]
+[Black "Kulkarni, Pranav"]
+[Result "1/2-1/2"]
+
+1.c4 Nf6 2.d4 g6 3.Nc3 Bg7 4.Nf3 d6 5.e4 O-O 6.Be2 Nbd7 7.O-O e5 8.h3 exd4
+9.Nxd4 Nc5 10.f3 a5 11.Be3 Nh5 12.Bf2 Qg5 13.h4 Qf4 14.Qc1 Be5 15.Qxf4 Nxf4
+16.Rad1 Nxe2+ 17.Ndxe2 a4 18.Bxc5 dxc5 19.b3 axb3 20.axb3 Ra3 21.Rb1 Be6 22.f4
+Bxc3 23.Nxc3 Bxc4 24.bxc4 Rxc3 25.Rxb7 Rc8 26.f5 gxf5 27.Rxf5 Rxc4 28.Rf4 f5
+29.Rxf5 Rxe4 30.Rxc5 Rxh4 31.Rcxc7 Rxc7 32.Rxc7 1/2-1/2
