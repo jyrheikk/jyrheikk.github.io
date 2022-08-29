@@ -73,7 +73,22 @@ Nf6 16.Bg5 Nb4 17.Ne5 Qe8 18.Bxf6 Bxf6 19.Nd7+ 1-0
 [TimeControl "180+2"]
 
 1.g4 d5 2.Bg2 e5 3.c4 dxc4 4.Qa4+ Nc6 5.Qxc4 Bd7 6.e3 Bd6 7.Ne2 Qh4 8.h3 h5
-9.Ng3 e4 10.Qxe4+ Nge7 11.Nf5 Bxf5 12.gxf5 Qg5 13.Nc3 O-O-O 14.Nb5 Qxf5?
+9.Ng3 e4 10.Qxe4+ Nge7 11.Nf5 Bxf5 12.gxf5 Qg5 13.Na3 O-O-O 14.Nb5 Qxf5?
 15.Nxa7+ Kb8 16.Nxc6+ bxc6 17.Qxf5 Nxf5 18.Bxc6 Rh6 19.Be4 Nh4 20.b4 Re6
 21.d3?? (21.Bd5) Bxb4+?? (21...f5) 22.Ke2 Rb6 23.a3 Be7 24.Bd2 (24.d4) Rb2
 25.Rhb1 Rxb1 26.Rxb1+ Kc8 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.08.29"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.g4 d5 2.Bg2 e5 3.c4 c6 4.cxd5 cxd5 5.Qb3 Qc7 6.Nc3 d4 7.Nd5 Qd7 8.d3 Bd6
+9.Bd2 Ne7 10.Nxe7 Qxe7 11.Rc1 O-O 12.Rxc8 Rxc8 13.Bxb7 Nc6 (13...Nd7) 14.Bxa8
+Rxa8 15.Qd5 Rc8 16.a3 Qc7 17.Nf3 Ne7 18.Qa2 Qd7 19.h3 (19.Ng5) Qb5 20.Ng5 Rf8?
+(20...Nd5) 21.Ne4 Qb6 22.O-O Bb8 23.b4 h6 24.Rc1 Qg6 25.Qc4 h5 26.f3 hxg4
+27.hxg4 Rc8?? 28.Qxc8+ Nxc8 29.Rxc8+ Kh7 30.Ng5+ 1-0
