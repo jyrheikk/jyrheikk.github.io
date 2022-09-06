@@ -212,3 +212,25 @@ Rxb2+ 45.Rxb2 Rxb2+ 46.Kxb2 Kxc6 47.Kc3 Kd5 48.Kd3 f5 49.Ke3 Kc4 50.g4 g6
 (22...Bxc3 23.Qxc3 gxf5) 23.Bxg7 Kxg7 24.fxg6 hxg6 25.f5 gxf5 26.Nh5+ Kf7
 27.g4 Rg8 28.Kh2 e6 29.Qc3 Rg6 30.Rbe1 Rag8 31.Nf4 Rh6 32.Nh5?? (32.gxf5 e5
 33.Ng6) Rxh5 0-1
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.06"]
+[Round "12"]
+[White "Paasikangas, Johanna"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2214"]
+[BlackElo "2009"]
+[BlackTitle "WIM"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Bf4 c5 3.Nc3 cxd4 4.Qxd4 Nc6 5.Qd2 e5 6.Bg3? (6.Bg5) d5 7.e3 Bb4
+8.a3 Ne4 9.Qd3 Bxc3+ (9...Qa5) 10.bxc3 Qa5 11.Ne2 Bf5 12.Qd1 Nxc3 (12...d4!
+13.exd4 exd4) 13.Qd2 Nxe2 14.Qxa5 Nxa5 15.Bxe2 f6 16.Bd3 Bd7 17.O-O O-O 18.e4
+Bc6 19.exd5 Bxd5 20.Rfe1 b6 21.f3 Rac8 22.Bf2 Nc4 23.a4 Rfd8 24.Bf5 Rc7
+25.Reb1 g6 26.Bd3 f5 {no more moves recorded} 0-1
