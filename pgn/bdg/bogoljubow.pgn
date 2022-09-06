@@ -438,3 +438,26 @@ Qxd2+ 15.Rxd2 Rae8 16.Rdf2) Nd4 14.Bh6 a6?? 15.h3?? (15.Bxg7) Bxf3 16.gxf3 b5
 9.d5 Nbd7 10.Nxd7 Qxd7 11.Qe2 a6 12.a4 Rd8 13.Bf4 Ng4 14.Rad1 Bxc3? 15.bxc3
 Qxa4? 16.d6? (16.h3) exd6 17.Bxd6 (17.Qe7) Nh6? (17...Bf5) 18.Rxf7 Nxf7
 19.Bxf7+ Kxf7 (19...Kg7 20.Qe7) 20.Qe7+ Kg8 21.Qxd8+ Kg7 22.Qf8# 1-0
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.06"]
+[Round "11"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Heikki"]
+[Result "1-0"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki 2"]
+[WhiteElo "2009"]
+[BlackElo "2062"]
+[BlackTitle "FM"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 g6 6.Bf4 Bg7 7.Qd2 O-O 8.O-O-O
+Bg4 9.Be2 Nc6 10.h3 Bxf3 11.Bxf3 e6 12.Bg5 Qd7 13.Rhf1 Nd5 14.Ne4? f6?
+(14...Nxd4) 15.Bh6 Bxh6 (15...Nxd4) 16.Qxh6 Qg7 17.Qd2 Rad8? (17...b6) 18.a3
+(18.Nc5) Nde7 19.c3 b6 20.Qe2 Na5 21.b4 Nac6 22.Qc4 Rd5 23.Ng3 Qh6+ 24.Kb2 Qh4
+25.Ne2? Kh8? (25...Ne5) 26.g3 Qh6 27.Nf4 1-0
