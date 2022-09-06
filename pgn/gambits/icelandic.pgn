@@ -420,3 +420,21 @@ O-O-O 9.b3 Nb4 10.d4 Bxd4 11.Nxd4 Rxd4 12.Qe2 Nd3+ 13.Qxd3 Rxd3 14.Bxd3 Bxc4+
 15.Be2 Bxe2 16.Nxe2 Re8 17.Be3 Nd5 18.O-O Nxe3 19.fxe3 Qxe3+ 20.Rf2 f5 21.Rf1
 g6 22.Nf4 Qc5 23.Nd3 Qd4 24.Nb2 Re2 25.Nc4 Rxf2 26.Rxf2 b5 27.Nb2 f4 28.Kf1 g5
 29.Ke1 h5 30.Nd1 g4 31.Rd2 Qg1+ 0-1
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.06"]
+[Round "7"]
+[White "Mikkola, Sakari"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Etelä-Vantaan Shakki 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 e6 4.dxe6 Bxe6 5.d4 Nc6?? 6.d5 Bb4+ 7.Bd2 Qe7 8.dxe6?
+(8.Bxb4) O-O-O 9.Be2 Ne4 10.Nf3 Ne5? (10...Qxe6) 11.Kf1?? (11.O-O Nxf3+
+12.Bxf3 Nxd2 13.Nxd2 Bxd2 14.exf7) Nxf3 12.Bxb4 Rxd1+ 13.Bxd1 Qxb4 (13...Qh4!
+14.g3 Qh3+ 15.Ke2 Nd4+) 14.Bxf3 Qxb2 0-1
