@@ -975,3 +975,22 @@ Rxd3+ 41.Kxd3 g6 42.h3 f6 43.g4 h4) (40.Rc1!) Kc4 41.Rc1+ Kxb4 42.Rb1+
 14.Nxe6 fxe6 15.Qg4 dxc4? (15...Nge7) 16.Qxe6+ Rd7 17.Rf8+ Nd8 18.Bg5 Ne7
 19.Rxh8 Qxc3 20.Bf6 Qxc2 21.Re1 (21.Rxd8+!) Nc6 22.dxc4 (22.Bxd8! Nxd8
 23.Rxd8+ Kxd8 24.Qb6+) Kc7 23.Be5+ Kc8 24.Bg3 Qd2 25.Qf5?? Qd4+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.09.14"]
+[Round "-"]
+[White "Salikhodjaev, Israil"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.Nf3 Nc6 5.Be2 Bf5 6.O-O Bxb1? (6...Bd3) 7.Rxb1
+Qxa2 8.Qc2 e6 9.Bb5 Ne7 10.d4 a6 11.Ba4 Qd5 (11...cxd4) 12.dxc5 Qxc5 13.Be3
+Qh5 14.Rbd1 b5 15.Bb3 Rc8 16.Bb6 Ng6? (16...g6) 17.Qd3 Nge5 18.Nxe5 Nxe5
+19.Qg3? (19.Qd4) Nd7?? (19...Nc4) 20.Ba5? (20.Rxd7 Kxd7 21.Rd1+ Ke8 22.Qd3)
+Be7?? (20...Qg6) 21.Bc2? (21.Rxd7) Qe5? (21...Nf6) 22.Rxd7! Qxg3 23.Rxe7+ Kxe7
+24.fxg3 f6 25.Be4 Kf7 26.Rd1 f5 27.Bb7 Rb8 28.Rd7+ Kf6 29.h4 e5 30.Rd6+
+(30.Bd5) Ke7 31.Bb4? (31.Rb6) a5 32.Bc5 Rxb7 33.Rb6+ Kd7 34.Rxb7+ Kc6 35.Re7
+Kxc5 36.Rxe5+ Kc6 37.Rxf5 Rd8 38.Kh2 Rd2 39.b3? (39.Rf7) Rb2 40.c4 Rxb3
+41.cxb5+ Rxb5 42.Rf3 a4 43.Ra3 Ra5 44.Kg1 Kc5 45.Kf1 Kb4 46.Ra1 a3 47.Ke1 Rd5
+0-1
