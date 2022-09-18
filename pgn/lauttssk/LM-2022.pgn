@@ -80,6 +80,22 @@ O-O 16.Ke2 Rfe8 17.Ne4 f6 18.Ng3 Nf4+ 19.Bxf4?? Bd8+ 20.Be3 Bxa5 21.Nh5 Qb5+
 [Site "Helsinki FIN"]
 [Date "2022.04.27"]
 [Round "1"]
+[White "Paasonen, Pasi"]
+[Black "Varjokallio, Matti"]
+[Result "0-1"]
+[ECO "E12"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 b6 4.Bf4 Bb7 5.e3 Be7 6.Nc3 d5 7.Be2 O-O 8.O-O Nh5 9.a3
+Nxf4 10.exf4 Qd6 11.Qd2 dxc4 12.Bxc4 Bxf3 13.gxf3 Rd8 14.Rad1 a6 15.Rfe1 Qc6
+16.Qe2 b5 17.Bd3 Qb6 18.Be4 c6 19.d5 cxd5 20.Bxd5 Ra7 21.Ba2 g6 22.Kg2 Rad7
+23.Rxd7 Nxd7 24.Rd1 Qc7 25.Qe3 Bc5 26.Qc1 Bd6 27.Rd4 Nf6 28.Qd2 Nh5 29.Kf1 Be7
+30.Rxd8+ Bxd8 31.Ne2 Be7 32.Qe3 Bd6 33.Qe4 Nxf4 34.Nxf4 Bxf4 35.Qa8+ Kg7
+36.Qe8 Bxh2 37.Kg2 Be5 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.04.27"]
+[Round "1"]
 [White "Salo, Mikko"]
 [Black "Kulkarni, Pranav"]
 [Result "0-1"]
@@ -201,6 +217,23 @@ Qf5 36.Qd6 Qg5 37.Qxf8# 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2022.06.21"]
+[Round "3"]
+[White "Paasonen, Pasi"]
+[Black "Salo, Mikko-Ville"]
+[Result "0-1"]
+[ECO "E61"]
+
+1.Nf3 d6 2.d4 Nf6 3.c4 g6 4.Nc3 Bg7 5.Bf4 O-O 6.e3 Bf5 7.Be2 Nbd7 8.O-O Nh5
+9.Re1 Nxf4 10.exf4 c6 11.b4 Re8 12.Qd2 e5 13.fxe5 dxe5 14.dxe5 Nxe5 15.Qc1
+Nxf3+ 16.Bxf3 Qf6 17.Ne2 Qxa1 18.Qxa1 Bxa1 19.Rxa1 Bd3 20.Nc3 Bxc4 21.Ne4 Re6
+22.Nc5 Re7 23.h3 Rae8 24.Nxb7 Rxb7 25.Bxc6 Rbb8 26.Bxe8 Rxe8 27.a3 Kg7 28.Rc1
+Bb5 29.g3 Re2 30.Kg2 Ra2 31.Rc3 Ra1 32.Kf3 Rh1 33.h4 h6 34.Ke3 Re1+ 35.Kd4
+Rd1+ 36.Kc5 a6 37.f4 Kf6 38.g4 Rf1 39.g5+ Kg7 40. gxh6+ Kxh6 41.Re3 Rxf4
+42.Re8 Rxh4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2022.07.18"]
 [Round "3"]
 [White "Nevalainen, Olli-Matti"]
@@ -241,6 +274,22 @@ Kc7 22.Rxd8 Kxd8 23.Bxf5 gxf5 24.f4 exf4 25.Bd4 Ke7 26.Re1+ Kf7 27.Nc4 Kg6
 15.Kh1 Na5 16.Qb5 Nxc4 17.Qxc4 Bd3 18.Qb3 Bxf1 19.Rxf1 Qd3 20.Rd1 Qf5 21.Ne5
 Kh8 22.g4 Qf6 23.Kg1 Rbd8? 24.Rf1 Qh4 25.Rxf7 c6 26.Rxf8+ Rxf8 27.Nf7+ Kg8??
 28.Nh6+ Kh8 29.Qg8+ Rxg8 30.Nf7#
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.08.13"]
+[Round "4"]
+[White "Mäntsälä, Juha"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.h3 e6 4.a3 c5 5.e3 Be7 6.c3 O-O 7.c4 b6 8.Qc2 Bb7 9.Be2
+Nbd7 10.O-O Rc8 11.b3 Qc7 12.Nc3 a6 13.Rd1 Rfe8 14.Bb2 Bd6 15.Qb1 e5 16.dxe5
+Nxe5 17.Nxd5 Bxd5 18.cxd5 Nxf3+ 19.Bxf3 Be5 20.Bxe5 Rxe5 21.Ra2 Rd8 22.Rad2
+Rd6 23.Qb2 Re7 24.b4 Ne4 25.Rc2 Qd7 26.Qb3 a5 27.bxa5 bxa5 28.Qc4 Qc7 29.Bxe4
+g6 30.Bf3 Red7 31.e4 f6 32.Re2 Qb8 33.e5 fxe5 34.Rxe5 Rb7 35.Qa4 Rd8 36.d6 Kg7
+37.Bxb7 Qxb7 38.Re7+ 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
