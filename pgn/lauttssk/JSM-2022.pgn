@@ -21,6 +21,48 @@ exd4 17.a5 Qc5 18.Nd5 (18.Na4 Qxa5 19.Bxh6 Ng4+ 20.hxg4 Bxh6) Nxd5 19.Bxd5 Be6
 Qd6 26.cxd3 {=}) 24.Bg3 Rxe1 25.Rxe1 dxc2 0-1
 
 [Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.24"]
+[Round "1"]
+[White "Kumar, Ashwin"]
+[Black "Wikman, Jimmy"]
+[Result "1/2-1/2"]
+[Section "I Division:1"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Karjaan Ura"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 Nbd7 5.Nf3 g6 6.Qb3 Qb6 7.Bd2 e6 8.Qc2 Bb4?!
+(8...Bg7) 9.a3 Bxc3 10.Bxc3 Ne4 11.Bb4?! (11.Bd3) a5 12.c5 Qc7 13.Bc3 b5?!
+(13...O-O) 14.cxb6?! (14.Bd3) Qxb6 15.Bd3 Nxc3 16.Qxc3 Ba6 17.Bxa6 Qxa6 18.Rc1
+Rc8 19.b4 O-O 20.Nd2 axb4 21.axb4 Rb8 22.f3 Rb6 23.Kf2 Rfb8 24.Rb1 Qa4 25.Rhc1
+Rxb4 26.Rxb4 Qxb4 27.Qxb4 Rxb4 28.Rxc6 Rb2 29.Rc8+ Kg7 30.Ke2 h5 31.Rc7 Nb6
+32.Rb7 Nc4 33.Rxb2 Nxb2 34.e4 Kf6 35.g3 g5 36.h3 Ke7 37.e5 f5 38.exf6+ Kxf6
+39.g4 hxg4 40.fxg4 e5 41.dxe5+ Kxe5 42.Nf3+ Kf4 43.h4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Espoo FIN"]
+[Date "2022.09.24"]
+[Round "1"]
+[White "Archishman, Das"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[Section "III Division:1"]
+[Board "4"]
+[WhiteTeam "Matinkylän Shakkikerho 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[WhiteElo "1537"]
+[BlackElo "1358"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c5 4.Nge2 Nc6 5.Be3 b6 6.dxc5 d4 7.Nxd4 Nxd4 8.Qxd4
+Qxd4 9.Bxd4 bxc5 10.Bb5+ Bd7 11.Bxd7+ Kxd7 12.Be3 Kc6 13.O-O-O Be7 14.Rd3
+Nf6 15.Rhd1 a6 16.e5 Ng4 17.Rd7 Bf8 18.Rxf7 Nxe5 19.Rf4 Be7 20.Re4 Bf6 21.Bf4
+Ng6 22.Rxe6+ Kb7 23.Rd7+ Kc8 24.Rc7+ Kd8 25.Bd6 Re8 26.Rxe8+ Kxe8 27.Rxc5 Be7
+28.Bxe7 Kxe7 29.Rc7+ Kf8 30.Rd7 Ne5 31.Rd5 Ng4 32.Rf5+ Ke7 33.h3 Nf6 34.Nd5+
+Ke6 35.Rxf6+ gxf6 36.Nc7+ 1-0
+
+[Event "Finland Team Ch"]
 [Site "Espoo FIN"]
 [Date "2022.09.24"]
 [Round "1"]
