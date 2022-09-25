@@ -141,6 +141,23 @@ Nb4 0-1
 [Site "Helsinki FIN"]
 [Date "2022.09.25"]
 [Round "1"]
+[White "Soboleva, Lidiia"]
+[Black "Khoshvishkaie, Ali"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "1"]
+[WhiteTeam "Matinkylän Shakkikerho 7"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.a3 c5 6.f4 Nc6 7.Nf3 a6 8.Be3 b5 9.dxc5
+Bxc5 10.Bxc5 Nxc5 11.Nd4 Bb7 12.Nxc6 Bxc6 13.Qg4 O-O 14.b4 Ne4 15.Nxe4 dxe4
+16.Rd1 Qb6 17.Qg3 Rad8 18.Be2 Rxd1+ 19.Bxd1 Rd8 20.Ke2 Bd5 21.Qe3?? Bc4+
+22.Kf2 Rd2+ 23.Ke1 Qxe3+ 24.Be2 Qxe2# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.25"]
+[Round "1"]
 [White "Dahal, Sameep"]
 [Black "Nanda, Rithwik"]
 [Result "1-0"]
@@ -154,3 +171,26 @@ Nb4 0-1
 16.Bxf6 Qxf6 17.Qb3 Bc7 18.Qxb7 Qe7 19.Qxc6 Rec8 20.dxe5 dxe5 21.Qxg6 Bd6
 22.Bxf7+ Kh8 23.Be6 Re8 24.Bf5 Kg8 25.Rad1 Rad8 26.Rd5 Qc7 27.Red1 Bc5 28.Rd7
 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.25"]
+[Round "1"]
+[White "Salo, Mikko"]
+[Black "Yang, Sun"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Matinkylän Shakkikerho 7"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 Bg4 5.c4 Nf6 6.h3 Bxf3 7.Qxf3 Nc6 8.d5 Nd4
+9.Qd3 e5 10.Be3 Bc5 11.a3 a5 12.Nd2 O-O 13.Bg5 h6 14.Bh4 Qd6 15.Bxf6 Qxf6
+16.Ne4 Qb6 17.Nxc5 Qxc5 18.Be2 Qb6 19.Rb1 c6 20.O-O cxd5 21.cxd5 Qc5 22.Bf3
+Rfe8 23.Be4 g6 24.Bxg6 fxg6 25.Qxg6+ Kf8 26.Qxh6+ Ke7 27.Rbc1? Ne2+ 28.Kh2
+Nxc1 29.Rxc1 Qd6 30.Qh4+ Kd7 31.Qg4+ Kd8 32.Qh4+ Qe7 33.Qh6 Qf7?? (33...Ra6)
+34.Qb6+ Ke7 35.Rc7+ Kf8 36.Qh6+ Kg8 37.Rxf7 Kxf7 38.Qh7+ Kf8 39.g4 Rad8
+40.Qf5+ Kg7 41.Qe4 Kf6 42.h4 Rh8 43.Kg3 Rd7? 44.Qf5+ Ke7 45.Qxe5+ Kf7 46.Qxh8
+Rxd5 47.Qh7+ Ke6 48.Qxb7 Rd3+ 49.f3 a4 50.Qe4+ Kf6 51.Qxd3 Kg7 52.f4 Kh8
+53.h5 Kg8 54.g5 Kh8 55.f5 Kg7 56.Kg4 Kh8 57.h6 Kg8 58.g6 Kh8 59.Qd4+ Kg8
+60.Qd7 Kh8 61.Qg7# 1-0
