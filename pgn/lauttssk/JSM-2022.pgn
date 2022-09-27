@@ -219,12 +219,12 @@ Nb4 0-1
 d5 9.exd5 cxd5 10.O-O O-O 11.Bd4 Bb7 12.Re1 a6 13.Re3 Bd6 14.Qe2 Rc8
 (14...Re8) 15.Bxa6? (15.Rf3) Bxa6 16.Qxa6 Ng4 17.Rh3 Bxh2+ 18.Kh1 Be5
 (18...Rc4) 19.Qd3 f5 20.Kg1 Qf6 21.Ne2 Bxd4 22.Nxd4 e5 23.Nb3 Rfd8 24.c3
-Qb6?? (24...Rc4) 25.Qxf5 Qg6 26.Qxg6 hxg6 27.Rg3 Nf6 28.Rxg6 Kf7 29.Rg5 e4
-30.Nd4 Rh8 31.Ne2 Rh6 32.Nf4 Rch8 33.Nh3 Nh5 34.Rg4 Nf6 35.Rg5 Nh5 36.Rxd5
-Nf4 37.Rd7+ (37.Rf5+) Ke6 38.Rad1 Nxh3+ 39.gxh3 Rxh3 40.R7d6+ Kf7 41.Rd7+ Ke6
-42.R1d6+ Kf5 43.Kf1 Rh1+ 44.Ke2 R8h2 45.Rd2 Ra1 46.a3 Rhh1 47.Rd1 Kf4 48.Rxa1
-Rxa1 49.Rd1 Ra2 50.Rb1 g5 51.c4 g4 52.c5 Ke5 53.c6 Kd6 54.Ke3 Kxc6 55.Kxe4
-Kd6 56.Kd4 1-0
+Qb6?? (24...Rc4) 25.Qxf5 Qg6 26.Qxg6 hxg6 27.Rg3 Nf6 28.Rxg6 Kf7 29.Rg3 Rh8
+30.Rg5 e4 31.Nd4 g6 32.Ne2 Rh6 33.Nf4 Rch8 34.Nh3 Nh5 35.Rg4 Nf6 36.Rg5 Nh5
+37.Rxd5 Nf4 38.Rd7+ Ke6 39.Rad1 Nxh3+ 40.gxh3 Rxh3 41.R7d6+ Kf7 42.Rd7+ Ke6
+43.R1d6+ Kf5 44.Kf1 Rh1+ 45.Ke2 R8h2 46.Rd2 Ra1 47.a3 Rhh1 48.Rd1 Kf4 49.Rxa1
+Rxa1 50.Rd1 Ra2 51.Rb1 g5 52.c4 g4 53.c5 Ke5 54.c6 Kd6 55.Ke3 Kxc6 56.Kxe4
+Kd6 57.Kd4 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -331,3 +331,20 @@ Nxc1 29.Rxc1 Qd6 30.Qh4+ Kd7 31.Qg4+ Kd8 32.Qh4+ Qe7 33.Qh6 Qf7?? (33...Ra6)
 Rxd5 47.Qh7+ Ke6 48.Qxb7 Rd3+ 49.f3 a4 50.Qe4+ Kf6 51.Qxd3 Kg7 52.f4 Kh8
 53.h5 Kg8 54.g5 Kh8 55.f5 Kg7 56.Kg4 Kh8 57.h6 Kg8 58.g6 Kh8 59.Qd4+ Kg8
 60.Qd7 Kh8 61.Qg7# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.25"]
+[Round "1"]
+[White "Pallast, Peetu"]
+[Black "Nikulina, Anna"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "5"]
+[WhiteTeam "Matinkylän Shakkikerho 7"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 c5 2.Nf3 g6 3.Bc4 Bg7 4.O-O Nf6 5.Re1 O-O 6.c3 e6 7.e5 Nd5 8.b4 Nb6
+9.Bb3 c4 10.Bc2 Qc7 11.b5 a6 12.Ba3 Re8 13.Bd6 Qd8 14.Nd4 Bf8 15.f4 Bxd6
+16.exd6 Nd5 17.Na3 Nxf4 18.Nxc4 axb5 19.Qf3 bxc4 20.Qxf4 f6?? 21.Qh6 Qb6
+22.Re3 Qxd6 23.Rh3 Qe7 24.Bxg6 1-0
