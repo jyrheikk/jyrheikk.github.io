@@ -1626,3 +1626,20 @@ Kg8 33.Qxe8+ 1-0
 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.c4 e6 6.dxe6 Nc6 7.Bd3 Bxd3 8.Qxd3 Qxd4
 9.Qb3?? (9.Qxd4 Nxd4 10.exf7+ Kxf7 11.Kd1 Rd8 12.Bd2) Bc5 10.Nh3 O-O-O 11.Bf4
 Nb4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.09.28"]
+[Round "-"]
+[White "Jussila, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Qxe2 Qxd5 6.Nf3 Nc6 7.Nc3 Qf5 8.O-O
+O-O-O 9.Be3 g5 10.Qb5 Nd5 11.Nxd5 Rxd5 12.Qd3 Qg4 13.h3 Qh5 14.c4 Rd7 15.d5 g4
+16.hxg4 Qxg4 17.Nh2 Qh4? (17...Qg7) 18.Qc3 Rg8 19.dxc6 Rd6 20.cxb7+ Kb8 21.Qb3
+Bh6 22.Bxa7+? (22.f4) Kxa7 23.Qa3+? (23.b8=Q+ Rxb8 24.Qa3+ Kb7 25.Qf3+) Kxb7
+24.Qf3+ c6 25.Rfd1 Bf4 26.Nf1 Rh6? (26...Rdg6 27.g3 Bxg3) 27.g3 Rf6??
+(27...Bc7) 28.Rd3 (28.Rd8) Bxg3 29.Qxg3 Rh6? (29...Qf4) 30.Rd7+?? (30.Rb3+ Ka6
+31.Ra3+ Kb6 32.c5+ {=}) Ka6 31.f3 Qh1+ 32.Kf2 Rxg3 33.Kxg3 Qh4+ 34.Kg2 Rg6+
+0-1
