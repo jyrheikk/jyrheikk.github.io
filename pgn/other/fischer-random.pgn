@@ -406,3 +406,44 @@ Nxb3 36.Kxb3 Rb4+ 37.Kc2 Kf6 38.Rh8 Rxb5 39.Rc8 Bd6 40.Rh8 Rb4 41.Re8 Be5
 Qf8 15.e6 g5 16.Bxc6 bxc6 17.Rxd7+ Kc8 18.Bg3 Re7 19.Bd6 (19.Nd5!) cxd6 20.Qb6
 Rxd7 21.exd7+ Kxd7 22.Qb7+ Kd8 23.Qxa8+ Kd7 24.Qb7+ Kd8 25.Na4 d5 26.Qb8+ Kd7
 27.Nb6# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.10.06"]
+[Round "5"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Variant "Chess960"]
+[FEN "nqrbbknr/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKNR w CHch - 0 1"]
+[TimeControl "3600+30"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 dxc4 4.Rxc4 Nb6 5.Rc5 Bc6 6.Ne5 Be4 7.Bc2 Bxc2 8.Qxc2
+Nbd7 9.Qc4 {9...O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.10.06"]
+[Round "5"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Variant "Chess960"]
+[FEN "1qrb1rk1/pppnpppp/5n2/2R1N3/2QP4/8/PP2PPPP/N3BK1R w CH - 3 10"]
+[TimeControl "3600+30"]
+
+10.Nxd7 Nxd7 11.Rf5 e6 12.Rf3 c5 13.e4? (13.Qb5) Bf6 14.Qb5 Rfd8 15.dxc5 Rxc5
+16.Qe2 Qc7 (16...Rc1! 17.Nb3 Rb1) {17.O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.10.06"]
+[Round "5"]
+[White "Henttonen, Tero"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Variant "Chess960"]
+[FEN "3r2k1/ppqn1ppp/4pb2/2r5/4P3/5R2/PP2QPPP/N3BRK1 b - - 3 17"]
+[TimeControl "3600+30"]
+
+17...Qc6 18.Bb4? (18.Rd3) Rc4 19.Bc3 Rxe4 20.Qd2? Ne5 0-1
