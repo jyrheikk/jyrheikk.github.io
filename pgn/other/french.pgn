@@ -834,3 +834,17 @@ Nc6 9.f4 Qb6 10.Na4 Qa5+ 11.c3? (11.Nc3) Rb8? (11...cxd4) 12.dxc5 Nxc5?
 Kc7 26.Rhb1 Ba8 27.Rxb8 Nxb8 28.Nd4 Nc6 29.Nxe6+ Kd7 30.Nc5+ Kc7 31.Nxa6+ Kd7
 32.Nb8+ Nxb8 33.Rxb8 Bc6 34.Rg8 fxe5 35.Rxg7+ Kd6 36.Rg6+ Kc5 37.Rxc6+ Kxc6
 38.fxe5 d4 39.Kf3 Kd5 40.Kf4 a3 41.Kf5 Kc6 42.Kf6 Kd7 43.Kf7 1-0
+
+[Event "Analysis"]
+[Site "Helsinki FIN"]
+[Date "2022.10.12"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Maxamuud, Siham"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bf4 Bb4+ 5.c3 Ba5 6.Qa4+ c6 7.Nf3 Ne7 8.Be2 O-O
+9.O-O b5 10.Qd1 Bf5 11.Nbd2 Nd7 12.Nb3 Re8 13.Re1 Ng6 14.Bd6 Qf6 15.Ba3 Nf4?
+(15...Bc7) 16.Bxb5? (16.Nxa5) cxb5 17.Nxa5 Qa6 (17...Qg6!) 18.Nb3 Qg6 19.g3
+Nh3+ 20.Kg2 Qg4 21.Nbd2 Bd3 22.Re3? (22.Ng1) Nf4+ 23.Kh1? Rxe3 24.fxe3 Be2
+25.Qe1 Bxf3+ 26.Kg1 Nh3+ 27.Kf1 Qf5 28.e4 Bxe4+ 29.Ke2 Qg4+ 30.Ke3 Re8 0-1
