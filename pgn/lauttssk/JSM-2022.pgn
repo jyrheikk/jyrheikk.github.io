@@ -43,6 +43,63 @@ Qd6 26.cxd3 {=}) 24.Bg3 Rxe1 25.Rxe1 dxc2 0-1
 [Site "Helsinki FIN"]
 [Date "2022.09.24"]
 [Round "1"]
+[White "Nurk, Ivo"]
+[Black "Aakio, Seppo"]
+[Result "1/2-1/2"]
+[Section "I Division:1"]
+[Board "3"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B07"]
+
+1.d4 d6 2.e4 Nf6 3.f3 c6 4.Nc3 Qc7 5.a4 a5 6.Bc4 e5 7.Nge2 Be7 8.O-O O-O
+9.Be3 Na6 10.Qe1 Nb4 11.Rc1 d5 12.exd5 Nbxd5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.24"]
+[Round "1"]
+[White "Kauppala, Pekka"]
+[Black "Hellen, Bo"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Karjaan Ura"]
+[ECO "B53"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 a6 5.Bd2 Nc6 6.Qd3 Nf6 7.Bc3 e6 8.Nbd2 Be7
+9.a4 O-O 10.Be2 Qc7 11.O-O d5 12.Rfe1 Rd8 13.e5 Ng4 14.Bd1 d4 15.Nxd4 Ngxe5
+16.Qe4 Nxd4 17.Bxd4 Ng6 18.Nf3 f6 19.Qe3 Qf4 20.Bb6 Qxe3 21.Rxe3 Rd6 22.Rb3
+e5 23.a5 Be6 24.Rc3 Bd8 25.Bc5 Rd5 26.b4 Nf4 27.g3 Rxd1+ 28.Rxd1 Ne2+ 29.Kf1
+Nxc3 30.Rd6 Bc4+ 31.Ke1 Ne4 32.Rd5 Nxc5 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.24"]
+[Round "1"]
+[White "Syvälahti, Heikki"]
+[Black "Sobenin, Evgeny"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "5"]
+[WhiteTeam "Karjaan Ura"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 h6 3.Bxf6 exf6 4.g3 d5 5.Bg2 c6 6.e3 Qb6 7.Qc1 Bf5 8.Nd2 Nd7
+9.Ne2 Qa6 10.a3 Nb6 11.Bf1 Nc4 12.Nxc4 dxc4 13.Nc3 b5 14.Bg2 Rd8 15.O-O Be6
+16.Qd1 f5 17.Qf3 Rd6 18.Rad1 Be7 19.d5 Bd7 20.dxc6 Qxc6 21.Qxc6 Bxc6 22.Rxd6
+Bxg2 23.Kxg2 Bxd6 24.Nxb5 Be5 25.Nxa7 Bxb2 26.Rb1 c3 27.Nb5 Ke7 28.Rd1 Ra8
+29.Rd3 Bxa3 30.Rxc3 Bb2 31.Rc7+ Kf6 32.Nd6 Be5 33.Rc6 Bxd6 34.Rxd6+ Ke5
+35.Rd7 Ke6 36.Rc7 Ra1 37.h4 Rc1 38.Kf3 g6 39.h5 Kf6 40.Rc6+ Kg5 41.hxg6 fxg6
+42.c4 h5 43.c5 Rc2 44.Rc8 Kf6 45.c6 g5 46.Kg2 Rc1 47.c7 Kg7 48.f3 g4 49.fxg4
+hxg4 50.Kf2 Rc2+ 51.Ke1 Rc6 52.Kd2 Rd6+ 53.Kc3 Rd1 54.Rg8+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.24"]
+[Round "1"]
 [White "Kumar, Ashwin"]
 [Black "Wikman, Jimmy"]
 [Result "1/2-1/2"]
