@@ -468,6 +468,24 @@ Qa5 16.c4 a6 17.Bh5 Ne6 18.Ne4 O-O 19.Nf6+ Kg7 20.Qd3 Rh8 21.Qf5 Qd8 22.Ne4
 23.Nd6 Rf8 24.Qe4 Nf4? 25.Nf5+ 1-0
 
 [Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.11.12"]
+[Round "2"]
+[White "Raappana, Aleksi"]
+[Black "Jussila, Pekka"]
+[Result "1/2-1/2"]
+[Section "III Division:4"]
+[Board "4"]
+[WhiteTeam "Meri-Ratsut 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.d3 Bg7 6.Nge2 d5 7.exd5 cxd5 8.O-O
+Nf6 9.Bd2 O-O 10.Qc1 Qd6 11.f3 Qb6 12.Rb1 c4+ 13.d4 e5 14.Be3 exd4 15.Bxd4 Qd8
+16.Qd2 Re8 17.Bxf6 Bxf6 18.Qxd5 Qb6+ 19.Kh1 Ba6 20.Qd2 Rad8 21.Nd5 Rxd5
+22.Qxd5 Rxe2 23.Qd1 Qe3 24.Re1 Rxe1+ 25.Qxe1 Qxe1+ 26.Rxe1 Bxb2 27.Re8+ Kg7
+28.Re7 1/2-1/2
+
+[Event "Finland Team Ch"]
 [Site "Åminnefors FIN"]
 [Date "2022.11.12"]
 [Round "2"]
