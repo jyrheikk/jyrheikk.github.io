@@ -848,3 +848,22 @@ Kc7 26.Rhb1 Ba8 27.Rxb8 Nxb8 28.Nd4 Nc6 29.Nxe6+ Kd7 30.Nc5+ Kc7 31.Nxa6+ Kd7
 (15...Bc7) 16.Bxb5? (16.Nxa5) cxb5 17.Nxa5 Qa6 (17...Qg6!) 18.Nb3 Qg6 19.g3
 Nh3+ 20.Kg2 Qg4 21.Nbd2 Bd3 22.Re3? (22.Ng1) Nf4+ 23.Kh1? Rxe3 24.fxe3 Be2
 25.Qe1 Bxf3+ 26.Kg1 Nh3+ 27.Kf1 Qf5 28.e4 Bxe4+ 29.Ke2 Qg4+ 30.Ke3 Re8 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.11.23"]
+[Round "-"]
+[White "Tampio, Tommi"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.Bb5 Qb6 6.Bxc6+ bxc6 7.O-O cxd4 8.Nxd4 c5
+9.Nf3 Ne7 10.Nc3 Bb7 11.Bg5 h6 12.Bh4 g5 13.Bg3 Nf5 14.Ne2 Be7 15.h3 h5 16.Bh2
+O-O-O 17.c3 g4 18.hxg4 hxg4 19.Nd2 Rxh2 (19...Qc6!) 20.Kxh2 Rh8+ 21.Kg1 c4
+22.b3 g3? (22...Bc5) 23.Nd4 (23.Nf3) 23...gxf2+ 24.Rxf2 Ng3 25.Rf1 Bc5?
+(25...Bb4!) 26.Qg4 Rh1+ 27.Kf2 Ne4+?? (27...Rxf1+) 28.Nxe4 Bxd4+ 29.cxd4
+(29.Ke2) Qxd4+ 30.Kg3 Qxe5+ 31.Qf4 Qxf4+ 32.Kxf4 Rxf1+ 33.Rxf1 dxe4 34.bxc4
+Kd7 35.Ke5 Ke7 36.Rb1 Bc6 37.Kd4 Kd6 38.c5+ Kd7 39.g4 f6 40.Rf1 e5+ 41.Ke3 Ke7
+42.Rf5 Bd7 43.Kxe4? (43.Rf2) Bxf5+ 44.Kxf5 Kd7 45.Kxf6 e4 46.g5 e3 47.g6 e2
+48.g7 e1=Q 49.g8=Q Qf2+ 50.Kg7 Qg1+ 51.Kf7 Qf2+ 52.Kg7 Qg2+ 53.Kf7?? Qxa2+
+54.Kf8 Qxg8+ 55.Kxg8 a5 0-1
