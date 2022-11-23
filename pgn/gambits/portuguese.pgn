@@ -1640,6 +1640,19 @@ O-O-O 9.Be3 g5 10.Qb5 Nd5 11.Nxd5 Rxd5 12.Qd3 Qg4 13.h3 Qh5 14.c4 Rd7 15.d5 g4
 16.hxg4 Qxg4 17.Nh2 Qh4? (17...Qg7) 18.Qc3 Rg8 19.dxc6 Rd6 20.cxb7+ Kb8 21.Qb3
 Bh6 22.Bxa7+? (22.f4) Kxa7 23.Qa3+? (23.b8=Q+ Rxb8 24.Qa3+ Kb7 25.Qf3+) Kxb7
 24.Qf3+ c6 25.Rfd1 Bf4 26.Nf1 Rh6? (26...Rdg6 27.g3 Bxg3) 27.g3 Rf6??
-(27...Bc7) 28.Rd3 (28.Rd8) Bxg3 29.Qxg3 Rh6? (29...Qf4) 30.Rd7+?? (30.Rb3+ Ka6
-31.Ra3+ Kb6 32.c5+ {=}) Ka6 31.f3 Qh1+ 32.Kf2 Rxg3 33.Kxg3 Qh4+ 34.Kg2 Rg6+
-0-1
+(27...Bc7) 28.Rd3 (28.Rd8! {+-}) Bxg3 29.Qxg3 Rh6? (29...Qf4) 30.Rd7+??
+(30.Rb3+ Ka6 31.Ra3+ Kb6 32.c5+ {=}) Ka6 31.f3 Qh1+ 32.Kf2 Rxg3 33.Kxg3 Qh4+
+34.Kg2 Rg6+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.11.23"]
+[Round "-"]
+[White "Salo, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Nf3 Qxd5 5.Nc3 Bxf3 6.gxf3 Qd7 7.Be3 g6 8.Qd2
+Nd5 9.O-O-O h5 10.Nxd5 Qxd5 11.Rg1 Qxa2 12.c3? (12.Qb4) Nd7 13.Bh3 O-O-O
+14.Rg5 e6 15.d5? Nc5 16.Bxc5 Bxc5 17.Qe2 Kb8 18.dxe6 Qa1+ 19.Kc2 Qa4+ 20.Kc1
+Qf4+ 21.Kb1 Rxd1+ 22.Qxd1 Qxg5 23.exf7 Rd8 24.Qe2 Qe7 0-1
