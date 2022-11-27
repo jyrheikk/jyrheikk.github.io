@@ -438,3 +438,19 @@ a5 17.Nxd4 cxd4 18.Bd2 a4 19.f4 Bf7 20.Qf3 Qb5 21.fxe5 fxe5 22.Qd1 Qxb2 23.Rb1
 Qxa3 24.Rxb7 Qd6 25.Bb4 Qf6 26.Bxe7 Rxe7 27.Rb1 a3 28.Ra1 a2 29.Re2 Bh5 30.Qd2
 Bxe2 31.Bxe2 Qe6 32.Bd1 Rb7 33.Qc1 Qa6 34.Bc2 Qa3 35.Qd1 Qc3 36.h3 Rb2 37.Rc1
 Rxc2 38.Rxc2 a1=Q 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.11.26"]
+[Round "6"]
+[White "Valli, Kari"]
+[Black "Paasonen, Pasi"]
+[Result "0-1"]
+
+1.d4 d5 2.Nc3 Nf6 3.Bf4 e6 4.e3 c5 5.Nb5 Na6 6.c3 c4 7.Be2 Be7 8.Nf3 O-O 9.Ne5
+Ne4 10.f3 Nd6 11.Nxd6 Bxd6 12.Bg3 Re8 13.f4 Nb8 14.O-O f6 15.Bh4 Rf8 16.Rf3
+Qc7 17.Ng4 Nc6 18.Rg3 Kh8 19.Qd2 Bd7 20.Rf1 Ne7 21.Rgf3 Nf5 22.Bg3 Nxg3
+23.hxg3 Rf7 24.Bd1 Raf8 25.Bc2 Bc8 26.e4 f5 27.exf5 exf5 28.Ne5 Rf6 29.Kf2 a6
+30.Re3 b5 31.Rfe1 g6 32.Qe2 Qg7 33.Nf3 Bd7 34.Ne5 Bc8 35.Nc6 g5 36.Ne7 gxf4
+37.gxf4 Bxf4 38.Rf3 Bd6 39.Nxd5 Rg6 40.Rg1 Bg3+ 41.Kf1 Re6 42.Re3 Rfe8 43.Rh1
+Rxe3 44.Nxe3 Qg5 45.Rh5 Qxe3 46.Bd1 Qf4+ 0-1
