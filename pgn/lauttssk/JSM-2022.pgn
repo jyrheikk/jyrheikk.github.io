@@ -166,6 +166,25 @@ Kd6 57.Kb7 Ke7 58.Kc6 1-0
 [Site "Espoo FIN"]
 [Date "2022.09.24"]
 [Round "1"]
+[White "Valli, Kari"]
+[Black "Bhaumik, Mehr"]
+[Result "1/2-1/2"]
+[Section "III Division:1"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Matinkylän Shakkikerho 4"]
+
+1.d4 g6 2.Bf4 Bg7 3.e3 Nf6 4.h4 d6 5.Nf3 Bg4 6.Be2 Nbd7 7.c3 c6 8.Nbd2 Qb6
+9.Qb3 Qxb3 10.axb3 b5 11.Bd3 Nb6 12.e4 Nfd7 13.O-O e5 14.Be3 O-O 15.dxe5 Nxe5
+16.Nxe5 Bxe5 17.f3 Be6 18.f4 Bg7 19.Ra2 Rfe8 20.Rfa1 Nc8 21.Ra6 Bd7 22.Nf3 c5
+23.Re1 Rb8 24.e5 dxe5 25.Bxc5 exf4 26.Rxe8+ Bxe8 27.b4 Rb7 28.Nd4 Bxd4+
+29.Bxd4 Re7 30.Kf2 Re6 31.Rxe6 fxe6 32.Kf3 Bc6+ 33.Be4 Bxe4+ 34.Kxe4 f3
+35.Kxf3 Kf7 36.Kf4 Ke7 37.Ke5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Espoo FIN"]
+[Date "2022.09.24"]
+[Round "1"]
 [White "Archishman, Das"]
 [Black "Paasonen, Pasi"]
 [Result "1-0"]
@@ -370,6 +389,25 @@ Bxc5 10.Bxc5 Nxc5 11.Nd4 Bb7 12.Nxc6 Bxc6 13.Qg4 O-O 14.b4 Ne4 15.Nxe4 dxe4
 [Site "Helsinki FIN"]
 [Date "2022.09.25"]
 [Round "1"]
+[White "Pitkänen, Petri"]
+[Black "Valli, Kari"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Matinkylän Shakkikerho 7"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d6 4.d4 Be7 5.Nf3 h6 6.Bd3 Nbd7 7.O-O e5 8.b3 c6 9.dxe5
+dxe5 10.Bb2 Qc7 11.Ne2 Nh7 12.Ng3 Bf6 13.Nh5 Ndf8 14.Nxf6+ gxf6 15.Qd2 Bg4
+16.Qxh6?? Bxf3 17.gxf3 O-O-O 18.Qe3 Kb8 19.Be2 Ne6 20.Rad1 Rdg8+ 21.Kh1 Nf4
+22.Rg1 Qc8? (22...Ng5) 23.Rxg8 Rxg8 24.Rg1 Ng5 25.Bf1 Rg6 26.Rg3 Qh8 27.Qd2
+Rh6 28.Bg2 Rxh2+ 29.Kg1 Nxg2 30.Kf1 Nf4 31.Bxe5+ fxe5 32.Rxg5 Rh1+ 33.Rg1
+Qh3+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.25"]
+[Round "1"]
 [White "Salo, Mikko"]
 [Black "Yang, Sun"]
 [Result "1-0"]
@@ -422,7 +460,7 @@ Rxd5 47.Qh7+ Ke6 48.Qxb7 Rd3+ 49.f3 a4 50.Qe4+ Kf6 51.Qxd3 Kg7 52.f4 Kh8
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 Qc7 7.Be2 e5 8.Nf5 Be6
 9.Ne3 Nbd7 10.O-O Be7 11.Bf3 g6 12.g3 h5 13.h4 O-O 14.a5 Rac8 15.Bg2 Rfe8
 16.Re1 Kg7 17.Re2 Nb8 18.Ned5 Nxd5 19.Nxd5 Bxd5 20.Qxd5 Nd7 21.Be3 Nc5 22.Bh3
-Ne6 23.b3 Bf8 24.c4 Ra8 25.b4 Kh7 26.Bb6 Qe7 27.Rc2 Nd4 28. Bxd4 exd4 29.Re1
+Ne6 23.b3 Bf8 24.c4 Ra8 25.b4 Kh7 26.Bb6 Qe7 27.Rc2 Nd4 28.Bxd4 exd4 29.Re1
 Bg7 30.Bf1 f5 31.Bd3 f4 32.c5 fxg3 33.fxg3 dxc5 34.Qxc5 Qd7 35.Qc7 Rad8
 36.Rf1 Re7 37.Qxd7 Rdxd7 38.Kg2 Rc7 39.Rfc1 Rc3 40.Rxc3 dxc3 41.Bc2 Rd7 42.g4
 Rd2+ 43.Kf3 hxg4+ 44.Kxg4 Rh2 45.Bb1 Bf6 46.Kg3 Rb2 47.h5 Be5+ 48.Kg4 Rg2+
@@ -659,6 +697,26 @@ Nxd5 16.Qe4 Rfe8 17.Nf1 cxd4 18.Nxd4 Nf6 19.Qe2 Bc5 20.Nb3 Bb6 21.Ne3 a6
 9.Qxe2 Nbd7 10.Nxd7 Qxd7 11.Bd2 e6 12.Qf3 c6 13.a3 Be7 14.O-O O-O 15.Rad1 Rad8
 16.Be3 b6 17.Rfe1 Nd5 18.Nxd5 Qxd5 19.Qxd5 cxd5 20.d4 Rc8 21.c3 a5 22.a4 Rb8
 23.Re2 Rfc8 24.g3 b5 25.axb5 Rxb5 26.Ra1 Ra8 27.Ra4 Rab8 28.Bc1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Åminnefors FIN"]
+[Date "2022.11.12"]
+[Round "2"]
+[White "Valli, Kari"]
+[Black "Ekström, Håkan"]
+[Result "1/2-1/2"]
+[Section "III Division:1"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Åminnefors Schackklubb"]
+
+1.d4 e6 2.Bf4 c5 3.c3 cxd4 4.cxd4 Bb4+ 5.Nd2 Ne7 6.a3 Bxd2+ 7.Qxd2 d5 8.Nf3
+O-O 9.e3 Ng6 10.Bg3 Nc6 11.Bb5 h5 12.Bxc6 bxc6 13.Rc1 h4 14.Bf4 Nxf4 15.exf4
+Bb7 16.Ne5 Rc8 17.Rc5 Qe8 18.Qc2 g6 19.O-O Kg7 20.h3 f6 21.Nf3 Rh8 22.Qa4 a6
+23.Re1 Qd7 24.Qc2 Kf7 25.Qe2 Qd6 26.Qe3 Rh5 27.b4 Rg8 28.a4 g5 29.fxg5 fxg5
+30.Ne5+ Ke7 31.Qf3 Rh7 32.Rec1 Rhg7 33.Qg4 Rf8 34.Nxc6+ Kf7 35.Ne5+ Kg8 36.Re1
+Rf4 37.Qh5 Rxd4 38.Qe8+ Kh7 39.Qh5+ (39.Nf7 Qf4 40.Qh8+ Kg6 41.Qh6+ Kxf7
+42.Qxe6+ Kf8 43.Qe8#) 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Åminnefors FIN"]
