@@ -185,3 +185,19 @@ Kd7 36.Nb5 Re6? 37.Rxd5+ Kc6 38.Rd4 a6 39.Na3 (39.Na7+ Kb7 40.Rxf7+) Nc5
 
 1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Bxc3+ 5.bxc3 Nd5 6.Qg4 O-O 7.Bh6 g6 8.h4 Kh8
 9.c4 Ne7 10.Bg5 h5 11.Bf6+ Kh7 12.Qg5 Qe8 13.Bd3 Nf5 14.g4 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.12.14"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Svensson, Magnus"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 c6 4.Bg5 h6 5.Bh4 Be7 6.Nf3 d6 7.Bd3 Qc7 8.e5 dxe5
+9.dxe5 Nd5 10.Bg3 (10.Ne4 Bxh4 11.Nd6+) Bb4 11.O-O (11.a3) Nxc3 12.bxc3 Bxc3
+13.Rb1 O-O? (13...Nd7) 14.Qe2 b5 15.Qe4 g6 16.Qh4 Kg7 17.Qf6+ (17.Bf4 Rh8) Kg8
+18.Bf4? Qd8 19.Qxd8 Rxd8 20.Bxh6 Nd7 21.Bf4 Nc5 22.Be2 Bb7 23.Rfd1 b4 24.Bg5
+Rdb8 25.Be7 Ba6 26.Kf1 (26.Bxa6 Nxa6 27.Rd7) Bxe2+ 27.Kxe2 Rb5? 28.Ke3?
+(28.Nd4) Na4 29.Bf6 Nb2 30.Rd7 Ra5? 31.h4 Nc4+ 32.Ke4 Rxa2?? (32...Nb6 33.Rb7
+Nd5) 33.h5 Ra1? 34.Rxa1 Bxa1 35.h6 Nxe5 36.Ng5 Kf8 37.h7 1-0
