@@ -1149,6 +1149,30 @@ c6 10.Bxg7 Kxg7 11.b4 Na6 12.Bxa6 bxa6 13.dxc6 Qb6 14.h5 Nxh5 15.Qxd6 Qd4
 16.Qxd4 exd4 17.Nd5 Be6 18.O-O-O Rac8 19.Ne2 Rxc6 20.g4 Nf6 21.Rxd4 Rfc8
 22.Ne3 Bxa2 23.Kb2 Be6 24.Nf4 R8c7 25.Rhd1 Rb6 26.g5 Ne8 27.Nxe6+ fxe6 28.Rd7+
 Kf8 29.Rxc7 Nxc7 30.Rd7 Nb5 31.Ng4 Rd6 32.Rxh7 Rd2 33.Ne5 Rg2 34.f4 Kg8 35.Re7
-Re2 36.Nxg6 (36.Rxe6) Rxe4 37.c3 Re2+ 38.Kb3 Re3 39.Ne5 Kf8 40.Rf7+ Kg8 41.Re7
-Rxc3+ 42.Kb2 Rg3 43.g6 Rg2+ 44.Kc1 Rf2? 45.Ng4 Rg2 (45...Rxf4 46.Nh6+ Kf8
+Re2 36.Nxg6 (36.Rxe6) Rxe4 37.c3 Re2+ 38.Kb3 Re3 39.Ne5 Kf8 40.Rf7+ Kg8 41.g6
+Rxc3+ 42.Kb2 Rg3 43.Re7 Rg2+ 44.Kc1 Rf2? 45.Ng4 Rg2 (45...Rxf4 46.Nh6+ Kf8
 47.g7+ Kxe7 48.g8=Q) 46.Nf6+ Kf8 47.Rf7# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.12.21"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Sobenin, Evgeny"]
+[Result "1/2-1/2"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.d4 d6 2.e4 g6 3.h4 Nf6 4.Nc3 Bg7 5.Be2 e5 6.h5!? exd4 7.h6 Bf8 8.Qxd4 Nc6
+9.Bb5 Bd7 10.Bxc6 bxc6 11.Bg5 Be7 12.Nce2? (12.O-O-O) c5 13.Qc3 Rf8 14.Qd3
+(14.f3) Ng4 15.Bxe7 Qxe7 16.f3 Ne5 17.Qb3 Qd8 18.O-O-O Qb8 19.Qxb8+ Rxb8
+20.Nc3 Be6 21.Nh3 f6 22.Nf4 Kd7 23.Rhe1 Nf7 24.Rh1 Ne5 25.Na4 Ke7 26.Nc3 Kd7
+27.Ncd5 c6 28.Nxe6 Kxe6 29.Ne3 Ke7 30.f4 Nf7 31.Nc4 Rfd8 32.Rd2 Rb4 33.b3 d5
+34.a3 Rbb8 35.exd5 cxd5 36.Re1+ Kf8 37.Ne3 d4 38.Ng4 Rd6 39.Rh1 f5 40.Nf2 Re8
+41.Kd1 Ra6 42.a4 g5 43.g3 Rxh6 44.Rxh6 Nxh6 45.fxg5 Nf7 46.Nh3 Ne5 47.Rf2 Kg7
+48.Rxf5 c4 49.b4 d3 50.Kd2? (50.Nf2) Nc6? (50...c3+ 51.Kxc3 Rc8+) 51.c3?
+(51.cxd3) Re2+ 52.Kd1 Nxb4 53.cxb4 c3 54.Rc5 c2+ 55.Kc1 Re1+ 56.Kd2 Rd1+
+57.Ke3 c1=Q+ 58.Rxc1 Rxc1 59.Kxd3 Ra1 60.a5 Ra3+ 61.Kd4 Rxg3 62.Nf4 Rb3?
+(62...Kf7) 63.Kc4 Rf3 64.Nd5? (64.Ne6+) Kg6 65.b5 Kxg5 66.b6 axb6 67.axb6 h5
+68.Ne7 Rf8 69.Kc5?? h4 70.Nd5 Rb8?? (70...h3) 71.Ne3 h3 72.Nf1 Kg4 73.Kc6 Kf3
+74.Nh2+ Kg2 75.Ng4 Kg3 76.Ne3 Rxb6+ 77.Kxb6 Kf3 78.Nf1 1/2-1/2

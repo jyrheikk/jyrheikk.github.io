@@ -377,9 +377,9 @@ Bd3 29.d5 (29.Ne5!) Qg4 30.h3 Qf4 31.Qa1 Nd7 32.Nb5 Bc5 33.Qd1 Be4 34.Nc3 Bxf3
 
 1.d4 c5 2.d5 e6 3.e4 exd5 4.exd5 Nf6 5.d6!? Qb6 6.Bf4 (6.Qe2+) Qb4+ (6...Qxb2
 7.Nd2 Nd5 {=/+}) 7.Qd2 Ne4 8.c3 Nxd2 9.cxb4 Nxf1 10.bxc5 Na6 11.Kxf1 Nxc5
-12.Nc3 Nd3 13.Bg3 b6 (13...f6) 14.Nd5 Rb8 (14...Kd8 15.Nc7 (15.Bh4+? f6
-16.Nxf6 Bxd6 {=/+}) Bb7) 15.Rd1 (15.Nc7+) Nc5 16.Re1+ Ne6 17.Ne2 Ba6 18.Kg1
-1-0
+12.Nc3 Nd3 13.Bg3 b6? (13...f6) 14.Nd5 Rb8 (14...Kd8 15.Nc7 (15.Bh4+? f6
+16.Nxf6 Bxd6 {=/+}) Bb7) 15.Rd1 (15.Nc7+) Nc5 16.Re1+ Ne6 17.Ne2 (17.Nc7+) Ba6
+18.Kg1 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -609,8 +609,8 @@ Kf8 39.Qh4 Nd6 40.Qh6+ Ke8 41.Qg7 Kd8 42.Bf4 Be8 43.Qf8 Qc6 44.Bxd6 e3 45.Qe7#
 [White "Sjövall, Tiia"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
-[TimeControl "480+4"]
 [Stage "Semi-Final"]
+[TimeControl "480+4"]
 
 1.b3 Nf6 2.Bb2 g6 3.Bxf6 exf6 4.c4 Nc6 5.Nc3 Bg7 6.g3 f5 7.Rc1 O-O 8.Bg2 Re8
 9.e3 Nd4 10.Nge2 Nxe2 11.Qxe2 c6 12.O-O d6 13.Qf3 Qa5 14.Rfd1 Bd7
@@ -686,3 +686,20 @@ Bd3 21.Ng1 Nd4 0-1
 (15.Bb5+ c6 16.Bc4) Qxh3 16.Kh1 Qh4 17.g3 Qg4 18.Bb5+ c6 19.Be2 Qg7 20.Bxc5
 bxc5 21.e5 dxe5 22.Qxc5 exf4 23.Qd6 Nf5 24.Qxc6+ Kf8 25.Qxa8+ Ke7 26.Nd5+ Ke6
 27.Nxf4+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.12.21"]
+[Round "?"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nf3 c5 3.c4 cxd4 4.Nxd4 Nc6 5.Nc3 g6 6.g3 Bg7 7.Nxc6 bxc6 8.Bg2 O-O
+9.O-O Qc7 10.Qc2 Bb7 11.b3 d5 12.c5 d4 13.Na4 Nd5 14.Bb2 e5 15.Rfe1 Rad8
+16.Rad1 Ba6 17.e4 Nb4 18.Qb1 d3 19.Bc1 Nc2 20.Rf1 f5 (20...Nd4) 21.Bd2 f4
+22.Bf3? (22.Nb2) Nd4 23.Kg2? Nxf3 24.Kxf3 fxg3+ 25.Kxg3 Qf7 (25...Qd7) 26.f4
+(26.f3) Bc8 27.Rf3 Qe6 28.Kf2 exf4 29.Rxd3 Bd4+ 30.Rxd4 Rxd4 31.Nc3 Qh3 32.Ne2
+Qxh2+ 33.Ke1 Qh4+ 0-1
