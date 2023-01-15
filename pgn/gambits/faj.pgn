@@ -1966,7 +1966,8 @@ b5 15.Rb8?? Qc2 16.Nd4 Qb1+ 17.Kd2 Qxb2+ 18.Ke3 Qc3+ 19.Ke4 f5+ 20.exf6 Re8+
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nd2 Nc5 5.Ngf3 Nc6 6.g3 d6 7.exd6 Bxd6 8.Bg2 Qe7
 9.O-O Be6 10.b3 O-O-O 11.Bb2 h5 12.Nd4? Nxd4 13.Bxd4 h4 14.b4 hxg3! 15.bxc5??
 gxf2+ 16.Kxf2 Qh4+ 17.Ke3 Qg5+ 18.Kf2 Rxh2 19.Rg1 Bg3+ 20.Kf1 Rxd4 21.Qb3 Rxd2
-(21...Rf4+ 22.Nf3 Qxc5) 22.Qxb7+ Kd8 23.Qb8+ Ke7 24.Qb7 Qe5 25.Qf3 Qxa1# 0-1
+(21...Rf4+ 22.Nf3 Qxc5) 22.Qxb7+ Kd8 23.Qb8+ Ke7 24.Qb7 Qe5 25.Qf3 (25.Re1
+Qxe2+!) Qxa1# 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -1981,3 +1982,26 @@ gxf2+ 16.Kxf2 Qh4+ 17.Ke3 Qg5+ 18.Kf2 Rxh2 19.Rg1 Bg3+ 20.Kf1 Rxd4 21.Qb3 Rxd2
 9.Qxd3 Qe7 10.a3 Bxd2+ 11.Bxd2 Nxe5 12.Nxe5 Qxe5 13.Bc3 Qg5 14.Qe4 d6 15.h4
 Qg6 16.Qxg6 fxg6 17.Ke2 Be6 18.b3 Rae8 19.Rad1 b5 20.Rd4 bxc4 21.bxc4 Rb8
 22.Re4 Rb3 23.Kd3?? Bf5 24.Kd4? 0-1
+
+[Event "Finland Team Ch"]
+[Site "Turku FIN"]
+[Date "2023.01.14"]
+[Round "5"]
+[White "Impivaara, Anton"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Turun Työväen Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.exd6 Bxd6 7.Nbd2 Bf5 8.e3 Qf6
+9.Ra2 O-O-O 10.Bd3 Nc5? (10...Be5) 11.Bxf5+ Qxf5 12.O-O g5 13.b4 Ne4?
+(13...Nd3) 14.Qc2 Rhe8 15.c5 g4 16.Nxe4 Rxe4 17.Nh4? (17.Ng5) Bxh2+ 18.Kxh2
+Qe6? (18...g3+ 19.Kg1 gxf2+ 20.Rxf2 Qg4) 19.b5 Rc4 20.Qf5 g3+ 21.Kg1 gxf2+
+22.Raxf2 Ne5 23.Rf4 Rxc5 24.Rd4 Rxb5 25.Rxd8+ Kxd8 26.Rd1+ Kc8 27.Qxh7 b6
+28.Qe4 c6 29.Qh7 Kb7 30.Nf5 Nf3+ 31.gxf3 Rxf5 32.f4 (32.Kf2) Rc5 33.Qh4?
+(33.Kf2) Rxc1 34.Qh5?? Qg6+ (34...Qxe3+! 35.Kh1 Qe4+ 36.Kg1 Qd4+) 35.Kf2 Qxh5
+36.Rxc1 Qh2+ 37.Ke1 Qg1+ 38.Kd2 Qf2+ 39.Kd3 Qb2 40.Rc3 f5 41.Kc4 a5 (41...Qb5+
+42.Kd4 Qd5#) 0-1
