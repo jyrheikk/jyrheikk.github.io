@@ -1562,3 +1562,24 @@ O-O 9.Bd3 Nbd7 10.O-O b6 11.Ne5 Nxe5? 12.dxe5 h6 13.Bxf6 gxf6 14.Rxf6 Re8
 15.Qg4+ Kf8 16.Rxf7+ Kxf7 17.Rf1+ (17.Qg6+) Qf6 18.Rxf6+ Ke7 19.Qg7+ Kd8
 20.Be4 Re7 21.Rf8+ Kd7 22.Bc6+ (22.Rf7) Kxc6 23.Qxe7 Bb7 24.Qxe6+ Kc5 25.Rf7
 Rg8 26.Rxc7+ Bc6 27.Rxc6# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.01.15"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Tauriainen, Marko"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[WhiteElo "2112"]
+[BlackElo "2133"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 Nf6 5.f3 Nc6 6.Be3 Bb4 7.Qb3 b5 8.Rd1?
+(8.O-O-O) bxc4 9.Bxc4 Nd5 10.Bb5? (10.Bxd5) Bd7 11.Bxc6 Bxc6 12.Kf2 Nxe3
+13.Kxe3 exf3 14.Nxf3 Rb8 15.Qc4 Bxf3 16.Kxf3 O-O 17.g3 Bxc3 18.bxc3 Rb2
+19.Rdf1 Qf6+ 20.Ke3 Qg5+ 21.Rf4 Rxh2 22.Rg1 h5 23.Qxc7 h4 24.g4 Rh3+ 25.Kf2
+Rxc3 26.Qxc3 Qxf4+ 27.Ke2 Rd8 0-1
