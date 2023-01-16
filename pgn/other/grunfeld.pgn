@@ -425,3 +425,17 @@ a5 16.Ba3 bxc5 (16...Rfd8 17.cxb6?? Rc3! 18.f4 Qd5) 17.Rc1 Rfd8 18.Bc4 Bh6
 (18...Bd4! 19.f4 Qxg2) 19.Rc3 Bg7 20.Rc2 Kf8? 21.O-O h5 22.b3 Rd6 23.Rfc1 Rcd8
 24.Bf1 Rd1 25.Rxc5 Rxc1?? 26.Rxg5 Rb1 27.h4 Ba6 28.Kh2 Rxf1 29.Qg3 Bf6 30.Qc7
 Bxg5?? 31.Qxd8+ Kg7 32.hxg5 Rf2 33.Bxe7 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.01.16"]
+[Round "?"]
+[White "Horttanainen, Emil"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3 c5 7.cxd5 Nxd5 8.Nxd5 Qxd5
+9.Qb3 Be6 10.Qxd5 Bxd5 11.Ne5 cxd4 12.exd4 Nc6 13.Nxc6 Bxc6 14.Be3 e5 15.dxe5
+Bxe5 16.O-O-O? Be4 (16...Rfc8 17.Kb1 Be4+) 17.Bd3 Bxg2 18.Rhg1 Bf3 19.Rd2 Bxh2
+20.Rg5 Rfd8 21.Rc5 b6 22.Rc4 Rac8 23.Rxc8 Rxc8+ 24.Rc2 Rxc2+ 25.Kxc2 Kg7 0-1
