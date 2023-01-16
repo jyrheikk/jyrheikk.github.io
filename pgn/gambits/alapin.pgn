@@ -56,10 +56,10 @@ Kxg7 15.Qg4+ Kh8 16.Qxh4 Rxf5 17.Ng6+ Kg7 18.Qh6+ (18.Qh6+ Kf7 19.Qxh7+ Kf6
 1.e4 e6 2.d4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.f3 exf3 6.Ngxf3 Nd5 7.Bf2 Nd7 8.Nb3
 Bb4+ 9.c3 Nxc3 10.bxc3 Bxc3+ 11.Nbd2 Bxa1 12.Qxa1 Nf6 13.Bh4 Qd5 14.Bc4 Qa5
 15.O-O Nd5 16.Re1 O-O 17.Ne4 b6 18.Qc1 Ba6 19.Bxd5 Qxd5 (19...exd5? 20.Nf6+!
-{+-} Kh8 21.Qc2) 20.Bf6 (20.Nf6+!! gxf6 21.Bxf6 Qf5 22.Qh6 Qg6 23.Qh4 Bb7
-24.Re5 {+-}) Bd3 21.Nc3 Qf5 22.Bh4 f6 23.Qe3 Bc4 24.Nd2 Bd5 25.Bg3 Rac8 26.Rf1
-Qc2 27.Nf3 Rfe8 28.Rc1 Qg6 29.Nb5 c6 30.Nd6 Bxa2 31.Nh4 Qh5 32.Nxe8 Qxe8
-33.Qa3 Bd5 34.Qxa7 Ra8 35.Qxb6 Ra2 36.Rb1 1-0
+{+-} Kh8 21.Qc2) 20.Bf6 (20.Nf6+!! gxf6 21.Bxf6 Qf5 22.Qh6 Qg6 23.Qf4 e5!
+24.dxe5 Bc8 25.Nh4 Qg4 26.Qe3 {+-}) Bd3 21.Nc3 Qf5 22.Bh4 f6 23.Qe3 Bc4 24.Nd2
+Bd5 25.Bg3 Rac8 26.Rf1 Qc2 27.Nf3 Rfe8 28.Rc1 Qg6 29.Nb5 c6 30.Nd6 Bxa2 31.Nh4
+Qh5 32.Nxe8 Qxe8 33.Qa3 Bd5 34.Qxa7 Ra8 35.Qxb6 Ra2 36.Rb1 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -162,3 +162,21 @@ Qe4 28.Ne6 Rc8 29.Rxf8+ Bxf8 30.Qxf8# 1-0
 1.d4 d5 2.e4 e6 3.Be3 dxe4 4.Nd2 Nf6 5.g3 c5 6.dxc5 Qa5 7.c3 Nbd7 8.b4
 Qc7 9.Bg2 Nd5 10.Nxe4 f5 11.Ng5 Qe5 12.Bxd5 Qxc3+ 13.Bd2 Qe5+ 14.Ne2 Qxd5
 15.O-O Nf6 16.Nf4 Qc6 17.Re1 h6 18.Ngxe6 Kf7 19.Qb3 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.01.16"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Horttanainen, Emil"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 e6 2.e4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.c3 Bd6 6.Qc2 O-O 7.f3? (7.Nxe4) Nd5
+8.Qxe4 Nxe3 9.Qxe3 Qh4+ 10.Qf2 Qxf2+ 11.Kxf2 c5 12.Ne4 Be7 13.dxc5 (13.Nxc5)
+Rd8 14.b4 a5 15.Bb5 Bd7 16.Bxd7 Rxd7 17.Ne2 axb4 18.cxb4 Nc6 19.a3 Rad8
+(19...f5) 20.N2c3 (20.N4c3) Ne5 21.Rhd1 Nc4 22.Rxd7 Rxd7 23.a4 (23.Ra2) f5
+24.Ng3 Rd2+ 25.Nge2 Bf6 26.Rc1 Rb2 27.Ke1 (27.b5) Rxb4 28.Nb5 (28.Rb1) Nb2
+29.Kd2 Nxa4 30.Nd6? Bg5+ 31.f4 Bxf4+? (31...Rxf4 {-+}) 32.Nxf4 Rxf4 33.Nxb7
+Nxc5 34.Nxc5 Rf2+ 35.Ke3 Rxg2 36.Nxe6 Rxh2 37.Kf3 g6 38.Rc7 h5 (38...Rh4)
+39.Rg7+ Kh8? 40.Rxg6? (40.Kf4) {no more moves recorded} 1-0
