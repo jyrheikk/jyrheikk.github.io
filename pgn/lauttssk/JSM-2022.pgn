@@ -842,6 +842,28 @@ Rxc3 26.Qxc3 Qxf4+ 27.Ke2 Rd8 0-1
 [Site "Helsinki FIN"]
 [Date "2023.01.15"]
 [Round "3"]
+[White "Tuominen, Tanja"]
+[Black "Männistö, Kari"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "1"]
+[WhiteTeam "Helsinki Street Chess 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[WhiteElo "2086"]
+[BlackElo "1832"]
+[WhiteTitle "WIM"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e6 7.Nf3 a6 8.a4 Bd7 9.O-O
+Rc8 10.Bg5 Be7 11.Nbd2 Na5 12.Ne5 O-O 13.Qe2 Ne8 14.Bxe7 Qxe7 15.f4 g6 16.Rf3
+Ng7 17.Re3 Nf5 18.Bxf5 gxf5 19.Qh5 Be8 20.Nef3 Qf6 21.Ng5 Qg6 22.Qh4 Kh8
+23.Rg3 Rg8 24.Nge4 dxe4 25.Rxg6 Rxg6 26.Qe7 Bc6 27.Nf1 Nc4 28.Qc5? Rcg8 29.g3
+e3? (29...Bd5 {=}) 30.Qxc4 Rxg3+ 31.Nxg3 Rxg3+ 32.Kf1 Bf3 33.Qc5 Kg7 34.Re1
+Be4 35.Ke2 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.01.15"]
+[Round "3"]
 [White "Salo, Mikko"]
 [Black "Tammela, Ranel"]
 [Result "0-1"]
