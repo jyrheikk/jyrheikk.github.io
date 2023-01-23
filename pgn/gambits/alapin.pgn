@@ -180,3 +180,19 @@ Rd8 14.b4 a5 15.Bb5 Bd7 16.Bxd7 Rxd7 17.Ne2 axb4 18.cxb4 Nc6 19.a3 Rad8
 29.Kd2 Nxa4 30.Nd6? Bg5+ 31.f4 Bxf4+? (31...Rxf4 {-+}) 32.Nxf4 Rxf4 33.Nxb7
 Nxc5 34.Nxc5 Rf2+ 35.Ke3 Rxg2 36.Nxe6 Rxh2 37.Kf3 g6 38.Rc7 h5 (38...Rh4)
 39.Rg7+ Kh8? 40.Rxg6? (40.Kf4) {no more moves recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.01.23"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Khatiri, Rachid"]
+[Result "0-1"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 e6 3.Be3 dxe4 4.Nd2 Nf6 5.c3 Nd5 6.Nxe4 Nxe3 7.fxe3 Qh4+ 8.Nf2
+Bd6 9.Bd3 f5 10.Nf3 Qf6 11.e4 e5 12.dxe5 Bxe5 13.Nxe5 Qxe5 14.O-O f4 15.Qb3
+Nd7 16.Bc4 Rf8 17.Nd3 Nc5?? 18.Nxe5 Nxb3 19.axb3 c6 20.Nd3? b5 21.Nxf4 bxc4
+22.bxc4 a5 23.g3 a4 24.Rfd1 Bg4 25.Rd6 Rf6 26.c5 Ke7 27.e5 Rxd6 28.cxd6+ Kd7
+29.Kf2 Re8 30.Re1 Rb8 31.Nd3 Bf5 32.Nc5+ Ke8 33.e6 Rxb2+ 34.Kf3 h5 35.h3 Bxh3
+36.Nxa4 Rc2 37.Re3 g5 38.Nc5?? Bg2# 0-1
