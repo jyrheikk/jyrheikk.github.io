@@ -980,7 +980,7 @@ Rxd3+ 41.Kxd3 g6 42.h3 f6 43.g4 h4) (40.Rc1!) Kc4 41.Rc1+ Kxb4 42.Rb1+
 [Site "Helsinki FIN"]
 [Date "2022.09.14"]
 [Round "-"]
-[White "Salikhodjaev, Israil"]
+[White "Salikhodjaev, Isroilkhon"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
 
@@ -994,3 +994,47 @@ Be7?? (20...Qg6) 21.Bc2? (21.Rxd7) Qe5? (21...Nf6) 22.Rxd7! Qxg3 23.Rxe7+ Kxe7
 Kxc5 36.Rxe5+ Kc6 37.Rxf5 Rd8 38.Kh2 Rd2 39.b3? (39.Rf7) Rb2 40.c4 Rxb3
 41.cxb5+ Rxb5 42.Rf3 a4 43.Ra3 Ra5 44.Kg1 Kc5 45.Kf1 Kb4 46.Ra1 a3 47.Ke1 Rd5
 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2022.09.24"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Sandholm, Klas"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Karjaan Ura"]
+[WhiteElo "2117"]
+[BlackElo "2186"]
+[BlackTitle "CM"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 g6 2.e4 Bg7 3.Nf3 d6 4.Bc4 c5 5.O-O (5.dxc5) cxd4 6.Nxd4 Nf6 7.Nc3 O-O
+8.Bg5 a6 9.Re1 Nbd7 10.a4 h6 11.Be3 Ne5 12.Bb3 Neg4 13.Bc1 Qb6 14.h3? (14.a5
+Qa7 15.h3 Nxf2 16.Kxf2 e5 17.Na4) Nxf2 15.Kxf2 e5 16.Qf3? (16.a5 Qxd4+ 17.Kf3)
+exd4 17.a5 Qc5 18.Nd5 (18.Na4 Qxa5 19.Bxh6 Ng4+ 20.hxg4 Bxh6) Nxd5 19.Bxd5 Be6
+20.Kg1 Bxd5 21.exd5 Rae8 22.Bf4 d3+ 23.Kh2 g5 (23...Be5?? 24.Rxe5 dxe5 25.Bxh6
+Qd6 26.cxd3 {=}) 24.Bg3 Rxe1 25.Rxe1 dxc2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.02.01"]
+[Round "-"]
+[White "Sotala, Jonne"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 d6 7.Nc3 Nf6 8.Be2 O-O
+9.O-O Bd7 10.Qd2 Re8 11.f3 Rc8 12.b3 Nh5 13.Rfd1 a6 14.Rac1 Qa5 15.Nxc6 bxc6
+(15...Bxc6) 16.Bd4 (16.c5) Bxd4+ 17.Qxd4 Nf4 18.Bf1 Qg5 19.Ne2 (19.Qd2) c5
+(19...Qxg2+!) 20.Qd2 Nh3+ 21.Kh1 Qxd2 22.Rxd2 Ng5 23.Nc3 (23.e5) Bc6 24.Rcd1
+f5 25.Kg1 fxe4 26.f4 Ne6 27.g3 Nd4 28.Bg2 e3 (28...e5) 29.Bxc6 Rxc6 30.Rd3 Nf5
+(30...e2 31.Re1 e5) 31.Nd5 Kf7 32.Re1 e6 33.Nxe3 Nd4 34.Kf2 a5 35.Red1 a4
+36.b4 Rb8 37.b5 Rcb6 38.R1d2 h5 39.Nc2 Nf5 40.h3 Rd8 41.g4 hxg4 42.hxg4 Ne7
+43.a3 d5 44.Kf3 Rh8 45.cxd5 (45.Ne3) exd5 46.Ne3 Rxb5 (46...c4 47.Nxd5 Rh3+
+48.Kf2 Rxd3 49.Rxd3 Rxb5) 47.Nxd5 c4 48.Rd4 c3 49.R2d3 (49.Nxc3 Rh3+) c2
+50.Rc4 Nxd5 51.Rxc2 Rh3+ 52.Ke4 Nf6+ 53.Kd4 Rd5+ 54.Kc4 Rhxd3 55.Kb4 R3d4+
+56.Rc4 Nxg4 57.Kc3 Rd3+ 58.Kb4 R5d4 59.Kc5 Rxc4+ 60.Kxc4 Rxa3 61.Kb4 Ra1
+62.Kc3 Rb1 0-1
