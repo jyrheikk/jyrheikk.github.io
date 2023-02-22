@@ -2005,3 +2005,19 @@ Qe6? (18...g3+ 19.Kg1 gxf2+ 20.Rxf2 Qg4) 19.b5 Rc4 20.Qf5 g3+ 21.Kg1 gxf2+
 (33.Kf2) Rxc1 34.Qh5?? Qg6+ (34...Qxe3+! 35.Kh1 Qe4+ 36.Kg1 Qd4+) 35.Kf2 Qxh5
 36.Rxc1 Qh2+ 37.Ke1 Qg1+ 38.Kd2 Qf2+ 39.Kd3 Qb2 40.Rc3 f5 41.Kc4 a5 (41...Qb5+
 42.Kd4 Qd5#) 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.02.22"]
+[Round "1"]
+[White "Harris, Luke"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.a3 d6 6.Bf4 g5 7.Bg3 g4 8.Nd4 Nxe5
+9.e3 Bg7 10.Be2 h5 11.Nd2 Nxg3 12.hxg3 c5 13.N4b3 Bf5 14.Rc1 Nd3+ 15.Bxd3 Bxd3
+16.Nb1 Be4 17.Rh2 Qf6 (17...Bxb2) 18.Nc3 Bc6 19.Na5 O-O-O 20.Nxc6 bxc6 21.Qa4
+Kb7 22.b4 d5 (22...Qf5) 23.bxc5 Ka8?? (23...Qe6) 24.cxd5 Rc8 25.d6 Rhd8
+26.Rxh5 Qg6 27.Rh4 Qd3 28.Ne2 f5 29.Rh7 Rd7 30.Nd4 Qe4 (30...Bxd4 31.Rxd7 Bc3+
+32.Rxc3 Qxc3+ 33.Ke2 Qxc5) 31.Qa6 Kb8 32.f3 Qxe3+ 33.Ne2 1-0
