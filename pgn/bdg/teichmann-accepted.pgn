@@ -1054,3 +1054,19 @@ h6 (15...Nd5!) 16.Nf3 c5 17.Bc2 cxd4 18.Qd3 g6? 19.Ne5 Kg7?? 20.Nxg6 Rg8
 9.O-O-O Be7 10.Bd3 Nd5 11.Nxd5 cxd5 12.Rhf1 O-O 13.g4 Bg5 14.h4 Bxh4??
 (14...Bxe3+) 15.g5 Bxg5 16.Bxh7+ Kxh7 17.Qh5+ Bh6 18.Bxh6 gxh6 19.Rxf7+ Rxf7
 20.Qxf7+ Kh8 21.Rg1 Qg5+ 22.Rxg5 hxg5 23.Qxb7 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.02.27"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Valli, Kari"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bxf3 7.Qxf3 c6 8.Be3 Qa5
+9.Bc4 e6 10.O-O h5 11.Rae1 Nbd7 12.Ne4 Be7 13.Ng5 Rf8? 14.c3 (14.Bxe6! fxe6
+15.Nxe6) Nb6 15.b4 Qa3 16.Bc1 Qxc1 17.Rxc1 Nxc4 18.Rc2 Nb6 19.b5 Rc8 20.c4 Rc7
+21.bxc6 Rxc6 22.Qb3 Rc7 23.a4 Nc8 24.Qb5+ Nd7 25.Nh7 Nd6 26.Qxh5 Nf6 27.Nxf6+
+Bxf6 28.d5 Bd4+ 29.Kh2 e5 30.Re1 Rxc4 31.Rxe5+ Bxe5+ 32.Qxe5+ Kd7 33.Rxc4 Nxc4
+{no more moves recorded} 1-0
