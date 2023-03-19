@@ -885,3 +885,17 @@ Rad8 16.a3 a5 17.Ne4 Nxe4 18.fxe4 e5 19.Rf5 (19.Qe1) f6 20.Bc4+ Kh8 21.Rh5
 27.c4) Rxf7 27.Qh5 (27.Rb3) g6 28.Qxg6 Rg7 29.Qf5 Qxc2 30.g3?? (30.Rg3) Qxb2
 31.Ra7 Qe2 32.Ra1 Qb2 33.Ra7 Qb1 34.Qf2 Qxe4+ 35.Kg1 Bc5 36.Qxc5 Qxe1+ 37.Kg2
 Rd2+ 38.Kf3 Qe2# 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.03.15"]
+[Round "-"]
+[White "Keto, Antti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.f4 d5 3.e5 c5 4.d4 Nc6 5.Nf3 Qb6 6.c3 cxd4 7.cxd4 Nh6 8.Nc3 Nf5
+9.Bb5 Bd7 10.Bxc6 bxc6 11.O-O Be7? (11...c5) 12.Ne2? (12.g4) c5 13.g4 Nxd4
+14.Nexd4 cxd4 15.Nxd4 Bc5 16.Be3 Qxb2 17.Rf2 Qa3 18.Bc1 Qh3 19.Rb1 O-O 20.Rb3
+Qh4 21.Ba3 Bxa3 22.Rxa3 Rfc8 23.Nf3?? (23.g5) Qxg4+ 24.Rg2 Qxf4 25.Rc2 Rxc2
+26.Qxc2 Rc8 27.Qf2 Qc1+ 0-1
