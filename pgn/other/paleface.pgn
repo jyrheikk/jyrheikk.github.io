@@ -336,3 +336,17 @@ Nbd7 10.Nxc5 Nxc5 11.b4 Ncd7 12.dxc6 bxc6 13.Qxd6 Qb6 14.a4 Rb8 15.Bd2 Bb7
 Rec8 28.Nf4 Nxc5 29.Kc4 Na6 30.Nd3 Nb4 31.Nc5 Rd8? (31...Nc2) 32.Nd7 (32.Rxd8+
 Rxd8 33.Nb7) Nc2 (32...Rbc8) 33.Rc1 (33.Ra2 Ne3+ 34.Kd4) Ne3+ 34.Kc5 Rbc8
 35.g3 f6 36.Rc3 Kf7? (36...Nf1) 37.Rxe3 Ke7 38.Nb6 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.03.21"]
+[White "Heikkinen, Jyrki"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.f3 e6 3.e4 Be7 4.c4 O-O 5.e5 Ne8 6.Nc3 d6 7.f4 dxe5 8.fxe5 a6 9.Nf3
+b6 10.Bd3 Bb7 11.Be3 f5 12.exf6 (12.d5) Bxf6 13.Ne4 Be7 14.O-O Nd6? 15.Neg5
+Bxg5 (15...Bxf3 16.Bxh7+ Kh8 17.Rxf3) 16.Bxh7+ Kxh7 17.Nxg5+ Kg8 18.Qh5 Rxf1+
+19.Rxf1 Nf5 20.Qh7+ Kf8 (20...Kf8 21.Rxf5+! (21.Nxe6+) exf5 22.Qh8+ Ke7
+23.Qxg7+ Kd6 24.Qe5+ Kc6 25.Qe6+ Qd6 26.d5#) 1-0
