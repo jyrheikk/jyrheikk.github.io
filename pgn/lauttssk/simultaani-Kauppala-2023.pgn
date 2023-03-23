@@ -148,6 +148,25 @@ Qxd3 28.Bxd3 Rc3 29.Bf5 (29.Bf1) exf4 30.Ne4 Rc7 31.Bxd7 Rxd7 32.Rc1 Bd8
 [Date "2023.03.22"]
 [Round "-"]
 [White "Kauppala, Pekka"]
+[Black "Oh, Dayei"]
+[Result "1-0"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Bb5+ Nbd7 6.Nf3 Nxd5 7.Nc3 e6 8.O-O
+Be7 9.Qb3 O-O 10.Nxd5 exd5 11.Qxd5 a6 12.Bc4 Nb6 13.Qxd8 Rxd8 14.Bb3 Bg4
+15.Bxf7+ Kf8 16.Ne5 Rd4 17.Nxg4 Rxg4 18.Be6 Rd4 19.Re1 Bb4 20.Re2 Rad8 21.a3
+Bxd2 22.Bxd2 Rxd2 23.Rxd2 Rxd2 24.b4 Re2 25.Bg4 Rd2 26.h3 g6 27.Rc1 h5 28.Bf3
+Ra2 29.Rc3 Ra1+ 30.Kh2 Na4 31.Re3 b6 32.Bb7 a5 33.bxa5 bxa5 34.Bc6 Nb2 35.Kg3
+Nc4 36.Rf3+ Kg7 37.a4 Ne5 38.Rc3 Nxc6 39.Rxc6 Rxa4 40.Ra6 h4+ 41.Kf3 g5 42.Ke3
+Ra3+ 43.Ke4 Ra2 44.Kf3 a4 45.g3 a3 46.gxh4 gxh4 47.Ra4 Kh6 48.Rxh4+ Kg5
+49.Rg4+ Kh5 50.Ra4 Ra1 51.Kf4 a2 52.f3 Rh1 53.Rxa2 Rxh3 54.Ra6 Rh4+ 55.Kf5 Rh3
+56.f4 Rf3 57.Ra4 Kh4 58.Kf6 Kg3 59.f5 Rb3 60.Kg6 Rb6+ 61.f6 Rb8 62.Kg7 Kf3
+63.f7 Rb7 64.Kg8 Rxf7 65.Kxf7 1-0
+
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2023.03.22"]
+[Round "-"]
+[White "Kauppala, Pekka"]
 [Black "Crespiera, David"]
 [Result "0-1"]
 
