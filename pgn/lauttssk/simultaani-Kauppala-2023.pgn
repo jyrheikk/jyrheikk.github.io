@@ -148,6 +148,26 @@ Qxd3 28.Bxd3 Rc3 29.Bf5 (29.Bf1) exf4 30.Ne4 Rc7 31.Bxd7 Rxd7 32.Rc1 Bd8
 [Date "2023.03.22"]
 [Round "-"]
 [White "Kauppala, Pekka"]
+[Black "Crespiera, David"]
+[Result "0-1"]
+
+1.d4 d5 2.e4 e6 3.Nc3 Bb4 4.Bd3 c5 5.exd5 cxd4 6.a3 Bxc3+ 7.bxc3 Qxd5 8.Nf3
+dxc3 9.O-O h6 10.Re1 Nf6 11.Rb1 O-O 12.Bf4 Nbd7 13.Rb5 Nc5 14.Re5 Qd8 15.Rexc5
+Nd5 16.Be5 a6 17.Rb3 b6 18.Rc4 b5 19.Rg4 Nf6 20.Rg3 Nh5 21.Rh3 Nf6 22.Rxc3 Ne4
+23.Rb3 f6 24.Ba1 e5 25.Qe2 Nc5 26.Rc3 Bxh3 27.gxh3 Nxd3 28.Rxd3 Qe7 29.Nh4 Qb7
+30.Nf5 Rad8 31.Rg3 g5 32.Nxh6+ Kg7 33.Nf5+ Kg6 34.Nh4+ Kf7 35.Qh5+ Ke6 36.Ng6
+Rf7 37.h4 Rfd7 38.Rf3 Rd1+ 39.Kg2 Rxa1 40.Qg4+ Kd6 41.Kh3 Qf7 42.Rd3+ Kc7
+43.Rc3+ Kb6 44.Qe4 Qe6+ 45.Kg2 Rd4 46.Qa8 Rg4+ 47.Rg3 Rxg3+ 48.hxg3 Qc6+
+49.Qxc6+ Kxc6 50.h5 Rd1 51.h6 Rd8 52.h7 Kc5 53.h8=Q Rxh8 54.Nxh8 b4 55.a4 Kc4
+56.Nf7 Kc3 57.Nd6 Kxc2 58.Kf3 b3 59.Nc4 Kc3 60.Na3 Kb4 61.Nb1 Kxa4 62.Ke4 b2
+63.Kf5 Kb3 64.Kxf6 a5 65.Kxe5 a4 66.f4 gxf4 67.gxf4 a3 68.f5 a2 69.Nd2+ Kc2
+70.f6 a1=Q 0-1
+
+[Event "Pekka Kauppalan simultaani"]
+[Site "Helsinki FIN"]
+[Date "2023.03.22"]
+[Round "-"]
+[White "Kauppala, Pekka"]
 [Black "Salo, Mikko"]
 [Result "1-0"]
 
