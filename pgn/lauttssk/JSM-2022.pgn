@@ -1577,3 +1577,55 @@ Qxf7 29.Qxb8+ Qf8 30.Qxb6 Qe8 31.Bc4 Kh8 32.Qxe6 Qd8 33.Bd5 Nf4 34.Qf7 Bxd5
 16.Qc2 Ng4 17.h3 Nge5 18.Nxe5 Nxe5 19.f4 Nd3 20.Re2 Qb6+ 21.Be3 Qxb2 22.Qxb2
 Nxb2 23.Rxb2 Bxc3 24.Rab1 Bxb2 25.Rxb2 Rab8 26.Rc2 Rb1+ 27.Kh2 Rfb8 28.Bd4 Rd1
 29.Bc3 Rbb1 30.g4 Rdc1 31.Rxc1 Rxc1 32.Bd4 c3 33.e5 Bd3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.01"]
+[Round "8"]
+[White "Heikkinen, Jyrki"]
+[Black "Räisänen, Kalervo"]
+[Result "1-0"]
+[Section "I Division:1"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Akaan Shakki"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O c6 8.Ne5 Bg6
+9.Be3 Nbd7 10.Nxg6 hxg6 11.Qf3 Qc7 12.g3 O-O-O 13.Rfd1 Bd6 14.Bf1 Rh5 15.Rd2
+Rdh8 16.Bd3 Nb6 17.Rf1 Nbd5 18.Nxd5 Nxd5 19.c3 Nxe3 20.Qxe3 c5 21.Qf3
+(21.Rdf2!) c4 22.Bc2 f5 23.b3 e5 24.bxc4? e4 25.Qe3 Rh3? (25...Bxg3!) 26.Rg2
+Qxc4 27.Bb3 Qc7 28.Be6+ Kb8 29.c4? Re8? (29...Bxg3! 30.hxg3 Qb6!) 30.Bd5 f4
+31.Qb3 fxg3 32.Qb5 Rd8 33.Rf7 Be7 34.hxg3 b6 35.Bxe4 (35.Qb1) Rxg3 36.Qc6
+Rxg2+ 37.Bxg2 Qxc6 38.Bxc6 Bf6 39.d5 a5 40.Rb7+ Kc8 41.Kg2 Bd4 42.Kf3 Rd6
+43.Ke4 Bc5 44.Rxg7 Kd8 45.Ke5 Kc8 46.Be8 Kd8 47.Bxg6 Rd7 48.Rg8+ Kc7 49.Bf5
+Bd6+ 50.Kf6 Re7?? (50...Be7+) 51.Rc8+ Kb7 52.c5 (52.Rc6 Bb4 53.c5) Rc7
+(52...bxc5 53.Rc6) (52...Re5 53.cxd6 Rxf5+ 54.Kxf5 Kxc8 55.Ke6 Kd8 56.a4)
+53.cxd6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.01"]
+[Round "8"]
+[White "Auranen, Timo"]
+[Black "Kivinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:1"]
+[Board "7"]
+[WhiteTeam "Akaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Qc7 6.Nc3 Bb4 7.Qd3 Nc6 (7...Nf6)
+8.Nxc6 dxc6 9.Qd4 Bd6? 10.Qxg7 Be5 11.Qg5 (11.Bf4) Ne7 12.Qe3 Bd7 (12...c5)
+13.Bd2 (13.f4) O-O-O 14.O-O-O c5 15.f4 Bd4 16.Qh3 Ng6 17.Rhf1 b5 18.a3 e5
+19.f5 Ne7 20.Qf3 c4 (20...f6) 21.f6 Nc6 22.Nd5 Qb7 23.Ne7+ Kb8 24.Nd5 Be6
+25.Nb4 (25.c3) Bc5 (25...h5 26.h3 h4) 26.Nxc6+ Qxc6 27.Ba5 Bb6 28.Bxb6 Qxb6
+29.c3 Rdg8 30.h3 Rg6 31.Qf2 Qc6 (31...Qxf2 32.Rxf2 Rhg8) 32.Qf3 (32.Bh5 Rgg8
+33.Rd2) h5 33.Rf2 (33.Rd2) h4 (33...Qc5) 34.Qe3 Rg3 35.Bf3 Kb7 36.Rdd2
+(36.Rfd2) Rg6 37.Bd1 Rhg8 38.Kc2 Rg3 (38...Qb6) 39.Bf3 R8g6 40.Rd8 Rxf6 41.Rh8
+(41.Rfd2) Rfg6 (41...Rf4) 42.Rxh4 a5 43.Rh5 Qc7 44.Rd2 Rg8 45.Qf2 R3g7 46.g4
+Ka6 47.Qg3 f6 48.Rh6 Qe7 49.Qf2 b4 50.axb4 axb4 51.cxb4 Qxb4 52.Qe3? (52.Rxf6)
+c3 53.Be2+? Kb7 54.bxc3 Qb3+ 55.Kc1 Ra8 56.Rc2 Rd7 57.Bd3 Bc4 58.Rxf6 Ra1+
+59.Kd2 Rxd3+ 60.Qxd3 Bxd3 61.Kxd3 Rd1+ 62.Rd2 Qb1+ (62...Qb5+!) 63.Ke3 Re1+
+64.Re2 Rxe2+ 65.Kxe2 Qxe4+ 66.Kf2 Qc2+ 67.Kg3 Qxc3+ 68.Rf3 Qd4 69.Kg2 Kc6
+70.Rf2 Kd5 71.Kg3 Qe3+ 72.Kg2 Ke4 73.Rf1 Kd4 74.Rd1+ Kc3 75.Rf1 Kd2 76.Rf2+
+Ke1 (76...Qxf2+!) 77.Ra2 Qd4 78.Rc2? 0-1
