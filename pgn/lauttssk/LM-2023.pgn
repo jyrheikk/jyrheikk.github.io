@@ -16,3 +16,34 @@ gxf5 30.f3 exf3 31.Bxf3 Qg7+ 32.Ng3 Nd8 33.Kf2 Qe5 34.Qg5 Qf6 35.Bh5+ Ke7
 Kg8 43.Qg6+ Kf8 44.Qf5 Kg8 45.Qe4 Qf6+ 46.Kg2 Ne5 47.h4 Qg7 48.Kh3 Qd7+ 49.Kg2
 Qg7 50.Qf4 Kh8 51.Kh3 Qd7+ 52.Nf5 Nf7 53.Qg4 Ne5 54.Qh5+ Kg8 55.Qg5+ Kf8
 56.Qf6+ Kg8 57.Kg3 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.18"]
+[Round "1"]
+[White "Suihko, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Variant "Chess960"]
+[FEN "bbnnrqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRQKR w Kk - 0 1"]
+
+1.e4 e5 2.b3 a6 3.c4 Ba7 4.Qe2 Nc6 5.Bc3 N8e7 6.Ne3 Nd4 7.Bxd4 Bxd4 (7...exd4)
+8.Nd5 Nxd5 9.cxd5 Qa3 {10.O-O b5 11.Qg4 O-O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.18"]
+[Round "1"]
+[White "Suihko, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Variant "Chess960"]
+[FEN "b1kr3r/2pp1ppp/p7/1p1Pp3/3bP1Q1/qP6/P2P1PPP/1BN1RRK1 w - - 1 12"]
+
+12.Ne2 Bb6 13.Qxg7 Qd6 14.Qg3 (14.Ng3) 14...h5 15.Qh3 h4 16.Kh1 Kb8 17.f4 f6
+18.f5 (18.a4) c6 19.dxc6 Qxd2 20.Qd3 (20.cxd7 Bf2) dxc6 21.Qxd2 Rxd2 22.Ng1 a5
+23.Nf3 Rd7 24.h3 Bb7 25.Rc1 Kc7 26.Nh2 Be3 27.Rce1 Bg5 28.Ng4 b4 29.Rd1 Rhd8
+30.Rxd7+ Rxd7 31.Nf2 Rd2 32.Ng4 Ba6 33.Re1 Bd3 34.Bxd3 Rxd3 35.Re2 Rd1+ 36.Kh2
+Bf4+ 37.g3 Bxg3+ 38.Kg2 Rd6 39.Kf3 Bf4 40.Kf2 Kb6 41.Ne3 Kb5 42.Nc4 Rd3 43.Kg2
+Rg3+ 44.Kf2 Rxh3 45.Nd6+ Kb6 46.Nc4+ Ka6 47.Ne3 Bxe3+ 48.Rxe3 Rxe3 49.Kxe3 Kb5
+50.Kf3 Kc5 51.Kg4 Kd4 52.Kxh4 Kxe4 0-1
