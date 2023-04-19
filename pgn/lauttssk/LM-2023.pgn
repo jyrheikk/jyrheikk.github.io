@@ -19,11 +19,30 @@ Qg7 50.Qf4 Kh8 51.Kh3 Qd7+ 52.Nf5 Nf7 53.Qg4 Ne5 54.Qh5+ Kg8 55.Qg5+ Kf8
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2023.04.12"]
+[Round "1"]
+[White "Kauppinen, Janne"]
+[Black "Oh, Dayei"]
+[Result "1-0"]
+[Section "A"]
+[Termination "time forfeit"]
+
+1.c4 f5 2.Nf3 Nf6 3.d4 g6 4.Nc3 Bg7 5.e3 O-O 6.Be2 d5 7.O-O Be6 8.cxd5 Nxd5
+9.a3 Nxc3 10.bxc3 Nc6 11.c4 Na5 12.Qc2 Qd7 13.Rb1 Qc6 14.c5 b6 15.Ng5 Bd5
+16.Bf3 Bh6 17.Bxd5+ Qxd5 18.Nf3 Qe4 19.Qxe4 fxe4 20.Nd2 bxc5 21.dxc5 Rab8
+22.Rxb8 Rxb8 23.Nxe4 Nb3 24.f4 Nxc1 25.Rxc1 Bg7 26.Rd1 Rb3 27.Rd8+ Kf7 28.Ng5+
+Kf6 29.Nxh7+ Kf5 30.Ng5 Rxe3 31.g3 Re1+ 32.Kf2 Ra1 33.Rd7 Rxa3 34.Rxc7 Bd4+
+35.Ke2 Re3+ 36.Kd2 a5 37.Kc2 Rc3+ 38.Kb1 Bxc5 39.Nf3 Rb3+ 40.Ka2 Ra3+ 41.Kb2
+Bd6 42.Nh4+ Kg4 43.Rc6 a4 44.Nxg6 Rb3+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2023.04.18"]
 [Round "1"]
 [White "Suihko, Ismo"]
 [Black "Heikkinen, Jyrki"]
 [Result "*"]
+[Section "M"]
 [Variant "Chess960"]
 [FEN "bbnnrqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRQKR w Kk - 0 1"]
 
@@ -37,6 +56,7 @@ Qg7 50.Qf4 Kh8 51.Kh3 Qd7+ 52.Nf5 Nf7 53.Qg4 Ne5 54.Qh5+ Kg8 55.Qg5+ Kf8
 [White "Suihko, Ismo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "M"]
 [Variant "Chess960"]
 [FEN "b1kr3r/2pp1ppp/p7/1p1Pp3/3bP1Q1/qP6/P2P1PPP/1BN1RRK1 w - - 1 12"]
 
