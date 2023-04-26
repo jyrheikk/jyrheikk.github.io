@@ -1689,3 +1689,17 @@ e4 34.dxe4 Nc3 35.Rb3 Nxe4+ 36.Nxe4 fxe4 37.Bb5+ Kc7 38.Bc4 Bd7 39.Ke3 Bc6
 16.f4 Bf6 17.Nxf5 Bxe5 18.fxe5 Nc6 (18...Rxf5!? 19.Rxf5 Nxe3 20.Qxe3 exf5
 21.e6) 19.Ng3 Qd7 20.Rad1 Na5 21.Qd3 Qb5 22.Qxb5 axb5 23.Rxf8+ Kxf8 24.Bd2 Nc6
 25.a3 Nxd4 26.Bc3 Nc6 27.Ne4 Ke7 28.Bd4? Ra4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.04.26"]
+[Round "-"]
+[White "Clarke, Dan"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Nxe2 Qxd5 6.Nbc3 Qxg2 7.Rf1 Nc6 8.Bf4
+O-O-O 9.Bg3 e5 10.Qd3 Nxd4 11.Nxd4 Rxd4 12.Qf5+ Kb8 13.Bxe5 Rd8 14.Qf4 Qc6
+(14...Bb4) 15.a4 Nd5?? (15...Qe6) 16.Rd1?? (16.O-O-O {=}) Bb4 17.Qxf7 Bxc3+
+18.Bxc3 Rhe8+ 19.Kd2 Nxc3+ 20.Kc1 Qh6+ 21.f4 Rxd1+ 22.Rxd1 Qxf4+ 23.Qxf4 Ne2+
+0-1
