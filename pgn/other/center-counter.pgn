@@ -1782,3 +1782,15 @@ Nd3 20.Re3 Ndc1 21.Rxb3 Nxb3 22.Be7 a6 (22...Rd7) 23.Bxd8 Rxd8 24.Bxf7 Rd1+
 Rf7 (33...e4) 34.Nc4 Rfe7 35.Qxe5 Qxe5 36.Nxe5 Kg7 37.Nf3 Nc5 38.a5 Kf6 39.Ng5
 Re1+ 40.Kg2 Ne4 41.Nxe4+ R8xe4 42.Rb2 Re7 43.Ra4 {no more moves recorded}
 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.04.26"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Tampio, Tommi"]
+[Result "1-0"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Qf3 Nxc3 5.dxc3 Nc6 6.Bb5 Bd7 7.Bf4 e5 8.Qe2
+Bd6 9.Nf3 O-O 10.Bg5 Be7 11.h4 Bxg5 12.hxg5 f6?? 13.Bc4+ Kh8 14.Nxe5 Nxe5
+15.Rxh7+ Kxh7 16.Qh5# 1-0
