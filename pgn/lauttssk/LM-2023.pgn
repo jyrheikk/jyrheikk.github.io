@@ -74,8 +74,8 @@ Rg3+ 44.Kf2 Rxh3 45.Nd6+ Kb6 46.Nc4+ Ka6 47.Ne3 Bxe3+ 48.Rxe3 Rxe3 49.Kxe3 Kb5
 [Site "Helsinki FIN"]
 [Date "2023.04.26"]
 [Round "1"]
-[White "Jonne Sotala"]
-[Black "Vesa Peltola"]
+[White "Sotala, Jonne"]
+[Black "Peltola, Vesa"]
 [Result "1-0"]
 [Section "A"]
 [TimeControl "90+30"]
@@ -85,3 +85,40 @@ Rg3+ 44.Kf2 Rxh3 45.Nd6+ Kb6 46.Nc4+ Ka6 47.Ne3 Bxe3+ 48.Rxe3 Rxe3 49.Kxe3 Kb5
 Bc4?? 16.Qxc5 Bxe2 17.Rxd8 Raxd8 18.Nxe2 Na4 19.Qc4 Nb6 20.Bxb6 Ne5 21.Qb3 Rc8
 22.Nc3 Re6 23.a4 Rcc6 24.a5 Nc4 25.Rd1 g6 26.Rd8+ Kg7 27.Bd4+ Ne5 28.f4 f6
 29.Bxe5 fxe5 30.Qxb7+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.26"]
+[Round "1"]
+[White "Keto, Antti"]
+[Black "Henttonen, Tero"]
+[Result "0-1"]
+[Section "M"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 d6 4.Bc4 Nf6 5.Nc3 Bg4 6.h3 Bxf3 7.Qxf3 e5 8.d3 Be7
+9.Be3 Nd4 10.Bxd4 cxd4 11.Bb5+?? Nd7?? (11...Kf8) 12.Bxd7+ Qxd7 13.Nd5 Rc8
+14.Rc1 Bd8 15.O-O O-O 16.Qg3 f6 17.f5 Qa4 18.Rf2 Qxa2 19.b3 Qa3 20.Rff1 a6
+21.h4 Rf7 22.Qf2 Qc5 23.g4 Qc6 24.c4 dxc3 25.Rxc3 Qd7 (25...Bb6) 26.Qg3 Rxc3
+27.Nxc3 Bb6+ 28.Kh2 Bd4 29.Nd5 Kf8 30.g5 fxg5 31.hxg5 Qc6 32.g6 (32.Qh3!) hxg6
+33. Qh3? (33.Qh4) Qc2+ 34.Kh1 Ke8 35.fxg6?? (35.Qh7) Rxf1+ 36.Qxf1 Qf2 37.Qxf2
+Bxf2 38.Kg2 Bh4 39.b4 Bd8 40.Kg3 Kd7 41.Kg4 Ke6 42.Ne3 Bf6 43.Nd5 Bd8 44.Ne3
+Kf6 45.Nf5 Kxg6 46.Nxd6 Be7 47.Nxb7 Bxb4 48.Kf3 Kf6 49.Nd8 a5 50.Nc6 Bc3 51.
+Ke2 a4 52.Kd1 a3 53.Kc2 Bb2 54.Kb1 g5 55.Nb4 g4 56.Nc2 Kg5 57.Ne3 Bd4 58.Nf5
+Bf2 59.Ka2 g3 60.Nxg3 Bxg3 61.Kxa3 Kf4 62.Kb4 Ke3 63.Kc4 Be1 64.Kd5 Bc3 65.Kc4
+Bd4 66.Kd5 Kxd3 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.??"]
+[Round "1"]
+[White "Nguyen, Huong"]
+[Black "Horttanainen, Emil"]
+[Result "0-1"]
+[Section "A"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4 Nxe4 5.Bxf7+ Kxf7 6.Nxe4 d5 7.Neg5+ Ke8?
+(7...Kg8) 8.d3 Be7 9.Qe2 h6 10.Nh3 Bg4 11.c3 Rf8 12.Bd2 Qc8 13.Nhg1 Qe6 14.h3
+Bh5 15.O-O-O a5 16.Re1 Bf6 17.g4 Bf7 18.g5 d4 19.c4 hxg5 20.Bxg5 Bh5 21.Qe4
+Bxg5+ 22.Nxg5 Qf6 23.Nh7?? Qf4+ (23...Qh6+) 24.Qxf4 Rxf4 25.Ng5 Rxf2 26.Ne6
+Kd7 27.Nc5+ Ke7 28.Nxb7 Rb8 29.Nxa5 Rbxb2 30.Nxc6+ Kd6 31.c5+ Kxc6 32.Ne2
+Rbxe2 33.Rxe2 Bxe2 34.Rg1 Rf1+ 35.Rxf1 Bxf1 0-1
