@@ -109,6 +109,22 @@ Bd4 66.Kd5 Kxd3 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2023.04.26"]
+[Round "1"]
+[White "Mäntsälä, Juha"]
+[Black "Crespiera, David"]
+[Result "0-1"]
+[Section "A"]
+
+1.d4 d5 2.c4 Nf6 3.e3 Bg4 4.f3 Be6 5.Nc3 Nc6 6.cxd5 Nxd5 7.Ne4 g6 8.a3 Bg7
+9.Qb3 Nb6 10.Qc2 Nd5 11.Bc4 O-O 12.Ne2 a6 13.Nf4?? Nxf4 14.exf4 Nxd4 15.Qd3
+Bxc4 16.Qxc4 b5 17.Qc5 Nb3 18.Qc6 Nxa1 19.O-O Nb3 20.Be3 Na5 21.Qc2 Nc4 22.Bf2
+Nxb2 23.Nc5 Nc4 24.Rd1 Qc8 25.Bh4 Ne3 26.Qe2 Nxd1 27.Qxd1 Rd8 28.Qe2 Bd4+
+29.Bf2 Bxf2+ 30.Kxf2 Qf5 31.Qxe7 Re8 32.Qxc7 Rac8 33.Qa5 Qxc5+ 34.Kg3 Re2
+35.Qxa6 Qf2+ 36.Kg4 Qxg2+ 37.Kh4 Qxh2+ 38.Kg5 Qh5+ 39.Kf6 Qf5# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2023.04.??"]
 [Round "1"]
 [White "Nguyen, Huong"]
