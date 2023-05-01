@@ -1,4 +1,4 @@
-var ids = {
+const ids = {
   files: 'pgn-files',
   games: 'pgn-problemSelector',
   container: 'pgn-container',
@@ -9,14 +9,17 @@ var ids = {
   end: 'pgn-end'
 };
 
-var waitInterval = 200;
+const waitInterval = 200;
 
-var pgnStatus = {
+const pgnStatus = {
   prev: false,
   next: false
 };
 
 function fetchPgn(filename) {
+  const boardIntervalId = setInterval(nextMoveByClickingBoard, waitInterval);
+  let buttonsIntervalId;
+
   document.getElementById(ids.container).innerHTML = '';
 
   new PgnViewer({
@@ -27,28 +30,26 @@ function fetchPgn(filename) {
   });
 
   function pieceSize() {
-    var width = window.innerWidth || document.body.clientWidth;
+    const width = window.innerWidth || document.body.clientWidth;
     if (width > 400) { return 46; }
     else if (width > 320) { return 35; }
     else if (width > 280) { return 29; }
     return 24;
   }
 
-  var boardIntervalId = setInterval(nextMoveByClickingBoard, waitInterval);
-
   function nextMoveByClickingBoard() {
-    var board = document.getElementById(ids.board);
+    const board = document.getElementById(ids.board);
     if (board) {
       clearInterval(boardIntervalId);
-      board.addEventListener('click', function nextMove() {
+      board.addEventListener('click', () => {
         document.getElementById(ids.forward).click();
       });
-      var buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
+      buttonsIntervalId = setInterval(enablePrevNextGame, waitInterval);
     }
 
     function enablePrevNextGame() {
-      var buttonsSelector = document.getElementById(ids.buttons);
-      if (buttonsSelector) {
+      const buttonsSelector = document.getElementById(ids.buttons);
+      if (buttonsSelector && buttonsIntervalId) {
         clearInterval(buttonsIntervalId);
         addGameEvents();
       }
@@ -56,14 +57,14 @@ function fetchPgn(filename) {
   }
 
   function addGameEvents() {
-    document.getElementById(ids.start).addEventListener('click', function() {
+    document.getElementById(ids.start).addEventListener('click', () => {
       if (pgnStatus.prev) {
         incrementGame(-1);
       }
       pgnStatus.prev = !pgnStatus.prev;
     });
   
-    document.getElementById(ids.end).addEventListener('click', function() {
+    document.getElementById(ids.end).addEventListener('click', () => {
       if (pgnStatus.next) {
         incrementGame(1);
       }
@@ -71,8 +72,8 @@ function fetchPgn(filename) {
     });
   
     function incrementGame(incr) {
-      var item = document.getElementById(ids.games);
-      var newIndex = item.selectedIndex + incr;
+      const item = document.getElementById(ids.games);
+      const newIndex = item.selectedIndex + incr;
       if (newIndex > -1 && newIndex < item.length) {
         showGame(newIndex + 1);
       }
@@ -81,11 +82,11 @@ function fetchPgn(filename) {
 }
 
 function showGame(number) {
-  var gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
-  var gameIntervalId = setInterval(selectGame, waitInterval);
+  const gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
+  const gameIntervalId = setInterval(selectGame, waitInterval);
 
   function selectGame() {
-    var gameSelector = document.getElementById(ids.games);
+    const gameSelector = document.getElementById(ids.games);
     if (gameSelector) {
       clearInterval(gameIntervalId);
       gameSelector.selectedIndex = gameNumber;
@@ -94,39 +95,42 @@ function showGame(number) {
   }
 }
 
-// show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5")
-(function () {
-  var params = parseUrlParams();
-  selectPgn(params.pgn);
-  showGame(params.game);
+function parseUrlParams() {
+  const paramsObj = {};
+  const delim = window.location.hash.indexOf('|') > -1 ? '|' : '%7C';
+  const urlParams = window.location.hash.substr(1).split(delim);
+  urlParams.map(value => value.split('=')).forEach(([key, value]) => {
+    paramsObj[key] = value;
+  });
+  return paramsObj;
+}
 
-  function parseUrlParams() {
-    var paramsObj = {};
-    var delim = window.location.hash.indexOf('|') > -1 ? '|' : '%7C';
-    var urlParams = window.location.hash.substr(1).split(delim);
-    urlParams.forEach(function (value) {
-      var arg = value.split('=');
-      paramsObj[arg[0]] = arg[1];
-    });
-    return paramsObj;
+function selectPgn(filename) {
+  const pgnFiles = document.getElementById(ids.files);
+  const pgnName = filename || pgnFiles.options[0].value;
+
+  fetchPgn(pgnName);
+  if (filename) {
+    changeSelectedByValue(pgnFiles, filename);
   }
 
-  function selectPgn(filename) {
-    var pgnFiles = document.getElementById(ids.files);
-    var pgnName = filename || pgnFiles.options[0].value;
-
-    fetchPgn(pgnName);
-    if (filename) {
-      changeSelectedByValue(pgnFiles, filename);
-    }
-
-    function changeSelectedByValue(selection, value) {
-      for (var i = 0; selection.options[i]; i++) {
-        if (selection.options[i].value === value) {
-          selection.selectedIndex = i;
-          break;
-        }
+  function changeSelectedByValue(selection, value) {
+    for (let i = 0; selection.options[i]; i++) {
+      if (selection.options[i].value === value) {
+        selection.selectedIndex = i;
+        break;
       }
     }
   }
+}
+
+function getPgnName() {
+  return document.getElementById(ids.files);
+}
+
+// show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5")
+(function () {
+  const { pgn, game } = parseUrlParams();
+  selectPgn(pgn);
+  showGame(game);
 })();
