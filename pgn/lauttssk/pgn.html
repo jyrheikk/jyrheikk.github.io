@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<h3>LauttSSK:n pelit</h3>
+<h3>LauttSSK</h3>
 
 <form>
 <select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
@@ -63,8 +63,8 @@
 <div id="pgn-moves"></div>
 
 <p id="shortUrl"></p>
-<p>Pelit voi tallentaa <a href="/pgn/lauttssk/">PGN-muodossa</a>.</p>
-<p><i>Powered by <a href="http://chesstempo.com/pgn-usage.html">Chess Tempo PGN Viewer</a></i></p>
+<p>[ <a href="/pgn/lauttssk/">PGN</a> | <span id="chessBaseUrl"></span> ]</p>
+<p><i>Powered by <a href="https://chesstempo.com/pgn-viewer/">Chess Tempo PGN Viewer</a></i></p>
 
 <script src="/pgn/js/pgnyui.js"></script>
 <script src="/pgn/js/pgnviewer.js"></script>
