@@ -9,18 +9,13 @@ function waitGameChange() {
   const gameSelector = document.getElementById('pgn-problemSelector');
   if (gameSelector) {
     clearInterval(gameIntervalId);
-    gameSelector.addEventListener('change', changeShortUrl);
-    changeShortUrl();
+    gameSelector.addEventListener('change', changeGameUrl);
+    changeGameUrl();
     changeChessBaseUrl();
   }
 
-  function changeShortUrl() {
-    const url = getShortUrl();
-    document.getElementById('shortUrl').innerHTML = `<a href="${url}">${url}</a>`;
-  }
-
-  function getShortUrl() {
-    return window.location.href.split('#')[0] + '#' + getArgs();
+  function changeGameUrl() {
+    window.history.replaceState(window.history.state, '', `#${getArgs()}`);
   }
 
   function getArgs() {
