@@ -100,7 +100,7 @@ Bc4?? 16.Qxc5 Bxe2 17.Rxd8 Raxd8 18.Nxe2 Na4 19.Qc4 Nb6 20.Bxb6 Ne5 21.Qb3 Rc8
 14.Rc1 Bd8 15.O-O O-O 16.Qg3 f6 17.f5 Qa4 18.Rf2 Qxa2 19.b3 Qa3 20.Rff1 a6
 21.h4 Rf7 22.Qf2 Qc5 23.g4 Qc6 24.c4 dxc3 25.Rxc3 Qd7 (25...Bb6) 26.Qg3 Rxc3
 27.Nxc3 Bb6+ 28.Kh2 Bd4 29.Nd5 Kf8 30.g5 fxg5 31.hxg5 Qc6 32.g6 (32.Qh3!) hxg6
-33. Qh3? (33.Qh4) Qc2+ 34.Kh1 Ke8 35.fxg6?? (35.Qh7) Rxf1+ 36.Qxf1 Qf2 37.Qxf2
+33.Qh3? (33.Qh4) Qc2+ 34.Kh1 Ke8 35.fxg6?? (35.Qh7) Rxf1+ 36.Qxf1 Qf2 37.Qxf2
 Bxf2 38.Kg2 Bh4 39.b4 Bd8 40.Kg3 Kd7 41.Kg4 Ke6 42.Ne3 Bf6 43.Nd5 Bd8 44.Ne3
 Kf6 45.Nf5 Kxg6 46.Nxd6 Be7 47.Nxb7 Bxb4 48.Kf3 Kf6 49.Nd8 a5 50.Nc6 Bc3 51.
 Ke2 a4 52.Kd1 a3 53.Kc2 Bb2 54.Kb1 g5 55.Nb4 g4 56.Nc2 Kg5 57.Ne3 Bd4 58.Nf5
@@ -138,3 +138,20 @@ Bh5 15.O-O-O a5 16.Re1 Bf6 17.g4 Bf7 18.g5 d4 19.c4 hxg5 20.Bxg5 Bh5 21.Qe4
 Bxg5+ 22.Nxg5 Qf6 23.Nh7?? Qf4+ (23...Qh6+) 24.Qxf4 Rxf4 25.Ng5 Rxf2 26.Ne6
 Kd7 27.Nc5+ Ke7 28.Nxb7 Rb8 29.Nxa5 Rbxb2 30.Nxc6+ Kd6 31.c5+ Kxc6 32.Ne2
 Rbxe2 33.Rxe2 Bxe2 34.Rg1 Rf1+ 35.Rxf1 Bxf1 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2023.05.06"]
+[Round "1"]
+[White "Siikonen, Timo"]
+[Black "Peitsalo, Olli-Pekka"]
+[Result "1-0"]
+[Section "M"]
+[TimeControl "3600+30"]
+[Mode "ICS"]
+[ECO "B21"]
+
+1.e4 c5 2.f4 d5 3.exd5 Nf6 4.Nc3 e6 5.Bb5+ Bd7 6.dxe6 Bxb5 7.exf7+ Ke7??
+8.Nxb5 a6 9.Qe2+ Kxf7 10.Nc3 Bd6 11.d3 Nc6 12.Nf3 Re8 13.Ne4 Qc7 14.O-O Rad8
+15.Bd2 c4 16.Neg5+? (16.Nfg5+) Kg8 17.Ne6 Qc8 18.Rae1 h6 19.f5 Qb8 20.Bc3 cxd3
+21.cxd3 Ng4 22.g3 Bc5+ 23.d4 Nxd4 24.Nfxd4 Rxd4 25.Bxd4 Bxd4+ 26.Kh1 1-0
