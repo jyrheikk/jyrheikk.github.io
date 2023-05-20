@@ -33,10 +33,10 @@ axb5 10.Nxb5 Bc5 11.d4 exd4 12.e5 dxe5 13.Nxe5 Nxe5 14.Re1 Ng4 15.h3 O-O
 [Black "Lehti, Juhani"]
 [Result "0-1"]
 
-1.Rf3 d5 2.d4 Rf6 3.g3 e6 4.Lg2 c5 5.c3 Rc6 6.O-O Le7 7.Lf4 Db6 8.Dc2 cxd4
-9.cxd4 Rxd4 10.Rxd4 Dxd4 11.Td1 Dc5 12.Ra3 Dxc2 13.Rxc2 O-O 14.Tac1 Ld7 15.e4
-Lc6 16.exd5 Lxd5 17.a3 Tac8 18.Re3 Lb3 19.Lxb7 Lxd1 20.Lxc8 Lf3 21.Tc7 Ld8
-22.Txa7 Lb6 23.Ta6 Lxe3 24.fxe3 Txc8 25.b4 Re4 26.h3 Tc1+ 27.Kh2 Rh1# 0-1
+1.Nf3 d5 2.d4 Nf6 3.g3 e6 4.Bg2 c5 5.c3 Nc6 6.O-O Be7 7.Bf4 Qb6 8.Qc2 cxd4
+9.cxd4 Nxd4 10.Nxd4 Qxd4 11.Rd1 Qc5 12.Na3 Qxc2 13.Nxc2 O-O 14.Rac1 Bd7 15.e4
+Bc6 16.exd5 Bxd5 17.a3 Rac8 18.Ne3 Bb3 19.Bxb7 Bxd1 20.Bxc8 Bf3 21.Rc7 Bd8
+22.Rxa7 Bb6 23.Ra6 Bxe3 24.fxe3 Rxc8 25.b4 Ne4 26.h3 Rc1+ 27.Kh2 Rh1# 0-1
 
 [Event "Juhani Lehti Simul"]
 [Site "Helsinki FIN"]
