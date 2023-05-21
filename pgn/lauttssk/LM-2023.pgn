@@ -243,3 +243,19 @@ Rxb2 23.Bxe7 Re8 24.0-0 Re2 25.Bb4 h5 26.Rfd1 Kh7 27.Rd8 R8e4 28.Kf1 Rc2
 29.R8d4 Re3 30.Re1 Rb3 31.Re2 Rb1+ 32.Kf2 Rc6 33.Rd6 Rc4 34.g3 Rcc1 35.Rxa6
 Rf1+ 36.Ke3 Rb3+ 37.Ke4 Rd1 38.Ra7 Kg6 39.f5+ Kg5 40.Rxf7 Kg4 41.Rxg7+ Kh3
 42.Rh7 Kg4 43.h3+ Kg5 44.Be7# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.05.21"]
+[Round "2"]
+[White "Peitsalo, Olli-Pekka"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Section "M"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Bxd2+ 5.Nxd2 O-O 6.Bg2 d5 7.Ngf3 Nc6 8.O-O a5
+9.a3 b6 10.Qc2 Bd7 11.e4 dxe4 12.Nxe4 Nxe4 13.Qxe4 Re8 14.Rfd1 f5 15.Qc2 Rb8
+16.Rac1 Ne7 17.Ne5 c6 18.d5 Qc8 19.Nxd7 Qxd7 20.dxc6 Qc8 21.Qa4 Rd8 22.Rd7 Rxd7
+23.cxd7 Qc7 24.Rd1 Rd8 25.Qb5 Kf7 26.b4 axb4 27.axb4 Rb8 28.c5 bxc5 29.Qxb8 Qxb8
+30.d8=Q Qxb4 31.Qd2 Qa4 32.Rc1 1-0
