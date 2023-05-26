@@ -1,3 +1,19 @@
+[Event "SPS Firm League"]
+[Site "Helsinki FIN"]
+[Date "1999.03.04"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Myllyniemi, Martti"]
+[Result "1-0"]
+[WhiteTeam "Nokia"]
+[BlackTeam "Taksi"]
+[BlackElo "2094"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d5 4.e5 Ne4 5.Qf3 Bf5 6.g4 Nxc3 7.gxf5 Ne4 8.e6 fxe6
+9.fxg6 hxg6 10.Bd3 Nc6 11.Bxe4 dxe4 12.Qxe4 Qxd4 13.Qxg6+ Kd7 14.Be3 Qf6
+15.O-O-O Kc8 16.Qe8+ 1-0
+
 [Event "Finland Team Ch"]
 [Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
@@ -47,6 +63,22 @@ Nxd1 19.Rxd1 Re7 20.Nf6 Rc8 21.Bxd7 Kc7 22.Bxc8 Kxc8 23.h4 Rg7 24.h5 1-0
 1.d4 Nf6 2.Nc3 d5 3.g3 Bf5 4.Nf3 Nc6 5.Bg2 Nb4 6.O-O Bxc2 7.Qd2 Bg6 8.a3 Nc6
 9.Ne5 e6 10.b4 Nxe5 11.dxe5 Nd7 12.e4 dxe4 13.Qe3 Nxe5 14.Nxe4 Qd3 15.Qf4 Nd7
 16.Rd1?? (16.Bb2 O-O-O 17.Rac1 c6 18.Rfd1) Qxd1+ 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2007.08.29"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Laakso, Mikko"]
+[Result "1-0"]
+[TimeControl "1800"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Nc3 d6 3.e4 Nbd7 4.f4 c5 5.e5 cxd4 6.Qxd4 dxe5 7.fxe5 Ng8 8.Nf3
+(8.e6!?) a6 9.Be3 e6 10.O-O-O Ne7 11.g4 Nc6 12.Qf4 Be7 13.g5 Qa5 14.g6? hxg6
+15.Bd4 Nxd4 16.Rxd4 b5 17.Bg2 Rb8 18.Rf1 f6 19.Qg4 (19.exf6 gxf6 20.Rxd7 {+-})
+Nf8 20.exf6 Bxf6 21.Rd3 e5 22.Qg3 Qc7? (22...b4 23.Nxe5 bxc3 24.Bc6+ Ke7
+25.Nc4 Qxa2 26.Qc7+ {mate in 6}) 23.Re1 b4 24.Nxe5 bxc3 25.Nc6+ 1-0
 
 [Event "Lauttasaari Chess Club 60th Anniversary"]
 [Site "Helsinki FIN"]
