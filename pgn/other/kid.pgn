@@ -412,3 +412,16 @@ Nc5 10.Ne1 a5 11.Bg5 h6 12.Be3 b6 13.h3 Bd7 14.Kh2 Qc8 15.Nd3 Kh7 16.Rc1 Nh5
 Bxh3 44.Qxg5+ Kf8 45.Qh5 Kg7 {=}) Be6 43.Nc3 Rh6 44.Nd5 Bxd5 45.exd5 Qh8
 46.Rxh6 Qxh6 47.Bxf4 exf4 48.Qg2 Bf6 49.Qg4?? Qh2+ 50.Qg2 Bd4+ 51.Kf1 Qh4
 52.Rb8 Ra7 53.Bf5 Re7 54.Be4 f5 55.Qc2 fxe4 56.fxe4 Qh1+ (56...f3) 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.06.01"]
+[Round "-"]
+[White "Svensson, Magnus"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c5 6.dxc5 Qa5+ 7.Bd2 Qxc5 8.Qc2 d5
+9.b3?? Bf5 (9...Ng4!) 10.Qc1 (10.b4) Ne4 11.Be3 d4 12.Bh6 d3 13.Be3 Qb4+
+14.Bd2 Nxd2 15.Nbxd2 dxe2 16.a3 Qd6 17.Kxe2 Nc6 18.Ke1 Rfd8 19.Bf1 Qe6+ 20.Be2
+Bd3 21.Ng1 Nd4 0-1

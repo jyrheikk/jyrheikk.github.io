@@ -7,7 +7,7 @@
   "benoni.pgn": 39,
   "catalan.pgn": 4,
   "grunfeld.pgn": 25,
-  "kid.pgn": 24,
+  "kid.pgn": 25,
   "veresov.pgn": 15,
   "paleface.pgn": 21,
   "trompowsky.pgn": 11,
@@ -32,6 +32,6 @@
   "bird.pgn": 6,
   "benko.pgn": 5,
   "grob.pgn": 6,
-  "misc.pgn": 33,
+  "misc.pgn": 32,
   "fischer-random.pgn": 18
 }
