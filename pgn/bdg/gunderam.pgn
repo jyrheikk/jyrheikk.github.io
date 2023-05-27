@@ -353,6 +353,22 @@ Nf5 23.Rxb7 {no more moves recorded} 0-1
 Qg7 21.Rf1 Nd7 22.Rf7 Qe5 23.Qh3 Qh2+? (23...Nf8 24.Rxb7) 24.Qxh2 Bxh2+
 25.Kxh2 Ne5 26.Rxb7 Nxg6 27.Nxd4 {no more moves recorded} 1-0
 
+[Event "Lauttasaari Sauna Tournament"]
+[Site "Helsinki FIN"]
+[Date "2018.06.14"]
+[Round "4"]
+[White "Laakso, Harri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[WhiteElo "2159"]
+[BlackElo "2045"]
+[TimeControl "300"]
+
+1.e4 d5 2.d4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bg5 e6 7.Bd3 Bxd3 8.Qxd3
+Be7 9.O-O-O c6 10.Ne5 Nd5 11.Bd2 Bg5 12.Ne4 Bxd2+ 13.Rxd2 Nd7?? 14.Qg3?
+(14.Nd6+ {+-}) O-O? (14...Nxe5) 15.c4 (15.Nxd7 Qxd7 16.c4) N5f6 16.Ng5? h6
+17.Ngf3 (17.Nexf7) Ne4 18.Qf4 Nxd2 19.Kxd2 Nxe5 20.Nxe5 c5 0-1
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2022.07.18"]
@@ -378,7 +394,7 @@ Qxd6 (15...cxd6 16.Bxh6! Ne4 17.Bg5) 16.Bf4+ Qe7 17.Rxe7+ Kxe7 18.Nd5+ Kd7
 [Section "I Division:1"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Akaan Shakkikerho"]
+[BlackTeam "Akaan Shakki"]
 [TimeControl "40/6600:1800+30"]
 
 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O c6 8.Ne5 Bg6

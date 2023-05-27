@@ -76,6 +76,24 @@ Qf3 40.Rf2 Qe3 41.Kh1 d3 42.Rxe5 fxe5 43.Rf8 Qe2 44.Qxe2 dxe2 0-1
 (15.e5) Qc8 16.Rxd7 Nxd7 17.Rd1 Nf8 18.Qxg7 Rh7 19.Qg8 Bd6 20.Rxd6 Ke7
 21.Rxd7+ (21.Nd5+ Kxd6 22.Bf4+ {mates}) Nxd7 22.Qxh7 Qh8 23.Nd5 Ke6 24.Qf5+ 1-0
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2004.10.19"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Joutsivuo, Timo"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 Bf5 6.fxe4 Bg4 7.Nf3 e6 8.O-O Bb4
+9.Qd3 Bh5 10.Bg5 h6 11.Bxf6 gxf6 12.Ne2 Bd6 13.h3 Nd7 14.g4 Bg6 15.Nh4 Bh7
+16.Rae1 Qe7 17.Nc3 O-O-O 18.Ng2 h5 19.Qf3 hxg4 20.hxg4 e5 21.d5 Bc5+ 22.Ne3
+Nb6 23.Bb3 f5! 24.exf5 Qh4 25.Kg2 Bxe3 26.Rxe3 Bg8? 27.Qg3 Qxg3+ 28.Kxg3 f6
+29.dxc6 Bxb3 30.cxb7+ Kxb7 31.axb3 Rd2 32.Re2 Rd4 33.Ne4 Nd5 34.c3 Rd3+ 35.Rf3
+Nf4 36.Nc5+ Kc6 37.Nxd3 Nxe2+ 38.Kg2 a5 39.Re3 Nf4+ 40.Nxf4 exf4 41.Re6+ Kd5
+42.Rxf6 Rb8 43.Kf3 Rxb3 44.Ra6 Rxb2 45.Rxa5+ Kd6 46.Kxf4 Rb3 47.g5 Rxc3 48.g6
+Rc8 49.f6 Ke6 50.Kg5 Rh8 51.g7 Rg8 52.Kg6 Rd8 53.f7 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2004.12.01"]
@@ -150,6 +168,19 @@ g5 16.Qh6 1-0
 Nh5 17.Bxh6 g6 18.e5 Rfd8 19.Ng5 Nxe5 20.Qxe5 Rd7 21.Bxg6 f6 22.Qxe6+ Rf7
 23.Qxf7+ Kh8 24.Qh7# 1-0
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2009.10.27"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Ristaniemi, Marko"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 Bf5 6.g4 Bg6 7.g5 Nd5 8.Nxe4 e6
+9.Ne2 b5 10.Bb3 Bd6 11.c3 Be7 12.h4 Bxe4 13.fxe4 Nb6 14.Nf4 a5 15.Bxe6! fxe6
+16.Nxe6 Qd6 17.Nxg7+ Kd8 18.Qg4 N8d7 19.Ne6+ Kc8 20.Bf4 Ne5 21.Bxe5 1-0
+
 [Event "Kaivopuisto Tournament"]
 [Site "Helsinki FIN"]
 [Date "2010.07.11"]
@@ -167,6 +198,22 @@ Nh5 17.Bxh6 g6 18.e5 Rfd8 19.Ng5 Nxe5 20.Qxe5 Rd7 21.Bxg6 f6 22.Qxe6+ Rf7
 16.f4 O-O 17.h3 Rac8 18.g4 Be4 19.Ng3 f5 20.Nxe4 fxe4 21.f5 Nc4 22.Qe2 h6
 23.Bh4 Bg3 24.Bxc4 Bxh4 25.Bb5 exf5 26.gxf5 Qg3+ 27.Qg2 Qe3+ 28.Kh1 Rc7 29.Qg4
 Qg5 30.Rad1 {=/+} {no more moves recorded} 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2011.06.15"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Laaksovuori, Tommi"]
+[Result "1-0"]
+[TimeControl "480+2"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 Bf5 6.g4 Bg6 7.g5 Nd5 8.Nxe4 Nd7
+9.Qe2 e6 10.h4 Bh5 11.Bxd5 cxd5 12.Ng3 g6 13.Nh3 Qb6 14.c3 O-O-O 15.O-O Bd6
+16.Nxh5 gxh5 17.f4 e5 18.fxe5 Nxe5 19.Qxh5 h6 20.gxh6 Rhg8+? (20...Kb8) 21.Kh1
+Qb5 22.Bg5 Qd3 23.Nf2 Qg3 24.dxe5 Bxe5 25.Qg4+ Qxg4 26.Nxg4 Bc7 27.Bxd8 Kxd8
+28.Nf6 Rg3 29.h7 Rh3+ 30.Kg2 Rh2+ 31.Kg1 Rxh4 32.Rae1 Bb6+ 33.Kg2 Bc7 34.Re8#
+1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
