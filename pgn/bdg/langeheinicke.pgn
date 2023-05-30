@@ -1495,3 +1495,40 @@ Qxg4 19.Bf3 Qf5? (19...Qh4+) 20.Rf1 Qa5+ 21.Bd2 Qb6 22.Bc3? (22.Bxc6) Nxd4
 15.Bf2 Nd5 16.Rad1 N7f6 17.Ne5 Nxc3 18.Qxc3 g6 19.Qg3 Bg7? (19...Nh5) 20.Nxf7
 Kxf7 21.Qxg6+ Kg8 22.Bh4 Qd6? 23.Bxf6 Qxf6 24.Qh7+ Kf8 25.Bd3 {no more moves
 recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.05.30"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 c6 6.Bd3 Nbd7 7.Qe2 Qa5 8.Bd2 Qb6
+9.f4 Qxd4 10.Nf3 Qb6 11.Na4 Qc7 12.O-O g6 13.f5 gxf5 14.Rae1 Nb6 15.Bc3 Nbd5
+16.Be5 Qa5 17.c4 Nf4? 18.Bxf4 Qxa4 19.Be5 (19.Qe5) Bg7 20.Bd6 Be6 21.Bxe7?
+(21.Nd4) Kxe7 22.Bxf5 Rhe8 23.Ng5 Kd7? 24.Rd1+ Kc7 25.Qe5+? Kb6 26.Nxe6 Rxe6?
+27.c5+ Ka6 28.Bxe6 fxe6 29.Rd4? (29.Rd3) Qb5 30.Qg5 (30.Rf3) Ne8 31.Rg4 b6
+32.Rff4 Qxc5+ 33.Qxc5 bxc5 34.b3 Bd4+ 35.Kf1 Nd6 36.Rh4 h6 37.Rxh6 Be3?
+(37...Re8) 38.Ra4+ Kb5 39.Rxe6 Rf8+ 40.Ke2 Nf5 41.Rxe3 Nxe3 42.Kxe3 a5 43.h4
+Re8+ 44.Kf3 Rd8 45.h5 Rd1 46.Rh4 Rd7 47.h6 Rh7 48.g4 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.05.30"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 c6 6.Bd3 Nbd7 7.f4 Nb6 8.Nf3 Bg4
+9.h3 Bxf3 10.Qxf3 e6 11.f5 Bb4 12.fxe6 fxe6 13.a3 Bxc3+ 14.bxc3 O-O 15.O-O Qd5
+16.Qg3 Kh8 17.Rf4 Nc4 18.Rh4 Nxe3 19.Qxe3 Rae8 20.Rf1 Kg8 21.c4 Qa5 22.c5 Qc7
+23.g4 (23.Qe5) g6 24.Rxf6? (24.g5) Rxf6 25.g5 Rf7 26.Bc4 Qd7 27.Re4 Rfe7 28.h4
+Kh8 29.h5 e5? 30.dxe5? (30.h6) Qd1+ 31.Kg2 Qxh5? (31...gxh5) 32.Qf4? (32.Be2)
+Rg7? 33.e6? Qd1 34.e7 Qxc2+ 35.Kg3 Qc3+ 36.Kh4 Rgg8? (36...Qc2) 37.Qf6+ Qxf6
+38.gxf6 g5+ 39.Kg3 Rxe7 40.fxe7 Re8 41.Bf7 1-0
