@@ -292,3 +292,37 @@ dxe5 10.Nxe5 Nd5 11.Nxd5 cxd5 12.Bd3 Nc6 13.c3 f5 14.g4 Nxe5 15.Bxe5 Bxe5
 23.Bf1 a5 24.Rd1 Qc5 25.Rd4 Bc6 26.g5 h5 27.Qd3 Rb8 28.b3 Rgd8 29.Bg2 Bb5
 30.c4?? dxc4 31.Rxd8 cxd3 32.Rxb8 d2 33.Bf3 Bc6 34.Bd1 Qe3 35.Rd8 Qe1+ 36.Rf1
 Qg3# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.07"]
+[Round "3"]
+[White "Paasonen, Pasi"]
+[Black "Mäntsälä, Juha"]
+[Result "0-1"]
+[Section "A"]
+[ECO "D02"]
+
+1.d4 c6 2.Nf3 d5 3.Bf4 Nf6 4.e3 Qb6 5.b3 Nbd7 6.Nbd2 h6 7.Bd3 c5 8.c4 e6 9.O-O
+g5 10.Bg3 g4 11.Ne5 cxd4 12.Nxg4 dxe3 13.Nxe3 Nc5 14.Bc2 d4 15.Ng4 Nxg4
+16.Qxg4 e5 17.Qe2 f6 18.Kh1 Rg8 19.Ne4 Bg4 20.f3 Bh5 21.Nxc5 Bxc5 22.Qe4 O-O-O
+23.Qf5+ Kb8 24.Qxh5 d3 25.Bd1 Bd4 26.Rb1 Be3 27.Qh4 Rd4 28.f4 exf4 29.Bxf4+
+Ka8 30.Qxh6 Qc6 31.Bf3 Bxf4 32.Qh7 Qc8 33.Bxb7+ Qxb7 34.Qxg8+ Bb8 35.Rf5 Qc7
+36.Qh8 Rd8 37.Qh5 d2 38.Rd5 Rxd5 39.cxd5 Qc1+ 40.Qd1 Qc7 41.g3 Qc3 42.Qf1 Bc7
+43.Qg2 Bd6 44.Rd1 f5 45.Qxd2 Qf3+ 46.Kg1 Bc5+ 47.Qf2 Qxd1+ 48.Kg2 Bxf2 49.Kxf2
+Qxd5 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.12"]
+[Round "3"]
+[White "Suihko, Ismo"]
+[Black "Clarke, Daniel"]
+[Result "0-1"]
+[Section "M"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.d3 dxe4 6.Qe2 Qxd3 7.Qxd3 exd3 8.Bxd3
+Bd6 9.h3 O-O 10.Nge2 Nc6 11.O-O Nb4 12.Bb1 b6 13.a3 Nbd5 14.Nxd5 Nxd5 15.Be4
+c6 16.Rd1 Bb7 17.Bxd5 cxd5 18.Nc3 Rad8 19.Nb5 Bb8 20.Nd4 Rfe8 21.Be3 Re4
+22.Ne2 Be5 23.Nd4 Bf4 24.Bxf4 Rxf4 25.Rac1 Rd7 26.g3 Rf6 27.Re1 g5 28.Re5 Rg6
+29.Nf5 Re6 30.Rce1 d4 31.Rxe6 fxe6 32.Rxe6 d3 33.Kf1 d2 34.Ne3 Ba6+ 0-1
