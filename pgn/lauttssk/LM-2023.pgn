@@ -62,8 +62,8 @@ Bd6 42.Nh4+ Kg4 43.Rc6 a4 44.Nxg6 Rb3+ 1-0
 [FEN "b1kr3r/2pp1ppp/p7/1p1Pp3/3bP1Q1/qP6/P2P1PPP/1BN1RRK1 w - - 1 12"]
 [TimeControl "60+30"]
 
-12.Ne2 Bb6 13.Qxg7 Qd6 14.Qg3 (14.Ng3) 14...h5 15.Qh3 h4 16.Kh1 Kb8 17.f4 f6
-18.f5 (18.a4) c6 19.dxc6 Qxd2 20.Qd3 (20.cxd7 Bf2) dxc6 21.Qxd2 Rxd2 22.Ng1 a5
+12.Ne2 Bb6 13.Qxg7 Qd6 14.Qg3 (14.Ng3) h5 15.Qh3 h4 16.Kh1 Kb8 17.f4 f6 18.f5
+(18.a4) c6 19.dxc6 Qxd2 20.Qd3 (20.cxd7 Bf2) dxc6 21.Qxd2 Rxd2 22.Ng1 a5
 23.Nf3 Rd7 24.h3 Bb7 25.Rc1 Kc7 26.Nh2 Be3 27.Rce1 Bg5 28.Ng4 b4 29.Rd1 Rhd8
 30.Rxd7+ Rxd7 31.Nf2 Rd2 32.Ng4 Ba6 33.Re1 Bd3 34.Bxd3 Rxd3 35.Re2 Rd1+ 36.Kh2
 Bf4+ 37.g3 Bxg3+ 38.Kg2 Rd6 39.Kf3 Bf4 40.Kf2 Kb6 41.Ne3 Kb5 42.Nc4 Rd3 43.Kg2
@@ -363,3 +363,17 @@ Bd6 9.h3 O-O 10.Nge2 Nc6 11.O-O Nb4 12.Bb1 b6 13.a3 Nbd5 14.Nxd5 Nxd5 15.Be4
 c6 16.Rd1 Bb7 17.Bxd5 cxd5 18.Nc3 Rad8 19.Nb5 Bb8 20.Nd4 Rfe8 21.Be3 Re4
 22.Ne2 Be5 23.Nd4 Bf4 24.Bxf4 Rxf4 25.Rac1 Rd7 26.g3 Rf6 27.Re1 g5 28.Re5 Rg6
 29.Nf5 Re6 30.Rce1 d4 31.Rxe6 fxe6 32.Rxe6 d3 33.Kf1 d2 34.Ne3 Ba6+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.17"]
+[Round "3"]
+[White "Ilkka, Oskari"]
+[Black "Jalas, Aaro"]
+[Result "1-0"]
+[Section "M"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Bg5 O-O 7.Qd2 Nc6 8.O-O-O
+Bd7 9.h4 Nxd4 10.Qxd4 Bc6 11.h5 Nd7 12.Bxe7 Qxe7 13.h6 Qe5 14.hxg7 Qxg7 15.Qe3
+Rfe8 16.Rh3 Kh8 17.Bd3 Nc5 18.Rdh1 Nxd3+ 19.Qxd3 Rad8 20.e5 Qg6 21.Rxh7+ Kg8
+22.Rh8+ Kg7 23.R1h7+ 1-0
