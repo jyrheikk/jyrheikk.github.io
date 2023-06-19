@@ -300,7 +300,7 @@ Qg3# 0-1
 [White "Crespiera, David"]
 [Black "Kauppinen, Janne"]
 [Result "0-1"]
-[Section "M"]
+[Section "A"]
 
 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d3 Nf6 5.h3 e5 6.Nf3 Nc6 7.Be2 Be7 8.O-O O-O
 9.b3 a6 10.Bb2 Bd6 11.Qd2 Re8 12.Rae1 b5 13.Ne4 Nxe4 14.dxe4 Bb7 15.Bd3 h6
@@ -335,7 +335,7 @@ Qxd5 0-1
 [White "Valli, Kari"]
 [Black "Kauppinen, Janne"]
 [Result "1-0"]
-[Section "M"]
+[Section "A"]
 
 1.d4 Nf6 2.Nc3 d5 3.Bf4 a6 4.e3 Bf5 5.f3 h6 6.g4 Bh7 7.h4 e6 8.Bd3 Bxd3 9.Qxd3
 Bd6 10.Nge2 Bxf4 11.Nxf4 Nc6 12.Qe2 Qd7 13.Na4 O-O-O 14.Nc5 Qd6 15.O-O-O Nd7
@@ -377,3 +377,17 @@ c6 16.Rd1 Bb7 17.Bxd5 cxd5 18.Nc3 Rad8 19.Nb5 Bb8 20.Nd4 Rfe8 21.Be3 Re4
 Bd7 9.h4 Nxd4 10.Qxd4 Bc6 11.h5 Nd7 12.Bxe7 Qxe7 13.h6 Qe5 14.hxg7 Qxg7 15.Qe3
 Rfe8 16.Rh3 Kh8 17.Bd3 Nc5 18.Rdh1 Nxd3+ 19.Qxd3 Rad8 20.e5 Qg6 21.Rxh7+ Kg8
 22.Rh8+ Kg7 23.R1h7+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.19"]
+[Round "3"]
+[White "Sotala, Jonne"]
+[Black "Horttanainen, Emil"]
+[Result "1-0"]
+[Section "A"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1 Nxd5 8.cxd4 Qxg5
+9.Bxb5+ Kd8 10.O-O exd4 11.d3 Nf4 12.Bc6 Rb8 13.Re1 Bd6 14.Nd2 Bd7 15.Bf3 Qf5
+16.Ne4 Bb4 17.Bd2 Nxd3 18.Bxb4 Nxb4 19.Qxd4 Nc2 20.Qxg7 Re8 21.Nf6 Rxe1+
+22.Rxe1 Nxe1 23.Qf8+ 1-0
