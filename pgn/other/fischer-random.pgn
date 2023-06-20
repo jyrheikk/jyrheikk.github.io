@@ -455,8 +455,9 @@ Nbd7 9.Qc4 {9...O-O} *
 [White "Suihko, Ismo"]
 [Black "Heikkinen, Jyrki"]
 [Result "*"]
+[Section "M"]
 [Variant "Chess960"]
-[FEN "bbnnrqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRQKR w Kk - 0 1"]
+[FEN "bbnnrqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRQKR w EHeh - 0 1"]
 [TimeControl "3600+30"]
 
 1.e4 e5 2.b3 a6 3.c4 Ba7 4.Qe2 Nc6 5.Bc3 N8e7 6.Ne3 Nd4 7.Bxd4 Bxd4 (7...exd4)
@@ -469,6 +470,7 @@ Nbd7 9.Qc4 {9...O-O} *
 [White "Suihko, Ismo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "M"]
 [Variant "Chess960"]
 [FEN "b1kr3r/2pp1ppp/p7/1p1Pp3/3bP1Q1/qP6/P2P1PPP/1BN1RRK1 w - - 1 12"]
 [TimeControl "3600+30"]
@@ -480,3 +482,37 @@ Nbd7 9.Qc4 {9...O-O} *
 Bf4+ 37.g3 Bxg3+ 38.Kg2 Rd6 39.Kf3 Bf4 40.Kf2 Kb6 41.Ne3 Kb5 42.Nc4 Rd3 43.Kg2
 Rg3+ 44.Kf2 Rxh3 45.Nd6+ Kb6 46.Nc4+ Ka6 47.Ne3 Bxe3+ 48.Rxe3 Rxe3 49.Kxe3 Kb5
 50.Kf3 Kc5 51.Kg4 Kd4 52.Kxh4 Kxe4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.19"]
+[Round "3"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Section "M"]
+[Variant "Chess960"]
+[FEN "rkbbqnnr/pppppppp/8/8/8/8/PPPPPPPP/RKBBQNNR w AHah - 0 1"]
+[TimeControl "3000+30"]
+
+1.e4 d6 2.a4 Bd7 3.b3 e5 4.Bb2 Ne6 5.Nf3 Bf6 6.Ne3 g6 7.g3 Ne7 8.Be2 Bc6 9.d3
+Bg7 10.h4 h5 11.Ng5 Nd4 12.f3 f6 13.Nh3 Qd7 14.Nc4 b6 15.Bd1 d5 16.Ne3 Ne6
+17.a5 d4 18.axb6 dxe3 19.bxa7+ Rxa7 20.Rxa7 Kxa7 21.Qxe3+ Kb7 22.c3 Bh6 23.f4
+Rd8 24.Be2 Kb8 {25.O-O} *
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.06.19"]
+[Round "3"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "M"]
+[Variant "Chess960"]
+[FEN "1k1r4/2pqn3/2b1nppb/4p2p/4PP1P/1PPPQ1PN/1B2B3/5RK1 b - - 3 25"]
+[TimeControl "3000+30"]
+
+25...exf4 26.Nxf4 Nxf4 27.gxf4 g5 (27...f5) 28.hxg5 fxg5 29.f5 Ng8 (29...Qd6)
+30.Ra1 Bb7? (30...g4) 31.Ba3? (31.Qa7+ Kc8 32.d4 Qc6 33.d5 Qd6 (33...Qb6+?
+{+/-}) {=}) g4 32.Qf2 Qg7 33.Qc5 Bd2 34.Bb4 Qg5 35.Qa7+ Kc8 36.Bc5 Qh4 37.Rd1
+Bf4 38.Bf2 g3 39.Be3 Bxe3+ 40.Qxe3 Qh2+ 0-1
