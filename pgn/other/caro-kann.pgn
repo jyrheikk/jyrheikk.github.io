@@ -276,3 +276,16 @@ h3+ 0-1
 fxg6 15.Qg3 Nb6 16.h5 Rf5 17.Nxh7 Rxh5 18.Nf6+ Kf7 19.Nxh5 gxh5 20.Rxh5 Qg8
 21.Qh4 Bd7 22.Kd2 Qf8 23.Rh1 Qxa3 24.Rh7 Rg8 25.Qf6+ Ke8 26.Rxg7 Rxg7 27.Qxg7
 (27.Rh8+) 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.06.21"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 c6 4.e5 Nfd7 5.f4 Nb6 6.Nf3 Bf5 7.Nh4 Qd7? 8.Nxf5 Qxf5
+9.Bd3 Qd7 10.O-O e6 11.f5 c5? 12.fxe6 Qxe6 13.Bf5 Qc6 14.Qf3 f6 15.exf6 gxf6
+16.Re1+ Kd8 17.Re6 Qc7 18.Nxd5 Nxd5 19.Qxd5+ Nd7 20.Bf4 Qa5 21.Re7 1-0
