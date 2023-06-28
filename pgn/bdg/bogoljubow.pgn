@@ -480,3 +480,17 @@ Ke8 9.Qxg4 Nf6 10.Qf3 (10.Qe6) Qc8 11.O-O h6 12.Nge4 Rf8 13.Qg3 g5 14.Be3 Nc6
 40.Nd2 e3 41.Nf1 Kd6 42.Nxe3 g3? 43.Nf5+ Kc5 44.Kd3 Bf2 45.a3 a5 46.Ne7 Kd6
 47.Nc6 a4 48.Nd4 Kc5 49.Nb5 Kb6 50.Kc3 Be1+ 51.Kd3 c6 52.d6?? (52.dxc6 Kxc6
 53.Nc3) cxb5 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.06.28"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Horttanainen, Emil"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 g6 6.Bf4 Bg7 7.Qd2 O-O 8.h4 h5
+9.O-O-O c6 10.Bh6 Bg4 11.Bc4 Nbd7 12.Qg5 e6 13.Bxg7 Kxg7 14.Qf4 Nd5 15.Bxd5
+cxd5 16.Rdf1 Bxf3 17.gxf3 Nb6 18.Rfg1 Qf6 19.Qe3 Nc4 20.Qf2 Qf4+ 21.Kb1 Nd2+
+22.Ka1 Ne4 23.Qe2 Ng3?? (23...Nxc3 24.bxc3 Rfc8 25.Qd3 Rc7 {-+}) 24.Qh2 1-0
