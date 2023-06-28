@@ -83,7 +83,7 @@ Kxf8 29.fxe3 Qxe3+ 30.Kh1 g6 31.Qb4+ Kg7 (31...Bd6 {-+}) 32.Bd3 (32.Re1) Rxf1+
 [Event "Casual Game"]
 [Site "Tampere FIN"]
 [Date "1988.??.??"]
-[Round "?"]
+[Round "-"]
 [White "Psion Chess"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -97,7 +97,7 @@ Nf6 9.Re1+ Be6 10.Qe2 Be7 11.dxc5 Bxc5 12.Ng5 O-O 13.Nxe6 fxe6 14.Qxe6+ Kh8
 [Event "Casual Game"]
 [Site "Espoo FIN"]
 [Date "1990.??.??"]
-[Round "?"]
+[Round "-"]
 [White "Heikkinen, Jyrki"]
 [Black "Kuru, Lauri"]
 [Result "1-0"]
@@ -899,3 +899,20 @@ Rd2+ 38.Kf3 Qe2# 0-1
 14.Nexd4 cxd4 15.Nxd4 Bc5 16.Be3 Qxb2 17.Rf2 Qa3 18.Bc1 Qh3 19.Rb1 O-O 20.Rb3
 Qh4 21.Ba3 Bxa3 22.Rxa3 Rfc8 23.Nf3?? (23.g5) Qxg4+ 24.Rg2 Qxf4 25.Rc2 Rxc2
 26.Qxc2 Rc8 27.Qf2 Qc1+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.06.28"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Dahal, Sameep"]
+[Result "1/2-1/2"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Be2 O-O
+9.O-O a6 10.Kh1 cxd4 11.Nxd4 Nc5 12.Qe1 Bd7 13.Rd1 Nb4 14.a3 Nc6 15.Qf2 Nxd4
+16.Bxd4 Na4 17.Nxa4 Bxa4 18.Bd3 Rc8 19.f5 f6 20.Qg3 (20.exf6 Bxf6 21.fxe6)
+exf5 (20...Bxc2) 21.Bxf5 Bd7 22.Bxd7 Qxd7 23.exf6 Bd6 24.Qxg7+ (24.f7+! Rxf7
+25.Rxf7 Qxf7 26.Qxd6) Qxg7 25.fxg7 Rxf1+ 26.Rxf1 Rxc2 27.Re1 Kf7 28.Kg1
+(28.g3) Bc5 29.Bxc5 Rxc5 30.Re7+ Kg8 31.Rxb7 Rc2 32.h3 d4 33.Rd7 Rxb2 34.Rxd4
+{no more moves recorded} 1/2-1/2
