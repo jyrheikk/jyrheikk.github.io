@@ -428,6 +428,26 @@ Bf4 38.Bf2 g3 39.Be3 Bxe3+ 40.Qxe3 Qh2+ 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2023.07.03"]
+[Round "3"]
+[White "Nguyen, Huong"]
+[Black "Crespiera, David"]
+[Result "0-1"]
+[Section "A"]
+[Termination "time forfeit"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 a6 4.Bc4 Bc5 5.d3 h6 6.h3 b5 7.Bb3 d6 8.a3 Nf6 9.Nd5
+Be6 10.c4 Nd4 11.Nxd4 Bxd4 12.cxb5 axb5 13.Qc2 Bxd5 14.exd5 O-O 15.O-O Re8
+16.Be3 Bxe3 17.fxe3 Nh5 18.Rac1 Qg5 19.Rce1 Re7 20.Rf3 Rae8 (20...Rf8 21.Qf2
+f5 22.Bd1 Ref7) 21.Qf2 Rf8 22.Bd1 f5 23.Kh2 f4 24.h4 Qg3+ 25.Qxg3 Nxg3 26.exf4
+Nf5 27.h5 Nh4 28.Rf2 Ref7 29.g3 Nf5 30.fxe5 Nd4 31.Rxf7 Rxf7 32.e6 Re7 33.Re4
+c5 34.dxc6 Nxc6 35.Bg4 Ne5 36.Be2 Rxe6 37.Kh3 Rf6 38.d4 Nc4 39.Re8+ Kf7 40.Rb8
+Rf2 41.Bxc4+ bxc4 42.Rb7+ Kf6 43.a4 Rd2 44.a5 Rxd4 45.a6 Rd5 46.b4 cxb3
+47.Rxb3 Rxh5+ 48.Kg2 Ra5 49.Rb6 Ke5 50.Kf2 g5 51.Kf3 h5 52.Kg2 Ra2+ 53.Kf1 h4
+54.gxh4 gxh4 55.Rb5+ d5 56.Rb4 d4 57.Rb5+ Ke4 58.Rb6 Ra1+ 59.Ke2 d3+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2023.07.06"]
 [Round "3"]
 [White "Keto, Antti"]
@@ -436,7 +456,7 @@ Bf4 38.Bf2 g3 39.Be3 Bxe3+ 40.Qxe3 Qh2+ 0-1
 [Section "M"]
 [TimeControl "4500+30"]
 
-1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.f5 gxf5 6.Bc4 Bxc3 7.dxc3 fxe4 8.Ng5 e6
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.f5 gxf5 6.Bc4 Bxc3 7.dxc3 fxe4? 8.Ng5 e6?
 9.Nxe4? (9.Nxf7!) Qh4+ 10.Nf2 Qxc4 11.Qxd6 Qd5 12.Qg3 Nc6 13.Qg7 Qe5+ 14.Qxe5
 Nxe5 15.b3 Ne7 16.Bb2 Rg8 17.g3 Bd7 18.O-O-O O-O-O 19.Ne4 Bc6 20.Rhe1 Rxd1+
 21.Kxd1 Bxe4 22.Rxe4 Ng4 23.Re2 Nf5 24.c4 Rd8+ 25.Kc1 Nfe3 26.Re1 Ng2 27.Rf1
