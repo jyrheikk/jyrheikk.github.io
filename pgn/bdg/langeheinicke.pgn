@@ -1532,3 +1532,17 @@ Re8+ 44.Kf3 Rd8 45.h5 Rd1 46.Rh4 Rd7 47.h6 Rh7 48.g4 1-0
 Kh8 29.h5 e5? 30.dxe5? (30.h6) Qd1+ 31.Kg2 Qxh5? (31...gxh5) 32.Qf4? (32.Be2)
 Rg7? 33.e6? Qd1 34.e7 Qxc2+ 35.Kg3 Qc3+ 36.Kh4 Rgg8? (36...Qc2) 37.Qf6+ Qxf6
 38.gxf6 g5+ 39.Kg3 Rxe7 40.fxe7 Re8 41.Bf7 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.07.12"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Ojala, Hannu"]
+[Result "0-1"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e3 5.Bxe3 Bf5 6.g4 Bg6 7.Bc4 e6 8.h4 h5 9.g5
+Nd5 10.Nxd5 exd5 11.Bd3 Bxd3 12.Qxd3 Bd6 13.Ne2 g6 14.O-O-O Qd7 15.Rde1 O-O
+16.Nf4 c6 17.Nxg6! Re8 18.Ne5 Bxe5 19.dxe5 Rxe5 20.Bd4 Rxe1+ 21.Rxe1 c5
+22.Bxc5 (22.Bf6!) Nc6 23.f4 Re8 24.Rd1 {no more moves recorded} 0-1
