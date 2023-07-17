@@ -666,23 +666,6 @@ Rxc6 16.Nxc6 Bd6 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
-[Date "2020.02.19"]
-[Round "?"]
-[White "Heikkinen, Jyrki"]
-[Black "Babamusta, Elton"]
-[Result "1-0"]
-[WhiteElo "2056"]
-[BlackElo "2052"]
-[TimeControl "180+2"]
-[Termination "time forfeit"]
-
-1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 Bf5 5.g4 Bc8 6.g5 Nd5 7.fxe4 Nb6 8.Be3 Nc6
-9.Nf3 e6 10.Qd2 Be7 11.h4 Na5 12.b3 O-O 13.h5 f5 14.g6 fxe4 (14...h6 15.Bxh6)
-15.gxh7+ Kh8 16.Ne5 Bh4+ 17.Kd1 Kxh7 18.Ng6 (18.h6!) Rxf1+ 19.Rxf1 Nd5 20.Nxd5
-(20.Rf8) Qxd5 21.Nxh4 Qxh5+ 22.Kc1 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
 [Date "2021.03.24"]
 [Round "-"]
 [White "Heikkinen, Jyrki"]
@@ -694,22 +677,6 @@ Rxc6 16.Nxc6 Bd6 1-0
 Nd7 9.Nf3 Rb8 10.Qc6 Rb6 11.Qa4 Bd6 12.Bb5 a6 13.Bc6 Ke7 14.O-O Nb8 15.d5 Nxc6
 16.dxc6 Bc5+ 17.Nd4 Bxd4+ 18.cxd4 Qd5 19.Qa3+ Kd8 20.Qg3 Bg6 21.c4 Qxc4 22.d5
 Re8?? 23.Be3 Rb5 24.Rac1 Qe4 25.d6 cxd6?? 26.Qxd6+ 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2022.01.05"]
-[Round "5"]
-[White "Heikkinen, Jyrki"]
-[Black "Lindholm, Arto"]
-[Result "1-0"]
-[TimeControl "180+2"]
-
-1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6 6.g5 Nh5 7.fxe4 e5 8.Be2 Nf4?
-(8...exd4) 9.Bxf4 exf4 10.Nf3 Bb4 11.Bd3 Nc6 12.a3 Be7 13.h4 h5 14.Bb5 a6
-15.Bc4 O-O 16.O-O Qd7 17.Kh2 Rad8 18.d5 Na5 19.Bd3 Qg4?? 20.Rg1 Qd7 21.b4 c6
-22.bxa5 Bc5 23.Rg2 Qc7 24.Qe2 Rfe8 25.e5 Qxa5 26.Bxg6? (26.Ne4) fxg6?
-(26...Qxc3) 27.Ne4 Rxd5 28.Nf6+! gxf6 29.gxf6 Bd4 30.Rxg6+ (30.Qe4!) Kh8
-31.Ng5 Qc7 32.Qxh5+ Qh7 33.Qxh7# 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -727,20 +694,16 @@ Nd7 9.Bb5 Rb8 10.Bxd7+ Kxd7 11.Qf3 Bd6 12.Ne2 Qh4+ 13.Kd1 Qe4 14.Qxe4 Bxe4
 22.Kc2 Rc6 23.Ng3 Rcb6 24.Kd3 Rb2 25.Rag1 Rxg2 26.Rxg2 {no more moves
 recorded} 1-0
 
-[Event "Casual Park Game"]
+[Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
-[Date "2022.05.29"]
-[Round "-"]
+[Date "2023.07.17"]
+[Round "?"]
 [White "Heikkinen, Jyrki"]
-[Black "Anonymous"]
+[Black "Oiling, Alexander"]
 [Result "1-0"]
+[TimeControl "480+4"]
 
-1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6 6.g5 Nfd7 7.fxe4 e6 8.Bg2 c6
-9.Nge2 Be7 10.h4 f6 11.h5 Bf7 12.g6? (12.h6) hxg6 13.Nf4? (13.hxg6) g5 14.Ng6
-Bxg6 15.hxg6 Rxh1+ 16.Bxh1 Nf8 17.Bf3 Bd6 18.Ne2 Qc7?! (18...g4 19.Bxg4 f5
-20.Bf3 fxe4 21.Bg2) 19.e5 fxe5 20.Bxg5 Nbd7 21.Qd3 exd4 22.O-O-O Ne5 23.Qe4
-Nxf3? 24.Qxf3 c5 25.Rf1 Kd7 26.Qe4 Re8 27.Rf7+ Be7 28.Bxe7 Rxe7 29.Rxf8 Qc6
-30.Qxc6+ Kxc6 31.Rf7 Kd6 32.Nf4 e5 33.Nh5? (33.Nd3) Rxf7 34.gxf7 Ke7 35.Nxg7
-Kxf7 36.Nh5 Ke6 37.Ng3 Kd5 38.Kd2 b5 39.c3 a5 40.a4 dxc3+ 41.Kxc3 b4+? 42.Kd2
-c4 43.Ke3 b3 44.Ne4 Kc6 45.Nc3 Kc5 46.Ke4 Kd6 47.Kf5 Kc5 48.Kxe5 Kb4 49.Ke6
-Kc5 50.Kd7 Kd4 51.Kc6 Kd3 52.Kb5 Kc2 53.Kxa5 Kxb2 54.Kb4 Kc2 55.a5 1-0
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 Bc8 8.Ba3
+Nc6 9.Bc4 e6 10.Bxf8 Kxf8 11.Ne2 Qf6 12.Qe3 Qg6? 13.O-O Qxc2 14.d5 exd5
+15.Rxf7+ Kxf7 16.Rf1+ Bf5 17.Bd3 Qxd3 18.Qxd3 Ne7 19.g4 Kg8 20.gxf5 Rf8 21.Nd4
+g6 22.f6 c5 23.fxe7 Rxf1+ 24.Qxf1 Kg7 25.Ne6+ Kh6 26.Qh3# 1-0
