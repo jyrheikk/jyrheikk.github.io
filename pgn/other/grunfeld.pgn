@@ -439,3 +439,22 @@ Bxg5?? 31.Qxd8+ Kg7 32.hxg5 Rf2 33.Bxe7 1-0
 9.Qb3 Be6 10.Qxd5 Bxd5 11.Ne5 cxd4 12.exd4 Nc6 13.Nxc6 Bxc6 14.Be3 e5 15.dxe5
 Bxe5 16.O-O-O? Be4 (16...Rfc8 17.Kb1 Be4+) 17.Bd3 Bxg2 18.Rhg1 Bf3 19.Rd2 Bxh2
 20.Rg5 Rfd8 21.Rc5 b6 22.Rc4 Rac8 23.Rxc8 Rxc8+ 24.Rc2 Rxc2+ 25.Kxc2 Kg7 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.07.17"]
+[Round "?"]
+[White "Oiling, Alexander"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Nxd5 Qxd5 6.e3 Bg7 7.Ne2 Bg4 8.Nc3 Qd7
+9.Be2 Bxe2 10.Qxe2 O-O 11.O-O Na6 12.Bd2 c6 13.Na4 Qf5 14.e4 Qb5 (14...Qd7!)
+15.Qxb5 cxb5 16.Nc3 Bxd4 17.Nxb5 Bxb2 18.Rab1 Bg7 19.Be3 b6 20.Rfc1 Rfd8
+21.Nc7 (21.Nxa7 Rxa7 22.Bxb6) Nxc7 22.Rxc7 e6 23.Rbc1 Bb2 24.Rb1 Be5 25.Rc4
+Rd3 26.Kf1 Rad8 27.Ke2 Ra3 28.Rc2 f5 29.f4 Bg7 30.Rb3 Rxb3 31.axb3 fxe4 32.Rc4
+Rd3 33.Rc8+ Kf7 34.Rc7+ Kf8 35.Rc8+ Ke7 36.Rc7+ Rd7 37.Rc4 Bb2 38.Rxe4 Rc7
+39.g4 Rc2+ 40.Kf3 Kf6 (40...Rc3) 41.Ra4 Rc7 42.h3 e5 43.Re4 exf4 (43...Rc3)
+44.Rxf4+ Ke6 45.Re4+ Kd7 46.Bg5 Kc8 47.Re8+ Kb7 48.Re7 Rxe7 49.Bxe7 Kc6 50.Ke4
+{no more moves recorded} 0-1
