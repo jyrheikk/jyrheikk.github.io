@@ -704,6 +704,19 @@ recorded} 1-0
 [TimeControl "480+4"]
 
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 Bc8 8.Ba3
-Nc6 9.Bc4 e6 10.Bxf8 Kxf8 11.Ne2 Qf6 12.Qe3 Qg6? 13.O-O Qxc2 14.d5 exd5
-15.Rxf7+ Kxf7 16.Rf1+ Bf5 17.Bd3 Qxd3 18.Qxd3 Ne7 19.g4 Kg8 20.gxf5 Rf8 21.Nd4
-g6 22.f6 c5 23.fxe7 Rxf1+ 24.Qxf1 Kg7 25.Ne6+ Kh6 26.Qh3# 1-0
+Nc6 9.Bc4 e6 10.Bxf8 Kxf8 11.Ne2 Qf6 12.Qe3 Qg6? 13.O-O Qxc2? 14.d5 exd5
+15.Rxf7+ (15.Bd3!) Kxf7 16.Rf1+ Bf5 17.Bd3 Qxd3 18.Qxd3 Ne7 19.g4 Kg8 20.gxf5
+Rf8 21.Nd4 g6 22.f6 c5 23.fxe7 Rxf1+ 24.Qxf1 Kg7 25.Ne6+ Kh6 26.Qh3# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.07.19"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Männistö, Kari"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 Bf5 5.fxe4 Nxe4 6.Qf3 Nxc3 7.bxc3 Bxc2 8.Qxb7
+(8.Nh3) Nd7 9.Bb5 Rc8 10.Ba3 g6 11.Qc6 Bg7 12.Nf3 Bf5 13.Nh4 Bg4 14.h3 g5??
+(14...Be6) 15.hxg4 gxh4 16.O-O e6 17.Rae1 Rb8 18.Rxe6+ 1-0

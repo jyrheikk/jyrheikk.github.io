@@ -431,3 +431,16 @@ Nxe4 40.Kxe4 1-0
 16.a4 N5b6 17.axb5 cxb5 18.Nd6 Nc8 19.Nxb7 Qxb7 20.c4 bxc4 21.Bxc4 Ncb6
 22.Qb4+ Kd8 23.Rxa6 Qc6 24.Bb5 Qc7 25.Bxd7 Nxd7 26.Ra8+ Nb8 27.Rxb8+ Kd7
 28.Rb7 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2023.07.19"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Kinnunen, Matti"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 c6 5.Bf4 exf3 6.Nxf3 e6 7.Bd3 Bd6 8.Bg5 Nbd7
+9.O-O O-O 10.Qe1 Be7 11.Qh4 Re8 12.Ne5 h6?? 13.Bxh6 gxh6 14.Nxf7 Kxf7 15.Qh5+
+Kf8 16.Qxh6+ 1-0
