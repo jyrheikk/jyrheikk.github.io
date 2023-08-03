@@ -1297,3 +1297,17 @@ exd5 16.Qxf7 Qxd4 17.Bxg6 Bd6 18.Rhf1 Qc4 19.Kb1 Rhf8 20.Qxg7?? (20.Bd3) Rxf1
 e6 9.Qf3 c6 10.g5 Qxd4? 11.Nxg6 hxg6 12.gxf6 gxf6 13.Be3 Qd8 14.Bd3 Nd7
 15.O-O-O Bg7 16.Ne4 Qc7 17.Be2 O-O 18.h4 (18.Rxd7! Qxd7 19.Rd1) Ne5?
 19.Nxf6+ Kh8 20.Qf2 Qe7 21.Bg5 Qb4 22.h5 1-0
+
+[Event "LauttSSK Blitz Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.08.02"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Mannberg, Henry"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 Bg4 6.h3 Bf5 7.g4 Bg6 8.Ne5 e6
+9.Qf3 c6 10.g5 Qxd4 11.Nxg6 hxg6 12.gxf6 Rh5 13.Bd3 Re5+ 14.Ne2 gxf6 15.Bf4
+Qxb2 16.Rd1 (16.Bxe5!) Qc3+ (16...Nd7 17.O-O O-O-O {=}) 17.Kf1 {no more moves
+recorded} 1-0
