@@ -8,7 +8,7 @@
 [TimeControl "300"]
 
 1.e4 e6 2.d4 d5 3.c4 Bb4+ 4.Nc3 c6 5.a3 Ba5 6.b4 Bc7 7.Nf3 dxe4 8.Nxe4 Nd7
-9.Bg5 Ngf6 10.Bd3 h6 11.Bh4 O-O 12.Bc2 Qe8 13.Qd3 Nxe4 14.Qxe4 g6 15.Ne5 Nxe5
+9.Bg5 Ngf6 10.Bd3 h6 11.Bh4 O-O 12.Bc2 Qe8 13.Qd3 Nxe4 14.Qxe4 g6? 15.Ne5 Nxe5
 16.dxe5 Bd8 17.Bf6 Bxf6 18.exf6 Qd8 19.Qf4 Kh7 20.h4 e5 21.Qf3 Re8 22.h5 e4
 23.hxg6+ fxg6 24.Qf4 h5 25.Qg5 Qd4 26.Rxh5+ gxh5 27.Qg7# 1-0
 
@@ -862,3 +862,20 @@ Ne7 22.Ba4 Nd5 23.Rb1 f6?? 24.Rb8+ Kf7 25.Rxh8 {no more moves recorded} 1-0
 
 1.d4 d5 2.e4 e6 3.c4 c6 4.Nc3 Bb4 5.Qg4 Qf6 6.e5 Qg6 7.Qd1 f6? 8.f4 (8.Be2) f5
 9.Be2 Qxg2?? 10.Bf3 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.08.07"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Vavilkin, Andrei"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 e6 3.c4 c6 4.Nc3 Bb4 5.Be3 Ne7 6.Bd3 O-O 7.a3 Bxc3+ 8.bxc3 Nd7
+9.Ne2 Nb6 10.c5 Nc4 11.Qc2 (11.Bxc4) b6 12.cxb6 axb6 13.Qb3? b5 (13...Ba6!)
+14.O-O Bb7 15.Bxc4 bxc4?? 16.Qxb7 Rb8 17.Qa7 Ng6 18.Qa4 Qd7 19.Qc2 Rb3 20.Nc1
+Rb5 21.Na2 Ra8 22.Nb4 e5 23.exd5 cxd5 24.Qe2 Rba5 25.dxe5 Rxa3 26.Rxa3 Rxa3
+27.Bd4 Nf4 28.Qf3 Ne6 29.Qxd5 Qa4 30.Qxc4 h6 31.g3 Ng5 32.f4 Ne6 33.f5 Ng5
+34.Qc8+ Kh7 35.e6 Ra1 36.exf7 Rxf1+ 37.Kg2! (37.Kxf1 Qd1+ 38.Kf2 Qd2+ {=}) Qd1
+38.Qg8# 1-0
