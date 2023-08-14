@@ -233,3 +233,17 @@ Kd7 36.Nb5 Re6? 37.Rxd5+ Kc6 38.Rd4 a6 39.Na3 (39.Na7+ Kb7 40.Rxf7+) Nc5
 Rdb8 25.Be7 Ba6 26.Kf1 (26.Bxa6 Nxa6 27.Rd7) Bxe2+ 27.Kxe2 Rb5? 28.Ke3?
 (28.Nd4) Na4 29.Bf6 Nb2 30.Rd7 Ra5? 31.h4 Nc4+ 32.Ke4 Rxa2?? (32...Nb6 33.Rb7
 Nd5) 33.h5 Ra1? 34.Rxa1 Bxa1 35.h6 Nxe5 36.Ng5 Kf8 37.h7 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2023.08.14"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Nd5 5.Qg4 Bxc3+? 6.bxc3 g6 7.c4 Nb4?? 8.Bg5 h5
+9.Qh4 Qxg5 10.Qxg5 Nxc2+ 11.Kd2 Nxa1 12.Bd3 Rg8 13.Ne2 b6 14.Nf4 Nb3+ 15.axb3
+Bb7 16.Nxh5 Nc6 17.Nf6+ Kf8 18.Qh6+ Ke7 19.Nxg8+ Rxg8 20.Qg5+ Kf8 21.d5 exd5
+22.cxd5 Ne7 23.d6 cxd6 24.exd6 Nc8 25.Qf6 a5 26.Re1 (26.Bc4) g5 27.Qh6+ Rg7
+28.Qh8+ Rg8 29.Re8+ Kxe8 30.Qxg8# 1-0
