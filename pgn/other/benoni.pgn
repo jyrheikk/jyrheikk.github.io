@@ -469,3 +469,21 @@ recorded} 0-1
 Bxg4 17.fxg4 Nxg4 18.Ng3 (18.Bf4) Ne5?? (18...Nxd5) 19.O-O Qd7 20.Nf5 Bf6
 21.Be2 c4 22.Bg5 (22.Rc1) Qd8 23.Nh6+ Kh8 24.Bxf6 gxf6 25.Qf4 Rf8 26.Ne3 c3
 27.b3 Ne8 28.Rf2 Ng7 29.Nc2 Nxh5?? 30.Bxh5 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.11.15"]
+[Round "?"]
+[White "Kumar, Ashwin"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.Nf3 O-O 7.h3 a6 8.a4 Ne8 9.a5 f5
+10.Bd3 fxe4 11.Bxe4 Bf5 12.O-O Nc7 13.Re1 Nd7 14.Ng5 Rb8 15.Bf3 Ne5 16.Be2 h6
+17.Nge4 b5 18.axb6 Rxb6 19.f4 Nf7 20.g4 Bd7 21.Bd3 Nh8 22.Nf2 Bd4 23.Qe2 Rf7
+(23...e5) 24.Kg2 Qf8 25.Qc2 Qg7 26.Nh1 Ne8 27.Ng3 Rb7 {not played} 28.f5 h5
+29.Rf1 h4 30.fxg6 Rxf1 31.Nxf1 Nf6 32.Qe2 Nxg6 33.Nh2 Ne5 34.Nd1 Nxd3 35.Qxd3
+Rb8 36.Rxa6 Rf8 37.Qc2 Nxg4 38.hxg4 Bxg4 39.Kh1 Bc8 (39...Rf1+! 40.Nxf1 Bf3+)
+40.Ne3 Bxa6 41.Neg4 Bc8 42.Nh6+ Kh8 43.Qd1 Bh3 44.Qe1 Qg2# 0-1
