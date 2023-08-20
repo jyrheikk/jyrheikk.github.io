@@ -428,6 +428,22 @@ Bf4 38.Bf2 g3 39.Be3 Bxe3+ 40.Qxe3 Qh2+ 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2023.06.??"]
+[Round "3"]
+[White "Salo, Mikko"]
+[Black "Henttonen, Tero"]
+[Result "1-0"]
+[Section "M"]
+
+1.e4 c5 2.c3 Nc6 3.d4 cxd4 4.cxd4 e6 5.d5 exd5 6.exd5 Bb4+ 7.Nc3 Qe7+ 8.Be2
+Ne5 9.Be3 d6?? 10.Qa4+ Bd7 11.Qxb4 Nf6 12.Nf3 Nfg4 13.O-O Nxf3+ 14.Bxf3 Nxe3
+15.fxe3 Qxe3+ 16.Kh1 O-O 17.Qxd6 Rad8 18.Rae1 Qd2 19.Re2 Qg5 20.Qc7 b5 21.Ne4
+Qf5 22.Ng3 Qg6 23.Bh5 Qa6 24.Re7 g6 25.Rxd7 Rxd7 26.Qxd7 gxh5 27.Nxh5 Qg6
+28.Nf6+ Kh8 29.Qxb5 Rc8 30.d6 Rc2 31.Qe8+ Kg7 32.Qg8+ Kh6 33.Qxg6+ Kxg6 34.Rd1
+Rc8 35.d7 Rd8 36.Ne4 Kf5 37.Nc5
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2023.07.03"]
 [Round "3"]
 [White "Nguyen, Huong"]
@@ -463,3 +479,17 @@ Nxe5 15.b3 Ne7 16.Bb2 Rg8 17.g3 Bd7 18.O-O-O O-O-O 19.Ne4 Bc6 20.Rhe1 Rxd1+
 N2e3 28.Re1 Nf2 29.Kb1 Rd1+ 30.Rxd1 Nfxd1 31.h3 Kd7 32.Kc1 Nxb2 33.Kxb2 h5
 34.Kc3 f5 35.Kd3 Nf1 36.g4 fxg4 37.hxg4 hxg4 38.Ke2 Ng3+ 39.Kf2 Nf5 40.a4 a5
 41.c3 Kc6 42.Kg2 e5 43.Kf2 e4 44.Ke2 g3 45.Kf1 Kd6 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.08.??"]
+[Round "4"]
+[White "Ilkka, Oskari"]
+[Black "Salo, Mikko"]
+[Result "0-1"]
+[Section "M"]
+
+1.e4 c6 2.d4 d5 3.f3 Qb6 4.Nc3 dxe4 5.fxe4 e5 6.Nf3 exd4 7.Nxd4 h5 8.Nf5? Bxf5
+9.exf5 Nd7 10.Bc4 O-O-O 11.Bxf7 Nc5 12.Qe2 Bd6 13.O-O Nf6 14.a4 Qc7 15.h3??
+Qxf7 16.Be3 Rhe8 17.Qf2 Nce4 18.Nxe4 Nxe4 19.Qf3 Bc5 20.Rfe1 Bxe3+ 21.Qxe3
+Qxf5 22.Qxa7 Qc5+ 0-1
