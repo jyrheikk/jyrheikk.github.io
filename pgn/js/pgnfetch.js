@@ -6,7 +6,8 @@ const ids = {
   buttons: 'pgn-navButtons',
   start: 'pgn-start',
   forward: 'pgn-forward',
-  end: 'pgn-end'
+  end: 'pgn-end',
+  moves: 'pgn-moves'
 };
 
 const waitInterval = 200;
@@ -134,3 +135,24 @@ function getPgnName() {
   selectPgn(pgn);
   showGame(game);
 })();
+
+function copyToClipboard() {
+  navigator.clipboard.writeText(getGameMoves());
+}
+
+function openLichessAnalysis() {
+  const params = encodeURIComponent(getGameMoves()).replace(/%20/g, '+');
+  const url = `https://lichess.org/analysis/pgn/${params}`;
+  window.open(url, '_blank');
+  return false;
+}
+
+const htmlTagPattern = /<[^>]*>/g;
+const spacePattern = /&nbsp;/g;
+
+function getGameMoves() {
+  return document.getElementById(ids.moves).innerHTML
+    .replace(htmlTagPattern, '')
+    .replace(spacePattern, ' ')
+    .trim();
+}
