@@ -610,3 +610,38 @@ Ngxe7 9.Nc3 Nb4 10.Bd3 d5 11.exd5 Nexd5 12.Nxd5 Nxd5 13.Bd2 Be6 14.a4 O-O
 f6 22.Rxd5 Rxd5 23.Bc4 Rxc4 24.Rxc4 Rd7 25.Kf2 Kf7 26.Ke3 Ke6 27.a5 f5 28.Rd4
 Rc7 29.c4 g5 30.g3 Rc5 31.b4 Re5+ 32.Kd3 Re1 33.c5?? Ke5? (33...Rd1+ 34.Kc4
 Rxd4+ 35.Kxd4 f4 {-+}) 34.Rc4 Kd5 35.Rd4+ Ke5 36.Rc4 Kd5 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2023.09.24"]
+[Round "5"]
+[White "Nguyen, Huong"]
+[Black "Paasonen, Pasi"]
+[Result "0-1"]
+[Section "A"]
+[Mode "ICS"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Nf3 Be7 6.Bd3 c5 7.dxc5 Bxc5 8.Bf4 Nc6
+9.h3 O-O 10.Bg5 Re8+ 11.Ne2 b6 12.c3 Bb7 13.Qc2 g6 14.h4 Be7 15.Bxf6 Bxf6
+16.h5 Ne5 17.Nxe5 Rxe5 18.hxg6 hxg6 19.O-O-O Qe8 20.Rh2 Rc8 21.Rdh1 Rh5
+22.Rxh5 gxh5 23.Rxh5 d4 24.g4 Bf3 25.Rf5 Bxe2 26.Rxf6 Bxd3 27.Qxd3 dxc3
+28.bxc3 Qe5 29.Rf3 Qg5+ 30.Kc2 Rd8 31.Qf5 Qd2+ 32.Kb3 Qd1+ 33.Qc2?? Qd5+
+34.Ka3 Qxf3 35.g5 Rd5 36.g6 Ra5+ 37.Kb3 Rb5+ 38.Ka3 Qd5 39.gxf7+ Qxf7 40.Qd3
+Ra5+ 41.Kb2 Qxf2+ 42.Kc1 Qe1+ 43.Kb2 Qf2+ 44.Kb3 Qxa2+ 45.Kb4 Qa4# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.09.25"]
+[Round "5"]
+[White "Mäntsälä, Juha"]
+[Black "Sotala, Jonne"]
+[Result "0-1"]
+[Section "A"]
+[TimeControl "5400+30"]
+
+1.e4 c5 2.Nc3 g6 3.Bc4 Bg7 4.Qf3 e6 5.Nh3 Ne7 6.Nb5 d6 7.d3 O-O 8.Ng5 d5
+9.exd5 exd5 10.Bb3 h6 11.Nh3 Qa5+ 12.Nc3 d4 13.O-O dxc3 14.bxc3 Nbc6 15.Re1
+Nd4 16.Qd1 Nxb3 17.cxb3 Bxh3 18.Rxe7 Bf5 19.b4 cxb4 20.Rb1 bxc3 21.Rexb7 c2
+22.Bd2 cxd1=Q+ 23.Rxd1 Qxa2 24.Bb4 Rfb8 25.Rxb8+ Rxb8 26.Be1 Rb1 27.Rxb1 Qxb1
+28.Kf1 Bc3 29.Ke2 Qxd3# 0-1
