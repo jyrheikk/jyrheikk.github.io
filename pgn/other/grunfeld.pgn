@@ -458,3 +458,25 @@ Rd3 33.Rc8+ Kf7 34.Rc7+ Kf8 35.Rc8+ Ke7 36.Rc7+ Rd7 37.Rc4 Bb2 38.Rxe4 Rc7
 39.g4 Rc2+ 40.Kf3 Kf6 (40...Rc3) 41.Ra4 Rc7 42.h3 e5 43.Re4 exf4 (43...Rc3)
 44.Rxf4+ Ke6 45.Re4+ Kd7 46.Bg5 Kc8 47.Re8+ Kb7 48.Re7 Rxe7 49.Bxe7 Kc6 50.Ke4
 {no more moves recorded} 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.09.23"]
+[Round "1"]
+[White "Hagelberg, Lauri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lahden Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.Bg5 Ne4 6.Bh4 Nxc3 7.bxc3 c5 8.e3 O-O?
+(8...Nc6) 9.cxd5 cxd4 10.cxd4 Qxd5 11.Bxe7 Re8 12.Bb4 Nc6 13.Bc3 Bg4 14.Be2
+Bxf3 15.Bxf3 (15.gxf3!) Qc4 16.Rc1 Nxd4 (16...Bxd4 17.Bxd4 Qxd4 18.Bxc6 Qxd1+
+19.Kxd1 bxc6 20.Rxc6) 17.Bxd4 Qxd4 18.Qxd4 Bxd4 19.O-O Bb6 20.Bxb7 Rad8
+21.Rcd1 Kg7 22.g3 Re7 23.Rxd8 Bxd8 24.Bd5 f5 25.Rd1 Bb6 (25...Rd7!) 26.Bb3 Rc7
+27.Rd5 Kf6 28.Rd6+ Ke7 29.Rd5 Rc5 30.Rxc5? Bxc5 31.Kf1 h6 32.Ke2 g5 33.h3 Kf6
+34.Ba4 Bb6 35.Be8 Bc5 36.Bh5 Bb6 37.Kd3 Ba5 38.f3 Be1 39.g4 f4 40.exf4 gxf4
+41.Ke4 Kg5 42.Be8 Bf2 43.Bd7 Be1 44.Bc8 Bf2 45.a4 Be1 46.Bd7 1/2-1/2
