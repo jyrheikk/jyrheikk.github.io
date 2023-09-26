@@ -106,6 +106,24 @@ Qxc7 30.Nd3 Ne8 31.Ne5 Nd6 32.Qc3 Qxc3 1/2-1/2
 [Site "Helsinki FIN"]
 [Date "2023.09.23"]
 [Round "1"]
+[White "Brown, Joshua"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Helsinki Street Chess 6"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Bxd7+ Bxd7 5.c4 g6 6.O-O Bg7 7.Nc3 Nf6 8.Re1 O-O
+9.d4 cxd4 10.Nxd4 Ng4 11.h3 Ne5 12.b3 Qb6 13.Be3 Nc6 14.Ne6 Qa5 15.Nxg7 Qxc3
+16.Bh6 Rfc8 17.Nh5 gxh5 18.Re3 Qf6 19.Rg3+ Kh8 20.Bg7+ Qxg7 21.Rxg7 Kxg7
+22.Qxh5 Rg8 23.Rd1 Rac8 24.c5 Rcd8 25.cxd6 exd6 26.Rxd6 Be6 27.Qg5+ Kf8
+28.Rxd8+ Nxd8 29.Qxd8+ Kg7 30.Qd4+ Kg6 31.f4 Kh5 32.f5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.09.23"]
+[Round "1"]
 [White "Kulkarni, Pranav"]
 [Black "Salo, Tuomas"]
 [Result "1-0"]
@@ -187,7 +205,7 @@ Ke6 41.Ke3 g5 42.Bd1 h6 43.h4 g4 44.Kf4 Be4 0-1
 
 [Event "Finland Team Ch"]
 [Site "Joensuu FIN"]
-[Date "2024.09.23"]
+[Date "2023.09.24"]
 [Round "2"]
 [White "Lehti, Juhani"]
 [Black "Jouhki, Yrjö Markus"]
@@ -204,7 +222,7 @@ Nxe4 10.c4 Ndc5 11.Be3 Nxd3 12.Qxd3 Bf5 13.Qe2 Nc5 14.Bxc5 Bxc5 15.cxd5 Qxd5
 
 [Event "Finland Team Ch"]
 [Site "Joensuu FIN"]
-[Date "2024.09.23"]
+[Date "2023.09.24"]
 [Round "2"]
 [White "Nokka, Risto"]
 [Black "Heikkinen, Jyrki"]
@@ -225,7 +243,7 @@ Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0
 
 [Event "Finland Team Ch"]
 [Site "Joensuu FIN"]
-[Date "2024.09.23"]
+[Date "2023.09.24"]
 [Round "2"]
 [White "Korpelainen, Paul"]
 [Black "Kumar, Ashwin"]
