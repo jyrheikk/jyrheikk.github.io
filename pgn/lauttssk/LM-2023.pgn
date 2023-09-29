@@ -645,3 +645,20 @@ Ra5+ 41.Kb2 Qxf2+ 42.Kc1 Qe1+ 43.Kb2 Qf2+ 44.Kb3 Qxa2+ 45.Kb4 Qa4# 0-1
 Nd4 16.Qd1 Nxb3 17.cxb3 Bxh3 18.Rxe7 Bf5 19.b4 cxb4 20.Rb1 bxc3 21.Rexb7 c2
 22.Bd2 cxd1=Q+ 23.Rxd1 Qxa2 24.Bb4 Rfb8 25.Rxb8+ Rxb8 26.Be1 Rb1 27.Rxb1 Qxb1
 28.Kf1 Bc3 29.Ke2 Qxd3# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2023.09.29"]
+[Round "5"]
+[White "Peitsalo, Olli-Pekka"]
+[Black "Ilkka, Oskari"]
+[Result "0-1"]
+[Section "M"]
+[Mode "ICS"]
+[TimeControl "3600+30"]
+[ECO "C58"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3
+Nd5 9.Nf3 Bd6 10.O-O Nf4 11.Nc3 Nxd3 12.cxd3 O-O 13.Ne4 Bc7 14.Qc2 Qe7 15.a4
+f5 16.Nc5 Rb8 17.b4 Rxb4 18.Ba3 Rg4 19.Na6 (19.Nb3) Bd6 20.Bxd6 Qxd6 21.Qc3
+Qd5 22.h3 Rg6 0-1
