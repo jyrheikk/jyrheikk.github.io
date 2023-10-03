@@ -662,3 +662,20 @@ Nd4 16.Qd1 Nxb3 17.cxb3 Bxh3 18.Rxe7 Bf5 19.b4 cxb4 20.Rb1 bxc3 21.Rexb7 c2
 Nd5 9.Nf3 Bd6 10.O-O Nf4 11.Nc3 Nxd3 12.cxd3 O-O 13.Ne4 Bc7 14.Qc2 Qe7 15.a4
 f5 16.Nc5 Rb8 17.b4 Rxb4 18.Ba3 Rg4 19.Na6 (19.Nb3) Bd6 20.Bxd6 Qxd6 21.Qc3
 Qd5 22.h3 Rg6 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2023.10.03"]
+[Round "5"]
+[White "Sobenin, Evgeny"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[Section "M"]
+[Mode "ICS"]
+[TimeControl "3600+20"]
+
+1.d4 f5 2.c4 e6 3.Nc3 Nf6 4.Nf3 d5 5.Bg5 Be7 6.e3 O-O 7.Be2 c6 8.Qb3 Qb6 9.O-O
+Bd7 10.Ne5 Be8 11.c5 Qxb3 12.axb3 a6 13.b4 Nbd7 14.f4 Rd8? 15.Bxa6 bxa6
+16.Nxc6 Rf7 17.Nxd8 Bxd8 18.Rxa6 Nf8 19.Ra8 Rd7 20.Bxf6 gxf6 21.c6 Rd6 22.c7
+Bxc7 23.Rxe8 Kf7 24.Rc8 Bd8 25.Ra1 Ke7 26.Ra7+ Rd7 27.Raa8 e5 28.fxe5 fxe5
+29.Na4 exd4 30.exd4 Rd6 31.Nc5 1-0
