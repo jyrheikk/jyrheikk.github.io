@@ -305,6 +305,28 @@ Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0
 [Site "Joensuu FIN"]
 [Date "2023.09.24"]
 [Round "2"]
+[White "Kauppala, Pekka"]
+[Black "Hentunen, Leo"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "B21"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 Nf6 5.Nc3 e6 6.Bf4 Bb4 7.O-O-O a6 8.a3 Be7
+9.Be2 Qa5 10.g4 O-O 11.g5 Ne8 12.h4 b5 13.Kb1 b4 14.axb4 Nxb4 15.Qc4 d6 16.Bf3
+Bb7 17.Nge2 Rc8 18.Qb3 e5 19.Bd2 Qc5 20.Na4 Qxc2+ 21.Qxc2 Nxc2 22.Nb6 Rc7
+23.Bc3 Nd4 24.Bxd4 exd4 25.Nxd4 Bd8 26.Nf5 f6 27.g6 hxg6 28.Nxd6 Nxd6 29.Rxd6
+g5 30.Nd5 Bxd5 31.exd5 Be7 32.Rb6 Bc5 33.Rxa6 Rb8 34.Ra2 Bxf2 35.Rd1 Bxh4
+36.d6 Rd7 37.Bc6 Rdd8 38.Ra7 Bg3 39.Rd2 Be5 40.Kc1 Rxb2 41.Rxb2 Bxb2+ 42.Kxb2
+Rxd6 43.Rc7 g4 44.Kc3 f5 45.Kc4 f4 46.Bd5+ Kh7 47.Rf7 f3 48.Rf4 g5 49.Rf8 Kg7
+50.Rf5 Kg6 51.Rf8 Rb6 52.Kd4 Rf6 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2023.09.24"]
+[Round "2"]
 [White "Korpelainen, Paul"]
 [Black "Kumar, Ashwin"]
 [Result "1/2-1/2"]
@@ -327,5 +349,86 @@ Ka5 57.Rc6 Rg3 58.Rxc5+ Kb6 59.Bd4 Kb7 60.Be5 Rf3+ 61.Ke4 Rf7 62.Nb5 Kb6
 69.Bc3+ Kxa4 70.Bd2 Ka3 71.Ne6 Ka4 72.Nd4 Ka3 73.Kc3 Ka4 74.Kc4 Ka3 75.Bc3 Ka4
 76.Nb3 Ka3 77.Nd2 Ka4 78.Ne4 Ka3 79.Bd4 Ka4 80.Bb6 Ka3 81.Kc3 Ka4 82.Nd6 Ka3
 83.Nb7 Ka4 84.Nd6 Ka3 85.Nf5 Ka4 86.Nd4 Ka3 87.Nb3 Ka4 88.Kc4 Ka3 89.Bd4 Ka4
-90.Be3 Ka3 91.Bf2 Kb2 92.Nc5 Kc2 93.Nd3 Kd1 94.Kd4 Ke2 95.Ke4 Kf1 1/2-1/2 {no
-more moves recorded}
+90.Be3 Ka3 91.Bf4 Kb2 92.Nc5 Kc2 93.Nd3 Kd1 94.Kd4 Ke2 95.Ke4 Kf1 96.Kf3 Kg1
+97.Nf2 Kf1 98.Bh2 Ke1 99.Ne4 Kf1 100.Nd2+ Ke1 101.Ke3 Kd1 102.Kd3 Ke1 103.Bg3+
+Kd1 104.Bh4 {no more moves recorded} 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2023.09.24"]
+[Round "2"]
+[White "Kivinen, Jyrki"]
+[Black "Dannenberg, Alia"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 e6
+9.O-O d5 10.exd5 Nxd5 11.Nxd5 exd5 12.c3 Na5 13.Qf3 Nxb3 14.Nxb3 b6 15.Rad1
+Bb7 16.Bd4 Qg5 17.Qg3 Qxg3 18.hxg3 Bh6 19.Bf6 Rfe8 20.f4 Re2 21.Rf2 Rae8
+22.Nd4 Rxf2 23.Kxf2 Bf8 24.Re1 Re4 25.Re3 Bc5 26.Ke2 Bxd4 27.Bxd4 f5 28.Kf2
+Kf7 29.Re1 Ba6 30.a4 Ke6 31.b3 Bd3 32.a5 bxa5 33.Bxa7 Rxe1 34.Kxe1 Bc2 35.Bb6
+Bxb3 36.Bxa5 Kd7 37.Bb6 Kc6 38.Bd4 Kb5 39.Kf2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2023.09.24"]
+[Round "2"]
+[White "Al Hajaj, Amjad"]
+[Black "Nyrhinen, Harri"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D00"]
+
+1.d4 Nf6 2.g3 d5 3.Bg2 Bf5 4.c4 Nc6 5.cxd5 Nb8 6.Nc3 c6 7.dxc6 bxc6 8.Qa4 Bd7
+9.Qc2 e6 10.e4 Bb4 11.Nge2 Na6 12.O-O Nc7 13.a3 Be7 14.Na4 O-O 15.Nc5 Rb8
+16.Bf4 Rb6 17.b4 h6 18.Rfd1 Qc8 19.Nc1 Rd8 20.N1b3 Be8 21.Rd3 Na6 22.Na4 Rb7
+23.Rc3 g5 24.Be3 Rc7 25.Rc1 Bf8 26.Bf1 Bg7 27.Qe2 Nb8 28.Nac5 Nfd7 29.Nd3 f5
+30.e5 Nb6 31.Bg2 Nd5 32.Bxd5 Rxd5 33.a4 Nd7 34.b5 Nb6 35.Nb4 Rd8 36.Nxc6 Nd5
+37.Ne7+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2023.09.24"]
+[Round "2"]
+[White "Piippo, Mikko"]
+[Black "Mustonen, Tapani"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 c6 7.Qd2 Re8 8.Ne5 Nbd7
+9.h4 h5 10.f3 Nxe5 11.Bxe5 Nd7 12.Bxg7 Kxg7 13.g4 Nf6 14.O-O-O Rh8 15.Rdg1 b5
+16.gxh5 Nxh5 17.Bd3 Qd6 18.Qg2 Rh6 19.Qg5 Qf6 20.Qg2 Bf5 21.Bxf5 Qxf5 22.Qg4
+Qc8 23.Qg5 Qc7 24.f4 Nf6 25.h5 Rah8 26.Qg2 Rxh5 27.Rxh5 Rxh5 28.Qf3 Qd7 29.Rg3
+Qf5 30.Qg2 b4 31.Nd1 Ne4 32.Rf3 Rh4 33.Nf2 Nxf2 34.Rxf2 Qh5 35.Kd2 Rh1 36.Re2
+Ra1 37.e4 e6 38.Qg3 Qh1 39.f5 Rd1+ 40.Ke3 Qxe4+ 41.Kf2 Qxf5+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2023.09.24"]
+[Round "2"]
+[White "Salmela, Nuutti"]
+[Black "Henttonen, Tero"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D00"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.c4 Bb4+ 5.Nd2 O-O 6.Ngf3 c5 7.cxd5 Nxd5 8.Bg3 cxd4
+9.Nxd4 a6 10.a3 Be7 11.Be2 Bd7 12.O-O Nc6 13.Nc4 b5 14.Nxc6 Bxc6 15.Ne5 Bb7
+16.Rc1 Rc8 17.Qd2 Nc3 18.Qe1 Nxe2+ 19.Qxe2 f6 20.Rcd1 Qe8 21.Nd7 Rf7 22.Qg4?
+Bxa3 (22...Rd8) 23.Nxf6+ Rxf6 24.bxa3 Qc6 25.f3 Qc3 26.Rd7 Rg6 27.Qh4 Qxe3+?
+28.Bf2?? Rxg2+ 29.Kh1 Qxf3 30.Rd8+ Rxd8 31.Qxd8+ Kf7 32.Qd7+ Kg6 33.Qe8+ Kh6
+34.Qxe6+ Rg6# 0-1
