@@ -9,7 +9,7 @@
 
 1.e4 c6 2.d4 d6 3.Nf3 Nd7 4.Bc4 h6 5.h3 Ngf6 6.e5 Nd5 7.e6 fxe6 8.Bb3 N7f6
 9.c4 Nc7 10.Nh4 g5 11.Nf3 Bg7 12.Nc3 O-O 13.Be3 d5 14.Qc2 Qe8 15.Ne5 Nd7
-16.Ng4 Qh5 17.Ne2 Kf7 18.Qd2 a5 19.Ng3 Qg6? 20.Bc2 Qf5 21.Bxf5 exf5 22. Nxf5
+16.Ng4 Qh5 17.Ne2 Kf7 18.Qd2 a5 19.Ng3 Qg6? 20.Bc2 Qf5 21.Bxf5 exf5 22.Nxf5
 Nf6 1-0
 
 [Event "Seppo Aakio Simul"]
@@ -30,8 +30,24 @@ Bd8 22.Bh6 Nxe5? 23.Nxe5 Bxf5 24.Rxf5 Re8 25.Rxf7 Bf6 26.Qc4 1-0
 [Site "Helsinki FIN"]
 [Date "2023.10.14"]
 [Round "-"]
-[White "Svensson, Magnus"]
-[Black "von Boehm, Erika"]
+[White "Sharma, Shubham"]
+[Black "Aakio, Seppo"]
+[BlackElo "2036"]
+[Result "0-1"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.Bc4 b5 5.Bd3 b4 6.Nce2 e5 7.dxe5 dxe5 8.h3 Nbd7
+9.Nf3 Qc7 10.O-O Nc5 11.Ng3 Be7 12.b3 O-O 13.Bb2 Bd6 14.Re1 Re8 15.Bc4 h6
+16.a3 bxa3 17.Bxa3 Rd8 18.Bb2 g6 19.Qd2 (19.Nxe5!) Kh7 20.b4 (20.Qa5!) Ne6
+21.Rad1 Rb8 22.c3 Bxb4 23.Qe3 Bc5 24.Qe2 Nf4 25.Qc2 Be6 (25...Bxh3!) 26.Bxe6
+Nxe6 27.Rb1 Rd7 28.Red1 Rbd8 29.Ne2? Rxd1+ 30.Rxd1 Rxd1+ 31.Qxd1 Nxe4 32.Qe1
+Bxf2+ 0-1
+
+[Event "Seppo Aakio Simul"]
+[Site "Helsinki FIN"]
+[Date "2023.10.14"]
+[Round "-"]
+[White "von Boehm, Erika"]
+[Black "Aakio, Seppo"]
 [BlackElo "2036"]
 [Result "0-1"]
 
@@ -43,7 +59,7 @@ Nc5 23.Bc4 Qxd1 24.Rxd1 Bxe4 25.Nxe4 Nxe4 26.Bd5 Nf6 27.Bb3 Rfd8 28.Rxd8+ Rxd8
 35.Rf1 Rxf1+ 36.Kxf1 Bf6 37.b3 Kf8 38.Ke2 Ke7 39.Kd2 Kd6 40.Ne1 Bc3+ 41.Kd1
 Bxe1 42.Kxe1 f5 43.Kd1 g5 44.hxg5 hxg5 45.Kc2 Ke5 46.Kb2 f4 47.exf4+ gxf4
 48.a3 fxg3 49.axb4 axb4 50.Kc2 g2 51.Kd2 g1=Q 52.Ke2 Kd4 53.Kd2 Qf2+ 54.Kd1
-Kc3 55.Kc1 Qe1#
+Kc3 55.Kc1 Qe1# 0-1
 
 [Event "Seppo Aakio Simul"]
 [Site "Helsinki FIN"]
