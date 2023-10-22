@@ -838,3 +838,29 @@ Kd8? (7...g6) 8.O-O-O d5 9.Ng3 Bd7 10.Nh3 Bd6 (10...Na6) 11.Qf7 Bxh3?
 14.Nd5 Be7? (14...Bh6) 15.Ne2 Bb7 16.Ng3 O-O-O 17.Nf5 Rh7 18.Qc3 Re8 19.Nb4
 Kc7 20.Ne3 Rc8 21.Nbd5+ Kb8 22.Nf5 Re8?? (22...Bf8) 23.Ndxe7 Rexe7 24.Rxd6 Qc7
 25.Bxc6 Bxc6 26.Rxc6 Qb7 27.Nd6 Qa6 28.Rc8+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Bjarnemark, Douglas"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kuopion Shakinystävät"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 f5 2.e4 d6 3.exf5 Bxf5 4.Qf3 Qc8 5.Bc4 Nf6 6.Qb3 e6 7.Be3 d5 8.Be2 Bd6
+9.Nf3 O-O 10.Nh4 c6 11.h3 Be4 12.Nd2 Nbd7 13.Nxe4 Nxe4 14.Nf3 b5 15.Bd3 Ndf6
+16.c3 Qc7 17.Ng5 Nxg5 18.Bxg5 Rae8 19.O-O e5 20.dxe5 Rxe5 21.Be3 Ne4 22.Qc2
+Qe7 23.a4 a6 24.axb5 axb5 25.Bd4 c5? 26.Bxe5 Qxe5 27.f4 Rxf4 28.Rxf4 Qxf4
+29.Bxe4 dxe4 30.Qf2 Qe5 31.Ra8+ Bb8 32.g3? (32.Qd2 Qc7 33.Qd5+ Kf8 34.Qf5+
+{+-}) g5 33.Kf1 Kg7 34.g4 b4 35.cxb4 cxb4 36.Qf5 Qxf5+ 37.gxf5 Be5 38.b3 Kf6
+39.Ra5 (39.Rf8+) Kxf5 40.Rb5 Kf4 41.Rxb4 Kf3 42.Rb5 Bf4 43.Rc5?? (43.Rb7 e3
+44.Re7) e3 44.Rc3 h5 45.b4 g4 46.hxg4 hxg4 47.b5 Be5 48.Ra3 Bd4?? (48...Bg3)
+49.Ra2 g3 50.Rc2 Bb6 51.Ra2 (51.Rf2+) Bd4 52.Rc2 Bb6 53.Ra2 Bc5 54.Rc2 Bb4
+55.Re2 Ba5 56.Rg2?? (56.b6 Bxb6 57.Rf2+! {=}) Be1 57.Kxe1 Kxg2 58.Ke2 Kh1
+59.b6 g2 60.b7 g1=Q 61.b8=Q Qf2+ 62.Kd3 e2 63.Qh8+ Kg1 64.Qg7+ Kf1 65.Qb7 Qg3+
+0-1
