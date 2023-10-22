@@ -713,3 +713,18 @@ Nd7 20.f6+ Kf8 21.Nf3 Nde5 22.Nxe5 Nxe5 23.Bg2 Bb7 24.b3 Ke8 25.Nd5 Rd6
 1.d4 d5 2.c4 Nf6 3.e3 e6 4.Nc3 c5 5.Nf3 Be7 6.Qc2 Nc6 7.a3 a6 8.cxd5
 exd5 9.dxc5 Bxc5 10.b4 Ba7 11.Be2 O-O 12.O-O b5 13.Bb2 Bb7 14.Rad1 Rc8
 15.Nd4 Nxd4 16.exd4 Ne4 17.Nxe4?? Rxc2 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "6"]
+[White "Crespiera, David"]
+[Black "Sotala, Jonne"]
+[Result "0-1"]
+[Section "A"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 g6 4.d4 cxd4 5.Qxd4 Nf6 6.O-O Bg7 7.Ng5 O-O 8.Nxf7 Rxf7
+9.Bxf7+ Kxf7 10.e5 Nc6 11.Qh4 Nxe5 12.Bh6 Be6 13.Bxg7 Kxg7 14.Nc3 Qb6 15.b3
+Rc8 16.Na4 Qc7 17.c4 Bd7 18.Nc3 Bc6 19.Rad1 b6 20.f4 Nf7 21.f5 a6 22.Nd5 Bxd5
+23.cxd5 Ne5 24.fxg6 hxg6 25.Qg5 Qb7 26.h3 Rc5 27.Rfe1 Rxd5 28.Rxd5 Qxd5 29.Kh2
+Nf3+ 30.gxf3 Qxg5 0-1
