@@ -480,6 +480,48 @@ Bf4 42.Rxe6+ Kxe6 43.Nd4+ Kd5 44.Nxc2 Bd2 45.Kf2 Ke4 46.Bc6+ Kf4 47.Ke2 Ba5
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
+[White "Pesola, Jyrki"]
+[Black "Horttanainen, Emil"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Kulttuuri-Shakki -58"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.d3 Nf6 7.Nbd2 Be7 8.O-O O-O
+9.Bb3+ Kh8 10.Ng5 Qe8 11.exf5 Bxf5 12.Nde4 Nxe4 13.Nxe4 Qg6 14.Bc2 Bxe4
+15.dxe4 Bg5 16.Qg4 Bxc1 17.Qxg6 hxg6 18.Raxc1 Kh7 19.Rcd1 Kh6 20.Rd3 g5
+21.Rh3+ Kg6 22.Re1 Rf4 23.Bd1 Rh4 24.Rg3 b5 25.Bg4 Rd8 26.Be6 Rf4 27.Rge3 Rdf8
+28.Bf5+ R4xf5 29.exf5+ Rxf5 30.Rg3 Rf4 31.Ree3 Ra4 32.a3 b4 33.cxb4 Nxb4 34.h4
+Nd5 35.Rxg5+ Kf6 36.Rf3+ Rf4 37.Rxf4+ Nxf4 38.Rg4 c5 39.Kf1 d5 40.g3 Nd3
+41.Ra4 Nxb2 42.Rxa6+ Kf5 43.h5 c4 44.Ke2 Ke4 45.f3+ Kd4 46.Kd2 c3+ 47.Kc2 Nc4
+48.Ra4 e4 49.fxe4 dxe4 50.Ra8 Ne3+ 51.Kc1 Nf1 52.g4 Ne3 53.g5 Nf5 54.Rd8+ Ke5
+55.Kc2 Kf4 56.g6 Kg4 57.Kxc3 Kxh5 58.a4 Ne7 59.Re8 Nd5+ 60.Kd4 Nf6 61.Rxe4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "4"]
+[White "Hartikainen, Jarmo"]
+[Black "Lehti, Juhani"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Kuopion Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 d5 2.exd5 Qxd5 3.d4 Nc6 4.Nf3 e5 5.Nc3 Bb4 6.Bd2 Bxc3 7.Bxc3 e4 8.Ne5
+Nxe5 9.dxe5 Ne7 10.Qe2 Bf5 11.Rd1 Qc6 12.Qb5 Qxb5 13.Bxb5+ c6 14.Be2 Nd5
+15.Bd2 e3 16.fxe3 Bxc2 17.Rc1 Bf5 18.O-O Be6 19.e4 Nb6 20.b3 O-O 21.Bc3 a5
+22.a4 Nd7 23.Bd4 Rfc8 24.Bc4 Bxc4 25.bxc4 c5 26.Bc3 Re8 27.Rf5 g6 28.Rf4 Re6
+29.Rcf1 Rf8 30.Bxa5 Nxe5 31.Bc7 Nxc4 32.e5 Ne3 33.Bd6 Nxf1 34.Rxf1 Rc8 35.Rb1
+c4 36.Rxb7 c3 37.Rb1 c2 38.Rc1 f6 39.a5 fxe5 40.Bb4 Rc4 41.Bd2 Rd6 42.Be3 Rd1+
+43.Kf2 Rxc1 44.Bxc1 Rd4 45.a6 Ra4 46.Ke2 Rxa6 47.Kd2 Rc6 48.Bb2 Kf7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2023.10.22"]
 [Round "4"]
 [White "Heikkinen, Jyrki"]
@@ -502,6 +544,46 @@ Qe7 23.a4 a6 24.axb5 axb5 25.Bd4 c5? 26.Bxe5 Qxe5 27.f4 Rxf4 28.Rxf4 Qxf4
 55.Re2 Ba5 56.Rg2?? (56.b6 Bxb6 57.Rf2+! {=}) Be1 57.Kxe1 Kxg2 58.Ke2 Kh1
 59.b6 g2 60.b7 g1=Q 61.b8=Q Qf2+ 62.Kd3 e2 63.Qh8+ Kg1 64.Qg7+ Kf1 65.Qb7 Qg3+
 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "4"]
+[White "Kivinen, Jyrki"]
+[Black "Jauhiainen, Kari"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kuopion Shakinystävät"]
+[ECO "C21"]
+
+1.e4 d6 2.d4 e5 3.dxe5 dxe5 4.Qxd8+ Kxd8 5.Bc4 Be6 6.Bxe6 fxe6 7.Nc3 a6 8.Nf3
+Bd6 9.Be3 Nf6 10.Bg5 Nd7 11.a3 h6 12.Bh4 g5 13.Bg3 Nh5 14.Nd2 b5 15.f3 Nf4
+16.Kf1 Ke7 17.Bf2 Bc5 18.Bxc5+ Nxc5 19.Ne2 Rad8 20.Nxf4 exf4 21.Ke2 Na4
+22.Rab1 c5 23.c4 Rd4 24.Rhc1 Rhd8 25.Rc2 Rd3 26.Nf1 R8d4 27.Nd2 b4 28.axb4
+cxb4 29.Nf1 Nc5 30.Rd2 Kd6 31.Ra1 Rxd2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "4"]
+[White "Olin, Janne"]
+[Black "Nyrhinen, Harri"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Kuopion Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Nc6 9.Nxg6
+fxg6 10.Bb5 Qb6 11.Qd3 O-O-O 12.Bxc6 Qxc6 13.Bg5 Be7 14.O-O-O Bxg5+ 15.hxg5
+Ne7 16.Nb5 Kb8 17.Nd6 Rdf8 18.Qe2 hxg4 19.Qxg4 Nf5 20.Nxf5 gxf5 21.Qg2 Qa4
+22.Kb1 cxd4 23.f4 d3 24.Rhf1 dxc2+ 25.Qxc2 Qxc2+ 26.Kxc2 Rc8+ 27.Kb1 Rh4
+28.Rc1 Rc6 29.Rc2 Kc7 30.b3 a6 31.Rff2 Rxc2 32.Kxc2 Kc6 33.Kd3 b5 34.Kd4 b4
+35.Ke3 Rh3+ 36.Kd4 Rh4 37.Ke3 Kc5 38.Rc2+ Kb6 39.Rf2 g6 40.Kd4 Kb5 41.Ke3 a5
+42.Kd3 a4 43.bxa4+ Kxa4 44.Kd4 Kb5 45.Ke3 Rh3+ 46.Kd4 Rh1 47.Re2 Rd1+ 48.Ke3
+d4+ 49.Kf3 Rd3+ 50.Kf2 Kc4 51.Rb2 Rc3 52.Rb1 Rc2+ 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -597,3 +679,41 @@ Ref7 35.Qd2 Rf4 36.Rge1 Qf6 37.Rc7 Rd4 38.Qh6 Bg8 39.h3 Rh4 40.Qd2 Rd4 41.Qc2
 Rf4 42.Ree7 Rxf3 43.gxf3 Qxf3+ 44.Qg2 Qh5 45.Kh2 Qh4 46.Re4 Qf6 47.Qe2 Rb8
 48.Rc3 a3 49.Rf3 Qxb2 50.Kg3 a2 51.Qxb2+ Rxb2 52.Ra4 Bb3 53.Ra7 Rb1 54.Rf8+
 Bg8 55.Rxa2 Kg7 56.Raa8 Be6 57.Rab8 Rf1?? 58.Rxf1 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "2"]
+[White "Horttanainen, Emil"]
+[Black "Savan, Ritva-Liisa"]
+[Result "1/2-1/2"]
+[Section "III Division:3"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Naisten Shakkikerho"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 c5 4.c4 Nb4 5.Qa4 N4c6 6.dxc5 Nxe5 7.Be2 e6 8.Be3 Be7
+9.Nf3 Nxf3+ 10.Bxf3 O-O 11.O-O Nc6 12.Bxc6 dxc6 13.Nc3 Qc7 14.Qc2 Qe5 15.Qe4
+Qxe4 16.Nxe4 e5 17.f4 Bf5 18.Nd6 Bxd6 19.cxd6 Bd3 20.Rfd1 Bxc4 21.fxe5 Bd5
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "2"]
+[White "Paasonen, Pasi"]
+[Black "Tack, Andreas"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[BlackTeam "Helsinki Street Chess 5"]
+[WhiteElo "1438"]
+[BlackElo "1591"]
+[ECO "E60"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Bf4 c5 5.e3 Qb6 6.b3 d6 7.Be2 Nc6 8.O-O Nh5 9.Qd2
+Nxf4 10.exf4 cxd4 11.Bd3 Nb4 12.Na3 Nxd3 13.Qxd3 Bf5 14.Qd2 a5 15.Rfe1 Qb4
+16.Qe2 e6 17.Nb5 d3 18.Qe3 Bxa1 19.Nc7+ Kd7 20.Nxa8 Bc3 21.Nb6+ Kc6 22.Rd1
+Qxb6 23.Qc1 Qb4 24.Qe3 Qc5 25.Qc1 Bd4 26.Nxd4+ Qxd4 27.Qd2 b6 28.h3 h5 29.a3
+Rc8 30.Rc1 e5 31.fxe5 dxe5 32.b4 axb4 33.axb4 Ra8 0-1
