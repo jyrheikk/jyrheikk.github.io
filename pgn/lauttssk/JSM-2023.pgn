@@ -482,6 +482,25 @@ Bf4 42.Rxe6+ Kxe6 43.Nd4+ Kd5 44.Nxc2 Bd2 45.Kf2 Ke4 46.Bc6+ Kf4 47.Ke2 Ba5
 [Site "Helsinki FIN"]
 [Date "2023.10.21"]
 [Round "3"]
+[White "Männistö, Kari"]
+[Black "Mäntyniemi, Jaakko"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Kulttuuri-Shakki -58"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 b5 2.e4 Bb7 3.f3 b4 4.Be3 e6 5.Bd3 Nf6 6.Ne2 Be7 7.c4 bxc3 8.Nbxc3 O-O
+9.Rc1 d6 10.b4 Nbd7 11.Qb3 Re8 12.O-O h6 13.Rc2 Qb8 14.Rb1 Rc8 15.a4 a6 16.a5
+Bc6 17.Kf2 Bb5 18.Nxb5 axb5 19.Rc6 Qb7 20.Rbc1 Nb8 21.R6c2 Na6 22.Bd2 c6 23.h3
+Qd7 24.f4 (24.Rxc6! Rxc6 25.Bxb5) Rab8 25.Ng1? c5 26.bxc5 dxc5 27.dxc5 Nxc5
+28.Rxc5 Bxc5+ 29.Ke2 Bxg1 30.Rxg1 Qd4 31.Be3 Qc3 32.Rb1 (32.Qxc3! Rxc3 33.a6)
+Qxa5 33.Qb4 Qa4 34.Bxb5 Qxb4 35.Rxb4 Nxe4 36.Ba6 Rc2+ 37.Kd3 Rc3+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
 [White "Pesola, Jyrki"]
 [Black "Horttanainen, Emil"]
 [Result "1-0"]
@@ -777,3 +796,18 @@ Nxf4 10.exf4 cxd4 11.Bd3 Nb4 12.Na3 Nxd3 13.Qxd3 Bf5 14.Qd2 a5 15.Rfe1 Qb4
 16.Qe2 e6 17.Nb5 d3 18.Qe3 Bxa1 19.Nc7+ Kd7 20.Nxa8 Bc3 21.Nb6+ Kc6 22.Rd1
 Qxb6 23.Qc1 Qb4 24.Qe3 Qc5 25.Qc1 Bd4 26.Nxd4+ Qxd4 27.Qd2 b6 28.h3 h5 29.a3
 Rc8 30.Rc1 e5 31.fxe5 dxe5 32.b4 axb4 33.axb4 Ra8 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.22"]
+[Round "2"]
+[White "Sillanpää, Leevi"]
+[Black "Oh, Dayei"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Helsinki Street Chess 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 Bg4 6.Bc4 Nf6?? 7.Bxf7+ Kxf7 8.Nxe5+
+Kg8 9.Nxg4 Nxe4 10.O-O Bd6 11.Qf3 Ng5 12.Qb3+ Ne6 13.Qxe6# 1-0
