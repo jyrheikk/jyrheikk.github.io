@@ -437,6 +437,29 @@ Bxa3 (22...Rd8) 23.Nxf6+ Rxf6 24.bxa3 Qc6 25.f3 Qc3 26.Rd7 Rg6 27.Qh4 Qxe3+?
 [Site "Helsinki FIN"]
 [Date "2023.10.21"]
 [Round "3"]
+[White "Lehti, Juhani"]
+[Black "Tuomala, Timo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[ECO "B22"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Bc4 Nb6 7.Bb3 Nc6 8.Nf3 e6
+9.d4 Be7 10.O-O O-O 11.Bf4 Nb4 12.Rc1 N6d5 13.Bg3 b6 14.a3 Nxc3 15.bxc3 Nd5
+16.c4 Nf6 17.Ne5 Bb7 18.c5 Bd5 19.Ba4 Rc8 20.c6 Bxa3 21.Ra1 Bd6 22.Nd7 Bxg3
+23.Nxf8 Bd6 24.Nd7 Ne4 25.Ne5 Nc3 26.Qd3 Qg5 27.f3 Nxa4 28.Rxa4 f6 29.Ng4 h5
+30.Nf2 Qh4 31.Nh3 e5 32.dxe5 Bc5+ 33.Kh1 Qxa4 34.Qxd5+ Kf8 35.c7 Qd4 36.Qb7
+Qd7 37.exf6 gxf6 38.Nf4 Bd6 39.Rd1 Rxc7 40.Qxc7 Qxc7 41.Ne6+ Ke7 42.Nxc7 Bxc7
+43.Kg1 Ke6 44.Kf2 Bd6 45.h4 a5 46.g4 hxg4 47.fxg4 a4 48.h5 Bf8 49.Ke2 b5
+50.Kd3 a3 51.Kc2 f5 52.Re1+ Kd5 53.Rf1 Bg7 54.Rxf5+ Kc4 55.Rf4+ Bd4 56.Rxd4+
+Kxd4 57.h6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
 [White "Lauren, Martti"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -445,6 +468,7 @@ Bxa3 (22...Rd8) 23.Nxf6+ Rxf6 24.bxa3 Qc6 25.f3 Qc3 26.Rd7 Rg6 27.Qh4 Qxe3+?
 [WhiteTeam "Kulttuuri-Shakki -58"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [WhiteTitle "FM"]
+[ECO "A01"]
 
 1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Bb5 d6 5.d4 Bd7 6.Nf3 e4 7.Nfd2 a6 8.Be2 Bf5 9.a3
 Qd7 10.c4 O-O-O? 11.b4 Nb8 12.Nc3 h5 13.Qb3 Rh6 14.b5 Re8 15.Na4 Rg6 16.Bf1 h4
@@ -454,6 +478,22 @@ Qd7 10.c4 O-O-O? 11.b4 Nb8 12.Nc3 h5 13.Qb3 Rh6 14.b5 Re8 15.Na4 Rg6 16.Bf1 h4
 34.Nf4? (34.bxc6) d5 35.dxc5 bxc5 36.Bb2 c4 37.Qa4 Bc5 38.Bxc4 dxc4 39.Qxc4
 Qe7 40.Kc1 Nxf2? (40...Nd7) 41.Rd2+?? (41.Nd5) Nd7 42.Nd5 Rxd5 43.Qxd5 Bxe3
 44.Kb1 Bxd2 45.Qa8+ Kc7 46.Qa7+ Kc8 47.Qxf2 Qe4+ 48.Ka1 Be3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
+[White "Aakio, Seppo"]
+[Black "Viljava, Tapani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.Bd3 d5 7.O-O Nf6 8.Nd2 Be7
+9.c3 Qc7 10.Qe2 O-O 11.Re1 a5 12.a4 Rb8 13.exd5 cxd5 14.Nf3 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -482,13 +522,51 @@ Bf4 42.Rxe6+ Kxe6 43.Nd4+ Kd5 44.Nxc2 Bd2 45.Kf2 Ke4 46.Bc6+ Kf4 47.Ke2 Ba5
 [Site "Helsinki FIN"]
 [Date "2023.10.21"]
 [Round "3"]
+[White "Kivinen, Jyrki"]
+[Black "Kivipelto, Kaj"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nb6 5.Nc3 g6 6.Be2 Bg7 7.O-O O-O 8.Be3 Nc6
+9.exd6 cxd6 10.Qd2 Bg4 11.Rad1 Bxf3 12.Bxf3 d5 13.b3 e6 14.Ne2 Re8 15.g3 Rc8
+16.Bg2 a5 17.Rc1 a4 18.Rfd1 axb3 19.axb3 Qe7 20.Nf4 Ra8 21.Ra1 Rxa1 22.Rxa1 e5
+23.Nxd5 Nxd5 24.Bxd5 exd4 25.Bg5 Qd6 26.Bxc6 Qxc6 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
+[White "Ruotanen, Helge"]
+[Black "Nyrhinen, Harri"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Kulttuuri-Shakki -58"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "A00"]
+
+1.g3 f5 2.Bg2 Nf6 3.d3 e5 4.e4 fxe4 5.dxe4 Bc5 6.Nc3 O-O 7.Nf3 d6 8.h3 Qe8
+9.Bg5 Bb4 10.Qd3 Bxc3+ 11.Qxc3 Nc6 12.Be3 Be6 13.Ng5 Bd7 14.O-O-O h6 15.Nf3 b5
+16.g4 Nxe4 17.Qd3 Nxf2 18.Bxf2 e4 19.Qd5+ Qe6 20.Qxe6+ Bxe6 21.Nd4 Rxf2
+22.Bxe4 d5 23.Nxe6 dxe4 24.Nxc7 Rc8 25.Nxb5 Nb4 26.Rd2 Rxc2+ 27.Rxc2 Rxc2+
+28.Kb1 Rf2 29.Re1 Nd3 30.Rxe4 Rxb2+ 31.Ka1 Rxb5 32.a3 Nf2 33.Re3 Kh7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.10.21"]
+[Round "3"]
 [White "Männistö, Kari"]
 [Black "Mäntyniemi, Jaakko"]
 [Result "0-1"]
 [Section "I Division:2"]
 [Board "7"]
-[WhiteTeam "Kulttuuri-Shakki -58"]
-[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[ECO "A40"]
 
 1.d4 b5 2.e4 Bb7 3.f3 b4 4.Be3 e6 5.Bd3 Nf6 6.Ne2 Be7 7.c4 bxc3 8.Nbxc3 O-O
 9.Rc1 d6 10.b4 Nbd7 11.Qb3 Re8 12.O-O h6 13.Rc2 Qb8 14.Rb1 Rc8 15.a4 a6 16.a5
