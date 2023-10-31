@@ -141,10 +141,10 @@ function copyToClipboard() {
 }
 
 function openLichessAnalysis() {
-  const params = encodeURIComponent(getGameMoves()).replace(/%20/g, '+');
+  const moves = getGameMoves().replace(/([18])=([QRBN])/g, '$1$2');
+  const params = encodeURIComponent(moves).replace(/%20/g, '+');
   const url = `https://lichess.org/analysis/pgn/${params}`;
   window.open(url, '_blank');
-  return false;
 }
 
 const htmlTagPattern = /<[^>]*>/g;
