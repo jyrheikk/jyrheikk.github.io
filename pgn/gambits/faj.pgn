@@ -2079,3 +2079,23 @@ Qe7 17.Rac1 Qg7 18.Bxf6 Rxf6 19.Qc3 Raf8 20.b4 axb4 21.axb4 Nd7 22.b5 Nce5
 17.Rfd1 Red8 18.Bf3 Ra7 19.Bd5 Re8 20.a4 h6 21.h4 Bg4 22.f3 g5? (22...Bf5)
 23.hxg5 hxg5 24.Bxg5 Rxe5 25.Bf4 Rxe3 26.fxg4? (26.Kf1) Rf3+ 27.Kh2 Rxf4
 28.Kh3 Kg7 29.g3 Rf6 30.Bg2?? Rh6# 0-1
+
+[Event "Helsinki Blitz Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.11.13"]
+[Round "5"]
+[White "Lahdelma, Henri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "A"]
+[Board "1"]
+[WhiteTeam "Matinkylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTitle "FM"]
+[WhiteElo "2370"]
+[BlackElo "2070"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.Nbd2 Nc5 6.e3 d6 7.exd6 Bxd6 8.Nb3 Qf6
+9.Be2 Bf5 10.Nxc5 Bxc5 11.Qd5? Bb4+ 12.Bd2 Rd8 (12...O-O!) 13.Qb5 Bxd2+
+14.Nxd2 O-O 15.Nf3 a6 16.Qb3 Rfe8 17.O-O {no more moves recorded} 1-0
