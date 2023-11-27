@@ -894,6 +894,23 @@ Kg8 9.Nxg4 Nxe4 10.O-O Bd6 11.Qf3 Ng5 12.Qb3+ Ne6 13.Qxe6# 1-0
 [Site "Helsinki FIN"]
 [Date "2023.11.26"]
 [Round "3"]
+[White "Hietanen, Herman"]
+[Black "Männistö, Kari"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "1"]
+[WhiteTeam "Etelä-Vantaan Shakki 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.d4 Nf6 2.Bf4 g6 3.Nc3 d5 4.e3 c6 5.Qd2 Nbd7 6.Nf3 Bg7 7.Be2 b5 8.Ne5 Qb6
+9.f3 a5 10.e4 e6 11.O-O-O a4 12.exd5 exd5 13.Bh6 O-O 14.Nxd7 Bxd7 15.h4 b4
+16.Nb1 b3 17.cxb3 c5 18.Bxg7 Kxg7 19.Nc3 Rfc8 20.Kb1 axb3 21.a3 Bf5+ 22.Ka1
+Bc2 23.Rde1 Rxa3+ 24.bxa3 b2+ 25.Ka2 Qb3# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.11.26"]
+[Round "3"]
 [White "Kulkarni, Pranav"]
 [Black "Lallukka, Eloisa"]
 [Result "1-0"]
