@@ -1741,3 +1741,25 @@ Qxf6 23.Qd2 Kg7 24.Ne5 Nc8 25.Qb4 Re7 26.a4 Nd6 27.f3 f4 28.Qc3 (28.Qa5 Ra8
 Nd5 35.Qd2 b4 (35...Rc8) 36.Nd3 g5 (36...Rc8!) (36...Nc3?? 37.Rxf4 Nxb1
 38.Qxb4 {+-}) 37.Nxb4 Red7? (37...Ne3) 38.Nc2? (38.Nxd5 exd5 39.Re5 {+/-}) Rc8
 39.Rbe1 Rdc7 40.Nb4 Ne3 41.d5? (41.Kh1) Rd8 42.Rxe6?? Qxe6 43.Qd4+ Qf6 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "lichess.org"]
+[Date "2023.11.28"]
+[Round "?"]
+[White "Dahal, Sameep"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Stage "Quarter-Final"]
+[TimeControl "360+3"]
+[Mode "ICS"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Nxe2 Qxd5 6.O-O Nc6 7.c3 O-O-O 8.Nd2
+Qh5 9.Ng3 Qxd1 10.Rxd1 e5 11.Nb3 exd4 12.Nxd4 Nxd4 13.cxd4 Nd5 14.Nf5 g6
+15.Ne3 Bg7 16.Nxd5 Rxd5 17.Be3 Rhd8 18.Bg5?? f6?? (18...Rxg5) 19.Be3 f5 20.Rd3
+R8d7 21.b4 h6 22.h4 f4 23.Bxf4 Rxd4 (23...Bxd4!) 24.Rf3 Rxb4 (24...Rxf4)
+25.Rc1 b6 26.Bxc7 Bb2 27.Rf8+ Kb7 28.Rb8+ Ka6 29.Rc2 Rd1+ 30.Kh2 Rxh4+ 31.Kg3
+Rb4 32.Rg8 Rd3+ 33.f3 Rd7 34.Bb8 g5 35.Re8 h5 36.Rg8 g4 37.fxg4 hxg4 38.Bf4
+Rd3+ 39.Kxg4 Be5 40.Rf8 Rdd4 41.g3 Bxf4 42.Rxf4 Rxf4+? 43.gxf4 Rd4 44.Kg5 b5
+45.f5 Kb6 46.f6 Rd8 47.f7 a5 48.Kg6 b4 49.Re2 a4 50.Re8 Rd6+ 51.Kg7 Rd7
+52.Rb8+ Kc5 53.Kg8 Rxf7 54.Kxf7 Kc4 55.Ke6 b3 56.axb3+?? axb3 57.Rc8+ Kd3
+58.Rb8 Kc2 59.Kd5 b2 60.Rc8+ Kd1 61.Rb8 Kc2 62.Kc4 b1=Q 63.Rxb1 Kxb1 1/2-1/2
