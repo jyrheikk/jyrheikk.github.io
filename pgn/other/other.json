@@ -15,7 +15,7 @@
   "london.pgn": 14,
 
   "owen.pgn": 10,
-  "sicilian.pgn": 63,
+  "sicilian.pgn": 64,
   "caro-kann.pgn": 18,
   "nimzowitsch.pgn": 8,
   "center-counter.pgn": 78,
@@ -34,6 +34,6 @@
   "bird.pgn": 6,
   "benko.pgn": 5,
   "grob.pgn": 6,
-  "misc.pgn": 34,
+  "misc.pgn": 35,
   "fischer-random.pgn": 19
 }

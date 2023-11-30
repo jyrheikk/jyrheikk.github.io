@@ -569,3 +569,22 @@ f5 (20...e5) 21.g3 Qh5 22.c5+ e6 23.Kg2 f4 (23...fxe4) 24.Be2 Qg5 25.Bxf4 Qe7
 26.Bd6 Qf7 27.Rd3 g5 28.e5 b6 29.Qd1 Kh8 30.Bh5 Qg8 31.Qf3 Rf8 32.Bxf8 Bxf8
 33.Ne4 Ba6 34.Rc3 bxc5 35.Nxc5 Bxc5 36.dxc5 Nxe5 37.Qe4 Qg7 38.Rcb3 Rf8 39.Rb8
 Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0
+
+[Event "Casual Game"]
+[Site "lichess.org"]
+[Date "2023.11.30"]
+[Round "1"]
+[White "Anonymous"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600+5"]
+[Mode "ICS"]
+
+1.d4 Nf6 2.Nc3 g6 3.Bf4 c5 4.e3 Bg7 5.Nb5 Nd5 6.Bg3 a6 7.Nc3 Qa5 8.Qd2 Nxc3
+9.bxc3 Nc6 10.Bd3 d6 11.Nf3 Bg4 12.Be4 O-O 13.h3 Bd7 14.O-O Rac8 15.Bxc6 Bxc6
+16.Ne1 Be4 17.f3 Bc6 18.Nd3 f5 19.Be1 e5 20.Nc1 c4 21.dxe5 dxe5 22.Ne2 Rfd8
+23.Qc1 g5 24.Kh1 h5 25.Ng3 f4 26.Nxh5 Bd7 27.exf4 exf4 28.Nxg7 Kxg7 29.Rb1 b5
+30.Qb2 Qc7 31.Bf2 Kg6 32.Qb4 Rh8 33.Rbd1 Bf5 34.Rd6+ Kf7 35.Rfd1 Rce8 36.Bb6
+Qe7 37.Bd4 Rxh3+ 38.gxh3 Qe2 39.Rf6+ Kg8 40.Rxf5 Qxf3+ 41.Kg1 Qxd1+ 42.Kg2
+Qxc2+ 43.Bf2 Qxf5 44.Qd6 g4 45.hxg4 Qxg4+ 46.Kf1 Re6 47.Qd8+ Kf7 48.Qd7+ Kg6
+49.Qd2 f3 50.Qc2+ Kh6 51.Qd2+ Kh7 52.Qc2+ Kg8 53.Bd4 Re2 0-1
