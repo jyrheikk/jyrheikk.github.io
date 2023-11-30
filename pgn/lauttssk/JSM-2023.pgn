@@ -911,6 +911,23 @@ Bc2 23.Rde1 Rxa3+ 24.bxa3 b2+ 25.Ka2 Qb3# 0-1
 [Site "Helsinki FIN"]
 [Date "2023.11.26"]
 [Round "3"]
+[White "Zaretckii, Roman"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "3"]
+[WhiteTeam "Etelä-Vantaan Shakki 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 h5 10.O-O-O Nbd7 11.h3 b5 12.Be2 h4 13.Rhg1 Nh5 14.Nd5 Bxd5 15.exd5 Ng3
+16.Kb1 Rh5 17.f4 Nxe2 18.Qxe2 Nf6 19.fxe5 Rxe5 20.Qf3 Rc8 21.Rge1 Qc7 22.c3 a5
+23.Bf4 Rxe1 24.Rxe1 a4 25.Nd4 Qc4 26.Nf5 Qxd5 27.Nxe7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.11.26"]
+[Round "3"]
 [White "Kulkarni, Pranav"]
 [Black "Lallukka, Eloisa"]
 [Result "1-0"]
