@@ -443,4 +443,26 @@ Nxe4 40.Kxe4 1-0
 
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 c6 5.Bf4 exf3 6.Nxf3 e6 7.Bd3 Bd6 8.Bg5 Nbd7
 9.O-O O-O 10.Qe1 Be7 11.Qh4 Re8 12.Ne5 h6?? 13.Bxh6 gxh6 14.Nxf7 Kxf7 15.Qh5+
-Kf8 16.Qxh6+ 1-0
+Kf8 16.Qxh6+ (16.Qxh6+ Kg8 17.Bh7+! Nxh7 (17...Kh8 18.Bf5+ Kg8 19.Bxe6#)
+(17...Kf7 18.Qg6+ Kf8 19.Qg8#) 18.Qg6+ Kh8 19.Rf7) 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Wilen, Eero"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Itä-Helsingin Shakkikerho"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 e6 7.a3 Nbd7 8.Nh3 Nb6
+9.Ba2 Nfd5 10.Nxd5 exd5 11.Nf2 Bd6 12.Qd2 O-O 13.f4 Re8 14.O-O Bf5 15.Rae1 Qf6
+16.g4 Be4 17.b3 Qh4 18.c4 Bc7 19.Nxe4 Rxe4 20.Bb1 Qxg4+ 21.Kh1 Re6 22.f5 Ree8
+23.c5 Nd7 24.f6 Nf8 25.fxg7 Ng6 26.Bf5 (26.Qf2! Re7 27.Bh6 Qd7 (27...Rae8
+28.Qxf7+! Rxf7 29.Rxe8+) 28.Bf5 Qe8 29.Bg5 {+-}) Qh5 27.Qf2 Re7 28.Bd2 Rae8??
+29.Rxe7? (29.Bd7! {+-} Rd8 30.Rxe7 Nxe7 31.Be6!) Rxe7 30.Rg1?? (30.Bd3) Re2
+31.Bg4 Qxh2+ 0-1
