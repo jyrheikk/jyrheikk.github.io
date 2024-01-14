@@ -1092,3 +1092,65 @@ Qc5+ 16.Kh1 Bc6 17.Qc7 Rg8 18.b4 Ng3+ 19.hxg3 Qh5+ 20.Kg1 Bd7 21.Qb7 Rc8
 (40...Nf4! {-+}) 41.Qe3 Qxa3 42.g3 Qa1+ 43.Kg2 Kg7 44.Bc4 Qd4?? 45.Qb3
 (45.Bxe6! {+-}) Qe4+ 46.Kg1 Nc5 47.Qc3+ Kg8 48.Bf1 Qf5 49.Qa3 Qd7 50.Qf3 Ne6
 51.h4 Nd4 52.Qd3 Qd5 53.Bg2 Qe5 54.Bf1 Qd5 55.Bg2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.14"]
+[Round "4"]
+[White "Nyrhinen, Harri"]
+[Black "Prieur, Eetu"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Shakkiseura Aatos 2"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.h3 a6 6.Nge2 f5 7.O-O Nf6 8.d3 O-O
+9.Be3 Bxe3 10.fxe3 fxe4 11.Nxe4 Nxe4 12.Rxf8+ Qxf8 13.dxe4 Be6 14.Nc3 Qf7
+15.Nd5 Bxd5 16.Qxd5 Qxd5 17.exd5 Ne7 18.Be4 Rf8 19.Rf1 Rxf1+ 20.Kxf1 Kf7 21.b4
+b6 22.c4 a5 23.a3 g6 24.Kf2 Ng8 25.Kf3 Nf6 26.Bc2 Kg7 27.g4 h6 28.Bb1 axb4
+29.axb4 b5 30.Bd3 e4+ 31.Bxe4 bxc4 32.Bb1 Nxd5 33.b5 Nc3 34.Bc2 Nxb5 35.Ke2
+Kf6 36.Kd2 g5 37.Be4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.14"]
+[Round "4"]
+[White "Pohjakallio, Timo"]
+[Black "Salikhodjaev, Isroilkhon"]
+[Result "1/2-1/2"]
+[Section "III Division:2"]
+[Board "4"]
+[WhiteTeam "Shakkiseura Aatos 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5 e6 8.Bd3 exd5 9.cxd5
+Re8 10.O-O c4 11.Bc2 Na6 12.Kh1 Nc5 13.Nd2 b5 14.a3 Bd7 15.Qf3 a5 16.e5 dxe5
+17.fxe5 Rxe5 18.Nde4 Rf5 19.Nxf6+ Rxf6 20.Qe2 Bg4 21.Qe1 Rxf1+ 22.Qxf1 Bxc3
+23.bxc3 Qxd5 24.Bh6 Qh5 25.Be3 Ne6 26.Bb6 Qe5 27.Qe1 Qe2 28.Qxe2 Bxe2 29.Be4
+Ra6 30.Be3 Rd6 31.Re1 Bd3 32.Bf3 h5 33.h3 Kg7 34.Kh2 f5 35.Ba7 Ra6 36.Bb8 Kh6
+37.Bd5 Nc5 38.Bf4+ g5 39.Be3 Be4 40.Bf7 Nd3 41.Re2 Rf6 42.Be8 b4 43.axb4 axb4
+44.h4 f4 45.hxg5+ Kxg5 46.Bd4 Re6 47.Bf7 Re7 48.Bxc4 b3 49.Bxd3 Bxd3 50.Rxe7
+b2 51.Rb7 b1=Q 52.Rxb1 Bxb1 53.c4 Kg4 54.c5 Be4 55.Be5 h4 56.Bd6 Bc6 57.Bc7
+Bd7 58.Bd6 f3 59.gxf3+ Kxf3 60.Be7 h3 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.14"]
+[Round "4"]
+[White "Mäkelä, Ari"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "2"]
+[WhiteTeam "Shakkikerho X 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[WhiteElo "1653"]
+[BlackElo "1407"]
+[ECO "E06"]
+
+1.c4 Nf6 2.Nc3 e6 3.g3 d5 4.cxd5 exd5 5.d4 Be7 6.Bg2 O-O 7.Nf3 c6 8.O-O b6
+9.Ne5 Bb7 10.Qb3 Nbd7 11.Nxd7 Qxd7 12.Rd1 Rac8 13.Bg5 Rfe8 14.Rd2 h6 15.Bxf6
+Bxf6 16.Rad1 Rc7 17.Qa4 Ba8 18.a3 Qc8 19.e3 Rce7 20.Rc1 Qd7 21.Rdd1 Qd8 22.b4
+Qd7 23.Qb3 a6 24.a4 Qd8 25.b5 axb5 26.axb5 cxb5 27.Nxd5 Bxd5 28.Bxd5 Qb8
+29.Bc6 Rc8 30.Qxb5 Re6 31.Bd7 Rxc1 32.Rxc1 1-0
