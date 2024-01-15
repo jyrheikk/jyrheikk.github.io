@@ -1,3 +1,42 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1986.01.31"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Mäntynen, Taito"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+[FEN "r1b2r1k/1pqp1pbp/p4npB/n3p3/3NP3/1BN2P2/PPPQ2PP/2KR3R w - - 0 13"]
+
+13.Bxg7+ Kxg7 14.Nf5+! Kh8 (14...gxf5 15.Qg5+ Kh8 16.Qxf6+ Kg8 15.Nd5 {wins
+queen}) 15.Qh6 Nxb3+ 16.axb3 Rg8 17.Nd6! Rg7 18.Qg5! Ng8 19.Qxe5 f6 20.Nf7+
+Rxf7 21.Qxc7 1-0
+
+[Event "Casual Game"]
+[Site "Tampere FIN"]
+[Date "1989.??.??"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Chessmaster 2000"]
+[Result "1-0"]
+[BlackType "program"]
+[FEN "r1b2r1k/pppp1pRp/1qn5/4Q3/2BPP3/2P5/P2BK3/8 w - - 0 17"]
+
+17.Rxf7+!! Nxe5 18.Rxf8+ Kg7 19.Rg8+ Kf6 20.Bg5# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "1994.03.29"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Puusa, Arto"]
+[Result "1-0"]
+[TimeControl "300"]
+[FEN "r2k1r2/4q3/p1p2nQ1/3pp1N1/P7/2P2P2/6P1/3RK2R w - - 0 26"]
+
+26.Rh7! Nxh7 (26...Qe8! 27.Nf7+ Ke7 28.Rb1 {+-}) 27.Qxc6 Qxg5 28.Rxd5+ Ke7
+29.Rd7+ Ke8 30.Rb7+ 1-0
+
 [Event "Lauttasaari Club Tournament"]
 [Site "Helsinki FIN"]
 [Date "1998.03.18"]
@@ -331,6 +370,24 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 15.Bxh6! gxh6 16.Nf6+ (16.Qxh6) Kg7 17.Nh5+ Kg8 18.Qxh6 f5 19.Nf6+ Kf7 20.Ng5#
 1-0
 
+[Event "Friendly Match"]
+[Site "Helsinki FIN"]
+[Date "2009.06.11"]
+[Round "-"]
+[White "Laakso, Harri"]
+[Black "Heikkinen, Jyrki"]
+[Result "*"]
+[Board "1"]
+[WhiteTeam "Rikospoliisien Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
+[WhiteElo "2169"]
+[BlackElo "2077"]
+[TimeControl "600"]
+[FEN "5R2/2p3pk/4p2p/5p1Q/3Pqb2/5N1P/r3rPP1/5RK1 b - - 0 29"]
+
+29...Rxf2! (29...Bg3?? 30.Ng5# {1-0, continued the game}) 30.Rxf2 Ra1+ {mates}
+*
+
 [Event "Lauttasaari Open Ch"]
 [Site "Helsinki FIN"]
 [Date "2009.10.14"]
@@ -504,6 +561,32 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 
 9...b4?? (9...dxe5 10.Nxe5 Be6 {+/=}) 10.exf6 exf6 11.Ne4 fxg5 12.Nxd6+ Ke7
 13.Nxg5 Be6 (13...f6 14.O-O {+-}) 14.Ndxf7 Bxf7 15.Qxf7+ Kd6 16.Ne4# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2011.02.16"]
+[Round "5"]
+[White "Maltez, Nuno"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+2"]
+[FEN "2kr3r/ppp2pp1/1b2q3/8/b1B1PP2/B1P4p/P3Q1PP/1R3R1K b - - 0 20"]
+
+20...hxg2+ 21.Kxg2 Rxh2+! 22.Kxh2 Rh8+ 23.Kg3 Qh3# 0-1
+
+[Event "Nokia Correspondence Tournament"]
+[Site "?"]
+[Date "2011.03.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Silfverberg, Miika"]
+[Result "1-0"]
+[EventDate "2011.03.03"]
+[Mode "ICS"]
+[FEN "rnb2rk1/p3q3/1pp1ppp1/6NP/2BP3Q/2P5/PP5P/R4RK1 w - - 0 17"]
+
+17.hxg6! b5 (17...fxg5 18.Rxf8+ {mates}) 18.Bxe6+ Bxe6 19.Nxe6 Re8 20.Rxf6
+(20.Rxf6 Nd7 21.Raf1 Nxf6 22.Rxf6 Qb7 23.g7 {mates}) 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -824,7 +907,7 @@ bxc6 22.Ba6# 1-0
 [Section "A"]
 [FEN "3rk1r1/p2q1p1p/1np1pRp1/1pB5/3P4/1P1B2QP/P1P3P1/4R1K1 w k - 0 22"]
 
-22.Rexe6+ fxe6 23.Bxg6+ hxg6 24.Qxg6+ Rxg6 25.Rf8# 1-0
+22.Rexe6+ {side line of the game} fxe6 23.Bxg6+ hxg6 24.Qxg6+ Rxg6 25.Rf8# 1-0
 
 [Event "Finland Team Ch"]
 [Site "Joensuu FIN"]
@@ -885,6 +968,35 @@ exf3 23.fxe5 Rxe5 24.Rag1 Re4+ 25.Kg5 Kg7 26.Rg4 h6+ 27.Kh4 g5# *
 
 18.Be5! Nxe7? (18...Bxe5 19.Rxe5 (19.Rfxf7? b5!)) 19.Rxf7 Qxc4 20.Rxg7+ Kh8
 21.Rxe7+ (21.Rxg6+) Kg8 22.Qxc4+ 1-0
+
+[Event "Finland Blitz Team Ch"]
+[Site "Pori FIN"]
+[Date "2017.??.??"]
+[Round "?"]
+[White "Hytönen, Harri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "300"]
+[FEN "5rk1/pp1n4/2pb3p/3p2pq/NP1Pp3/P3PrPb/3B1PBP/3QRRK1 b Qq - 0 1"]
+
+1...Bxg2 2.Kxg2 Rxf2+! 3.Rxf2 Rxf2+ 4.Kxf2 Qxh2+ 5.Kf1 Bxg3 0-1
+
+[Event "Finland Blitz Team Ch"]
+[Site "Jyväskylä FIN"]
+[Date "2018.??.??"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Hentunen, Asko"]
+[Result "*"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Matinkylän Shakkikerho"]
+[TimeControl "300"]
+[FEN "r3q1k1/1p1bB3/p2pp1p1/2p1b3/P1B1P2Q/2N4P/1Pn3P1/5RK1 w - - 0 26"]
+
+26.Nd5!! (26.Rf8+ {0-1 in 38, continued the game}) exd5 27.Bxd5+ Kg7 28.Rf4!!
+{wins, threatening 29.Bf6+ Bxf6 30.Qxf6+ Kh6 31.Rh4#} *
 
 [Event "Helsinki Blitz Team Ch"]
 [Site "Helsinki FIN"]
@@ -956,7 +1068,8 @@ Qxc7 6.Qb4? (6.Ra8+! Kxa8 7.Qxc7) {draw, continued the game}) Qxb8 3.Nc7# *
 [TimeControl "1200+10"]
 [FEN "2rr2k1/1b2ppbp/6p1/p1p3q1/2B5/B3PP2/PP3QPP/2R1K2R b K - 3 18"]
 
-18...Bd4! (18...Bh6 19.Rc3 {1-0 in 33, continued the game}) 19.f4 Qxg2 {-/+} *
+18...Bd4! (18...Bh6 19.Rc3 {1-0 in 33, continued the game}) 19.f4 (19.Ke2
+Bxe3!) Qxg2 {-/+} *
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -969,3 +1082,35 @@ Qxc7 6.Qb4? (6.Ra8+! Kxa8 7.Qxc7) {draw, continued the game}) Qxb8 3.Nc7# *
 
 19.Qh6+ Bg7 20.Qxh7! (20.Qxg6 h6? 21.Qh7 Rxh7 22.Ng6# {1-0, continued the
 game}) Rxh7 21.Nxg6# *
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2023.04.25"]
+[Round "5"]
+[White "Kangas, Mauno"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "A"]
+[Board "2"]
+[WhiteTeam "Itä-Helsingin Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "600+5"]
+[FEN "1k1r3r/pppq2p1/2nb1p2/4p3/QP2P1n1/2P1NNPb/P6P/R1BR2KB b - - 0 17"]
+
+17...Nd4! 18.cxd4 (18.Qxd7 Ne2#) Qxa4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Wilen, Eero"]
+[Result "*"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Itä-Helsingin Shakkikerho"]
+[FEN "4r1k1/ppb1rpPp/2p3n1/2Pp1B1q/3P4/PP6/3B1Q1P/4RR1K w - - 7 29"]
+
+29.Bd7! (29.Rxe7? Rxe7 30.Rg1?? (30.Bd3) Re2 31.Bg4 Qxh2+ {0-1, continued the
+game}) Rd8 30.Rxe7 Nxe7 31.Be6! *
