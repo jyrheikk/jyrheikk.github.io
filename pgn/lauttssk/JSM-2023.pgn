@@ -1116,6 +1116,23 @@ Kf6 36.Kd2 g5 37.Be4 0-1
 [Site "Helsinki FIN"]
 [Date "2024.01.14"]
 [Round "4"]
+[White "Männistö, Kari"]
+[Black "Ahonen, Jari"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Shakkiseura Aatos 2"]
+
+1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 e5 5.Nf3 Bg4 6.Be2 Bxf3 7.Bxf3 exd4 8.Ne2 Nc6
+9.O-O Be5 10.Rb1 Qf6 11.b4 Nge7 12.b5 Nd8 13.Qd3 Ne6 14.Ng3 h5 15.Bd1 h4
+16.Ne2 g5 17.Qh3 Rg8 18.Ba3 g4 19.Qd3 Ng6 20.g3 Ngf4 21.Nxf4 Nxf4 22.Qd2 Ne6
+23.f4 gxf3 24.Rxf3 Qg6 25.Qf2 Ng5 26.g4 Qxe4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.14"]
+[Round "4"]
 [White "Pohjakallio, Timo"]
 [Black "Salikhodjaev, Isroilkhon"]
 [Result "1/2-1/2"]
@@ -1154,3 +1171,21 @@ Bd7 58.Bd6 f3 59.gxf3+ Kxf3 60.Be7 h3 1/2-1/2
 Bxf6 16.Rad1 Rc7 17.Qa4 Ba8 18.a3 Qc8 19.e3 Rce7 20.Rc1 Qd7 21.Rdd1 Qd8 22.b4
 Qd7 23.Qb3 a6 24.a4 Qd8 25.b5 axb5 26.axb5 cxb5 27.Nxd5 Bxd5 28.Bxd5 Qb8
 29.Bc6 Rc8 30.Qxb5 Re6 31.Bd7 Rxc1 32.Rxc1 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.14"]
+[Round "4"]
+[White "Keinänen, Jaakko"]
+[Black "Kimpiharju, Tapio"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[BlackTeam "Shakkikerho X 2"]
+
+1.e4 c5 2.Nc3 g6 3.f4 Nf6 4.Nf3 d5 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.e5 Ne4 8.Nxe4
+dxe4 9.Ng5 f5 10.exf6 exf6 11.Nxe4 Qc6 12.O-O Nd7 13.d3 O-O-O 14.Bd2 Be7
+15.Qf3 h5 16.Bc3 h4 17.Qh3 Rh5 18.f5 g5 19.g4 Rh7 20.Qe3 Re8 21.h3 Nb6 22.Rae1
+Nd5 23.Qd2 Nf4 24.Rxf4 gxf4 25.Qxf4 Rd8 26.Qf2 b6 27.b3 Rd7 28.Ba1 Bd8 29.Nc3
+Bc7 30.Re8+ Rd8 31.Re6 Rd6 32.Re8+?? Qxe8 33.Nb5 0-1
