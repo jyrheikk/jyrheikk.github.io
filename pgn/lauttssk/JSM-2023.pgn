@@ -1010,6 +1010,45 @@ g4 30.hxg4 Qxg4 31.Qxe5+ Kg6 32.f3 Qh4 33.Qf5+ Kg7 34.Qg4+ Qg5 35.Qxg5+ hxg5
 [Site "Helsinki FIN"]
 [Date "2024.01.13"]
 [Round "5"]
+[White "Lehti, Juhani"]
+[Black "Pasanen, Tuomo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Itä-Helsingin Shakkikerho"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.Bg5 O-O
+9.Bxf6 Bxf6 10.Bc4 Nc6 11.Nd5 Be6 12.O-O Rc8 13.c3 Ne7 14.Qb3 Bxd5 15.Bxd5
+Nxd5 16.Qxd5 Qb6 17.Rab1 Qc6 18.Rfd1 Qxa4 19.Qxb7 Qc6 20.Qxc6 Rxc6 21.Ne1 Be7
+22.Nc2 a5 23.Ne3 Rb8 24.Nd5 Bd8 25.Rd2 Rc4 26.f3 a4 27.Kf1 g6 28.g4 Rb3 29.Ra1
+f5 30.gxf5 gxf5 31.Ne3 Rc6 32.Nxf5 a3 33.Rxa3 Rxa3 34.bxa3 Rxc3 35.Rxd6 Bg5
+36.a4 Rxf3+ 37.Kg2 Rf4 38.Rd7 h6 39.Ng3 Bh4 40.a5 Rf6 41.Re7 Ra6 42.Rxe5 Kf7
+43.Nf5 Bd8 44.Rd5 Bxa5 45.Nxh6+ Rxh6 46.Rxa5 Rh4 47.Ra4 Ke6 48.Kg3 Rh8 49.Ra5
+Rg8+ 50.Kh4 Rg2 51.h3 Re2 52.Ra4 Rg2 53.Kh5 Kf6 54.h4 Rg8 55.Ra5 Rg7 56.Rf5+
+Ke6 57.Rg5 Rf7 58.Kg6 Rf6+ 59.Kg7 Rf7+ 60.Kg8 Rf4 61.Rg6+ Ke7 62.h5 Rxe4 63.h6
+Rf4 64.h7 Rf8+ 65.Kg7 Rf7+ 66.Kh6 Rf8 67.Rg8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Ertbjerg, Per"]
+[Black "Havansi, Erkki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 Ne4 7.O-O f5 8.Qb3 Nxd2
+9.Nxd2 Qg5 10.d5 Bc5 11.e4 O-O 12.exf5 Na6 13.Nf3 Qh5 14.Bd2 exd5 15.Rae1 Bd6
+16.Bc2 Rf6 17.Ne5 Nc5 18.Qf3 Qxf3 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
 [White "Heikkinen, Jyrki"]
 [Black "Wilen, Eero"]
 [Result "0-1"]
@@ -1025,6 +1064,59 @@ g4 30.hxg4 Qxg4 31.Qxe5+ Kg6 32.f3 Qh4 33.Qf5+ Kg7 34.Qg4+ Qg5 35.Qxg5+ hxg5
 28.Qxf7+! Rxf7 29.Rxe8+) 28.Bf5 Qe8 29.Bg5 {+-}) Qh5 27.Qf2 Re7 28.Bd2 Rae8??
 29.Rxe7? (29.Bd7! {+-} Rd8 30.Rxe7 Nxe7 31.Be6!) Rxe7 30.Rg1?? (30.Bd3) Re2
 31.Bg4 Qxh2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Tuovinen, Jukka"]
+[Black "Laine, Karri"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2
+Re8 9.O-O Nd7 10.Bf4 Nf8 11.Bxd6 Qxd6 12.Ng3 g6 13.Qc2 f5 14.Rfe1 Rxe1+
+15.Rxe1 Be6 16.a3 c5 17.Bf1 Rc8 18.dxc5 Qxc5 19.Qd2 Qe7 20.Ne2 Qd8 21.Qxd8
+Rxd8 22.Nd4 Kg7 23.f3 Kf6 24.Kf2 g5 25.Rd1 h5 26.Be2 f4 27.Nb5 Rxd1 28.Bxd1 a6
+29.Nd4 Ng6 30.Bc2 Ne5 31.b3 g4 32.Be4 Bc8 33.g3 fxg3+ 34.Kxg3 gxf3 35.Nxf3 b6
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Kauppala, Pekka"]
+[Black "Haggren, Stig-Olof"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Itä-Helsingin Shakkikerho"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nxc3 4.dxc3 d6 5.Bf4 Nc6 6.Nf3 dxe5 7.Qxd8+ Kxd8
+8.O-O-O+ Ke8 9.Nxe5 Nxe5 10.Bxe5 c6 11.Bc4 f6 12.Bc7 Bf5 13.Rhe1 Rc8 14.Bg3 b5
+15.Bb3 c5 16.Bd5 c4 17.Bb7 Rd8 18.Bc6+ Bd7 19.Rxd7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Sarsa, Erkki"]
+[Black "Aakio, Seppo"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d6 2.c4 Nf6 3.Nc3 c6 4.e4 Nbd7 5.Be3 e5 6.Be2 Be7 7.Qd2 Qc7 8.g4 h6 9.f4
+Qa5 10.O-O-O exd4 11.Bxd4 Nc5 12.g5 hxg5 13.fxg5 Ng4 14.Nf3 Ne6 15.h3 Nxd4
+16.Qxd4 Ne5 17.c5 Nxf3 18.Qxg7 Bxg5+ 19.Kc2 Rf8 20.Bxf3 Qxc5 21.e5 Qf2+ 22.Be2
+Bf5+ 23.Kb3 Qb6+ 24.Ka3 Be7 25.exd6 Bxd6+ 26.Rxd6 Qc5+ 27.Kb3 Qxd6 28.Rd1 Qg6
+29.Qd4 Bc2+ 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -1047,6 +1139,28 @@ Kf8 29.f4 Ke7 30.Kd2 f5 31.f3 Nd7 32.Ke3 Kf6 33.h4 Nc5 34.Bg8 h6 35.Bc4 a4
 36.Kd4 Ne6+ 37.Ke3 a3 38.Bd5 Nc5 39.Kd4 Ne6+ 40.Ke3 Nc7 41.Bc4 Na6 42.Kd4 Nb4
 43.Kc3 a2 44.Kb2 a1=Q+ 45.Kxa1 Nc2+ 46.Kb2 Ne1 47.Kc3 Nxf3 48.exf5 Kxf5
 49.Bd3+ Kxf4 50.Bxg6 Nxh4 51.Bf7 Nf3 52.Kc4 Ne5+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.01.13"]
+[Round "5"]
+[White "Hakulinen, Pauli"]
+[Black "Kivinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Itä-Helsingin Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 6.c4 c5 7.cxd5 Nxd5 8.e4 Nf6
+9.Nc3 cxd4 10.Nxd4 e5 11.Nf5 Bc5 12.Bg5 Qxd1 13.Raxd1 Nbd7 14.Na4 Bb4 15.a3
+Ba5 16.Rc1 Bd8 17.Nd6 Be7 18.Rfd1 Rd8 19.Nf5 Kf8 20.Nxe7 Kxe7 21.Rc7 h6
+22.Bxf6+ gxf6 23.Nc5 Ke8 24.Nxb7 Bxb7 25.Rxb7 Nc5 26.Rxd8+ Rxd8 27.Rxa7 Rd1+
+28.Bf1 Nxe4 29.Kg2 Rd2 30.b4 Rxf2+ 31.Kg1 Rb2 32.Rc7 Rb1 33.Kg2 Rb2+ 34.Kh3
+Ng5+ 35.Kg4 Rxh2 36.Rc8+ Kd7 37.Rh8 f5+ 38.Kxf5 Rf2+ 39.Kxe5 Rxf1 40.Rxh6 Rf3
+41.a4 Ne6 42.g4 Rb3 43.Kf6 Rf3+ 44.Ke5 Ke7 45.g5 Nxg5 46.Rb6 Ne6 47.Rb7+ Kd8
+48.a5 Ra3 49.Rxf7 Nc7 50.Kd6 Rd3+ 51.Kc6 Rc3+ 52.Kb6 Nd5+ 53.Kb5 Nc7+ 54.Kb6
+Nd5+ 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Espoo FIN"]
