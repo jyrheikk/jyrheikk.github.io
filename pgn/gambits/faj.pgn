@@ -2099,3 +2099,22 @@ Qe7 17.Rac1 Qg7 18.Bxf6 Rxf6 19.Qc3 Raf8 20.b4 axb4 21.axb4 Nd7 22.b5 Nce5
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.Nbd2 Nc5 6.e3 d6 7.exd6 Bxd6 8.Nb3 Qf6
 9.Be2 Bf5 10.Nxc5 Bxc5 11.Qd5? Bb4+ 12.Bd2 Rd8 (12...O-O!) 13.Qb5 Bxd2+
 14.Nxd2 O-O 15.Nf3 a6 16.Qb3 Rfe8 17.O-O {no more moves recorded} 1-0
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2024.02.10"]
+[Round "6"]
+[White "Lehtosaari, Mauri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2177"]
+[BlackElo "2089"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.Qc2 d5 7.cxd5 Qxd5 8.Bf4 Bf5
+9.Nc3 Qc5 10.Be3 Qa5 11.Bd2 (11.Rc1! Ng3 12.Qb3) Qc5 (11...Nb4! 12.Qc1 Nxd2
+13.axb4 Nxf3+ 14.gxf3 Qxb4) 12.Be3 Qa5 13.Bd2 Qc5 14.Be3 1/2-1/2
