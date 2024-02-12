@@ -1321,3 +1321,114 @@ dxe4 9.Ng5 f5 10.exf6 exf6 11.Nxe4 Qc6 12.O-O Nd7 13.d3 O-O-O 14.Bd2 Be7
 15.Qf3 h5 16.Bc3 h4 17.Qh3 Rh5 18.f5 g5 19.g4 Rh7 20.Qe3 Re8 21.h3 Nb6 22.Rae1
 Nd5 23.Qd2 Nf4 24.Rxf4 gxf4 25.Qxf4 Rd8 26.Qf2 b6 27.b3 Rd7 28.Ba1 Bd8 29.Nc3
 Bc7 30.Re8+ Rd8 31.Re6 Rd6 32.Re8+?? Qxe8 33.Nb5 0-1
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2024.02.10"]
+[Round "6"]
+[White "Lehtosaari, Mauri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2177"]
+[BlackElo "2089"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 Nc6 5.Nf3 d6 6.Qc2 d5 7.cxd5 Qxd5 8.Bf4 Bf5
+9.Nc3 Qc5 10.Be3 Qa5 11.Bd2 (11.Rc1! Ng3 12.Qb3) Qc5 (11...Nb4! 12.Qc1 Nxd2
+13.axb4 Nxf3+ 14.gxf3 Qxb4) 12.Be3 Qa5 13.Bd2 Qc5 14.Be3 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Kirkkonummi FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Kivinen, Jyrki"]
+[Black "Grönroos, Matti"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Kirkkonummen Shakkikerho"]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 Nf6 5.d3 fxe4 6.dxe4 Bc5 7.O-O d6 8.Bg5 O-O
+9.Nd5 Kh8 10.c3 Ne7 11.Nxe7 Qxe7 12.Qc2 Qf7 13.Bh4 Qg6 14.Bd3 Nh5 15.Ne1 Rf4
+16.Bg3 Nxg3 17.hxg3 Qxg3 18.b4 Bb6 19.c4 Bd4 20.Rd1 Bg4 21.Rd2 Bh5 0-1
+
+[Event "Finland Team Ch"]
+[Site "Kirkkonummi FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Karkinen, Jaro"]
+[Black "Männistö, Kari"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Kirkkonummen Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.f4 d5 2.Nf3 e6 3.e3 c5 4.b3 Nf6 5.Bb2 Be7 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O Qc7
+9.Nc3 a6 10.Ne2 Rc8 11.c4 O-O 12.Ng3 g6 13.Qe2 Rfe8 14.Ne5 Rcd8 15.d4 cxd4
+16.exd4 dxc4 17.bxc4 Nb8 18.Rad1 Nc6 19.Kh1 Qb6 20.c5 Qc7 21.Ne4 Nxe4 22.Qxe4
+Rd5 23.Nc4 Bf6 24.Nb6 Rdd8 25.Nc4 Re7 26.Rf3 Red7 27.Rfd3 Nb4 28.Nd6 Nxd3
+29.Qxd3 Bg7 30.g4 Qc6+ 31.Kg1 Qd5 32.f5 exf5 33.gxf5 b6 34.Qe2 bxc5 35.Ne8
+Qxf5 36.Nxg7 Kxg7 37.dxc5+ f6 38.Rxd7+ Rxd7 39.Ba3 Qd5 40.Qe3 Qd4 41.Kf2 Qxe3+
+42.Kxe3 Kf7 43.Ke4 Ke6 44.Bb4 Rc7 45.h4 Rc6 46.Kd4 h5 47.Bd2 Rc8 48.Kc4 Rd8
+49.Ba5 Rc8 50.Bd2 Rc6 51.Be3 Rc8 52.Bf4 Rg8 53.Be3 g5 54.Bf2 g4 55.Bg3 f5
+56.c6 Rc8 57.Kc5 Ke7? (57...Rf8) 58.Kb6 a5 59.Bf4 Kd8?? (59...Ke6) 60.Kb7 Rxc6
+61.Kxc6 Ke7 62.Kd5 Kf6 63.Be5+ Kg6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Kirkkonummi FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Valli, Lauri"]
+[Black "Ilkka, Oskari"]
+[Result "0-1"]
+[Section "III Division:2"]
+[Board "4"]
+[WhiteTeam "Kirkkonummen Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.Nf3 Nf6 5.c4 Qe4+ 6.Be2 g6 7.Nc3 Qc6 8.O-O Bg7
+9.Ne5 Qc7 10.f4 O-O 11.d4 cxd4 12.Qxd4 Rd8 13.Qf2 (13.Nb5! Qa5 14.b4 Rxd4
+15.bxa5 Nc6 16.Nxd4 Nxd4) Nc6 14.Nb5 Qa5 15.Rd1 Rxd1+ 16.Bxd1 a6 17.Nxc6 bxc6
+18.Bd2 Qd8 19.Bf3 axb5 20.Rd1 bxc4 21.Bxc6 Rxa2 22.Qe1 Qb6+ 23.Kh1 Qxc6 24.Bb4
+Bb7 25.Rd8+ Bf8? 26.h3? (26.Rxf8+! Kg7 27.Rxf7+ Kh8 28.Rf8+ Kg7 {=}) Qxg2# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Salo, Mikko"]
+[Black "Lehtelä, Antti"]
+[Result "1-0"]
+[Section "III Division:3"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Shakkiseura Gambiitti 3"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 c6 4.Bd3 d5 5.e5 Nh6 6.h3 f6 7.exf6 exf6 8.Qe2+ Kf7
+9.O-O Re8 10.Qd1 Be6 11.Bd2 Nd7 12.Qc1 Nf5 13.Nc3 Rc8 14.Ne2 Nb6 15.b3 Nd6
+16.Bf4 Bf5 17.Bxf5 Nxf5 18.Qd2 Qd7 19.Rad1 Bf8 20.Nc1 Nd6 21.Bxd6 Qxd6 22.Nd3
+Nd7 23.Rfe1 Qc7 24.Qc1 Qa5 25.a4 Qb6 26.Qf4 Kg7 27.h4 Qd8 28.h5 b6 29.hxg6
+hxg6 30.Qg3 Rxe1+ 31.Rxe1 Be7 32.Nf4 Nf8 33.Nh4 Bd6 34.Nhxg6 Bxf4 35.Nxf4+ Kf7
+36.Nh5 Ng6 37.Qg4 Qd6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Kukkonen, Martti"]
+[Black "Salikhodjaev, Isroilkhon"]
+[Result "1/2-1/2"]
+[Section "III Division:3"]
+[Board "3"]
+[WhiteTeam "Shakkiseura Gambiitti 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 O-O 6.Bg2 Nbd7 7.Nf3 e5 8.O-O exd4
+9.Nxd4 Re8 10.Re1 Nc5 11.f3 h6 12.Be3 Nfd7 13.Qd2 Kh7 14.Rac1 Ne5 15.Bf1 Ne6
+16.Be2 Nxd4 17.Bxd4 Be6 18.Nd5 c6 19.Nf4 Qf6 20.Kg2 Nxf3 1/2-1/2
