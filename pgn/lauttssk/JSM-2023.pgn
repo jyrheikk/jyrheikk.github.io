@@ -1402,6 +1402,25 @@ Bb7 25.Rd8+ Bf8? 26.h3? (26.Rxf8+! Kg7 27.Rxf7+ Kh8 28.Rf8+ Kg7 {=}) Qxg2# 0-1
 [Site "Helsinki FIN"]
 [Date "2024.02.11"]
 [Round "5"]
+[White "Vesa, Sampo"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[Section "III Division:3"]
+[Board "1"]
+[WhiteTeam "Shakkiseura Gambiitti 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 e5 4.g3 Nf6 5.Bg2 Be7 6.O-O O-O 7.Re1 d6 8.Nbd2 h6
+9.Nf1 Be6 10.Ne3 Qc8 11.Nh4 Rd8 12.Nef5 Bf8 13.f4 Ne7 14.Nxe7+ Bxe7 15.f5 Bd7
+16.c4 b5 17.b3 b4 18.Be3 Bc6 19.Nf3 Bf8 20.h3 Nh7 21.g4 f6 22.h4 Be7 23.Qd2
+Be8 24.g5 fxg5 25.hxg5 h5 (25...hxg5 26.Nxg5 Bxg5 27.Bxg5 Nxg5 28.Qxg5 Rd7)
+26.Kf2 g6 27.Nh4 Qd7 28.Rh1 Rdc8 29.Bh3 Qd8 30.fxg6 Nxg5 31.Bxc8 Rxc8 32.Nf5
+Bc6 33.Nxe7+ Qxe7 34.Bxg5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.02.11"]
+[Round "5"]
 [White "Salo, Mikko"]
 [Black "Lehtelä, Antti"]
 [Result "1-0"]
@@ -1432,3 +1451,23 @@ hxg6 30.Qg3 Rxe1+ 31.Rxe1 Be7 32.Nf4 Nf8 33.Nh4 Bd6 34.Nhxg6 Bxf4 35.Nxf4+ Kf7
 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 O-O 6.Bg2 Nbd7 7.Nf3 e5 8.O-O exd4
 9.Nxd4 Re8 10.Re1 Nc5 11.f3 h6 12.Be3 Nfd7 13.Qd2 Kh7 14.Rac1 Ne5 15.Bf1 Ne6
 16.Be2 Nxd4 17.Bxd4 Be6 18.Nd5 c6 19.Nf4 Qf6 20.Kg2 Nxf3 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.02.11"]
+[Round "5"]
+[White "Pitkänen, Petri"]
+[Black "Paasonen, Pasi"]
+[Result "1/2-1/2"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Matinkylän Shakkikerho 6"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[WhiteElo "1355"]
+[BlackElo "1399"]
+[ECO "A18"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d6 4.d4 Be7 5.Nf3 b6 6.Bd3 Bb7 7.O-O O-O 8.e5 dxe5
+9.Nxe5 Nbd7 10.Bf4 a6 11.Bc2 Rc8 12.d5 exd5 13.cxd5 Bd6 14.Nxd7 Qxd7 15.Bxd6
+Qxd6 16.Bb3 c6 17.dxc6 Qxc6 18.f3 Qc7 19.Rc1 Qf4 20.Ne2 Qe3+ 21.Kh1 Rxc1
+22.Nxc1 Qc5 23.Nd3 Qd6 24.Nf2 Rd8 25.Qxd6 1/2-1/2
