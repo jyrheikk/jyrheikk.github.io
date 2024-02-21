@@ -480,3 +480,19 @@ Bxf3 15.Bxf3 (15.gxf3!) Qc4 16.Rc1 Nxd4 (16...Bxd4 17.Bxd4 Qxd4 18.Bxc6 Qxd1+
 27.Rd5 Kf6 28.Rd6+ Ke7 29.Rd5 Rc5 30.Rxc5? Bxc5 31.Kf1 h6 32.Ke2 g5 33.h3 Kf6
 34.Ba4 Bb6 35.Be8 Bc5 36.Bh5 Bb6 37.Kd3 Ba5 38.f3 Be1 39.g4 f4 40.exf4 gxf4
 41.Ke4 Kg5 42.Be8 Bf2 43.Bd7 Be1 44.Bc8 Bf2 45.a4 Be1 46.Bd7 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.02.21"]
+[Round "-"]
+[White "Fieandt, Ghia"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.d5 Bg7 8.Bb2 O-O
+9.Nf3 Bg4 10.Be2 Qa5 11.Qc2 Nd7 12.h3 Bxf3 13.Bxf3 Ne5 14.Qe2 f5 15.O-O c4
+16.Rfd1 Nd3 17.Rxd3 cxd3 18.Qxd3 Rac8 19.exf5 gxf5 20.Rc1 Qxa2 21.Rc2 Rcd8
+22.Qe2 Bf6 (22...b5) 23.Bc1 (23.c4) Qa5 24.Qe6+ Kh8 25.Bd2 Qa1+ 26.Kh2 Qb1
+27.Rc1 Qd3 28.Bh6 Rg8 29.c4 Rd6 30.Qe1 Bb2 31.Be2? (31.Bf4) Qe4 32.Bf3 Qxe1
+33.Rxe1 Rxh6 34.Rxe7 Rb6 35.c5 Rb5 36.c6 bxc6 37.dxc6 a5 38.c7 Rc8 39.Bc6 Rc5
+40.Rd7 Be5+ 41.f4 Bxf4+ 42.g3 Bxc7 0-1
