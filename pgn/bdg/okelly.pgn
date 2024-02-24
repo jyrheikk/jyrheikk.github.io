@@ -45,23 +45,6 @@ Bxc3+ 10.bxc3 Bd7 11.Nf3 O-O 12.Ba3 Re8 13.O-O Na6 14.Ng5 h6 15.Nxf7! Kxf7
 16.e5 b4 17.Rxf6+! gxf6 (17...Kg8 18.Raf1 Kh8 (18...bxa3 19.Rxh6) 19.Qh3 Kh7
 20.Bc1 {+-}) 18.Qh7+ Kf8 19.Bc1 Re7 20.Bxh6+ Ke8 21.Qg8# 1-0
 
-[Event "Lauttasaari Ch"]
-[Site "Helsinki FIN"]
-[Date "2003.05.15"]
-[Round "3"]
-[White "Heikkinen, Jyrki"]
-[Black "Joutsivuo, Timo"]
-[Result "0-1"]
-[TimeControl "40/5400:1800"]
-
-1.d4 Nf6 2.Nc3 d5 3.e4 c6 4.f3 dxe4 5.Be3 Qb6 6.Qd2 exf3 7.Nxf3 Nd5 8.Nxd5
-cxd5 9.c4 e6 10.c5 Qd8 11.Rc1 Nc6 12.b4 a6 13.Bf4?! Be7 14.Bd3 Bh4+ 15.g3
-(15.Nxh4) Bf6 16.Bb1 O-O 17.O-O Nxd4!? 18.Nxd4 e5 19.Qd3 g6 20.Bh6 exd4
-21.Bxf8 Kxf8 22.Qf3 (22.c6) Kg7 23.c6 bxc6 24.Rxc6 Be6 25.Qf2 Be5 26.Bd3 Qe7
-27.Re1 (27.Qb2) f6 28.Qe2? h5 29.Bxa6 Bg4 30.Qd3 Bf5 31.Qf1 Qxb4 32.Rd1 Qa4
-33.Rb6 Qxa2 34.Bd3 Be4 35.Rb7+ Kh6 36.Re1 Qd2 37.Bxe4 dxe4 38.Re2 Qd3 39.Re7
-Qf3 40.Rf2 Qe3 41.Kh1 d3 42.Rxe5 fxe5 43.Rf8 Qe2 44.Qxe2 dxe2 0-1
-
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2003.07.23"]
@@ -231,6 +214,24 @@ Nf8?? 13.c3 (13.Ne5 {+-}) Ng6 14.e5 Nd5 15.Bxg6 fxg6 16.Qxg6 Rf8 17.Bxh6! gxh6
 23.Qxe3 Bxh4 24.Qh6 Rf7 25.Qxh4 Rh7 26.Qxd8+ Rxd8 27.Ng5 Rg7 28.Ne4 Bc8 29.Rf3
 Rf8? 30.Nf6+ Kf7 31.Nh5+ 1-0
 
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2013.06.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c6 5.Bc4 Bf5 6.g4 Bg6 7.g5 Nd5 8.Nxe4 e6
+9.Ne2 Bd6 10.c3 b5 11.Bd3 Qc7 12.Nxd6+ Qxd6 13.Ng3 Nf4 14.Bxg6 hxg6 15.Qd2 Nh3
+16.Ne4 Qc7 17.Qe3 Nd7 18.Bd2 Nb6 19.b3 Nd5 20.Qe2 Ndf4 21.Qf1 O-O-O 22.O-O-O
+Rh4 23.Kb2 e5 24.a4 exd4 25.axb5 dxc3+ 26.Bxc3 Rxd1 27.Qxd1 Nd5 28.Be1 Qe5+
+29.Kb1? (29.Ka3) Rh8? (29...Rxe4! {-/+}) 30.Qc2 Kb8 31.Bg3 Nhf4 32.Qxc6 (32.Rd1
+{+-}) Rc8 33.Qd6+ Qxd6 34.Nxd6 Rc3 35.Rd1 Rc5 36.Rxd5 (36.b4) 1-0
+
 [Event "Helsinki Blitz Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2015.10.19"]
@@ -323,24 +324,6 @@ O-O 16.Bg5 h6 17.Bh4 g5 18.Bg3 Nd5 19.Qb2 Qb6 20.Qd2 f5? 21.Be5 Qd8 22.h4 g4??
 23.Qxh6 Rf6 24.Qg5+ Kf8 25.Bc4 Rf7 26.Qh6+ Ke8 27.Ng5 g3+ 28.Kg1 Qd7 29.Nxe6
 Rh7 30.Qf8# 1-0
 
-[Event "Finland Blitz Team Ch"]
-[Site "Pori FIN"]
-[Date "2017.08.06"]
-[Round "4"]
-[White "Heikkinen, Jyrki"]
-[Black "Kivi, Jouni"]
-[Result "1-0"]
-[Board "3"]
-[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
-[BlackTeam "Hämeenlinnan Shakkikerho"]
-[WhiteElo "2020"]
-[BlackElo "1964"]
-[TimeControl "300"]
-
-1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 c6 5.Be3 exf3 6.Nxf3 e6 7.Bd3 Be7 8.O-O Nbd7
-9.Qe2 Nb6 10.Ne5 Nbd5 11.Rae1 Nxe3 12.Qxe3 c5? 13.Bb5+ Bd7?? 14.Bxd7+ Nxd7
-15.Nxf7 cxd4 16.Qxe6 Qb6 17.Qxe7# 1-0
-
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2017.11.15"]
@@ -380,6 +363,55 @@ Nbd7?? 9.Nxf7 Kxf7 10.Rxf5 Bd6 11.Ne4 Bc7 12.Ng5+ Kg6 13.Nxe6 Qe7 14.Rg5+ 1-0
 Qxf1+?? 23.Bxf1 Nf6? 24.Qxf7+ Kh8 25.Qxb7 cxd4 26.cxd4 Rac8 27.Nf7+ Kg8 28.Nd6
 Rc1 29.Kg1?? (29.Qf7+) Rf8 30.Qe7 Rxf1+ 31.Kxf1 Nd5+ 32.Ke2?? (32.Qxf8+) {no
 more moves recorded} 0-1
+
+[Event "Finland Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.05"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Reiter, Artemi"]
+[Result "1-0"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Chess Galaxy XL"]
+[TimeControl "900+5"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Bf5 5.g4 Bg6 6.Nge2 e6 7.Nf4 Bd6 8.h4 Bxf4
+9.Bxf4 h6 10.Qd2 Nd7 11.O-O-O b5 12.Bxb5 e3 13.Qxe3 cxb5 14.Nxb5 e5?? 15.Bxe5
+Nxe5 16.Qxe5+ (16.dxe5 Qe7 17.Nd6+ Kf8 18.h5) Kf8 17.Rd2 Qd7 18.Re1 Nf6 19.h5
+Be4 20.Rxe4 Nxe4 21.Qxe4 Re8 22.Qd3 Re1+ 23.Rd1 Rxd1+ 24.Kxd1 Qxg4+ {no more
+moves recorded} 1-0
+
+[Event "Finland Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2021.12.05"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Khanov, Pavel"]
+[Result "1-0"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 2"]
+[WhiteElo "2089"]
+[BlackElo "2068"]
+[TimeControl "900+5"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 Bf5 7.Nge2 e6 8.g4 Bg6
+9.Nf4 Nd5 10.Bxd5 cxd5 11.h4 h6 12.Nxg6 fxg6 13.Qd3 Kf7 14.O-O-O Nc6 15.h5 Qf6
+16.f4 Bd6 17.Rdf1 a6 18.f5 gxf5 19.Nxd5 Qd8 20.Nf4 Nb4 21.Qb3 Bxf4 22.Bxf4
+Qxd4 23.gxf5 Rhc8 24.Qxe6+ Kf8 25.Bd6+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.12.15"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Mikko"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 c6 3.Nc3 Nf6 4.f3 dxe4 5.Bc4 Bf5 6.g4 Bg6 7.h4 h5 8.g5 Nd5 9.Nxe4
+e6 10.Nh3 Be7 11.Bb3 Nd7 12.c4 Nc7 13.Nf4 e5? 14.Nxg6 fxg6 15.c5 Rf8 16.Qc2
+Rxf3 17.Nd6+ Bxd6 18.Qxg6+ Rf7?? 19.Qxf7# 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -431,20 +463,6 @@ Nxe4 40.Kxe4 1-0
 16.a4 N5b6 17.axb5 cxb5 18.Nd6 Nc8 19.Nxb7 Qxb7 20.c4 bxc4 21.Bxc4 Ncb6
 22.Qb4+ Kd8 23.Rxa6 Qc6 24.Bb5 Qc7 25.Bxd7 Nxd7 26.Ra8+ Nb8 27.Rxb8+ Kd7
 28.Rb7 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2023.07.19"]
-[Round "4"]
-[White "Heikkinen, Jyrki"]
-[Black "Kinnunen, Matti"]
-[Result "1-0"]
-[TimeControl "300"]
-
-1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 c6 5.Bf4 exf3 6.Nxf3 e6 7.Bd3 Bd6 8.Bg5 Nbd7
-9.O-O O-O 10.Qe1 Be7 11.Qh4 Re8 12.Ne5 h6?? 13.Bxh6 gxh6 14.Nxf7 Kxf7 15.Qh5+
-Kf8 16.Qxh6+ (16.Qxh6+ Kg8 17.Bh7+! Nxh7 (17...Kh8 18.Bf5+ Kg8 19.Bxe6#)
-(17...Kf7 18.Qg6+ Kf8 19.Qg8#) 18.Qg6+ Kh8 19.Rf7) 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
