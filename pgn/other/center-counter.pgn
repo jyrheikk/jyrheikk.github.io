@@ -892,7 +892,7 @@ Ka8 23.Bxg5 Qxg5 24.h3 h5 25.f3 hxg4 26.fxg4 0-1
 [Event "Friendly Match"]
 [Site "Helsinki FIN"]
 [Date "2009.06.11"]
-[Round "?"]
+[Round "-"]
 [White "Laakso, Harri"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
@@ -1021,6 +1021,25 @@ Bd6 28.Re4 (28.Bxd5 Bxe5 29.fxe5) Nb6 29.Bb3 a5 30.a4 {no more moves recorded}
 (19.Qf2) Nf6 20.Bh4 Qf4 21.Kf1 Qxd4 22.Bf2 Qxc4+ 23.Kg1 Rd7 24.Rc1 b6 25.Kh2?
 (25.Ne4 Qxb5 26.Bxc5 {+/-}) Ng4+ 26.Kg1 Nxf2 27.Qxf2 Qd4 {-/+} {no more moves
 recorded} 1/2-1/2
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2011.05.23"]
+[Round "?"]
+[White "Mäki-Fränti, Petri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[TimeControl "1200+10"]
+[Stage "Quarter-Final"]
+
+1.e4 d5 2.e5 Bf5 3.d4 c5 4.c3 e6 5.Nf3 Nc6 6.Bb5 Qb6 7.a4 a6 8.Bxc6+ bxc6
+9.O-O Bg4 10.Qd3 Bxf3 11.gxf3 Ne7 12.b4? c4? (12...cxb4 13.cxb4 Nf5 {-/+})
+13.Qe2 Nf5 14.Na3 Qd8 15.Bf4 g5 16.Bg3 h5 17.h3 Rg8 18.Kg2 Bh6 19.b5 g4
+20.fxg4 Nh4+ 21.Kh2 hxg4 22.hxg4 axb5 23.axb5 Bd2? 24.bxc6 Qg5 25.Nb5 Ke7
+26.f4 Qh6 27.Kg1 Rxa1 28.Rxa1 Bxf4 29.Ra7+ Kf8 30.Ra8+ Kg7 31.Rxg8+ Kxg8
+32.c7?? (32.Bxh4 Qxh4 33.Qf3 {+-}) Bxg3 33.c8=Q+ Kg7 34.Qd8 Qc1+ 35.Qf1 Qe3+
+36.Kh1 Qe4+ 37.Kg1 Qe3+ 38.Kh1 Qe4+ 39.Kg1 Nf3+ 40.Qxf3 Qxf3 41.Qg5+ Kf8
+42.Qd8+ Kg7 43.Qg5+ Kh7 44.Qh5+ 1/2-1/2
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
