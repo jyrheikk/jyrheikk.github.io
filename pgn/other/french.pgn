@@ -897,3 +897,21 @@ exf5 (20...Bxc2) 21.Bxf5 Bd7 22.Bxd7 Qxd7 23.exf6 Bd6 24.Qxg7+ (24.f7+! Rxf7
 25.Rxf7 Qxf7 26.Qxd6) Qxg7 25.fxg7 Rxf1+ 26.Rxf1 Rxc2 27.Re1 Kf7 28.Kg1
 (28.g3) Bc5 29.Bxc5 Rxc5 30.Re7+ Kg8 31.Rxb7 Rc2 32.h3 d4 33.Rd7 Rxb2 34.Rxd4
 {no more moves recorded} 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.11"]
+[Round "1"]
+[White "Salo, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 Bd7 7.O-O cxd4 8.cxd4 Nxd4
+9.Nbd2 Nc6 10.Nb3 Qc7 11.Re1 Nge7 12.Bg5 Ng6 13.Rc1 Be7 14.Bxg6 hxg6 15.Bxe7
+Kxe7 16.Nbd4 Qb6 17.Qd2 Nxd4 18.Nxd4 Rac8 19.b3 Rh5 20.Rxc8 Bxc8 21.Nf3 Bd7
+22.b4 Bb5 23.Qf4 f6 24.g4 Rh8 25.Rc1 Bd7 26.exf6+ gxf6 27.g5 Rf8 28.a3 Qd6
+29.gxf6+? (29.Qe3) Rxf6 30.Qg5 Qf4 31.Qxf4 Rxf4 32.Ne5 Kd6 33.Nd3 Rg4+ 34.Kf1
+Bb5 35.Ke2 Re4+ 36.Kd2 Rd4 37.Rc3 Rxd3+ 38.Rxd3 Bxd3 39.Kxd3 Ke5 40.Ke3 Kf5
+41.f4 g5 42.fxg5 Kxg5 43.a4 e5 44.Kd3 Kg4 45.b5 Kh3 46.a5 Kxh2 47.Ke3 Kg3
+48.b6 axb6 49.axb6 Kg4 50.Kd3 Kf3 0-1
