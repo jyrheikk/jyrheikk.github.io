@@ -264,3 +264,17 @@ Qxa2 35.e5 Nd5 36.Bg5 h6 0-1
 1.d4 Nf6 2.Bf4 c5 3.c3 Qb6 4.Qd2 g6 5.Nf3 Bg7 6.e3 O-O 7.Bd3 d6 8.O-O Bg4
 9.Qc2 Bxf3 10.gxf3 cxd4 11.cxd4 Nc6 12.Nc3 Nb4 13.Qd2 Nxd3 14.Qxd3 Rac8 15.b3
 Qa5 16.Rfc1 Qh5 17.Qb5?? (17.Kg2 {=}) Rxc3 18.Rxc3 Qxb5 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "Nikulina, Anna"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.b3 d6 5.Nf3 Bg4 6.h3 Bxf3 7.Qxf3 cxd4 8.Bc4
+(8.exd4) e5 9.Bh2? Nbd7 (9...d5) 10.O-O Be7 11.exd4 Qxd4 12.c3 Qc5 13.Qxb7 Rb8
+14.Qf3 d5 15.Ba6 O-O 16.Re1 Bd6 17.Nd2 Qb6 18.Bf1 e4 19.Qd1 (19.Qe3 Bc5
+20.Qe2) Bxh2+ 20.Kxh2 Qxf2 21.Qc2? (21.Qe2) Ne5 22.Rad1 Rb6 23.c4 Nfg4+ 24.Kh1
+Rh6 25.Re2 Qg3 26.Nf3 exf3 27.gxf3 Nxf3 0-1
