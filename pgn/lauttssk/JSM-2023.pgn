@@ -1656,6 +1656,30 @@ Bxh1 49.Kxh1 Rg8 50.Bxf4 Kb7 51.Bg5 Ka6 52.Kg2 Kxa5 53.Kf3 Kb6 54.Be3+ Kc7
 [Site "Helsinki FIN"]
 [Date "2024.03.17"]
 [Round "7"]
+[White "Kumar, Ashwin"]
+[Black "Paajala, Niki"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+[ECO "A81"]
+
+1.d4 f5 2.g3 g6 3.b4 Nf6 4.c4 d6 5.Bb2 Bg7 6.Qb3 c6 7.Nd2 Qc7 8.Ndf3 Be6 9.Ng5
+Bg8 10.Qd3 h6 11.N5f3 Nbd7 12.c5 Ne4 13.Nd2 dxc5 14.Nxe4 c4 15.Qc2 fxe4
+16.Qxe4 Qd6 17.Qe3 Qxb4+ 18.Bc3 Qd6 19.Bg2 Bd5 20.Nf3 b5 21.a3 a5 22.O-O O-O
+23.Qd2 Qc7 24.Qc2 g5 25.e4 Bf7 26.h4 g4 27.Nd2 e5 28.dxe5 Bxe5 29.Rfb1 Nc5
+30.Nf1 Be6 31.Ne3 Nd3 32.Nd1 Qg7 33.Ra2 Bxc3 34.Qxc3 Qxc3 35.Nxc3 b4 36.Na4 c3
+37.Rc2 Rab8 38.axb4 axb4 39.Bf1 Bc4 40.Nxc3 b3 41.Rd2 Ne5 42.Bxc4+ Nxc4 43.Re2
+Rf3 44.Nd1 Rd3 45.Kg2 Na3 46.Nb2 Nxb1 47.Nxd3 Nc3 48.Rb2 Na4 49.Rb1 c5 50.Ne5
+Nc3 51.Rb2 Nxe4 52.f3 Nd6 53.Nd7 Nc4 54.Rb1 gxf3+ 55.Kf2 Rb5 56.Nxc5 Rxc5
+57.Rxb3 Ne5 58.Ra3 Rc2+ 59.Kf1 Kf7 60.g4 Rh2 61.Ra7+ Ke6 62.Ra6+ Kd5 63.Rxh6
+Nxg4 64.Rh5+ Ke4 65.Kg1 f2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.17"]
+[Round "7"]
 [White "Hokkanen, Joel"]
 [Black "Männistö, Kari"]
 [Result "1/2-1/2"]
