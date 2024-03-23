@@ -1630,6 +1630,28 @@ Qxd6 16.Bb3 c6 17.dxc6 Qxc6 18.f3 Qc7 19.Rc1 Qf4 20.Ne2 Qe3+ 21.Kh1 Rxc1
 [Site "Helsinki FIN"]
 [Date "2024.03.17"]
 [Round "7"]
+[White "Åberg, Tomi"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Qc2 Nbd7 8.Nf3 0-0
+9.Bd3 Re8 10.0-0 Nf8 11.Rab1 Ng6 12.b4 Ne4 13.Bxe7 Qxe7 14.b5 Ng5 15.Nxg5 Qxg5
+16.bxc6 bxc6 17.f4 Qf6 18.f5 Nf8 19.Qf2 Rd8 20.Qf4 a5 21.Rb6 Qd6 22.Qxd6 Rxd6
+23.Na4 Nd7 24.Rb2 Kf8 25.Rc1 Ba6 26.Bxa6 Rxa6 27.Rb7 Ke8 28.Kf2 Kd8 29.Rcb1
+Ra8 30.Kf3 g6 31.fxg6 hxg6 32.Ke2 Rc8 33.Ra7 c5 34.dxc5 Nxc5 35.Nxc5 Rxc5
+36.Rb8+ Rc8 37.Rxc8+ Kxc8 38.Rxa5 Kb7 39.Kd3 Kb6 40.Ra3 Rf6 41.Rc3 Rf1 42.Rc2
+Rd1+ 43.Ke2 Rb1 44.Kf2 Rb4 45.Kf3 Ra4 46.g4 g5 47.Kg3 Ra3 48.Kf2 Ra4 49.h3 Ra3
+50.Kf3 d4 51.Ke4 Rxe3+ 52.Kxd4 Rxh3 53.Ke4 Rg3 54.Kf5 f6 55.Kxf6 Rxg4 56.Kf5
+Rg1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.17"]
+[Round "7"]
 [White "Heikkinen, Jyrki"]
 [Black "Kivimäki, Kasper"]
 [Result "0-1"]
@@ -1656,6 +1678,26 @@ Bxh1 49.Kxh1 Rg8 50.Bxf4 Kb7 51.Bg5 Ka6 52.Kg2 Kxa5 53.Kf3 Kb6 54.Be3+ Kc7
 [Site "Helsinki FIN"]
 [Date "2024.03.17"]
 [Round "7"]
+[White "Seppälä, Joni"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Nbd2 Nc6 7.Qb3 Qe7 8.0-0
+Nh6 9.Qd3 0-0 10.Nb3 Ng4 11.Bg5 Qd6 12.a3 Bc5 13.Nxc5 Nce5 14.Nxe5 Qxe5 15.f4
+Qxc5 16.b4 Qb6 17.Bb3 Re8 18.Rfd1 Be6 19.Ba4 c6 20.Qxd4 f6 21.Bh4 Red8 22.Qc5
+Ne3 23.Rxd8+ Rxd8 24.Qxb6 axb6 25.f5 Bc4 26.Bf2 Rd3 27.Bxe3 Rxe3 28.Bc2 Re2
+29.Rc1 b5 30.h3 Kf8 31.Kh2 Ke7 32.Kg3 Re3+ 33.Kf4 Rxa3 34.e5 Rc3 35.exf6+ Kxf6
+36.g4 Bd3 37.g5+ Kf7 38.g6+ hxg6 39.fxg6+ Kf6 40.Ke3 Rxc2 41.Ra1 Bxg6 42.Ra7
+Rc3+ 43.Kd2 Rxh3 44.Rxb7 Rb3 45.Rc7 Be4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.17"]
+[Round "7"]
 [White "Kumar, Ashwin"]
 [Black "Paajala, Niki"]
 [Result "0-1"]
@@ -1675,6 +1717,44 @@ Rf3 44.Nd1 Rd3 45.Kg2 Na3 46.Nb2 Nxb1 47.Nxd3 Nc3 48.Rb2 Na4 49.Rb1 c5 50.Ne5
 Nc3 51.Rb2 Nxe4 52.f3 Nd6 53.Nd7 Nc4 54.Rb1 gxf3+ 55.Kf2 Rb5 56.Nxc5 Rxc5
 57.Rxb3 Ne5 58.Ra3 Rc2+ 59.Kf1 Kf7 60.g4 Rh2 61.Ra7+ Ke6 62.Ra6+ Kd5 63.Rxh6
 Nxg4 64.Rh5+ Ke4 65.Kg1 f2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.17"]
+[Round "7"]
+[White "Tikanmäki, Heikki"]
+[Black "Kivinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Päivölän Shakkisiirtelijät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 e6 7.e3 Bd6 8.Bg3 0-0
+9.Bd3 b6 10.a3 Bb7 11.Nb5 Bxg3 12.hxg3 g6 13.Ne5 a6 14.Rc1 Rc8 15.Nxc6 Rxc6
+16.Rxc6 Bxc6 17.Nc3 b5 18.g4 Ne4 19.Qf3 f5 20.Qh3 Qe7 21.Bxe4 fxe4 22.Qh6 Rf7
+23.0-0 b4 24.Ne2 Bb5 25.Re1 Bxe2 26.Rxe2 bxa3 27.bxa3 Qxa3 28.Rc2 Qd6 29.Rc8+
+Rf8 30.Rc5 Rb8 31.g3 Qd7 32.Qf4 Qd8 33.Qe5 Rb6 34.g5 Qf8 35.Qf4 Qxf4 36.gxf4
+Rb7 37.Rc6 Ra7 38.Rxe6 a5 39.Rc6 a4 40.Rc2 Kg7 41.Kg2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.17"]
+[Round "7"]
+[White "Nyrhinen, Harri"]
+[Black "Takala, Jaakko"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bf5 7.Bd3 Qd5 8.Bxf5
+Qxf5 9.Nf3 Bd6 10.0-0 0-0 11.Qb3 b6 12.Be3 Nd7 13.Rad1 Rfd8 14.Rfe1 Qh5 15.c4
+c5 16.dxc5 Nxc5 17.Qc2 f5 18.Rd5 g6 19.Red1 Be7 20.Bxc5 bxc5 21.Rxd8+ Rxd8
+22.Rxd8+ Bxd8 23.Qd2 Bb6 24.Qd5 Qh6 25.g3 Qc1+ 26.Kg2 Qxb2 27.Ne5 Kg7 28.Qxf7+
+Kh6 29.Qf8+ Kh5 30.Qg7 Qd2 31.Qxh7+ Qh6 32.Qe7 Qg5 33.Qf7 a5 34.h4 Qh6 35.Qb7
+Qh8 36.Qf3+ 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
