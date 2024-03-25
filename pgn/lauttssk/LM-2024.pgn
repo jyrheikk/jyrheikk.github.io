@@ -50,3 +50,36 @@ Rac8 16.Rac1 Bd5 17.Rfd1 Bxf3 18.Qxf3 Rxc1 19.Rxc1 Bxd4 20.Bxd4 Qxd4 21.b4 Qd2
 Rh1? (42...b5) 43.Rb6 Ka3 44.Rxb7 a4 45.h6 Ka2 46.h7 a3 47.Kg6 Ka1 48.Rb8 a2
 49.h8=Q+ Rxh8 50.Rxh8 Kb2 51.Rb8+ Kc3 52.Rc8+ Kb2 53.Rb8+ Kc3 54.Rc8+ Kb2
 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "chess.com"]
+[Date "2024.03.24"]
+[Round "1"]
+[White "Salikhodjaev, Isroilkhon"]
+[Black "Fieandt, Ghia"]
+[Result "1-0"]
+[Mode "ICS"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.Bd3 g6 5.f3 Bg7 6.Be3 Nbd7 7.Qd2 a5 8.Bh6 Bxh6
+9.Qxh6 e5 10.Nge2 Qb6 11.Qe3 Qxb2 12.Rb1 Qa3 13.dxe5 dxe5 14.O-O O-O 15.Kh1
+Nh5 16.Qd2 Qe7 17.a4 b6 18.Qe1 Rb8 19.Qf2 Kh8 20.f4 exf4 21.Nxf4 Nxf4 22.Qxf4
+Bb7 23.Ne2 Ba8 24.Nd4 c5 25.Nf3 f6 26.Qh4 Qg7 27.Qg3 Ne5 28.Nxe5 fxe5 29.Rxf8+
+Rxf8 30.Rxb6 Qc7 31.Re6 c4 32.Be2 Qf7 33.Qxe5+ Kg8 34.h3 c3 35.Bc4 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.03.25"]
+[Round "1"]
+[White "Suihko, Ismo"]
+[Black "Paasonen, Pasi"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.e3 c5 5.Nf3 Be7 6.Bd3 0-0 7.0-0 Nbd7 8.cxd5 cxd4
+9.Nxd4 Nxd5 10.Nxd5 exd5 11.Nf3 Nf6 12.Qc2 Bg4 13.Ne5 Be6 14.Bd2 Rc8 15.Bc3 a6
+16.Rad1 Bb4 17.Qd2 Bxc3 18.bxc3 Ne4 19.Bxe4 dxe4 20.Nd7 Re8 21.Qd4 Bxa2 22.Nc5
+Qe7 23.Nd7 h6 24.Nb6 Rcd8 25.Qa4 Qe6 26.c4 Qxb6 27.Qxa2 Rd3 28.Qb1 Qc6 29.Rxd3
+exd3 30.Qxd3 Rc8 31.Rc1 Qc5 32.Qd4 b5 33.Qa1 Rc6 34.Qb1 Qb6 35.cxb5 Qxb5
+36.Rd1 Rc8 37.h3 Qc5 38.Qa1 a5 39.Rd4 Qc3 40.Rd8+ Kh7 41.Qxc3 Rxc3 42.Ra8 Ra3
+43.Kf1 Ra2 44.g4 a4 45.Kg2 g5 46.Kf3 a3 47.Ra7 Kg7 48.e4 Ra1 49.e5 Kf8 50.Ra6
+a2 51.Ra7 Ke8 1/2-1/2
