@@ -16,6 +16,20 @@ Ke7 34.c6) Ke7 34.h4 Kd7 35.h5 Kc6 36.Kf3 Kd7 37.Ke3 Kc6 38.Kd4 Kc7 39.Kd3 Kc6
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2024.03.??"]
+[Round "1"]
+[White "Camden-Dunne, Tamerlane"]
+[Black "Kulkarni, Pranaav"]
+[Result "0-1"]
+
+1.f4 d5 2.Nf3 c5 3.g3 Nc6 4.Bg2 Nf6 5.O-O Qc7 6.d3 e5 7.fxe5 Nxe5 8.Nxe5 Qxe5
+9.Qe1 Bg4 10.Nc3 Be7 11.Bf4 Qh5 12.e4 dxe4 13.dxe4 O-O 14.e5 Nd7 15.Bxb7 Rab8
+16.e6 Rxb7 17.exd7 Rxd7 18.Qe4 Rfd8 19.Rae1 Bf8 20.h4 h6 21.a3 g5 22.hxg5 hxg5
+23.Bc1 Bd6 24.Qg2 c4 25.Ne4 Be7 26.Nf6+ Bxf6 27.Rxf6 Rd1 28.Qf2 Rxe1+ 29.Qxe1
+Rd1 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2024.03.11"]
 [Round "1"]
 [White "Salo, Mikko"]
