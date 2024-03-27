@@ -10,8 +10,8 @@
 Nd4 10.Nxd4 Bxd4 11.Nd5 c6 12.Nxf6+ Qxf6 13.c3 Ba7 14.Be3 Be6 15.Bxa7 Rxa7
 16.Qe3 c5 17.f4 b5 18.fxe5 Qxe5 19.d4 Qh5? (19...Qg5) 20.Bxe6 fxe6 21.Rxf8+
 Kxf8 22.Qf4+ Ke7 23.Rf1 Qe8 24.e5 (24.dxc5) d5 25.dxc5 Kd8 26.Qf8 Re7 27.Qxe8+
-Kxe8 28.g4 a5 29.b4 a4 30.Kg2 Rf7 31.Rxf7 Kxf7 32.Kf3? (32.Ke3 {+-} Ke7 33.c6)
-g5 33.Kg3 Ke7 34.h4 Kd7 35.h5 Kc6 36.Kf3 Kd7 37.Ke3 Kc6 38.Kd4 Kc7 39.Kd3 Kc6
+Kxe8 28.g4 a5 29.b4 a4 30.Kg2 Rf7 31.Rxf7 Kxf7 32.Kf3 g5 33.Kg3? (33.Ke3 {+-}
+Ke7 34.c6) Ke7 34.h4 Kd7 35.h5 Kc6 36.Kf3 Kd7 37.Ke3 Kc6 38.Kd4 Kc7 39.Kd3 Kc6
 40.Kd4 Kc7 41.Kd3 Kc6 42.Kd4 1/2-1/2
 
 [Event "Lauttasaari Ch"]
@@ -75,7 +75,7 @@ Rxf8 30.Rxb6 Qc7 31.Re6 c4 32.Be2 Qf7 33.Qxe5+ Kg8 34.h3 c3 35.Bc4 1-0
 [Result "1/2-1/2"]
 [ECO "D37"]
 
-1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.e3 c5 5.Nf3 Be7 6.Bd3 0-0 7.0-0 Nbd7 8.cxd5 cxd4
+1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.e3 c5 5.Nf3 Be7 6.Bd3 O-O 7.O-O Nbd7 8.cxd5 cxd4
 9.Nxd4 Nxd5 10.Nxd5 exd5 11.Nf3 Nf6 12.Qc2 Bg4 13.Ne5 Be6 14.Bd2 Rc8 15.Bc3 a6
 16.Rad1 Bb4 17.Qd2 Bxc3 18.bxc3 Ne4 19.Bxe4 dxe4 20.Nd7 Re8 21.Qd4 Bxa2 22.Nc5
 Qe7 23.Nd7 h6 24.Nb6 Rcd8 25.Qa4 Qe6 26.c4 Qxb6 27.Qxa2 Rd3 28.Qb1 Qc6 29.Rxd3
