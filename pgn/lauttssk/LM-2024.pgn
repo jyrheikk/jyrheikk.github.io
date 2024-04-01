@@ -119,3 +119,21 @@ Nxd7 9.b3 Qd4 10.Rb1 Qd5 11.Bb2 O-O-O 12.Qxd5 exd5 13.Nf3 Bd6 14.g3 Rhe8+
 43.b5 f4 44.Ne5 Bg1 45.b6 Bc5 46.b7 Bd6 47.a6 Bb8 48.Nc6 f3+ 49.Kd2 f2 50.a7
 Bf4+ 51.Kc2 f1=Q 52.a8=Q Qc1+ 53.Kb3 Qc4+ 54.Kb2 Qxc6 55.b8=Q Qc1+ 56.Ka2 Bxb8
 57.Qxb8 Qd2+ 58.Kb1 g4 59.Qe5 g3 60.Qf5 Qe1+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Site "Helsinki FIN"]
+[Date "2024.04.01"]
+[Round "1"]
+[White "Peitsalo, Olli-Pekka"]
+[Black "Oiling, Alexander"]
+[Result "1-0"]
+[TimeControl "1200+10"]
+[ECO "D70"]
+[Mode "ICS"]
+
+1.d4 Nf6 2.c4 g6 3.g3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Bg2 Bg7 7.Ne2 O-O 8.O-O Nc6
+9.d5 Ne5 10.h3 e6 11.Nec3 exd5 12.exd5 Nbc4 13.a4 Nd6 14.Na3 Bf5 15.Bf4 Qd7
+16.Kh2 Rae8 17.Rc1 Nd3 18.Bxd6 cxd6 19.Rc2 Nb4 20.Rd2 Na6 21.g4 Bxg4 22.Qxg4
+Be5+ 23.f4 Qxg4 24.hxg4 Bg7 25.Nab5 Nc5 26.Nxd6 Rd8 27.Ndb5 a6 28.Nd4 f5 29.b4
+Nd7 30.Nce2 fxg4 31.Ne6 1-0
