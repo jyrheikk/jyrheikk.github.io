@@ -5,7 +5,7 @@
 [White "Valli, Kari"]
 [Black "Kauppinen, Janne"]
 [Result "*"]
-[FEN "8/4b3/8/3kp1p1/pp1p2P1/3P4/PKPN4/8 b - 1 49"]
+[FEN "8/4b3/8/3kp1p1/pp1p2P1/3P4/PKPN4/8 b - - 1 49"]
 
 49...e4! (49...Bd8 50.Ne4 {draw, continued the game}) 50.Nxe4 Ke5 {wins} *
 
@@ -19,10 +19,10 @@
 [Section "II Division:1"]
 [Board "4"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Remi 2"]
+[BlackTeam "Shakkiseura Remissi 2"]
 [WhiteElo "1936"]
 [BlackElo "1731"]
-[FEN "8/8/8/7N/3Kp1p1/4Pk2/8/8 w - 2 60"]
+[FEN "8/8/8/7N/3Kp1p1/4Pk2/8/8 w - - 2 60"]
 
 60.Ng7! (60.Nf4 g3 61.Nh3 g2 62.Ng1+ Kf2 63.Nh3+ Kf3 64.Ng1+ {game ended in
 draw}) Kf2 (60...g3 61.Nf5 g2 62.Nh4+) 61.Nf5 Kf3 62.Kd5 g3 63.Kd4 {winning} *
@@ -40,7 +40,7 @@ draw}) Kf2 (60...g3 61.Nf5 g2 62.Nh4+) 61.Nf5 Kf3 62.Kd5 g3 63.Kd4 {winning} *
 [BlackTeam "Helsingin Shakkiklubi 5"]
 [WhiteElo "1738"]
 [BlackElo "1790"]
-[FEN "8/5R2/6p1/4r1P1/6KP/8/3p4/3k4 w - 0 70"]
+[FEN "8/5R2/6p1/4r1P1/6KP/8/3p4/3k4 w - - 0 70"]
 
 70...Ke2 71.Rd7 d1=Q 72.Rxd1 Kxd1?? (72...Re4+ {-+}) 73.h5 gxh5+ 74.Kxh5 Kd2
 75.Kh6 Ke3 76.g6 1/2-1/2
@@ -58,7 +58,7 @@ draw}) Kf2 (60...g3 61.Nf5 g2 62.Nh4+) 61.Nf5 Kf3 62.Kd5 g3 63.Kd4 {winning} *
 [BlackTeam "Lauttasaaren Shakkikerho 3"]
 [WhiteElo "1740"]
 [BlackElo "1699"]
-[FEN "8/p5pp/3k4/PP6/2P1p3/8/2K5/8 w - 1 45"]
+[FEN "8/p5pp/3k4/PP6/2P1p3/8/2K5/8 w - - 1 45"]
 
 45.b6?? (45.Kd2 {=}) axb6 46.axb6 Kc6 47.c5 h5 48.Kd2 h4 49.Ke3 h3 0-1
 
@@ -75,7 +75,7 @@ draw}) Kf2 (60...g3 61.Nf5 g2 62.Nh4+) 61.Nf5 Kf3 62.Kd5 g3 63.Kd4 {winning} *
 [BlackTeam "Lauttasaaren Shakkikerho 3"]
 [WhiteElo "1637"]
 [BlackElo "1597"]
-[FEN "8/4R3/6k1/6p1/8/1K5p/8/8 w - 0 53"]
+[FEN "8/4R3/6k1/6p1/8/1K5p/8/8 w - - 0 53"]
 
 53.Kc3?? (53.Re8 g4 54.Rh8 {=}) h2 54.Re1 g4 55.Kd2 g3 56.Ke2 g2 57.Kf2 h1=Q
 58.Rg1 Kf5 59.Rxg2 Kf4 60.Rg8 Qf3+ 61.Kg1 Qe3+ 62.Kh2 Qf2+ 63.Rg2 Qh4+ 64.Kg1
@@ -93,7 +93,7 @@ Qe1+ 65.Kh2 Kf3 66.Ra2 Qg3+ 67.Kh1 Qh4+ 68.Kg1 Qg5+ 69.Kh2 Qh6+ 70.Kg1 Qb6+
 [Board "1"]
 [WhiteTeam "Käpylän Shakkikerho 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
-[FEN "8/3r1k2/5p1K/5P2/4p3/8/R7/8 w - 2 84"]
+[FEN "8/3r1k2/5p1K/5P2/4p3/8/R7/8 w - - 2 84"]
 
 84...e3 85.Re2? Rd2 (85...Rd2 86.Rxe3 Rh2+ {mates}) 0-1
 
@@ -111,8 +111,8 @@ Qe1+ 65.Kh2 Kf3 66.Ra2 Qg3+ 67.Kh1 Qh4+ 68.Kg1 Qg5+ 69.Kh2 Qh6+ 70.Kg1 Qb6+
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [WhiteElo "2126"]
 [BlackElo "2046"]
-[FEN "8/r4p2/8/6p1/2kp2P1/2p5/1pK4P/3RR3 b - 3 61"]
+[FEN "8/r4p2/8/6p1/2kp2P1/2p5/1pK4P/3RR3 b - - 3 61"]
 
 61...Ra1! (61...Ra2 62.Rf1 d3+? 63.Rxd3 b1=Q+ 64.Kxb1 Rb2+ 65.Kc1 Kxd3
 {continued the game, draw in 68}) 62.Rf1 b1=Q+ 63.Rxb1 d3+ 64.Kc1 d2+ 65.Kc2
-Ra2+ * {Black is winning}
+Ra2+ {Black is winning} *

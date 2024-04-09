@@ -124,7 +124,7 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 [Result "1-0"]
 [Section "A"]
 [TimeControl "40/5400:900"]
-[FEN "7k/1p5p/5p2/2P5/nPBrp1n1/1K6/6P1/2B4R w - 0 33"]
+[FEN "7k/1p5p/5p2/2P5/nPBrp1n1/1K6/6P1/2B4R w - - 0 33"]
 
 33.Be6 Nf2 34.Kxa4! Nxh1 35.Bb2 1-0
 
@@ -177,7 +177,7 @@ Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 [WhiteElo "2063"]
 [BlackElo "2019"]
 [TimeControl "40/7200:1800"]
-[FEN "5k2/Q3n3/1p6/2pb1pp1/P2p4/3P2P1/1PP3r1/5K2 b - 0 31"]
+[FEN "5k2/Q3n3/1p6/2pb1pp1/P2p4/3P2P1/1PP3r1/5K2 b - - 0 31"]
 
 31...Bf3 (31...Rxc2 {-/+}) 32.Qxb6 Nd5 33.Qxc5+? (33.Qh6+) Kf7 34.Qxd4 f4
 35.gxf4 gxf4 {the mate net is ready} 36.Qa7+ Kg6 37.Qa6+ Kg5 38.d4 Ne3+ 39.Ke1
@@ -207,7 +207,7 @@ Qg6 23.Qf4 {this move I missed in my analysis} e5! 24.dxe5 Bc8 25.Nh4 Qg4
 [Result "0-1"]
 [Stage "Final"]
 [TimeControl "1200+10"]
-[FEN "3q4/r5kp/P2pR1p1/1ppQ3b/3b1P1P/RP4KB/8/8 b - 4 38"]
+[FEN "3q4/r5kp/P2pR1p1/1ppQ3b/3b1P1P/RP4KB/8/8 b - - 4 38"]
 
 38...Qxh4+! 39.Kxh4 Bf2+ 40.Kg5 h6# 0-1
 
@@ -317,7 +317,7 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Karjaan Ura"]
 [TimeControl "40/7200:1800"]
-[FEN "k3r3/p4pp1/Ppp1rnp1/1P2q3/2P5/2N2QP1/7P/1R3RK1 w - 0 28"]
+[FEN "k3r3/p4pp1/Ppp1rnp1/1P2q3/2P5/2N2QP1/7P/1R3RK1 w - - 0 28"]
 
 28.Rbd1!? Qc5+ 29.Kh1 Re3?? (29...Qxc4! {-/+}) 30.Qxc6+ Qxc6+ 31.bxc6 Rxc3?
 (31...Kb8 32.Nb5 {+/-}) 32.c7 Rb8 33.Rd8 Nd7 34.Rxb8+ Nxb8 35.c8=Q 1-0
@@ -348,7 +348,7 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [WhiteElo "2154"]
 [BlackElo "2084"]
 [TimeControl "900"]
-[FEN "r3r1k1/2p2ppp/p1np4/qp1P4/3P1Q2/P2B1P2/1P3P1P/2KR3R b - 0 17"]
+[FEN "r3r1k1/2p2ppp/p1np4/qp1P4/3P1Q2/P2B1P2/1P3P1P/2KR3R b - - 0 17"]
 
 17...b4! 18.Bxh7+ (18.dxc6 bxa3 19.b4 a2 20.bxa5 a1=Q+ {=}) Kxh7 19.Qxf7 bxa3
 20.Rhg1 axb2+ 21.Kb1 Qa1+ 22.Kc2 b1=Q+ 23.Rxb1 Nb4+ (23...Qa4+!) 24.Kb3 Qxd4
@@ -365,7 +365,7 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Espoon Shakkikerho 2"]
 [TimeControl "1200+10"]
-[FEN "r1br2k1/2p1qpp1/pnn1p2p/1p2P3/1b1PNB2/3BQN2/PPP3PP/R4RK1 w - 2 15"]
+[FEN "r1br2k1/2p1qpp1/pnn1p2p/1p2P3/1b1PNB2/3BQN2/PPP3PP/R4RK1 w - - 2 15"]
 
 15.Bxh6! gxh6 16.Nf6+ (16.Qxh6) Kg7 17.Nh5+ Kg8 18.Qxh6 f5 19.Nf6+ Kf7 20.Ng5#
 1-0
@@ -395,7 +395,7 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [White "Wigelius, Pentti"]
 [Black "Mäki-Fränti, Petri"]
 [Result "0-1"]
-[FEN "r1r5/5kp1/1p3pp1/3p4/1q1P2P1/p1pnBP1P/P1R4Q/K4N1R b - 9 35"]
+[FEN "r1r5/5kp1/1p3pp1/3p4/1q1P2P1/p1pnBP1P/P1R4Q/K4N1R b - - 9 35"]
 
 35...Qb2+! (35...Ne1 {continued the game, 0-1 in 45}) 36.Rxb2 cxb2+ 37.Kb1
 Rc1+ 38.Bxc1 bxc1=R# 0-1
@@ -411,7 +411,7 @@ Rc1+ 38.Bxc1 bxc1=R# 0-1
 [WhiteElo "1909"]
 [BlackElo "2117"]
 [Result "*"]
-[FEN "r1b1r1k1/p1b2ppp/1pnq4/3p4/NPpPn3/P3PN1P/2Q1BPP1/R1B1R1K1 b - 1 16"]
+[FEN "r1b1r1k1/p1b2ppp/1pnq4/3p4/NPpPn3/P3PN1P/2Q1BPP1/R1B1R1K1 b - - 1 16"]
 
 16...Bxh3!! (16...Re6 {continued the game, draw in 50}) 17.Ra2 (17.gxh3? Qg6+
 18.Kf1 Ng3+ 19.fxg3 Qxc2 {-+}) Bxg2 18.Kxg2 Qg6+ 19.Kf1 Qf5 20.Rd1 Qh3+ 21.Ke1
@@ -451,7 +451,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [WhiteElo "1916"]
 [BlackElo "1835"]
 [Result "1-0"]
-[FEN "4q1k1/3r4/p1Rrp2p/1p2Qp2/1P1PnP2/P4N2/6PP/2R3K1 w - 2 36"]
+[FEN "4q1k1/3r4/p1Rrp2p/1p2Qp2/1P1PnP2/P4N2/6PP/2R3K1 w - - 2 36"]
 
 36.Rc8! (36.Rxd6 {continued the game, 1-0 in 64}) Rd8 37.R1c7 Qg6 (37...Qf8
 38.Rxd8 Rxd8 39.Qxe6+ Kh8 40.Ne5 {+-}) 38.Qxd6! Nxd6 39.Rxd8+ Ne8 40.Ne5 Qh5
@@ -465,7 +465,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
 [TimeControl "5400"]
-[FEN "2kr1bnr/ppp1p1pp/4qp2/1N3b2/2nP4/1R3N2/P1PBBPPP/3Q1RK1 b - 0 13"]
+[FEN "2kr1bnr/ppp1p1pp/4qp2/1N3b2/2nP4/1R3N2/P1PBBPPP/3Q1RK1 b - - 0 13"]
 
 13...a6 (13...Nxd2 14.Nxa7+! Kb8 15.Qxd2 b6 (15...Kxa7 16.Qa5+ Kb8 17.Rfb1
 {+-}) 16.Ra3 {±}) 14.Nxc7 Kxc7 15.Bxc4 Qxc4 16.Rc3 {White won in move 37} 1-0
@@ -491,7 +491,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [Result "1-0"]
 [Stage "Semi-Final"]
 [TimeControl "1200+10"]
-[FEN "3r4/5pk1/1p1q1Nb1/3PR1Qp/7P/p4P2/6K1/8 w - 0 35"]
+[FEN "3r4/5pk1/1p1q1Nb1/3PR1Qp/7P/p4P2/6K1/8 w - - 0 35"]
 
 35.Nxh5+ {side line of the game} Kh7 36.Nf6+ Kg7 37.h5 a2 38.Re8! {threatening
 39.h6#} 1-0
@@ -527,7 +527,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [BlackTeam "Matinkylän Shakkikerho 4"]
 [WhiteElo "1742"]
 [BlackElo "1732"]
-[FEN "4r3/4Np1k/1qp2Ppp/pp6/3rPQ1P/3B4/PPP3P1/2K4R w - 5 22"]
+[FEN "4r3/4Np1k/1qp2Ppp/pp6/3rPQ1P/3B4/PPP3P1/2K4R w - - 5 22"]
 
 22.Nf5!! (22.h5 {black resigned anyway}) gxf5 23.Qxf5+ Kh8 24.Qh5 1-0
 
@@ -544,7 +544,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [BlackTeam "Shakkikerho X"]
 [WhiteElo "1941"]
 [BlackElo "1874"]
-[FEN "r6r/p7/1pk2Rb1/6pp/2P1P3/1P6/PK2B1PP/8 b - 0 25"]
+[FEN "r6r/p7/1pk2Rb1/6pp/2P1P3/1P6/PK2B1PP/8 b - - 0 25"]
 
 25...Kc5?? (26.Rxg6?? {continued the game, 0-1 in 45}) 26.Kc3 a5 27.a3 {mates} *
 
@@ -595,7 +595,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [White "Sobenin, Evgeny"]
 [Black "Turtiainen, Kimmo"]
 [Result "1-0"]
-[FEN "4k2r/r1qbbppp/2p1pnn1/ppPpN1B1/1P1P1P2/P1NBP3/6PP/R2Q1RK1 w - 1 14"]
+[FEN "4k2r/r1qbbppp/2p1pnn1/ppPpN1B1/1P1P1P2/P1NBP3/6PP/R2Q1RK1 w k - 1 14"]
 
 14.a4!? axb4 15.axb5 Rxa1 16.Qxa1 bxc3 17.b6 Qb8?? (17...Qb7 {=}) 18.Qa7 Qxa7
 19.bxa7 O-O 20.Rb1 Nxe5 21.fxe5 1-0
@@ -608,7 +608,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [Black "Lehtinen, Tero"]
 [Result "1-0"]
 [TimeControl "40/5400:1200+30"]
-[FEN "2r1rk2/p1q2pb1/4pnQ1/1p1p2P1/3P4/2N2R2/PPPB4/2K4R w - 1 26"]
+[FEN "2r1rk2/p1q2pb1/4pnQ1/1p1p2P1/3P4/2N2R2/PPPB4/2K4R w - - 1 26"]
 
 26.Qxg7+! Kxg7 27.gxf6+ Kg6 28.Rh6# 1-0
 
@@ -619,7 +619,7 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 [White "Heikkinen, Jyrki"]
 [Black "Anonymous"]
 [Result "1-0"]
-[FEN "r5k1/pp3p1p/1q4pQ/2p3B1/8/2r5/P3R1PP/R6K w - 0 25"]
+[FEN "r5k1/pp3p1p/1q4pQ/2p3B1/8/2r5/P3R1PP/R6K w - - 0 25"]
 
 25.Rae1 Qc6 (25...Rf8 26.Qxf8+! Kxf8 27.Bh6+ Kg8 28.Re8#) 26.Bf6! Qxf6 27.Re8+
 Rxe8 28.Rxe8# 1-0
@@ -637,7 +637,7 @@ Rxe8 28.Rxe8# 1-0
 [WhiteElo "2312"]
 [BlackElo "2063"]
 [WhiteTitle "FM"]
-[FEN "2kr2r1/2p2p1p/1pP1b3/pP1q2p1/Q5n1/B2P1RPP/P3P1B1/5R1K b - 0 22"]
+[FEN "2kr2r1/2p2p1p/1pP1b3/pP1q2p1/Q5n1/B2P1RPP/P3P1B1/5R1K b - - 0 22"]
 
 22...Qxa2 (22...Nh6? 23.Rf6 Qe5? (23...Qxa2 24.Rxh6 Kb8) 24.Rxh6 {continued
 the game, 1-0 in 32}) 23.hxg4 Bb3 {=/+} *
@@ -650,7 +650,7 @@ the game, 1-0 in 32}) 23.hxg4 Bb3 {=/+} *
 [Black "Suominen, Antti"]
 [Result "1-0"]
 [TimeControl "480+2"]
-[FEN "kr6/bpR3p1/3q1pp1/Q3p3/P4n2/7P/1P4B1/2R4K w - 8 33"]
+[FEN "kr6/bpR3p1/3q1pp1/Q3p3/P4n2/7P/1P4B1/2R4K w - - 8 33"]
 
 33.Rxb7 Rxb7 34.Rc8+ Qb8 35.Rxb8+ Kxb8 36.Qd8# 1-0
 
@@ -661,7 +661,7 @@ the game, 1-0 in 32}) 23.hxg4 Bb3 {=/+} *
 [White "Joutsivuo, Timo"]
 [Black "Järvinen, Seppo"]
 [Result "*"]
-[FEN "5rrk/pp6/2pbbn1p/3pNp1q/3P1Pp1/3BP1QP/PP4PK/R1B2R2 b - 1 22"]
+[FEN "5rrk/pp6/2pbbn1p/3pNp1q/3P1Pp1/3BP1QP/PP4PK/R1B2R2 b - - 1 22"]
 
 22...Bxe5 (22...gxh3? 23.Qxh3 Bxe5 24.Qxh5 Bxf4+ 25.Rxf4 Nxh5 26.Rh4 Nf6
 27.Rxh6+ {continued the game, 1-0 in 60}) 23.dxe5 (23.fxe5 f4!) gxh3 24.Qxh3
@@ -674,7 +674,7 @@ Rxg2+! 25.Kxg2 Rg8+ 26.Qg3 (26.Kh2 Ng4+ 27.Kg3 Nxe3+) Rxg3+ 27.Kxg3 Ng4 {-+} *
 [White "Turtiainen, Kimmo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
-[FEN "k7/1pb4p/p2r4/6p1/5r2/P1Q4P/6PK/4R3 b - 0 54"]
+[FEN "k7/1pb4p/p2r4/6p1/5r2/P1Q4P/6PK/4R3 b - - 0 54"]
 
 54...Rc4! (54...Rc6 55.Re8+ Ka7 56.Qe3+ b6 57.g3 {continued the game, 0-1 in
 67}) 55.Qxc4 Rc6+ 0-1
@@ -709,7 +709,7 @@ Ndf6?? (27...Qd6 {=}) 28.Rg1 1-0
 [Board "5"]
 [WhiteTeam "Lauttasaaren Shakkikerho 2"]
 [BlackTeam "Helsingin Shakkiklubi 6"]
-[FEN "1k1r1b1r/p1q5/1p1p3p/NR2p1p1/2P1P3/P2Q1Pp1/1P4P1/1K1R4 w - 1 33"]
+[FEN "1k1r1b1r/p1q5/1p1p3p/NR2p1p1/2P1P3/P2Q1Pp1/1P4P1/1K1R4 w - - 1 33"]
 
 33.c5! (33.Qd5 Rc8 {continued the game, 1-0 in 55}) Rc8 34.cxb6 axb6 35.Qb3
 Ka7 36.Qa4 Kb8 (36...Qc2+ {+-}) 37.Nc4! {winning} *
@@ -727,7 +727,7 @@ Ka7 36.Qa4 Kb8 (36...Qc2+ {+-}) 37.Nc4! {winning} *
 [BlackTeam "Etelä-Vantaan Shakki 4"]
 [WhiteElo "1622"]
 [BlackElo "1507"]
-[FEN "1n5r/2rkbppp/p1n1p3/N2pPb2/B2P4/1R2BN2/P4PPP/2R3K1 w - 4 23"]
+[FEN "1n5r/2rkbppp/p1n1p3/N2pPb2/B2P4/1R2BN2/P4PPP/2R3K1 w - - 4 23"]
 
 23.Nxc6 (23.h3 {continued the game, 0-1 in 63}) Nxc6 24.Rxc6 Rxc6 25.Rb7+ {+-}
 *
@@ -758,7 +758,7 @@ quicker}) Qxd7 22.cxd7 1-0
 [BlackTeam "Lauttasaaren Shakkikerho 2"]
 [WhiteElo "1854"]
 [BlackElo "1942"]
-[FEN "rnrq2k1/5ppp/1bP1p3/pB1p4/3B4/P2Q2P1/1P3P1P/2R1R1K1 w - 7 26"]
+[FEN "rnrq2k1/5ppp/1bP1p3/pB1p4/3B4/P2Q2P1/1P3P1P/2R1R1K1 w - - 7 26"]
 
 26.Bxb6 (26.Be5 {continued the game, 0-1 in 44}) Qxb6 27.c7! Rxc7 (27...Na6
 28.Rc6) 28.Qxd5! * {White wins}
@@ -774,7 +774,7 @@ quicker}) Qxd7 22.cxd7 1-0
 [Board "2"]
 [WhiteTeam "Meri-Ratsut"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
-[FEN "3r2k1/p1p5/1r6/7q/6p1/P3P1P1/1P3PB1/R1B1Q1K1 b - 0 33"]
+[FEN "3r2k1/p1p5/1r6/7q/6p1/P3P1P1/1P3PB1/R1B1Q1K1 b - - 0 33"]
 
 33...Rbd6 34.Qc3?? Rd1+ 35.Bf1 Rxf1+ 36.Kxf1 Qh1+ 37.Ke2 Qd1# 0-1
 
@@ -812,7 +812,7 @@ Raf8 25.Qc7+ Kf6 26.Qf4+ Ke7 27.Qe5+ Kd7 28.Qe6+ Kd8 29.Qd6+ Kc8 (29...Ke8
 [BlackTeam "Helsingin Shakkiklubi 3"]
 [WhiteElo "2064"]
 [BlackElo "2019"]
-[FEN "2kr3r/pp1n1pp1/1qpBpn1p/8/3P2P1/3B1Q1P/PPP3K1/R4R2 b - 0 16"]
+[FEN "2kr3r/pp1n1pp1/1qpBpn1p/8/3P2P1/3B1Q1P/PPP3K1/R4R2 b - - 0 16"]
 
 16...Qxd4?? (16...c5 17.dxc5 Nxc5 18.Be7 Rd7 19.Bxf6 gxf6 20.Qxf6 Rhd8 {=})
 17.Qxc6+ 1-0
@@ -828,7 +828,7 @@ Raf8 25.Qc7+ Kf6 26.Qf4+ Ke7 27.Qe5+ Kd7 28.Qe6+ Kd8 29.Qd6+ Kc8 (29...Ke8
 [Board "3"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Espoon Shakkikerho 2"]
-[FEN "r4rk1/6pp/4p3/pN2Pp2/Ppq1b3/6Q1/5PPP/R2R2K1 w - 0 26"]
+[FEN "r4rk1/6pp/4p3/pN2Pp2/Ppq1b3/6Q1/5PPP/R2R2K1 w - - 0 26"]
 
 26.Rd7 g6 (26...Rf7 27.Rxf7 Kxf7 28.Nd6+ {wins queen}) 27.Qh4 h5 28.Qe7 1-0
 
@@ -841,7 +841,7 @@ Raf8 25.Qc7+ Kf6 26.Qf4+ Ke7 27.Qe5+ Kd7 28.Qe6+ Kd8 29.Qd6+ Kc8 (29...Ke8
 [Result "1-0"]
 [Stage "Semi-Final"]
 [TimeControl "1200+10"]
-[FEN "4r2r/ppk2bpp/1npR4/4B3/6P1/2P4P/PPP1BP2/2KR4 w - 1 20"]
+[FEN "4r2r/ppk2bpp/1npR4/4B3/6P1/2P4P/PPP1BP2/2KR4 w - - 1 20"]
 
 20.Re6+! (20.f4 Kc8 21.Rxc6+ bxc6 22.Ba6# {continued the game}) Kc8 21.Rxc6+
 bxc6 22.Ba6# 1-0
@@ -893,7 +893,7 @@ bxc6 22.Ba6# 1-0
 [BlackTeam "Käpylän Shakkikerho 2"]
 [WhiteElo "1965"]
 [BlackElo "1879"]
-[FEN "r1q2k1r/2p1R1pp/p2p1p2/1pbP3b/7P/1QBB4/PP3PP1/4R1K1 w - 0 22"]
+[FEN "r1q2k1r/2p1R1pp/p2p1p2/1pbP3b/7P/1QBB4/PP3PP1/4R1K1 w - - 0 22"]
 
 22.Bxf6 gxf6 23.Qc3 Qg4 24.Qxf6+ Kg8 25.Bf5 Bd4 26.Be6+ 1-0
 
