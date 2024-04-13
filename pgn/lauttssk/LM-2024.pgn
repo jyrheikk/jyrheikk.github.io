@@ -158,3 +158,21 @@ e5 50.Kf1 Kf6 51.a4 Ke6 52.a5 Qb5 53.f4 f6 54.Kf2 Qb3 55.f5+ Kf7 56.Qxb3 cxb3
 57.a6 b2 58.a7 b1Q 59.a8Q Qc2+ 60.Ke3 Qc3+ 61.Kf2 Qd2+ 62.Kf3 Qd1+ 63.Ke3 Qg1+
 64.Kf3 Qf1+ 65.Ke3 Qxh3 66.Qd5+ Kf8 67.Qd8+ Kf7 68.Qd5+ Ke7 69.Qe6+ Kf8
 70.Qc8+ Kf7 71.Qe6+ Kf8 72.Qc8+ 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.04.13"]
+[Round "2"]
+[White "Dahal, Sameep"]
+[Black "Kauppinen, Janne"]
+[Result "1-0"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nf6 5.Be2 c6 6.d3 e6 7.Bd2 Qd8 8.O-O Be7
+9.h3 O-O 10.Ne4 b5 11.c3 a5 12.Nxf6+ Bxf6 13.d4 Nd7 14.Qc2 Bb7 15.Rad1 Rc8
+16.Be3 Qc7 17.Ng5 Bxg5 18.Bxg5 f6 19.Be3 e5 20.Bd3 h6 21.Bf5 Rcd8 22.Be6+ Kh8
+23.Bxh6? Rfe8? 24.Bxd7 Rxd7 25.Be3 exd4 26.Rxd4 Rxd4 27.cxd4 Qf7 28.b3 b4 29.Rc1
+Ra8 30.Qc5 Qd7 31.Qh5+ Kg8 32.Rc5 a4 33.Qd1 a3 34.Qd2 Qe6 35.Qxb4 Bc8 36.Ra5
+Rxa5 37.Qxa5 Qe7 38.Qa8 Qb7 39.Qxb7 Bxb7 40.Bc1 Kf7 41.Bxa3 Ke6 42.Bc5 Ba6
+43.f3 Bd3 44.a4 Kd7 45.a5 Kc7 46.Kf2 g5 47.Be7 Bc2 48.b4 f5 49.Bxg5 Bd3 50.g4
+fxg4 51.hxg4 Kb7 52.Ke3 Bc4 53.Be7 Kc7 54.f4 Kd7 55.Bc5 Ke6 56.f5+ Kf6 57.Kf4
+Kf7 58.g5 Kg7 59.Bd6 Kf7 60.g6+ Kg8 61.Kg5 Kh8 62.f6 1-0
