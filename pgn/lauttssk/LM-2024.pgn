@@ -176,3 +176,20 @@ Rxa5 37.Qxa5 Qe7 38.Qa8 Qb7 39.Qxb7 Bxb7 40.Bc1 Kf7 41.Bxa3 Ke6 42.Bc5 Ba6
 43.f3 Bd3 44.a4 Kd7 45.a5 Kc7 46.Kf2 g5 47.Be7 Bc2 48.b4 f5 49.Bxg5 Bd3 50.g4
 fxg4 51.hxg4 Kb7 52.Ke3 Bc4 53.Be7 Kc7 54.f4 Kd7 55.Bc5 Ke6 56.f5+ Kf6 57.Kf4
 Kf7 58.g5 Kg7 59.Bd6 Kf7 60.g6+ Kg8 61.Kg5 Kh8 62.f6 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.04.16"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Salikhodjaev, Isroilkhon"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Nd5 5.Qg4 Kf8 6.a3 Be7 7.Bd3 c5 8.Nge2 Nc6
+9.Be3 cxd4 10.Bxd4 Nxd4 11.Qxd4 Qb6? (11...d6) 12.Nxd5 Qxd4 13.Nxd4 exd5
+14.Nb5 f6 15.exf6 Bxf6 16.O-O-O d4 17.Bc4 g6 18.Rhe1 Kg7 19.Nd6 Bg5+ 20.Kb1 b6
+21.Nf7 (21.g3!) Ba6 22.Bd5 Bf6 23.Nxh8 Rxh8 24.f4 Rc8 25.Re4 (25.g4) Rc5
+26.Rexd4 Be2 27.R1d2 (27.Bf3!) Bxd4 28.Rxd4 Bg4 29.h3 Bf5 30.Be4 Bxe4 31.Rxe4
+Kf6 32.g4 h6 33.c4 a5 34.Rd4 Ke6 35.b4 axb4 36.axb4 Rc6 37.Kb2 Rd6? 38.Rxd6+
+Kxd6 39.Kc3 Kc6 40.Kd4 Kd6 41.h4 Ke6 42.b5 d6 43.Ke4 h5 44.g5 Ke7 1-0
