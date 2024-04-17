@@ -298,3 +298,17 @@ Nxd8 35.b4+ axb4+ 36.axb4+ Kd6 37.Kc4 b6 38.e5+ Kc6 39.Bf3+ (39.b5+!) Kc7
 Nf7 47.Bxh7 Nxh6 48.Bg6 Kd6 49.Kg5 Ke6 50.Kxh6 Kxf6 51.Be8 Ke5 52.Bxb5 Kd4
 53.Bf1 Kd5 54.b5 Kc5 55.Kg6 Kb6 56.Kf6 Kc5 57.Ke6 Kb6 58.Kd6 Kb7 59.Kc5 Kc7
 60.b6+ Kc8 61.Kc6 Kb8 62.Bg2 Ka8 63.Kc7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.04.17"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Roca, Joan"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.f3 Nc6 5.e4 Bb4 6.e5 Bxc3+ 7.bxc3 Nd7 8.Nh3 h6
+9.Ba3 Na5 (9...dxc4 10.Bxc4 Ndxe5!) 10.cxd5 exd5 11.e6? (11.Nf4) fxe6 12.Bd3
+Nf8 13.Qc2 Qf6 14.O-O Bd7 15.Nf2 O-O-O 16.Ng4 Qf7 17.Ne5 Qg8? 18.Rab1 b6
+19.Rb5? (19.c4 dxc4 20.Bxc4 {+-}) Bxb5 20.Bxb5 Nd7 21.Qa4 Nf6?? (21...Nxe5)
+22.Qxa5 bxa5 23.Ba6+ Kb8 24.Rb1+ Ka8 25.Bb7+ Kb8 26.Nc6# 1-0
