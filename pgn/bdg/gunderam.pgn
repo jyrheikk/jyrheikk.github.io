@@ -427,3 +427,15 @@ Rxd1 28.Kxd1 Ke6 29.Nd8+ Kd5 30.Nf7 Ke4 31.Nxh6 f4 32.Ke2 f3+ 33.Kf2 Kf4
 34.Ng8 Kg5 35.Kxf3 Kxh5 36.Nxf6+ Kg6 37.Nd7 Kf7 38.b4 Ke7 39.Ne5 Kd6 40.Ke4 c5
 41.b5 Kc7 42.Kd5 Kb6 43.a4 a6 44.Nc4+ Ka7 45.b6+ Kb7 46.Kxc5 Ka8 47.Kc6 Kb8
 48.Ne5 Ka8 49.b7+ Ka7 50.Kc7 a5 51.Nc6+ Ka6 52.b8=N# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.04.24"]
+[Round "-"]
+[White "Anonymous"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.d4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.Qe2 Be7 8.h3 c6
+9.Be3 Nbd7 10.O-O-O b5 11.Bb3 a5 12.g4 Bg6 13.g5 Ne4 14.Nxe4 Bxe4 15.a4 Nb6
+16.axb5 a4 17.Ba2 a3 18.Bb3? O-O 19.Rhf1 cxb5 20.Qxb5 a2 21.Kd2 0-1
