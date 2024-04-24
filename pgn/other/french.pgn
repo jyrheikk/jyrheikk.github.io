@@ -915,3 +915,18 @@ Kxe7 16.Nbd4 Qb6 17.Qd2 Nxd4 18.Nxd4 Rac8 19.b3 Rh5 20.Rxc8 Bxc8 21.Nf3 Bd7
 Bb5 35.Ke2 Re4+ 36.Kd2 Rd4 37.Rc3 Rxd3+ 38.Rxd3 Bxd3 39.Kxd3 Ke5 40.Ke3 Kf5
 41.f4 g5 42.fxg5 Kxg5 43.a4 e5 44.Kd3 Kg4 45.b5 Kh3 46.a5 Kxh2 47.Ke3 Kg3
 48.b6 axb6 49.axb6 Kg4 50.Kd3 Kf3 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.04.24"]
+[Round "-"]
+[White "Dahal, Sameep"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 Bd7 7.O-O Nh6 8.Na3 Nf5 9.g4
+Nfe7 10.Bc2 O-O-O 11.dxc5 Qxc5 12.Be3 Qa5 13.Kh1 f6 14.Bd4 fxe5 15.Bxe5 Nxe5
+16.Nxe5 Be8 17.Re1 Ng6 18.Qf3 Nxe5 19.Rxe5 Bd7 20.Rae1 Bd6? 21.R5e2 Rdf8
+22.Qg2 g5 23.Bb3 h5 24.Re5 hxg4 25.Nc4 Qc7 (25...dxc4! 26.Rxa5 Bc6) 26.Nxd6+
+Qxd6 27.R1e3? Rf3 (27...Rh4!) 28.Rxf3 gxf3 29.Qxg5 d4 30.h4 Rxh4+ 31.Qxh4 Qxe5
+32.Qg3? 1/2-1/2

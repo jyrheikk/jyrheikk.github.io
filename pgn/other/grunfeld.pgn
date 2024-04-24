@@ -496,3 +496,16 @@ Bxf3 15.Bxf3 (15.gxf3!) Qc4 16.Rc1 Nxd4 (16...Bxd4 17.Bxd4 Qxd4 18.Bxc6 Qxd1+
 27.Rc1 Qd3 28.Bh6 Rg8 29.c4 Rd6 30.Qe1 Bb2 31.Be2? (31.Bf4) Qe4 32.Bf3 Qxe1
 33.Rxe1 Rxh6 34.Rxe7 Rb6 35.c5 Rb5 36.c6 bxc6 37.dxc6 a5 38.c7 Rc8 39.Bc6 Rc5
 40.Rd7 Be5+ 41.f4 Bxf4+ 42.g3 Bxc7 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.04.24"]
+[Round "-"]
+[White "Koivusipilä, Hannes"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Nf3 O-O 6.Qb3 dxc4 7.Bxc4 Nc6 8.Qc2 Bf5
+9.Qe2 Na5 10.b3 Nxc4 11.bxc4 c5 12.O-O Bg4 (12...e5) 13.Rd1 cxd4 14.exd4 Qc7
+15.Be3 Bxf3 16.Qxf3? Qxc4 17.Rac1 b5 18.a3 a5 19.Ne4 Qa4 20.Ra1 Nxe4 21.Qxe4
+e5 22.Rd3 Rad8 23.Rad1 f5 24.Qh4 f4 25.Bc1 e4 26.Rh3? 0-1
