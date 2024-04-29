@@ -174,3 +174,22 @@ Nxf3? 24.Qxf3 c5 25.Rf1 Kd7 26.Qe4 Re8 27.Rf7+ Be7 28.Bxe7 Rxe7 29.Rxf8 Qc6
 Kxf7 36.Nh5 Ke6 37.Ng3 Kd5 38.Kd2 b5 39.c3 a5 40.a4 dxc3+ 41.Kxc3 b4+? 42.Kd2
 c4 43.Ke3 b3 44.Ne4 Kc6 45.Nc3 Kc5 46.Ke4 Kd6 47.Kf5 Kc5 48.Kxe5 Kb4 49.Ke6
 Kc5 50.Kd7 Kd4 51.Kc6 Kd3 52.Kb5 Kc2 53.Kxa5 Kxb2 54.Kb4 Kc2 55.a5 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.04.29"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Männistö, Kari"]
+[Result "1-0"]
+[Section "A"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[TimeControl "900"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 Bf5 5.g4 Bg6 6.g5 Nfd7 7.fxe4 e6 8.h4 f6 9.h5
+Bf7 10.Nf3 c6 11.Bg2 Qb6 12.Qe2 Na6 13.Bd2 Be7 14.O-O-O e5 15.d5 cxd5 16.exd5
+Bb4 17.g6 hxg6? (17...Bg8) 18.hxg6 O-O-O 19.gxf7 Rxh1 20.Rxh1 Nac5 21.Bh3 Bxc3
+22.Bxc3 Kb8 23.Qc4 Rc8 24.Nxe5 fxe5 25.Bxd7 Nxd7 26.Bxe5+ Nxe5 27.Qxc8+ Kxc8
+28.f8=Q+ Kc7 29.Qxg7+ Nd7 30.Qg3+ 1-0
