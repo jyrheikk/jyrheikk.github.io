@@ -297,3 +297,23 @@ Kf8 23.Qg3 Kf7 24.Qg5 Qf8 25.Rh3 Qg8 26.Qh5+ Kf8 27.Qxh7 Qxh7 28.Rxh7 Kg8
 29.Rh3 Ref8 30.Rhe3 Kf7 31.Nxd5 Rh6 32.Nf4 g5 33.Rh3 Rfh8 34.Rxh6 Rxh6 35.Nh3
 Kf6 36.f4 g4 37.Ng5 a5 38.Re5 Rh8 39.d5 exd5 40.Rxd5 Be6 41.Rd6 Re8 42.Rxb6
 Re7 43.Rxe6+ Rxe6 44.Nxe6 Kxe6 45.h4 gxh3 46.gxh3 Kd5 47.Kf2 Ke6 48.Ke3 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.05.19"]
+[Round "3"]
+[White "Paasonen, Pasi"]
+[Black "Valli, Kari"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+
+1.Nf3 Nf6 2.d4 d6 3.Bg5 g6 4.e3 Bg7 5.c4 O-O 6.Be2 Nbd7 7.O-O c5 8.Nc3 a6
+9.Re1 h6 10.Bf4 Nh5 11.Rb1 Nxf4 (11...cxd4) 12.exf4 Qb6 13.Nd5 Qd8 14.Nc3 b6
+15.Qd2 Bb7 16.Bd1 Re8 17.d5 Nf6 18.h3 Bc8 19.Bc2 Bd7 20.Re3 b5 21.b3 bxc4
+22.bxc4 Rb8 23.Rbe1 Kh7 24.Qc1 Ng8 25.Bb1 Qc8 26.Qc2 Bf5 27.Ne4 Rb2 28.Qc1 Qb8
+29.g4  Bd7 30.Nfd2 f5 31.Nc3 Bd4 32.Nb3 Rxb3 33.axb3 Qxb3 34.Ba2 Qb8 35.Rg3
+Nf6 36.g5 Bxc3 37.Rxc3 hxg5 38.fxg5 Ne4 39.Rce3 Qd8 40.h4 e5 41.dxe6 Bc6
+42.Qd1 Rxe6 43.f4 Qa5 44.Bb1 Qb4 45.Ba2 Qb2 46.Qe2 Qb4 47.Qc2 Ba4 48.Qc1 Bc6
+49.Qa1 Qd2 50.R1e2 Qd4 51.Qe1 Re8 (51...Nc3) 52.Kh2 Qg7 53.Rb3 Qc7 54.Qf1 d5
+55.cxd5 Bxd5 56.Rbe3 Bc6 57.Bb1 Bb5 58.Bxe4 Bxe2 (58...Rxe4) 59.Qxe2 fxe4
+(59...Qxf4+) 60.Rxe4 Rxe4 61.Qxe4 Kg7 1/2-1/2
