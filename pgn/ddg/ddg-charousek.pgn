@@ -404,3 +404,16 @@ Qe3+ 23.Kh1 Bd7 24.Nd5 Qc5 25.Nxf6+ Rxf6 26.b3 Nc6 27.Qf4 Nd8 28.b4 Qc8 29.c5
 1.d4 d5 2.e4 e6 3.c4 dxe4 4.Nc3 Nf6 5.f3 exf3 6.Nxf3 Be7 7.Bd3 Nc6 8.Bb1 Bb4
 9.O-O Bxc3 10.bxc3 Bd7 11.Ba3 Na5 12.Qe2 b6 13.d5 c5 14.dxc6 Bxc6 15.Nd4 g6??
 16.Nxe6 Qc8 17.Nc7+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.05.22"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Dahal, Sameep"]
+[Result "0-1"]
+
+1.d4 d5 2.c4 e6 3.e4 dxe4 4.Nc3 Nf6 5.a3 Be7 6.f3 exf3 7.Nxf3 O-O 8.Bd3 c5
+9.Bf4 cxd4 10.Nxd4 Nc6 11.Nxc6 bxc6 12.Qf3 Qa5 13.O-O Qh5 14.Qg3 Qg4 15.Qe3
+Ba6 16.Be5 (16.h3!) Nd7 17.b4? (17.Be2) Nxe5 18.Qxe5 Bf6 19.Rxf6 gxf6 20.Qxf6
+Rad8 21.Be4 Qg7 22.Qf3 Bxc4 23.Re1 Rd7 24.Bxc6? Rd3 0-1
