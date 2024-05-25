@@ -338,3 +338,20 @@ Bc6 41.Rc5 Rxg2+ 42.Kxg2 Bxe4+ 43.Kg3 g6 44.Ng4 Kg7 45.Ra5 Bf5 46.Ra6 h5
 47.Nf2 g5 48.Kf3? Rf7 (48...Bc8! 49.Rd6 Bb7+ 50.Kg3 Rf7 51.Rd3 Kg6) 49.Kg2 Bc8
 50.Rd6 Bb7+ 51.Kg1 Kh7 52.Re6 Bc8 53.Rc6 Bb7 54.Rd6 Kg7 55.Re6 Bc8 56.Rc6 Bb7
 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.05.25"]
+[Round "3"]
+[White "Ilkka, Oskari"]
+[Black "Sotala, Jonne"]
+[Result "1/2-1/2"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 c5 4.Nf3 Nc6 5.O-O e6 6.e3 Nge7 7.d4 cxd4 8.exd4 d5
+9.Bg5 Qb6 10.cxd5 Nxd5 11.Nc3 Nce7 12.Qd2 Bd7 13.Ne5 Bc6 14.Ne4 O-O 15.Bh6
+Bxh6 16.Qxh6 Nf5 17.Qh3 Qxd4 18.Nxc6 bxc6 19.Rfd1 Qxb2 20.Rab1 Qe5 21.Nc5 Qd6
+22.Ne4 Qe5 23.Re1 Qd4 24.Rbd1 Qb2 25.Rd2 Qg7 26.Rc1 Nfe7 27.a3 Qe5 28.f4 Qf5
+29.Qh6 Nf6 30.Rc5 Ned5 31.Nxf6+ Qxf6 32.Rxc6 Qa1+ 33.Kf2 Qxa3? (33...Ne7)
+34.Bxd5 exd5 35.f5 Rfd8 36.fxg6 hxg6 37.Rxg6+ fxg6 38.Qxg6+ Kf8 39.Qh6+ Kg8
+40.Qg6+ Kf8 41.Kg2 Ke7 42.Qg7+ Kd6 43.Qf6+ Kc7 44.Rc2+ Kd7 45.Qc6+ Ke7 46.Re2+
+Kf7 47.Rf2+ Kg8? (47...Ke7) 48.Qg6+ Kh8 49.Rf7 1-0
