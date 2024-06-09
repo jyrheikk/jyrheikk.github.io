@@ -387,3 +387,20 @@ Nxe4 24.Rxe4 g5 25.Ng2 cxd5 26.cxd5 Qxd5 27.Ne3 Qf7 28.Nc4 Qf5 29.Re2 Qxc2
 30.Rxc2 Rc8 31.Re2 Rc5 32.Rd1 Bf8 33.Nxe5 Re7 34.f4 dxe5 35.fxg5 hxg5 36.Re4
 Rc3 37.Rd5 Rxb3 38.Rxa5 Bg7 39.Ra7 Rc7 40.Re2 Kf7 41.a5 Rbc3 42.Kg2 Ke6 43.g4
 Bf8 44.Ra8 Be7 45.a6 R3c5 46.a7 Ra5 47.Re8 Rxa7 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.06.09"]
+[Round "4"]
+[White "Dahal, Sameep"]
+[Black "Peitsalo, Olli-Pekka"]
+[Result "0-1"]
+[TimeControl "3600+20"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nb3 Be7 8.Be2 Be6
+9.Be3 Nbd7 10.O-O O-O 11.h3 Nb6 12.Nd2 d5 13.exd5 Nbxd5 14.Nc4 Qc7 15.Nxd5
+Bxd5 16.Nb6 Rad8 17.Qc1 Be4 18.c3 Bc5 19.a5 Rd6 20.b4 Bxb6 21.Bxb6 Qc6 22.f3
+Bd3 23.Re1 Nd7 24.Bf2 Rc8 25.Ra3 e4 26.fxe4 Bxe4 27.Bf1 Bxg2 28.c4 Bxf1
+29.Kxf1 Qh1+ 30.Ke2 Re8+ 31.Re3 Rxe3+ 32.Bxe3? Qg2+ 33.Bf2 Re6+ 34.Kd3 Qxf2
+35.Rxe6 fxe6 36.Qe3 Qxe3+ 37.Kxe3 Kf7 38.Kd4 Kf6 39.b5 axb5 40.cxb5 Ke7 41.Kc4
+Kd6 0-1
