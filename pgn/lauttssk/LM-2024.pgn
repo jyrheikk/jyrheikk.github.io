@@ -425,3 +425,42 @@ Ke7 29.c3 Kf6 30.Bc2 Bc6 31.c4 Re7 32.b4 b6 33.a4 Bb7 34.g3 Rd7+ 35.Kc3 Re7
 Bc8 47.Re5 g4? (47...Bb7) 48.c6 g3 49.Ke3? (49.Kd5) Kf6? (49...Rg4) 50.Re8 Kf7
 51.Rd8 (51.Rxc8 Rxe4+ 52.Kf3 Rxa4 53.c7 Rc4 54.Kxg3) Bxf5 52.Bxf5 g2 53.Kf2
 Rc4 54.Be4 Rxe4 55.c7 Re2+ 56.Kg1 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2024.06.12"]
+[Round "4"]
+[White "Siikonen, Timo"]
+[Black "Paasonen, Pasi"]
+[Result "1-0"]
+[TimeControl "2700+30"]
+[ECO "C10"]
+[Mode "ICS"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c5 4.exd5 exd5 5.dxc5 Nf6 6.Be3 Nc6 7.Bb5 Be7 8.Nge2 O-O
+9.O-O Be6 10.h3 Qc7 11.a3 Rad8 12.b4 h6 13.Bf4 Qc8 14.Nd4 Nxd4 15.Qxd4 a6
+16.Be2 Rfe8 17.Rad1 Qc6 18.Bf3 Qd7 19.Be5 Qc8 20.Rfe1 Qd7 21.Qf4 Qc8 22.Na4
+Qc6 23.Nb6 Qb5 24.Bc7 Nd7 25.Bxd8 Rxd8 26.Nxd5 Bg5 27.Qg3 Qc4 28.Be4 Rf8
+29.Qd3 Qxd3 30.cxd3 Nb8 31.f4 Bxd5 32.Bxd5 Bxf4 33.Bxb7 Bg5 34.d4 Bf6 35.d5
+Bb2 36.Rd3 g5 37.d6 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.06.27"]
+[Round "4"]
+[White "Sotala, Jonne"]
+[Black "Camden-Dunne, Tamerlane"]
+[Result "0-1"]
+[TimeControl "40/6600:1200+30"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2 b5 6.f3 Nbd7 7.Bd3 Qc7 8.Nh3 Nb6
+9.Nf2 Nc4 10.Bxc4 bxc4 11.d5 Bg7 12.dxc6 Qxc6 13.O-O O-O 14.b4 a6 15.Rab1 Be6
+16.Ne2 c3 17.Nxc3 Nd7 18.Bd4 Ne5 19.a4 Rfc8 20.Qd1 Nxf3+ 21.gxf3 Bxd4 22.Qxd4
+Qxc3 23.Qxc3 Rxc3 24.Nd3 Rxc2 25.Rf2 Rc3 26.Nf4 Bc4 27.b5 axb5 28.axb5 Rb8
+29.Nd5 Bxd5 30.exd5 Rb6 31.Rd2 Rc5 32.Rdb2 Rxd5 33.Kf2 Kg7 34.Ke3 Kf6 35.Ke4
+Rc5 36.Kd4 Kf5 37.Rb3 h5 38.h4 e5+ 39.Ke3 d5 40.R1b2 f6 41.Kd3 g5 42.hxg5 fxg5
+43.Rb4 d4 44.Ke2 Rc3 45.R4b3 Rc5 46.Kf2 Kf4 47.Kg2 Rc3 48.Kf2 h4 49.Rxc3 dxc3
+50.Rb4+ Kf5 51.Rb3 c2 52.Rc3 Rxb5 53.Rxc2 Rb3 54.Ra2 Rb4 55.Ra8 Rb6 56.Ra2 Re6
+57.Ra5 g4 58.Ra4 gxf3 59.Kxf3 Rh6 60.Ra2 h3 61.Rh2 e4+ 62.Ke3 Rh4 63.Rh1 h2
+64.Kf2 Kf4 65.Kg2 e3 66.Rf1+ Ke4 67.Rh1 Kd3 68.Kf1 Kd2 69.Kg2 Ke2 70.Kg3 Rh7
+71.Kg2 Kd2 72.Kf3 Rh6 73.Kg2 e2 74.Kf2 Rh5 75.Re1 Rf5+ 0-1
