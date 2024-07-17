@@ -479,3 +479,21 @@ c5 10.Ng4 Nbd7 11.Ne5 cxd4 12.exd4 Qb6 13.Na4 Qa7 14.b3 b5 15.Nb2 Bb4+ 16.Kf1
 Bc3 17.Rb1 Qxd4 18.Nxd7 Bxd7 19.Qc1 Ne4 20.Bxe4 Qxe4 21.Nd3 b4 22.a4 bxa3
 23.Qxa3 Bb5 24.Rd1 Rac8 25.Qc1 f6 26.Kg1 Bxd3 27.Rxd3 Qxd3 28.Bf2 Bd4 29.Bxd4
 Qxd4+ 30.Kf1 Qd3+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.07.13"]
+[Round "5"]
+[White "Mäntsälä, Juha"]
+[Black "Fieandt, Ghia"]
+[Result "0-1"]
+
+1.c3 Nf6 2.Qc2 g6 3.e4 d6 4.h3 Bg7 5.Nf3 e5 6.Bc4 c6 7.Ng5 d5 8.exd5 cxd5
+9.Be2 h6 10.Nf3 Nh5 11.d4 e4 12.Ng1 Nf4?? 13.Bxf4 Nc6 14.f3 Qh4+ 15.g3 Qe7
+16.Na3 a6 17.O-O-O g5 18.Bd2 Bf5 19.Qa4 b5 20.Nxb5 (20.Bxb5) O-O 21.Na3 Qb7
+22.g4 Bg6 23.Be3 Rab8 24.Rd2 Rfe8 25.Bf2?? e3 26.Bxe3 Rxe3 27.h4 Nxd4 28.cxd4
+Rc8+ (28...Bf8!) 29.Kd1 Qc7? 30.Nc2 Bxd4 31.Bxa6 Bxc2+ 32.Qxc2 (32.Rxc2) Re1+
+33.Kxe1 Qxc2 (33...Qg3+) 34.Rxc2 Rxc2 35.Ne2 Be3 36.Kf1 Rxb2 37.Bd3 Rxa2
+38.Kg2 Rd2 39.Bb5 d4 40.Kg3 d3 41.Nc3 Bf2+ 42.Kh3 Bxh4 43.Ne4 Rb2 44.Bxd3 Rb3
+45.Rd1 Kg7 46.Ng3 Kf6 47.Nh5+ Ke5 48.Re1+?? Bxe1 49.Be2 Rb2 50.Bd1 Rd2 51.Bb3
+f5 52.gxf5 Kxf5 53.Ng7+ Kf4 54.Ne6+ Kxf3 55.Bc4 g4# 0-1
