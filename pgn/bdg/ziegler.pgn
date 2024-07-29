@@ -569,6 +569,18 @@ Kd7 37.Qf3 Ke6 38.Qe3 1/2-1/2
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2018.07.25"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Turunen, Tiina"]
+[Result "1-0"]
+[TimeControl "300"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Bf5 5.f3 exf3 6.Nxf3 e6 7.O-O Nf6 8.Ne5
+Nbd7?? 9.Nxf7 Kxf7 10.Rxf5 Bd6 11.Ne4 Bc7 12.Ng5+ Kg6 13.Nxe6 Qe7 14.Rg5+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2018.07.25"]
 [Round "9"]
 [White "Heikkinen, Jyrki"]
 [Black "Kauppinen, Janne"]
