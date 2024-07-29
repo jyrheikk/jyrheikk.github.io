@@ -348,22 +348,6 @@ Rh7 30.Qf8# 1-0
 1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Bf5 5.f3 exf3 6.Nxf3 e6 7.O-O Nf6 8.Ne5
 Nbd7?? 9.Nxf7 Kxf7 10.Rxf5 Bd6 11.Ne4 Bc7 12.Ng5+ Kg6 13.Nxe6 Qe7 14.Rg5+ 1-0
 
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2020.07.15"]
-[Round "5"]
-[White "Heikkinen, Jyrki"]
-[Black "Suominen, Antti"]
-[Result "0-1"]
-[TimeControl "300"]
-
-1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 e6 7.Nh3 Be7 8.O-O O-O
-9.Kh1 b5 10.Bd3 Bb7 11.Qe1 Nbd7 12.Ne4 Nd5 13.Bg5 a6 14.Qh4 Bxg5 15.Nexg5 h6
-16.c3 Re8 17.Qh5 hxg5 18.Nxg5 Qf6 19.f4 c5 20.Rf3 Nxf4? 21.Rxf4 Qxf4 22.Rf1
-Qxf1+?? 23.Bxf1 Nf6? 24.Qxf7+ Kh8 25.Qxb7 cxd4 26.cxd4 Rac8 27.Nf7+ Kg8 28.Nd6
-Rc1 29.Kg1?? (29.Qf7+) Rf8 30.Qe7 Rxf1+ 31.Kxf1 Nd5+ 32.Ke2?? (32.Qxf8+) {no
-more moves recorded} 0-1
-
 [Event "Finland Rapid Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2021.12.05"]
@@ -382,25 +366,6 @@ Nxe5 16.Qxe5+ (16.dxe5 Qe7 17.Nd6+ Kf8 18.h5) Kf8 17.Rd2 Qd7 18.Re1 Nf6 19.h5
 Be4 20.Rxe4 Nxe4 21.Qxe4 Re8 22.Qd3 Re1+ 23.Rd1 Rxd1+ 24.Kxd1 Qxg4+ {no more
 moves recorded} 1-0
 
-[Event "Finland Rapid Team Ch"]
-[Site "Helsinki FIN"]
-[Date "2021.12.05"]
-[Round "7"]
-[White "Heikkinen, Jyrki"]
-[Black "Khanov, Pavel"]
-[Result "1-0"]
-[Board "2"]
-[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Helsingin Shakkiklubi 2"]
-[WhiteElo "2089"]
-[BlackElo "2068"]
-[TimeControl "900+5"]
-
-1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 Bf5 7.Nge2 e6 8.g4 Bg6
-9.Nf4 Nd5 10.Bxd5 cxd5 11.h4 h6 12.Nxg6 fxg6 13.Qd3 Kf7 14.O-O-O Nc6 15.h5 Qf6
-16.f4 Bd6 17.Rdf1 a6 18.f5 gxf5 19.Nxd5 Qd8 20.Nf4 Nb4 21.Qb3 Bxf4 22.Bxf4
-Qxd4 23.gxf5 Rhc8 24.Qxe6+ Kf8 25.Bd6+ 1-0
-
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2021.12.15"]
@@ -412,20 +377,6 @@ Qxd4 23.gxf5 Rhc8 24.Qxe6+ Kf8 25.Bd6+ 1-0
 1.d4 d5 2.e4 c6 3.Nc3 Nf6 4.f3 dxe4 5.Bc4 Bf5 6.g4 Bg6 7.h4 h5 8.g5 Nd5 9.Nxe4
 e6 10.Nh3 Be7 11.Bb3 Nd7 12.c4 Nc7 13.Nf4 e5? 14.Nxg6 fxg6 15.c5 Rf8 16.Qc2
 Rxf3 17.Nd6+ Bxd6 18.Qxg6+ Rf7?? 19.Qxf7# 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2022.01.12"]
-[Round "1"]
-[White "Heikkinen, Jyrki"]
-[Black "Deschamps, Liam"]
-[Result "1-0"]
-[TimeControl "180+2"]
-
-1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 Bf5 7.Nge2 e6 8.g4 Bg6
-9.Nf4 Nbd7 10.h4 h5 11.Nxg6 fxg6 12.Qd3 Qe7 13.Qxg6+ Kd8 14.O-O-O Rc8 15.Bf4
-Qb4 16.Bxe6 Bd6 17.Bg5 Kc7 18.d5 Kb8 19.Bxf6 gxf6 20.Bxd7 Rcd8 21.dxc6 bxc6
-22.Bxc6 Qf4+ 23.Kb1 Qxf3?? 24.Bxf3 1-0
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
@@ -463,24 +414,3 @@ Nxe4 40.Kxe4 1-0
 16.a4 N5b6 17.axb5 cxb5 18.Nd6 Nc8 19.Nxb7 Qxb7 20.c4 bxc4 21.Bxc4 Ncb6
 22.Qb4+ Kd8 23.Rxa6 Qc6 24.Bb5 Qc7 25.Bxd7 Nxd7 26.Ra8+ Nb8 27.Rxb8+ Kd7
 28.Rb7 1-0
-
-[Event "Finland Team Ch"]
-[Site "Helsinki FIN"]
-[Date "2024.01.13"]
-[Round "5"]
-[White "Heikkinen, Jyrki"]
-[Black "Wilen, Eero"]
-[Result "0-1"]
-[Section "I Division:2"]
-[Board "3"]
-[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Itä-Helsingin Shakkikerho"]
-[TimeControl "40/6600:1800+30"]
-
-1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 e6 7.a3 Nbd7 8.Nh3 Nb6
-9.Ba2 Nfd5 10.Nxd5 exd5 11.Nf2 Bd6 12.Qd2 O-O 13.f4 Re8 14.O-O Bf5 15.Rae1 Qf6
-16.g4 Be4 17.b3 Qh4 18.c4 Bc7 19.Nxe4 Rxe4 20.Bb1 Qxg4+ 21.Kh1 Re6 22.f5 Ree8
-23.c5 Nd7 24.f6 Nf8 25.fxg7 Ng6 26.Bf5 (26.Qf2! Re7 27.Bh6 Qd7 (27...Rae8
-28.Qxf7+! Rxf7 29.Rxe8+) 28.Bf5 Qe8 29.Bg5 {+-}) Qh5 27.Qf2 Re7 28.Bd2 Rae8??
-29.Rxe7? (29.Bd7! {+-} Rd8 30.Rxe7 Nxe7 31.Be6!) Rxe7 30.Rg1?? (30.Bd3) Re2
-31.Bg4 Qxh2+ 0-1
