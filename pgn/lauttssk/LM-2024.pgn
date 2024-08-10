@@ -497,3 +497,22 @@ Rc8+ (28...Bf8!) 29.Kd1 Qc7? 30.Nc2 Bxd4 31.Bxa6 Bxc2+ 32.Qxc2 (32.Rxc2) Re1+
 38.Kg2 Rd2 39.Bb5 d4 40.Kg3 d3 41.Nc3 Bf2+ 42.Kh3 Bxh4 43.Ne4 Rb2 44.Bxd3 Rb3
 45.Rd1 Kg7 46.Ng3 Kf6 47.Nh5+ Ke5 48.Re1+?? Bxe1 49.Be2 Rb2 50.Bd1 Rd2 51.Bb3
 f5 52.gxf5 Kxf5 53.Ng7+ Kf4 54.Ne6+ Kxf3 55.Bc4 g4# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.08.10"]
+[Round "5"]
+[White "Paasonen, Pasi"]
+[Black "Sotala, Jonne"]
+[Result "0-1"]
+[WhiteElo "1396"]
+[BlackElo "1653"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Bf4 O-O 5.Nc3 d5 6.e3 c5 7.Be2 cxd4 8.exd4 dxc4
+9.O-O Nbd7 10.Bxc4 Nb6 11.Bb3 Nfd5 12.Bg3 Bf5 13.h3 Rc8 14.Rc1 Bh6 15.Ra1 Nxc3
+16.bxc3 Rxc3 17.Re1 Re8 18.Qe2 a6 19.Rad1 Nd5 20.Qb2 Rc8 21.Bxd5 Qxd5 22.Re5
+Qd7 23.Ree1 b5 24.Ne5 Qd5 25.Ng4 Bxg4 26.hxg4 Bg7 27.Qd2 Rc4 28.Qa5 Ra4 29.Qc7
+e6 30.Bd6 Bf8 31.Be5 Rxa2 32.Ra1 Rxa1 33.Rxa1 Ra8 34.Qc1 Bg7 35.Qe3 a5 36.g5
+b4 37.Bf6 Bxf6 38.gxf6 Qf5 39.d5 Qxf6 40.Rd1 exd5 41.Rxd5 Rd8 42.Rxa5 Rd1+
+43.Kh2 Qh4+ 44.Qh3 Qxh3+ 45.Kxh3 b3 46.Rb5 Rb1 47.Kg3 Kg7 48.Kf3 b2 49.Ke2 h5
+50.g3 Kh6 51.Kd2 Rf1 52.Ke2 b1=Q 0-1
