@@ -666,3 +666,19 @@ Kf8 16.Qxh6+ (16.Qxh6+ Kg8 17.Bh7+! Nxh7 (17...Kh8 18.Bf5+ Kg8 19.Bxe6#)
 9.O-O Bb4 10.Bg5 Be7 11.Ne5 O-O 12.Ne2 a5 13.c3 a4 14.Bc2 Nbd5 15.Qd3 Re8
 16.Ng3 (16.Nxf7! Kxf7 17.Qxh7) h6 17.Bxf6 Nxf6 18.Nh5 Qc7 19.Nxf7 Kxf7 20.Qg6+
 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2024.08.12"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Sotala, Jonne"]
+[Result "1-0"]
+[TimeControl "360+3"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Nxf3 c6 6.Bc4 Bf5 7.O-O e6 8.Ne5 Bg6
+9.Be3 Bd6 10.Qf3 O-O 11.Nxg6 hxg6 12.Rad1 Nbd7 13.Qh3 Qa5 14.Bxe6 Qh5
+(14...Bxh2+) 15.Bxd7 Nxd7 16.Rf3 Nf6 17.Rdf1 Rae8 18.Qxh5 gxh5 19.h3 (19.Rxf6!
+gxf6 20.Bh6) Ne4 20.Nxe4 Rxe4 21.c3 Be7 22.Bc1 Bf6 23.Re3 Rfe8 24.Rxe4 Rxe4
+25.Kf2 {no more moves recorded} 1-0
