@@ -1345,3 +1345,34 @@ Re1+ 40.Kg2 Ne4 41.Nxe4+ R8xe4 42.Rb2 Re7 43.Ra4 {no more moves recorded}
 1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Qf3 Nxc3 5.dxc3 Nc6 6.Bb5 Bd7 7.Bf4 e5 8.Qe2
 Bd6 9.Nf3 O-O 10.Bg5 Be7 11.h4 Bxg5 12.hxg5 f6?? 13.Bc4+ Kh8 14.Nxe5 Nxe5
 15.Rxh7+ Kxh7 16.Qh5# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2024.08.12"]
+[Round "?"]
+[White "Sotala, Jonne"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.d4 c6 6.Bc4 b5 7.Bb3 b4 8.Ne2 Bg4?
+9.Ne5 Bh5 10.g4 Bg6 11.h4 (11.f4) Nd5 (11...Nbd7) 12.h5 f6 13.hxg6 (13.Nc4)
+fxe5 14.Rxh7 Rg8 15.dxe5 Nd7 16.e6 N7f6 17.Rh3 (17.Nd4) O-O-O 18.Nd4 Rd6
+19.Qe2 Nf4 20.Bxf4 Rxd4 21.Qe5?? Re4+ 22.Qxe4 Nxe4 23.Rd3 Rh8 24.Rd7? Rh1+
+25.Ke2 Rxa1 26.Rc7+ Qxc7 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2024.08.12"]
+[Round "?"]
+[White "Sotala, Jonne"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "360+3"]
+[Termination "time forfeit"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.d4 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 Nbd7
+9.Nc4 Qa6 10.Bf4 Qe6+ 11.Ne5 Nxe5 12.dxe5 Nd7 13.Qf3?? (13.Qd2) Nxe5 14.Bxe5
+Qxe5+ 15.Be2 O-O-O 16.Rd1 Rxd1+ 17.Kxd1 h5 18.Kc1 hxg4 19.Qxg4+ Qf5??
+(19...e6) 20.Qxf5+? (20.Qa4) Bxf5 21.h4 g6 22.h5 Bg7 23.Nd5 Kd7 24.Rd1 gxh5
+(24...e6) 25.Bxh5 e6 26.Bxf7 {no more moves recorded} 0-1
