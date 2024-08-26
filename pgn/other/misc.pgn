@@ -588,3 +588,19 @@ Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0
 Qe7 37.Bd4 Rxh3+ 38.gxh3 Qe2 39.Rf6+ Kg8 40.Rxf5 Qxf3+ 41.Kg1 Qxd1+ 42.Kg2
 Qxc2+ 43.Bf2 Qxf5 44.Qd6 g4 45.hxg4 Qxg4+ 46.Kf1 Re6 47.Qd8+ Kf7 48.Qd7+ Kg6
 49.Qd2 f3 50.Qc2+ Kh6 51.Qd2+ Kh7 52.Qc2+ Kg8 53.Bd4 Re2 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.08.26"]
+[Round "5"]
+[White "Camden-Dunne, Tamerlane"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.O-O Bg7 5.c4 d4 6.e3 dxe3 7.dxe3 O-O 8.Nc3 c6
+9.Qc2 Qa5 10.a3 Na6 11.Bd2 Qh5 12.Nh4 Nc7 13.Ne2? g5? (13...Qxe2 14.Bf3 (14.f3
+Be6) 14...Bf5) 14.Nf5? (14.Nf3 Bg4 15.Ned4 c5 16.h3) Bxf5 15.Qxf5 Qxe2 16.Bb4
+Qg4 17.Qe5 Nfd5 18.Qe4 Qxe4 19.Bxe4 Nxb4 20.axb4 f5 21.Bc2 Bxb2 22.Rab1 Bg7
+23.e4 f4 24.Rfe1 Be5 25.Rbd1 Rad8 26.Bb3 Kg7 27.Rf1 a6 28.Kg2 Ne6 29.h4 Nd4
+30.Ba2 f3+ 31.Kh3 gxh4 32.gxh4 Rf4 33.b5 Kh6 34.bxa6 Kh5 0-1
