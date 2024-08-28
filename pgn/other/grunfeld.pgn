@@ -526,3 +526,17 @@ Qe4? (29...Be5) 30.Qb5 Kf7 31.Rxe4 fxe4 32.Qa4? (32.Rxc2) Rb1? 33.e8=Q+
 (33.Qd7) Rxe8 34.Qxc2 Rxc1+ 35.Qxc1 Rc8 (35...b3) 36.Qf1 Rc2 37.Qd1 Ra2 38.Kg2
 Ke7 39.Qe2 Bc3? (39...b3) 40.Kf1? (40.Bxg5+ hxg5 41.Qxa2) Rxd2 41.Qxd2 Bxd2
 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.08.28"]
+[Round "-"]
+[White "Von Boehm, Erika"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nf3 O-O 6.e3 c5 7.Bd3 Nc6 8.h3 cxd4
+9.exd4 Nh5 10.Be3 e5 11.dxe5 d4 12.Bg5? (12.Nxd4 Nxd4 13.g4) Qa5 13.Qa4 dxc3
+14.Qxa5 Nxa5 15.bxc3 Bxe5 16.Nxe5 Re8 17.f4 f6 18.g4 fxg5 19.gxh5 gxf4 20.O-O
+Rxe5 21.hxg6 hxg6 22.Bxg6? Rg5+ 23.Kh2 Rxg6 24.Rxf4 Bd7 25.Re1 Bc6 26.Rg1 Rxg1
+27.Kxg1 Rd8 28.Kh2 Rd2+ 29.Kg3 Rg2+ 30.Kh4 Kg7 {no more moves recorded} 0-1
