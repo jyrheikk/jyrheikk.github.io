@@ -535,6 +535,18 @@ Qg4 17.Qe5 Nfd5 18.Qe4 Qxe4 19.Bxe4 Nxb4 20.axb4 f5 21.Bc2 Bxb2 22.Rab1 Bg7
 
 [Event "Lauttasaaren Ch"]
 [Site "Helsinki FIN"]
+[Date "2024.08.??"]
+[Round "5"]
+[White "Ilkka, Oskari"]
+[Black "Dahal, Sameep"]
+[Result "0-1"]
+
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Nf6 5.Nf3 Nxd5 6.Bc4 Be7 7.Qb3 c6 8.Nc3 O-O
+9.Nxd5 cxd5 10.Bxd5 Nd7 11.O-O Nc5 12.Qc4 Bf5 13.d4? Bd3 14.Qc3 Bxf1 15.Bxf7+
+Rxf7 16.Kxf1 Ne4 17.Qb3 Qb6 18.Qc4 Qc6 19.Qb3 Rc8 20.Ne5 Qf6 21.f3 Rxc1+ 0-1
+
+[Event "Lauttasaaren Ch"]
+[Site "Helsinki FIN"]
 [Date "2024.08.29"]
 [Round "5"]
 [White "Suihko, Ismo"]
