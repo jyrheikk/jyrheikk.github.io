@@ -59,6 +59,27 @@ Nxf3 29.Bc3 Qe4+ 30.Qe3 Nd4+ 31.Kf2 Qxe3+ 32.Kxe3 Nc2+ 33.Ke2 Nxa1 34.Bxa1 Kf7
 [Site "Lahti FIN"]
 [Date "2024.09.07"]
 [Round "1"]
+[White "Modanese, Augusto"]
+[Black "Mäkinen, Kasimir"]
+[Result "1-0"]
+[Section "III Division:6"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Jyväs-Shakki 4"]
+
+1.d4 d5 2.Nf3 e6 3.e3 Nf6 4.Bd3 Be7 5.O-O O-O 6.Nbd2 b6 7.Qe2 Nbd7 8.e4 c5
+9.c3 Bb7 10.e5 Ne4 11.Nxe4 dxe4 12.Bxe4 Bxe4 13.Qxe4 f5 14.exf6 Nxf6 15.Qxe6+
+Kh8 16.Ne5 Qe8 17.Nc6 Qf7 18.Qxe7 Qxe7 19.Nxe7 Rae8 20.Nf5 Ng8 21.Ng3 Rf6
+22.dxc5 bxc5 23.Be3 Re5 24.b4 cxb4 25.Bd4 Rg5 26.Bxf6 Nxf6 27.cxb4 a6 28.f4
+Rg4 29.Rad1 h5 30.Ne2 Rg6 31.f5 Rg4 32.Rf4 Rg5 33.h4 Rg4 34.Rxg4  Nxg4 35.Rd6
+Nh6 36.Rxh6+ gxh6 37.Kf2 Kg7 38.Ke3 Kf6 39.Ke4 Ke7 40.a4 Kd6  41.b5 a5 42.b6
+Kc6 43.f6 Kd6 44.b7 Kc7 45.f7 Kxb7 46.f8=Q Kb6 47.Qd6+ Ka7  48.Nc3 Kb7 49.Nb5
+Ka8 50.Qa6+ Kb8 51.Qb6+ Ka8 52.Qa7# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2024.09.07"]
+[Round "1"]
 [White "Sotala, Jonne"]
 [Black "Tikanmäki, Jussi"]
 [Result "1-0"]
