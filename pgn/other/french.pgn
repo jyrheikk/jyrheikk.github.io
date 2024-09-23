@@ -930,3 +930,18 @@ Nfe7 10.Bc2 O-O-O 11.dxc5 Qxc5 12.Be3 Qa5 13.Kh1 f6 14.Bd4 fxe5 15.Bxe5 Nxe5
 22.Qg2 g5 23.Bb3 h5 24.Re5 hxg4 25.Nc4 Qc7 (25...dxc4! 26.Rxa5 Bc6) 26.Nxd6+
 Qxd6 27.R1e3? Rf3 (27...Rh4!) 28.Rxf3 gxf3 29.Qxg5 d4 30.h4 Rxh4+ 31.Qxh4 Qxe5
 32.Qg3? 1/2-1/2
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.23"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Siikonen, Timo"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 Qb6 8.O-O cxd4
+9.cxd4 f6 10.exf6 Nxf6 11.Nf3 Bd6 12.a3 O-O 13.Bc2 Bd7 14.Qd3 e5 15.dxe5 Nxe5
+16.Nxe5 Bxe5 17.a4 Qd6?? (17...Rac8) 18.f4 Ne4 19.fxe5 Rxf1+ 20.Kxf1 Rf8+
+21.Kg1 Qxe5 22.Bf4 Qe6 23.Rf1 g5 24.Be3 Rxf1+ 25.Kxf1 Qf7+ 26.Kg1 Bf5 27.Qd4
+Bg4 28.Bxe4 dxe4 29.Qd8+ 1-0
