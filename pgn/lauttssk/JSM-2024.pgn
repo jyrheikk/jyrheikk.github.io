@@ -2,6 +2,25 @@
 [Site "Helsinki FIN"]
 [Date "2024.09.07"]
 [Round "1"]
+[White "Lehti, Juhani"]
+[Black "Holopainen, Timo"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Be7
+9.Nc3 Nxc3 10.bxc3 Bd7 11.a4 a6 12.Bxc6 bxc6 13.Ba3 Bxa3 14.Rxa3 Qe7 15.Ra2
+O-O 16.O-O Bg4 17.h3 Bxf3 18.Qxf3 f6 19.Qg3 c5 20.Re2 cxd4 21.cxd4 fxe5
+22.Rxe5 Qd7 23.Qg5 Rae8 24.Rfe1 Rxe5 25.Rxe5 Qxa4 26.Rxd5 Qe8 27.f3 h6 28.Qd2
+Qe6 29.Rc5 Qd6 30.Qc3 Rd8 31.Qc4+ Kh8 32.d5 Qe5 33.Qe4 Qd6 34.Qc4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.07"]
+[Round "1"]
 [White "Sund, Jan"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
@@ -9,6 +28,7 @@
 [Board "2"]
 [WhiteTeam "Käpylän Shakkikerho"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "A51"]
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 d6 5.Qd5 Nc5 6.Bg5 Qd7 7.Nc3 Nc6 8.e3 h6
 (8...Nb4 9.Qd1 dxe5) 9.Bh4 dxe5 10.Nxe5 Qxd5 11.Nxd5 Nxe5 12.Nxc7+ Kd7 13.Nxa8
@@ -21,6 +41,49 @@ Bd6 (13...Kc6) 14.O-O-O b6 15.b4 Na6 16.c5 bxc5 17.bxc5 Nxc5 18.Bb5+ Ke6
 [Site "Helsinki FIN"]
 [Date "2024.09.07"]
 [Round "1"]
+[White "Kauppala, Pekka"]
+[Black "Honkanen, Marko"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "B21"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nc3 Bg7 6.Nf3 Nf6 7.Nd5 O-O 8.c3 d6
+9.Be2 Be6 10.O-O Rc8 11.Re1 Ne5 12.Nxe5 dxe5 13.c4 Nxd5 14.cxd5 Bd7 15.Be3 a6
+16.a4 e6 17.Qb3 exd5 18.exd5 b5 19.axb5 axb5 20.Ra6 e4 21.Bf4 Ra8 22.Rea1 Rxa6
+23.Rxa6 Qc8 24.Ra1 Qb7 25.Be3 Ra8 26.Rc1 Rc8 27.Rxc8+ Qxc8 28.Bxb5 Qb7 29.Bc4
+Qxb3 30.Bxb3 Bxb2 31.Bh6 Bg7 32.Bg5 Bd4 33.Be7 Kg7 34.Kf1 f5 35.Bc4 Bf6 36.Bc5
+Be5 37.Ba6 Kf7 38.h4 Ke8 39.Ke2 Ba4 40.Ke3 Kd7 41.Bd4 Bd6 42.g3 Bc7 43.Bc5 Be5
+44.Bc4 Kc7 45.d6+ Bxd6 46.Bxd6+ Kxd6 47.Bg8 Ke5 48.Bxh7 Kf6 49.Bg8 Ke5 50.Bf7
+Kf6 51.Bc4 Ke5 52.Be2 Be8 53.Bc4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.07"]
+[Round "1"]
+[White "Calonius, Mikael"]
+[Black "Aakio, Seppo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "A55"]
+
+1.d4 d6 2.c4 c6 3.Nc3 Nd7 4.Nf3 e5 5.e4 Be7 6.Be2 Ngf6 7.O-O O-O 8.h3 a5 9.Be3
+exd4 10.Nxd4 Nc5 11.Qc2 Re8 12.Rad1 Qc7 13.Bf4 Bf8 14.Bf3 Nfd7 15.Nb3 Nxb3
+16.Qxb3 Ne5 17.Be2 Be6 18.Rc1 b5 19.Nd5 Qb8 20.Ne3 a4 21.Qc2 b4 22.b3 axb3
+23.axb3 Nd7 24.Rfd1 Nc5 25.Nf5 Bxf5 26.exf5 Ra3 27.Bf3 Qc7 28.Rb1 Rea8 29.f6
+g6 30.Qd2 Nxb3 31.Qxb4 c5 32.Qb7 Qxb7 33.Bxb7 R8a7 34.Bxd6 Ra1 35.Rxa1 Rxa1
+36.Rxa1 Nxa1 37.Be7 Nc2 38.Kf1 Nd4 39.g4 Ne6 40.Bd5 Nc7 41.Ke2 Ne8 42.Ke3 Bh6+
+43.Ke4 Bf8 44.Ke5 h6 45.Bc6 Nc7 46.Kd6 Ne6 47.Bd5 Nf4 48.Kd7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.07"]
+[Round "1"]
 [White "Kumar, Ashwin"]
 [Black "Paronen, Petteri"]
 [Result "1-0"]
@@ -28,11 +91,52 @@ Bd6 (13...Kc6) 14.O-O-O b6 15.b4 Na6 16.c5 bxc5 17.bxc5 Nxc5 18.Bb5+ Ke6
 [Board "5"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Käpylän Shakkikerho"]
-[ECO "B00"]
 
 1.d4 d6 2.e4 g6 3.c4 e5 4.d5 Nd7 5.Nc3 a5 6.Bd3 Nc5 7.Bc2 Ne7 8.g4 h5 9.g5 c6
 10.Be3 cxd5 11.cxd5 b6 12.a3 Bd7 13.b4 axb4 14.axb4 Na6 15.Qb1 Nxb4 16.Ba4 Na6
 17.Bxb6 Qc8 18.Nb5 Ng8 19.Ne2 Rb8 20.Na7 Qc4 21.Nc6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.07"]
+[Round "1"]
+[White "Suominen, Antti"]
+[Black "Dahal, Sameep"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "E06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O c6 7.Qc2 Na6 8.a3 Nc7
+9.Nbd2 Nce8 10.e4 dxe4 11.Nxe4 Nxe4 12.Qxe4 Nf6 13.Qc2 Qc7 14.c5 Nd5 15.Ne5 f6
+16.Nc4 e5 17.Be4 g6 18.Bh6 Rd8 19.Bxg6 Bf8 20.Bxf8 Rxf8 21.Be4 exd4 22.Bxd5+
+cxd5 23.Nd6 Bh3 24.Rfd1 Rad8 25.Rac1 Rxd6 26.cxd6 Qxd6 27.Rxd4 Qe5 28.Qd2 Re8
+29.Rh4 Bf5 30.Qe3 Qxe3 31.fxe3 Rxe3 32.Rf4 Re5 33.g4 Bd7 34.Rc7 Bc6 35.Rxf6
+Re2 36.Rd6 Re8 37.g5 a5 38.h4 a4 39.h5 Rf8 40.h6 Re8 41.g6 hxg6 42.Rxg6+ Kh8
+43.Rgg7 Rg8 44.Rxg8+ Kxg8 45.Kf2 d4 46.Ke2 Bb5+ 47.Kd2 b6 48.Rb7 Bc4 49.Rxb6
+Kh7 50.Rb4 Bf1 51.Rxa4 Kxh6 52.Rxd4 Kg5 53.Kc3 Kf5 54.a4 Ke5 55.Rd1 Ba6 56.b4
+1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.09.07"]
+[Round "1"]
+[White "Horttanainen, Emil"]
+[Black "Tiihonen, Ilpo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 Qc7 8.Qd2 Nbd7
+9.g4 Nb6 10.O-O-O Be7 11.h4 Nc4 12.Bxc4 Qxc4 13.h5 h6 14.g5 hxg5 15.Bxg5 b5
+16.Kb1 Bb7 17.h6 gxh6 18.Rxh6 Rxh6 19.Bxh6 O-O-O 20.Be3 d5 21.e5 Nd7 22.f4 Bb4
+23.Nde2 f6 24.exf6 Nxf6 25.b3 Qc7 26.Qd4 Be7 27.Qa7 Nd7 28.Qd4 Bc5 29.Qd3 Bd6
+30.Nd4 Re8 31.Qg6 Re7 32.Nxe6 Rxe6 33.Qxe6 Qxc3 34.Bb6 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
