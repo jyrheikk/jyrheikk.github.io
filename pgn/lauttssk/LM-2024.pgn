@@ -615,3 +615,23 @@ O-O 9.f3 Be6 10.g4 Nd7 11.Kb1 Bf6 12.Qe3 Be5 13.Bg5 Bf6 14.h4 Re8 15.Bd3 Qe7
 16.Rdg1 c6 17.Bxf6 Nxf6 18.h5 Nd7 19.f4 f5? 20.gxf5 Bxf5 21.Qg3 Be6 22.f5 Bxf5
 23.exf5 Nf6 24.h6 d5 25.Qxg7+ Qxg7 26.Rxg7+ Kh8 27.Rxb7 d4 28.Ne2 c5 29.Nf4
 Re5 30.Ng6+ hxg6 31.fxg6 Ne4 32.Bxe4 Rxe4 33.Rg1 Rae8 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "lichess.org"]
+[Date "2024.09.30"]
+[Round "6"]
+[White "Valli, Kari"]
+[Black "Crespiera, David"]
+[Result "0-1"]
+[Mode "ICS"]
+[TimeControl "2700+30"]
+[ECO "D01"]
+
+1.d4 d5 2.Nc3 Nf6 3.Bf4 e6 4.e3 Bd6 5.Bd3 Bxf4 6.exf4 O-O 7.Nf3 Nc6 8.Ne5 Nxd4
+9.Bxh7+ Nxh7 10.Qxd4 b6 11.b4 Ba6 12.a4 c5 13.bxc5 bxc5 14.Qd2 Nf6 15.f3 Nd7
+16.Nb5 Nxe5 17.fxe5 Bxb5 18.axb5 Qb8 19.Qe2 c4 20.O-O Qxb5 21.Rfb1 Qc5+ 22.Kh1
+Rfb8 23.f4 Rxb1+ 24.Rxb1 a5 25.f5 exf5 26.e6 Qe7 27.exf7+ Qxf7 28.Qe5 a4
+29.Rb8+ Rxb8 30.Qxb8+ Kh7 31.Qg3 Qg6 32.Qh3+ Kg8 33.Qf3 Qe6 34.h3 Qe4 35.Qa3
+Qxc2 36.Qd6 Qe4 37.Qb4 f4 38.Qxa4 f3 39.Qa8+ Kh7 40.gxf3 Qxf3+ 41.Kh2 Qf2+
+42.Kh1 d4 43.Qe4+ Kh6 44.Qe6+ g6 45.Qxc4 Qe1+ 46.Kg2 Qd2+ 47.Kh1 Qc3 48.Qe6
+Qe3 49.Qg4 Qe1+ 50.Kh2 Qf2+ 51.Kh1 d3 52.h4 Qe1+ 53.Kh2 Qe2+ 0-1
