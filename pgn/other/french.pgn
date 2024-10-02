@@ -945,3 +945,17 @@ Qxd6 27.R1e3? Rf3 (27...Rh4!) 28.Rxf3 gxf3 29.Qxg5 d4 30.h4 Rxh4+ 31.Qxh4 Qxe5
 16.Nxe5 Bxe5 17.a4 Qd6?? (17...Rac8) 18.f4 Ne4 19.fxe5 Rxf1+ 20.Kxf1 Rf8+
 21.Kg1 Qxe5 22.Bf4 Qe6 23.Rf1 g5 24.Be3 Rxf1+ 25.Kxf1 Qf7+ 26.Kg1 Bf5 27.Qd4
 Bg4 28.Bxe4 dxe4 29.Qd8+ 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.10.02"]
+[Round "-"]
+[White "Clarke, Daniel"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.Bd3 Qb6 6.a3 Bd7 7.O-O cxd4 8.Nbd2 f6
+9.Re1 O-O-O 10.Nb3 fxe5 11.Nxe5 Nxe5 12.Rxe5 Bd6 13.Rg5 Nf6 14.Rxg7 e5 15.Bg5
+Rdf8 16.Bxf6 Rxf6 17.Qf1 Rhf8 18.g3 Rxf2 19.Qxf2 Rxf2 20.Kxf2 e4 21.Bf1 d3+
+22.Ke1 Qe3+ 23.Kd1 Qf2 24.Bxd3 exd3 25.cxd3 Bg4+ 26.Kc1 Be5 (26...Bf5) 27.Rxg4
+Qxb2+ 28.Kd1 Qxb3+ 29.Kd2 Qb2+ 30.Ke3 Qxa1 31.d4 Qg1+ 32.Kd3 Qd1+ 0-1
