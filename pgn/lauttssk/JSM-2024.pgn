@@ -347,6 +347,31 @@ Qxe3+ 30.Rxe3 Nd5 31.Nxc4 Nxe3 32.Nxe3 Rf4 33.Bxf4 1-0
 [Site "Helsinki FIN"]
 [Date "2024.10.04"]
 [Round "2"]
+[White "Pivdunen, Eduard"]
+[Black "Horttanainen, Emil"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "1"]
+[WhiteTeam "Itä-Helsingin Shakkikerho 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bg4 6.c3 Qf6 7.d3 Ne7 8.Nbd2 Ng6?!
+(8...g5) 9.h3 h5 10.Qe1?? (10.Re1 Nf4) Nf4 11.Qe3 Be7? (11...Bxh3 12.Ne1 Bd7
+13.d4 g5 14.d5 Nb8 15.Bc2 h4 16.a4 Bh6 17.Nd3) 12.Re1?? (12.Kh2) Bxh3 13.g3
+Ng2 14.Qe2 Nxe1 15.Qxe1 h4 16.Qe3 Qg6 17.Nh2 hxg3 18.Qxg3 Qxg3+ 19.fxg3 Bg5
+20.Ndf3 Bxc1 21.Rxc1 Bd7 22.d4 b5 23.Bc2 f6 24.Nf1 g5 25.Ne3 O-O-O 26.dxe5?!
+(26.d5 Na5 27.Bd3 Rh7 28.b4 Rdh8 29.Kg2 Nc4 30.Bxc4 bxc4 31.Re1 Kb7) dxe5
+27.Nd5 Rh6 28.Bd3 Rdh8 29.Kg2 Be6 30.a4 Bxd5 31.exd5 Ne7 32.axb5 axb5 33.Bxb5
+Nxd5 34.Bc6?! (34.Re1 Kb8 35.Re4 Nb6 36.Re2 Kb7 37.Bd3 c6 38.b4 Kc7 39.Ra2
+Nd5) Ne3+ 35.Kf2 Ng4+ 36.Ke2 f5 37.Ra1 Kd8 38.Rd1+ Rd6 39.Ra1 Ke7 40.Ba4?!
+(40.Ra8 Rxa8 41.Bxa8 Rd8 42.Bc6 Rh8 43.b4 e4 44.Nd2 Ne5 45.Bb5 Rh2+) e4
+41.Ng1?? (41.Nh4 gxh4 42.gxh4 Rxh4 43.Ra2 Ke6 44.Kf1 Rh2 45.Kg1 Rhd2) Rh2+
+42.Ke1 Rdd2 43.Bd1 Ne3 44.Ne2 Rdxe2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.04"]
+[Round "2"]
 [White "Salo, Mikko"]
 [Black "Mononen, Heikki"]
 [Result "1-0"]
@@ -422,6 +447,29 @@ O-O 9.O-O-O Re8 10.Bd3 g6 11.f4 Nc6 12.a3 Rb8 13.Ne2 b5 14.Ng3 Kh8 15.h4 a5
 [Site "Helsinki FIN"]
 [Date "2024.10.05"]
 [Round "2"]
+[White "Al Hajaj, Amjad"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Joensuun Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.c4 e6 2.g3 d5 3.d3 Nf6 4.Bg2 Be7 5.Nf3 O-O 6.b3 b6 7.O-O Bb7 8.Nd4 c5 9.Nc2
+Qc7 10.Nc3 d4 11.Nb5 Qd7 12.e4 dxe3 13.fxe3 Bxg2 14.Kxg2 Nc6 15.Bb2 a6 16.Nba3
+e5 17.Qf3 Qe6 18.d4 cxd4 19.exd4 exd4 20.Bxd4 Nxd4 21.Nxd4 Qe4 22.Nac2 Bc5
+23.Rfe1 Qxf3+ 24.Kxf3 g6 25.b4 Bxd4 26.Nxd4 Rfd8 27.Nc6 Rd6 28.b5 axb5 29.cxb5
+Rd2 30.Re2 Ra3+ 31.Kf2 Ne4+ 32.Ke1 Rxe2+ 33.Kxe2 Nc3+ 34.Kd2 Nxb5 35.Ne7+ Kf8
+36.Nd5 Ra6 37.a4 Nd6 38.Kc3 Nc8 39.Kb4 Nd6 40.Rc1 Ne4 41.Rc6 h5 42.Nxb6 Ra7
+43.a5 g5 44.Kb5 h4 45.gxh4 gxh4 46.a6 f5 47.Nc8 Ra8 48.a7 f4 49.Ka6 f3 50.Kb7
+Rxa7+ 51.Kxa7 f2 52.Rc1 Nd2 53.Nd6 f1=Q 54.Rxf1+ Nxf1 55.h3 Ng3 56.Kb6 Ke7
+57.Kc5 Ke6 58.Nc4 Ne2 59.Ne3 Nf4 60.Kd4 Kf6 61.Ke4 Nxh3 62.Ng2 Nf2+ 63.Kf3 h3
+64.Kg3 hxg2 65.Kxg2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.05"]
+[Round "2"]
 [White "Havansi, Erkki"]
 [Black "Korpelainen, Paul"]
 [Result "1/2-1/2"]
@@ -461,6 +509,27 @@ Nxd5 24.cxd5 Qe5 25.Rc2 Rbc8 26.Rfc1 Rc5 27.e4 Rfc8 28.Qd3 f5 29.Rxc5 Rxc5
 Kb2 45.a4 (45.fxg3) d5 46.a5 Qe1+ 47.Kg2 Qxa5? (47...d4 48.a6 gxf2 49.Qxf2+
 Qxf2+ 50.Kxf2 d3) 48.Qxd5 gxf2 49.Kxf2 Qc3 50.Kg1?? (50.Ke2) Qd4+ 51.Qxd4+
 cxd4 52.Kf2 d3 53.Ke3 Kc2 54.b4 d2 55.Kd4 d1=Q+ 56.Kc5 Qd8 57.b5 Qc7+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.05"]
+[Round "2"]
+[White "Aakio, Seppo"]
+[Black "Salmela, Nuutti"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.h3 h6 9.Bc4
+Be6 10.Bxe6 fxe6 11.O-O O-O 12.Qe2 Nc6 13.Rd1 Qe8 14.Be3 Nh5 15.g3 Qg6 16.Kh1
+Qf7 17.Kg2 Rad8 18.Bb6 Rd7 19.b4 Qg6 20.Kh2 Bd8 21.Bxd8 Rdf7 22.Bb6 Rxf3
+23.Rd3 R3f7 (23...Nxg3!) 24.Qg4 Qxg4 25.hxg4 Nf6 26.Kh3 Nd7 27.Be3 Nxb4
+28.Rxd6 Nxc2 29.Rad1 Nxe3 30.fxe3 Nc5 31.Rd8 Rxd8 32.Rxd8+ Rf8 33.Rd6 Kf7
+34.g5 Ke7 35.Rb6 Rf3 36.Nd1 hxg5 37.Kg2 Rf8 38.Nf2 Rd8 39.Ng4 Rd3 40.Kf3 Rb3
+41.Rxb3 Nxb3 42.Nxe5 Nd2+ 43.Ke2 Nxe4 44.g4 Nc3+ 45.Kd3 Nxa4 46.Nc4 Nc5+
+47.Kd4 Nd7 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -534,6 +603,25 @@ Bh6 33.Rb4 Qxb4 34.Qxh6 Rxh6 35.Nxb4 Rxh4 36.g3 Re4 37.Rf2 Rxe5 38.Nc2 Rf5
 [Site "Helsinki FIN"]
 [Date "2024.10.05"]
 [Round "2"]
+[White "Nyrhinen, Harri"]
+[Black "Vainikka, Sami"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2
+Re8 9.h3 Nd7 10.O-O Nf8 11.Qd2 Bc7 12.Bf4 Bxf4 13.Nxf4 g6 14.c3 Ne6 15.Rfe1
+Qd6 16.Nxe6 (16.Nh5! Qe7 17.Qh6 Bd7 18.Rxe6 fxe6 19.Bxg6 Rf8 20.Bc2) Bxe6
+17.Re2 b5 18.Rae1 a5 19.Bc2 Red8 20.Bb3 Bxb3 21.axb3 c5 22.Re4 f5 23.Re5 cxd4
+24.Rxb5 dxc3 25.Qxd6 Rxd6 26.bxc3 Rc6 27.c4 a4 28.Ra1 Raa6 29.Rxa4 Rxa4
+30.bxa4 Rxc4 31.a5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.05"]
+[Round "2"]
 [White "Rannisto, Olavi"]
 [Black "Männistö, Kari"]
 [Result "1-0"]
@@ -549,6 +637,45 @@ Bh6 33.Rb4 Qxb4 34.Qxh6 Rxh6 35.Nxb4 Rxh4 36.g3 Re4 37.Rf2 Rxe5 38.Nc2 Rf5
 Bxd7 30.dxe5+ Kxe5 31.Rd5+ Kf6 32.e5+ Ke6 33.exd6 c6 34.Rxg5 Kxd6 35.c5+ Kc7
 36.Bd4 bxc5 37.Bxc5 a6 38.Bd4 Re6 39.Be5+ Kb6 40.Bxf4 c5 41.Kf2 Kb5 42.Be3 Rc6
 43.Re5 Kc4 44.g5 Be6 45.f4 Bd5 46.f5 Bf7 47.Kf3 Bh5+ 48.Kf4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.05"]
+[Round "2"]
+[White "Sippola, Hannu"]
+[Black "Horttanainen, Emil"]
+[Result "0-1"]
+[Section "III Division:6"]
+[Board "4"]
+[WhiteTeam "Etelä-Vantaan Shakki 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.Be2 e4 6.Nd4 Nxd4 7.cxd4 Qxd4 8.O-O
+Nf6 9.Nc3 Be7 10.b3 O-O 11.Bb2 Bf5 12.Rc1 Rad8 13.Na4 Qd7 14.Bc3 b6 15.Nb2 Nd5
+16.Nc4 Nxc3 17.dxc3 Qxd1 18.Rcxd1 Rxd1 19.Rxd1 Bf6 20.Ne3 Be6 21.c4 Rd8
+22.Rxd8+ Bxd8 23.Kf1 f5 24.g3 Kf8 25.Bd1 a5 26.a4 Ke7 27.Ke2 Kd6 28.Nc2 Kc5
+29.h4 g5 30.hxg5 Bxg5 31.f3 exf3+ 32.Kxf3 c6 33.Kf2 b5 34.axb5 cxb5 35.Be2
+bxc4 36.bxc4 Bxc4 37.Bf3 Bb3 38.Ne3 a4 39.Nxf5 a3 40.Ne3 Bxe3+ 41.Kxe3 a2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.10.06"]
+[Round "3"]
+[White "Hartikainen, Jarmo"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Kuopion Shakinystävät"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.b4 Bb6 7.e5 d5 8.exf6 dxc4
+9.Qe2+ Be6 10.b5 Na5 11.fxg7 Rg8 12.cxd4 Bxd4 13.Nxd4 Qxd4 14.Bb2 Qf4 15.O-O
+O-O-O 16.Bc3 b6 17.Nd2 Bd5 18.Rae1 f6 19.g3 Rxg7 20.Qe3 Qd6 21.Ne4 Bxe4
+22.Qxe4 Kb8 23.Bxa5 bxa5 24.Qxc4 Qd5 25.Qc3 Qxa2 26.Qxf6 Rgd7 27.Rc1 a4 28.Qc3
+Qb3 29.Qa5 Rc8 30.Ra1 Rd4 31.Rfb1 Qc2 32.Rc1 (32.b6!) Qe4 33.Ra3 Rb4 34.Rac3
+Rb1 35.Rxb1 Qxb1+ 36.Kg2 Qe4+ 37.Kg1 Qe1+ 38.Kg2 Qe4+ 39.Kg1 Qe1+ 40.Kg2 Qe4+
+1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
