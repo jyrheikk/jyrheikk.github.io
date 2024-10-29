@@ -815,3 +815,20 @@ Rxc3+ 42.Kb2 Rg3 43.Re7 Rg2+ 44.Kc1 Rf2? 45.Ng4 Rg2 (45...Rxf4 46.Nh6+ Kf8
 (62...Kf7) 63.Kc4 Rf3 64.Nd5? (64.Ne6+) Kg6 65.b5 Kxg5 66.b6 axb6 67.axb6 h5
 68.Ne7 Rf8 69.Kc5?? h4 70.Nd5 Rb8?? (70...h3) 71.Ne3 h3 72.Nf1 Kg4 73.Kc6 Kf3
 74.Nh2+ Kg2 75.Ng4 Kg3 76.Ne3 Rxb6+ 77.Kxb6 Kf3 78.Nf1 1/2-1/2
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2024.10.29"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Camden-Dunne, Tamerlane"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Bd3 O-O 6.Bg5 h6 7.Bf4 Bg4 8.h3 Bxf3
+9.Qxf3 Nc6 10.Qe3 g5 11.Bh2 e5 12.dxe5 Nxe5 13.Be2 c6 14.O-O-O Qc7 15.f4 gxf4
+16.Bxf4 Kh7 17.g4 d5 18.exd5 Nfd7 19.Bd3+ Kg8 20.Bxh6 Nxd3+ 21.Rxd3 Ne5
+22.Rdd1 Rae8 23.Qg5 Ng6 24.Bxg7 Kxg7 25.d6 Qd7 26.Qd2 Re5 27.Rhe1 Rfe8 28.Rxe5
+Rxe5 29.Qd4 Kg8 30.Qxa7 Re6 31.Qb8+ Kg7 32.Qc7 Ne5 33.Na4 Qe8 34.d7 Nxd7
+35.Qxd7 Qa8 36.Qd4+ Kg6 37.Nc3 Qa5 38.h4 b5 39.a3 b4 40.Qxb4 Qe5 41.Qd4 Qg3
+42.h5+ Kg5 43.Ne4+ Rxe4 44.Qxe4 (44.Qg7+) 1-0
