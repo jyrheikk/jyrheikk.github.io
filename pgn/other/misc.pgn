@@ -643,3 +643,16 @@ cxd4 52.Kf2 d3 53.Ke3 Kc2 54.b4 d2 55.Kd4 d1=Q+ 56.Kc5 Qd8 57.b5 Qc7+ 0-1
 9.dxc5 Qxc5 10.Nd4 Nxd4 11.exd4 Qa5 12.Bd2 Qd8 13.Bf4 O-O 14.Nb5 Nd5 15.Bxd5
 exd5 16.Re1 g5 (16...Bf5) 17.Rxe7 Qxe7 18.Bd6 Qe4 19.Bxf8?? (19.Qd2) Bh3 20.f3
 Qe3+ 21.Kh1 Qf2 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.11.13"]
+[Round "-"]
+[White "Wallner, Nikos"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 c5 4.e3 Qb6 5.b3 Bg7 6.Bc4 O-O 7.Ne5 d6 8.Nxf7 d5
+9.dxc5 Qxc5 10.Qd4 Qxd4 11.exd4 Rxf7 12.Bd3 Ng4 13.Be3 e5 14.c3 exd4 15.cxd4
+Nc6 16.Nc3 Nxd4 17.O-O-O Nxf2 18.Bxf2 Rxf2 19.Nxd5 Bf5 20.Rhf1 Rc8+ 21.Bc4
+Nxb3+ 22.axb3 Bb2# 0-1
