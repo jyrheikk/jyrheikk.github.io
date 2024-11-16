@@ -831,3 +831,59 @@ f3 57.d6 Kf6 0-1
 16.Rfe1 O-O-O 17.Bd4 e5 18.Bb6 Bxf4 19.Be3 Bxe3 20.Rxe3 e4 21.Bxe4 fxe4
 22.Nxe4 Qf5 23.Qc3+ Kb8 24.Qxh8 Bxd5 25.Qd4 Ne6 26.Qxd5 Qxd5 27.Rxd5 Kc7
 28.Neg5 Nxg5 29.Rxg5 Nh6 30.Rxg6 Nf5 31.Rd3 Ne7 32.Rh6 Nf5 33.Rxh5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Dannenberg, Alia"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 d5 2.Nc3 d4 3.Nce2 c5 4.Nf3 Nc6 5.Ng3 Qc7 6.Bc4 e5 7.Ng5 Nd8 8.O-O Be7
+9.d3 h6? 10.Nf3 (10.Nxf7! Nxf7 11.Qh5 Bf8 12.f4 Nf6 13.Qg6) Be6 11.Bb5+ Nc6
+12.Bxc6+ bxc6 13.b3 g6 14.h3 Nf6 15.Nh2 Bd6 16.Qf3 Ke7 17.Bd2 Raf8 18.Rae1 Nd7
+19.Qd1 Kd8 20.Qc1 h5 21.Nf3 Be7 22.Ng5 Bxg5 23.Bxg5+ f6 24.Bd2 g5 25.Ne2 Rfg8
+26.Qa3 Ke8 27.Qa5 Qd6 28.Qa3 (28.Qxa7 c4 29.bxc4 Kf7 30.c5 Qe7) Qc7 29.Qa5 Qb8
+30.Kh1 Kf7 31.Qa3 Qd6 32.Qc1 Nf8 33.Ng1 Qd7 34.Qa3 Qe7 35.g3 Qd7 36.Kh2 Ng6
+37.f4 gxf4 38.gxf4 Nh4 39.Re2?? (39.Rf2) Rxg1 40.Rxg1 Nf3+ 41.Kg2 Rg8+
+(41...Nxg1 42.Kxg1 exf4) 42.Kxf3 Rxg1 43.Kf2 Rg8 44.Qxc5 Bxh3 45.Qc4+ Be6
+46.Qc5 Bh3 47.Qc4+ Kg7 48.f5 Kh8 49.Bb4 Qg7 (49...Rg2+) 50.Ke1 Qg1+ 51.Kd2
+Qg5+ 52.Ke1 (52.Kd1 Bg4 53.Bd2 Bxe2+) Qc1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Niemelä, Risto"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 g6 4.e3 Bg7 5.Nbd2 O-O 6.Be2 a5 7.Ne5 Bf5 8.O-O a4
+9.a3 Nfd7 10.Ndf3 f6 11.Nxd7 Nxd7 12.c4 c6 13.cxd5 cxd5 14.Rc1 Qb6 15.Qd2 Rfc8
+16.h3 Nf8 17.Qb4 Qxb4 18.axb4 Bc2 19.Ne1 Bb3 20.Nd3 Bc4 21.Rc3 e5 22.dxe5 fxe5
+23.Bg4 exf4 24.Bxc8 Bxc3 25.Bxb7 Ra7 26.Bxd5+ Bxd5 27.bxc3 Bc4 28.Rd1 Rd7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Espoo FIN"]
+[Date "2024.11.16"]
+[Round "3"]
+[White "Ilkka, Oskari"]
+[Black "Kauria, Eero"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Leppävaaran Sisu"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 c5 4.e3 Na6 5.Ne2 Rb8 6.Nbc3 Nc7 7.O-O Be7 8.d4 b6 9.d5
+exd5 10.cxd5 Bd6 11.f4 c4 12.e4 Bc5+ 13.Kh1 O-O 14.e5 Ng4 15.Nd4 d6 16.Nc6 Qe8
+17.Nxb8 f5 18.Qf3 Qh5 19.h3 Bb7 20.Nd7 Nf2+ 21.Rxf2 1-0
