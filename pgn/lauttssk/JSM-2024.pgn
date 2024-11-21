@@ -927,3 +927,22 @@ Rxd5 42.a7 Ra5 43.Rb8 Ra2+ 44.Kh3 Ra3 45.a8Q Rxe3 46.Rg8+ Kf5 47.Qd5+ Be5
 Be5 23.Rad1 Bd4 24.Kh1 Qa5 25.a4 Qc3 26.Rb1 Bxf2 27.Rxf2 Rxd3 28.Qh4 Qxb3
 29.Rff1 Qxa4 30.Rxb7 Rd4?? 31.Rb8+ Ne8 32.Qe7 h6 33.Rxe8+ Kh7 34.Qxf7 Qxc4
 35.Qg8+ Kg6 36.Rxe6+ Kh5 37.Qf7+ Kh4 38.g3+ Kg4 39.Qf5# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2024.11.16"]
+[Round "3"]
+[White "Keinänen, Jaakko"]
+[Black "Kiili, Veikko"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[BlackTeam "Shakkiseura Gambiitti 4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 g6 7.Nd2 Bg7 8.Ngf3 O-O
+9.O-O Bg4 10.h3 Bxf3 11.Nxf3 e6 12.Re1 a6 13.Qd2 Re8 14.Ne5 Nd7 15.Nxd7 Qxd7
+16.Re2 e5 17.dxe5 Bxe5 18.Bxe5 Rxe5 19.Rxe5 Nxe5 20.Re1 Re8 21.Kf1 Qc6 22.Qe3
+Qc7 23.Qd4 Re6 24.Qxd5 Qe7 25.b3 Nc6 26.Rxe6 fxe6 27.Qe4 Qd6 28.Ke2 Qe7
+29.Bxa6 Qa3 30.Qxe6+ Kf8 31.Bc4 Qb2+ 32.Kf1 Qc1+ 33.Qe1 Qf4 34.Qe3 Qd6 35.Qf3+
+Ke7 36.Qd5 Qf4 37.Qe6+ Kd8 38.Qg8+ Kd7 39.Qf7+ 1-0
