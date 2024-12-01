@@ -836,6 +836,25 @@ f3 57.d6 Kf6 0-1
 [Site "Joensuu FIN"]
 [Date "2024.11.16"]
 [Round "4"]
+[White "Lehti, Juhani"]
+[Black "Jouhki, Yrjö Markus"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "B70"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.g3 Nc6 7.Bg2 Bg4 8.Nde2 Qc8
+9.h3 Bd7 10.b3 Bg7 11.Bb2 O-O 12.Rc1 Re8 13.a4 Rb8 14.Ba1 a6 15.Nd5 Nxd5
+16.exd5 Bxa1 17.Rxa1 Nb4 18.c3 Nxd5 19.Bxd5 b5 20.a5 b4 21.c4 e6 22.Bg2 d5
+23.O-O dxc4 24.bxc4 Qxc4 25.Qxd7 Qxe2 26.Rfe1 Qb2 27.Qc6 Rec8 28.Qxa6 b3
+29.Qd3 Rc2 30.Qe3 Qg7 31.a6 Ra2 32.a7 Ra8 33.Rxa2 bxa2 34.Qa3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
 [White "Dannenberg, Alia"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -859,6 +878,25 @@ Qg5+ 52.Ke1 (52.Kd1 Bg4 53.Bd2 Bxe2+) Qc1+ 0-1
 [Site "Joensuu FIN"]
 [Date "2024.11.16"]
 [Round "4"]
+[White "Kauppala, Pekka"]
+[Black "Marttinen, Jussi"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Qxd5 5.Nc3 Qe5+ 6.Be2 Nf6 7.Nf3 Qa5 8.O-O
+e5 9.Bb5+ Bd7 10.Qb3 Qc7 11.d4 e4 12.Ne5 Bxb5 13.Nxb5 Qe7 14.Bf4 Na6 15.Nd6+
+Qxd6 16.Qxf7+ Kd8 17.Qxb7 Qd5 18.Nc6+ Ke8 19.Qxa8+ Kf7 20.Qxa7+ Kg6 21.Qxa6 h5
+22.Rac1 h4 23.Rc3 Rh5 24.Qc8 Bd6 25.Bxd6 Qxd6 26.Qd8 Qf4 27.Ne5+ Kh7 28.Rc8
+Rxe5 29.dxe5 Qxe5 30.Qh8+ Kg6 31.Qxh4 Qxb2 32.Rc7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
 [White "Niemelä, Risto"]
 [Black "Kumar, Ashwin"]
 [Result "0-1"]
@@ -871,6 +909,90 @@ Qg5+ 52.Ke1 (52.Kd1 Bg4 53.Bd2 Bxe2+) Qc1+ 0-1
 9.a3 Nfd7 10.Ndf3 f6 11.Nxd7 Nxd7 12.c4 c6 13.cxd5 cxd5 14.Rc1 Qb6 15.Qd2 Rfc8
 16.h3 Nf8 17.Qb4 Qxb4 18.axb4 Bc2 19.Ne1 Bb3 20.Nd3 Bc4 21.Rc3 e5 22.dxe5 fxe5
 23.Bg4 exf4 24.Bxc8 Bxc3 25.Bxb7 Ra7 26.Bxd5+ Bxd5 27.bxc3 Bc4 28.Rd1 Rd7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Kivinen, Jyrki"]
+[Black "Paulasto, Tuomo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.a4 Bg4
+16.Qd3 Rae8 17.Be3 Bxg3 18.fxg3 Bf3 19.Qf1 Qxf1+ 20.Rxf1 Rxe3 21.axb5 axb5
+22.Nd2 Bg4 23.Rfe1 Ree8 24.Kf2 Re6 25.Bc2 g6 26.Be4 Kg7 27.Bf3 Rxe1 28.Rxe1
+Be6 29.Ne4 Bd7 30.Nc5 Be8 31.Re5 Nb6 32.b3 Nd7 33.Rxe8 Rxe8 34.Nxd7 Re6 35.Nb8
+Kf6 36.Nxc6 Rd6 37.d5 Kg7 38.Ke3 f5 39.Kd4 Kf6 40.Be2 g5 41.Bxb5 h5 42.Kc5 Rd7
+43.d6 f4 44.gxf4 g4 45.Ne5 Rd8 46.d7 Kf5 47.Nf7 Rxd7 48.Bxd7+ Kxf4 49.Nh6 Kg5
+50.Nxg4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Ivanaynen, Natalia"]
+[Black "Zhukov, Matvei"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B06"]
+
+1.d4 d6 2.Bf4 g6 3.e4 Bg7 4.Nc3 Nd7 5.Nf3 c5 6.Be3 cxd4 7.Nxd4 a6 8.Qd2 Ngf6
+9.Bh6 O-O 10.f3 Qb6 11.O-O-O Ne5 12.h4 Nh5 13.Nd5 Qd8 14.g4 Ng3 15.Bxg7 Kxg7
+16.Rh3 Nxf1 17.Rxf1 h5 18.Rg3 hxg4 19.f4 Nc6 20.f5 Ne5 21.Ne3 Bd7 22.Nxg4 Nxg4
+23.Rxg4 e5 24.Nb3 Qf6 25.h5 Rac8 26.hxg6 fxg6 27.Rfg1 Be8 28.c3 Rd8 29.Rxg6+
+Bxg6 30.Rxg6+ Qxg6 31.fxg6 Rf6 32.Qd5 b5 33.Nd2 Kxg6 34.Qb7 d5 35.exd5 Rfd6
+36.Ne4 Rxd5 37.Qxa6+ Kf5 38.Ng3+ Kf4 39.Qg6 Rd1+ 40.Kc2 Kf3 41.Ne4 Kf4 42.Kb3
+R8d5 43.Nf6 Rd6 44.Qg4+ Ke3 45.Qe4+ Kf2 46.Qxe5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Piippo, Mikko"]
+[Black "Ahonen, Martin"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "B08"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 Bg7 4.e4 d6 5.Be3 c6 6.a4 Qc7 7.h3 Nbd7 8.Bc4 O-O
+9.O-O e5 10.Qd2 Re8 11.Rad1 exd4 12.Bxd4 Ne5 13.Nxe5 dxe5 14.Bc5 Bf8 15.Bxf8
+Kxf8 16.Qh6+ Kg8 17.Rd2 Be6 18.Bxe6 Rxe6 19.Rfd1 Qe7 20.Qe3 Kg7 21.Ne2 Qb4
+22.Ng3 Rae8 23.b3 a6 24.f3 h6 25.Kh2 b5 26.axb5 cxb5 27.Qe2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.11.16"]
+[Round "4"]
+[White "Tolvanen, Jaakko"]
+[Black "Sotala, Jonne"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Bg4 11.f3 Na5 12.Bd3 cxd4 13.cxd4 Be6 14.d5 Bxa1 15.Qxa1 f6
+16.Bh6 Bd7 17.Bxf8 Kxf8 18.Rc1 Rc8 19.Rxc8 Qxc8 20.Qd4 a6 21.d6 e5 22.Qb6 Nc6
+23.Bc4 Nd8 24.Bd5 Bc6 25.Bxc6 Nxc6 26.Qc7 Qxc7 27.dxc7 Ne7 28.Nc3 Nc8 29.Nd5
+f5 30.Kf2 Kf7 31.Ke3 Ke6 32.Kd3 b5 33.Kc3 a5 34.Kb3 Kd6 35.a4 b4 36.Kc4 Kc6
+37.h3 Nd6+ 38.Kd3 Kb7 39.g4 f4 40.g5 Nf7 41.h4 h6 42.gxh6 Nxh6 43.Kc4 Nf7
+44.Kb5 g5 45.Kxa5 b3 46.hxg5 Nxg5 47.c8=Q+ Kxc8 48.Nb6+ Kb7 49.Nc4 Nxf3 50.Kb4
+Nd4 51.Nd2 Kc6 52.a5 f3 53.Nxf3 Nxf3 54.Kxb3 Nd2+ 55.Kc3 Nxe4+ 56.Kc4 Nd6+
+57.Kd3 Kb5 58.a6 Kxa6 59.Kc3 Kb5 60.Kb3 Kc5 61.Kc3 e4 0-1
 
 [Event "Finland Team Ch"]
 [Site "Espoo FIN"]
