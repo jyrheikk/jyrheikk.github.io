@@ -1103,3 +1103,21 @@ d4 21.Bxa6 dxc3 (21...Rfd8) 22.b5 Qc5 23.Qc2 Rfc8? (23...Bd7) 24.Rfe1 Rc7
 9.Ng5 Bf5 10.O-O O-O-O 11.Nc3 h5 12.Nd5 Nxd5 13.cxd5 Nd4 14.Bxh5 g6 15.Bg4
 Rxd5 16.Bxf5+ Rxf5 (16...Nxf5) 17.b4 Bd6? 18.d3? (18.Bb2) Rxg5 19.fxg5 Bxg3?
 20.Qg4+ f5 21.gxf6+ Kb8 22.hxg3 Qh7 23.Qh4 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.01.13"]
+[Round "?"]
+[White "Turtiainen, Kimmo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "960+8"]
+
+1.e4 c5 2.Nf3 d6 3.b4 b6 4.Bc4 e6 5.d4 d5 6.exd5 exd5 7.Be2 (7.Qe2+! Be7
+8.Bb5+ Bd7 9.bxc5) cxb4 8.O-O Nf6 9.Re1 Be7 10.c4 O-O 11.Qc2 Qc7 12.Nbd2 Bb7
+13.Ne5 Nc6 14.cxd5 Nxd5 15.Nxc6 Qxc6 16.Qxc6 Bxc6 17.Bf3 Rfe8 18.Ne4 Nc3?
+(18...a5) 19.Bf4 (19.Nxc3 Bxf3 (19...Bf6!) 20.Nb5) Bxe4 20.Bxe4 Nxe4 21.Rxe4
+f5 22.Re6 Bf6 23.Rxe8+ Rxe8 24.Be3 Re4 25.Rd1 f4 26.Bc1 Bxd4 27.Kf1 Bc3 28.f3
+Rd4 29.Rxd4 Bxd4 30.Bxf4 Kf7 31.Ke2 Ke6 32.Kd3 Kd5 33.Bb8 a5 34.f4 a4 35.Kc2
+Kc4 36.g4 b3+ 37.axb3+ axb3+ 38.Kb1 Kd5 39.h4 h5 40.g5 Ke4 41.Bd6 g6 42.Bc7
+Be3 43.Kb2 Bxf4 0-1
