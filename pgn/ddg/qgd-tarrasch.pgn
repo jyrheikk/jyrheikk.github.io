@@ -134,3 +134,18 @@ Nxc5 15.Qc4 Nd3+ 16.Rxd3 exd3 17.Bd6 Be7 18.Qf7# 1-0
 
 1.d4 d5 2.e4 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 dxe4 6.Bc4 cxd4 7.Qb3 Nh6?? 8.Bxh6
 gxh6 9.Bxf7+ Kd7 10.Qe6+ Kc7 11.Nb5# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.01.15"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Nevalainen, Olli-Matti"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 e6 2.e4 d5 3.c4 c5 4.cxd5 exd5 5.Nc3 Ne7 6.Bf4 Qb6 7.Nb5 Na6 8.Nd6+ Kd7
+9.Qg4+ (9.dxc5) Kc6 10.exd5+ Nxd5 11.Nxc8 Qxb2 12.Rc1 Qxd4 13.Ne2 (13.Bb5+
+Kxb5 14.Qd7+ Ka5 15.Ne2) Qb4+ 14.Kd1 Qa4+ 15.Kd2 Qxa2+ 16.Rc2 Qa5+ 17.Kd1 Qa1+
+18.Bc1 Nab4 19.Nd4+ Kc7 20.Nb5+ Kd8 21.Ncd6 Nc3+? (21...Bxd6) 22.Rxc3 1-0
