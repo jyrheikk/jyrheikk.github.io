@@ -268,7 +268,7 @@ Qa5 16.Rfc1 Qh5 17.Qb5?? (17.Kg2 {=}) Rxc3 18.Rxc3 Qxb5 0-1
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2024.03.13"]
-[Round "-"]
+[Round "?"]
 [White "Nikulina, Anna"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -291,3 +291,19 @@ Rh6 25.Re2 Qg3 26.Nf3 exf3 27.gxf3 Nxf3 0-1
 Nxd4 8.Nxd4 Qxd4 9.g3 Bg4 10.Qc1 e5 11.Be3 Qb4 12.Bg2 O-O-O? (12...d4) 13.O-O
 h5 14.h4 Qa5 15.b4 Qc7 16.b5 d4 17.Bg5 Rd6 18.a4 Nd5 19.Bxd5? Rxd5 20.Ne4 Bh3
 *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.01.22"]
+[Round "-"]
+[White "Levshukov, Dimitri"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.Nd2 d5 5.dxc5 Qxc5 6.Ngf3 Bg4 7.Be2 e6 8.c3 Bd6
+9.Bxd6 Qxd6 10.O-O O-O 11.Nd4 Bxe2 12.Qxe2 Nc6 13.Rfe1 Rfd8 14.N2f3 Ne4 15.Nh4
+e5 16.Ndf5 Qf6 17.Qg4 g6 18.f3 h5 19.Qh3 Ng5 20.Qg3 Kh7 21.f4 exf4 22.Qxf4
+gxf5 23.Rf1 Rg8 24.Qxf5+ Qxf5 25.Rxf5 Ne7 26.Re5 Rae8 27.Rf1 Nc6 28.Rxd5 Re5
+29.Rd7 Rxe3 30.Nf5 Nh3+? (30...Re2) 31.Kh1 Nf2+ 32.Kg1 Nh3+ 33.Kh1 Re2 34.Nh4?
+(34.Rxf7+) Ne5 35.Rd5 Rgxg2? (35...Rg4) 36.Nxg2 Nf2+ 37.Kg1?? (37.Rxf2 Rxf2
+38.Kg1 Rf5) Nf3# 0-1
