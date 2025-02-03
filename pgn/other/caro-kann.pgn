@@ -289,3 +289,19 @@ fxg6 15.Qg3 Nb6 16.h5 Rf5 17.Nxh7 Rxh5 18.Nf6+ Kf7 19.Nxh5 gxh5 20.Rxh5 Qg8
 1.d4 Nf6 2.Nc3 d5 3.e4 c6 4.e5 Nfd7 5.f4 Nb6 6.Nf3 Bf5 7.Nh4 Qd7? 8.Nxf5 Qxf5
 9.Bd3 Qd7 10.O-O e6 11.f5 c5? 12.fxe6 Qxe6 13.Bf5 Qc6 14.Qf3 f6 15.exf6 gxf6
 16.Re1+ Kd8 17.Re6 Qc7 18.Nxd5 Nxd5 19.Qxd5+ Nd7 20.Bf4 Qa5 21.Re7 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.02.03"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Sapokaite, Patricija"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 d5 2.e4 c6 3.Nc3 Be6 4.e5 Nd7 5.Nf3 Bf5 6.Nh4 Be6 7.f4 Nh6 8.Be2 Nf5
+9.Nxf5 Bxf5 10.g4 Be4 11.Nxe4 dxe4 12.e6 fxe6 13.Bc4 c5 14.Bxe6 Nb6 15.d5 Nc4
+16.Qe2 Nd6 17.O-O Qb6 18.c4 g6 19.f5 Bg7 20.Rb1 Qb4 21.b3 Qc3 22.Bb2 Bd4+
+23.Kh1 Qh3? (23...Qd3) 24.Bxd4 cxd4 25.c5 d3 26.Qb2 Nf7 27.fxg6 (27.Qg7!) Rf8
+28.gxf7+ Kd8 29.d6 e3 30.dxe7+ Kc7 31.Qe5+ Kc6 32.Qd6+ (32.Bd7+!) Kb5 33.Qxd3+
+Kxc5 34.Rf5+ Kb4 35.Qc4+ Ka3 36.Qa4# 1-0
