@@ -1482,3 +1482,69 @@ Qxd4 30.Qe6+ Kh8 31.Qh6+ Kg8 32.Qh7# 1-0
 16.Ba4 Qd7 17.Bxd7 Nxd7 18.Nxg4 Nc7 19.Ne3 Nf6 20.Nf5 Bd8 21.Nxd6 Be7 22.Nf5
 Rfe8 23.Nxe7+ Rxe7 24.Bg5 h6 25.Bxf6 gxf6 26.Qc1 Nb5 27.Qxh6 Rae8 28.Re3 cxb4
 29.Nd4 exd4 30.Rg3# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.02.09"]
+[Round "4"]
+[White "Nyrhinen, Harri"]
+[Black "Tuominen, Esa"]
+[Result "1-0"]
+[Section "III Division:6"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Lahden Shakki 3"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 d4 4.exf6 dxc3 5.bxc3 exf6 6.d4 Be7 7.Bd3 O-O 8.Ne2 Bg4
+9.f3 Bh5 10.Rb1 Qc8 11.Nf4 Bg6 12.Nxg6 hxg6 13.Bf4 f5 14.Qd2 Re8 15.O-O Nd7
+16.Rfe1 Nf6 17.c4 Bd6 18.Rxe8+ Nxe8 19.Bxd6 cxd6 20.a4 Rb8 21.Qa5 Ra8 22.Qd5
+Rb8 23.Qa5 Ra8 24.Qb4 b6 25.Qb5 Nc7 26.Qc6 Ne8 27.Qd5 Rb8 28.Re1 Kf8 29.Kf2
+Rb7 30.h4 Re7 31.Rxe7 Kxe7 32.Qb5 Nc7 33.Qb4 Ne6 34.c3 Nf4 35.Bf1 Qc6 36.g3
+Nh5 37.Bd3 Qd7 38.c5 dxc5 39.dxc5 bxc5 40.Qxc5+ Kd8 41.Qa5+ Qc7 42.Qxc7+ Kxc7
+43.Bc4 f4 44.gxf4 Nxf4 45.Bxf7 g5 46.hxg5 Nh3+ 47.Ke3 Nxg5 48.Bd5 Nh7 49.Kd4
+Nf8 50.f4 a5 51.Kc5 Ng6 52.f5 Ne7 53.Be4 Nc8 54.Bd3 Na7 55.Be2 Nc8 56.Bg4 Nd6
+57.Kd5 Nb7 58.c4 Nd8 59.c5 Nb7 60.Bf3 Nd8 61.Kc4 Nf7 62.Kb5 Ne5 63.Be4 Nd7
+64.Bg2 Kc8 65.c6 Ne5 66.Kxa5 Kc7 67.Kb5 Nf7 68.Kc5 Nd6 69.Bh3 Ne4+ 70.Kd4 Nd6
+71.Kd5 Ne8 72.Bg2 Nd6 73.Ke6 Ne8 74.a5 Nd6 75.Bf1 Ne8 76.Bd3 Kxc6 77.Kf7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.02.09"]
+[Round "4"]
+[White "Bhandari, Sushil"]
+[Black "Räsänen, Jaakko"]
+[Result "0-1"]
+[Section "III Division:6"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Lahden Shakki 3"]
+
+1.d4 Nf6 2.Bf4 c5 3.c3 Qb6 4.Qb3 Nc6 5.e3 d6 6.Bd3 Nh5 7.Bg5 h6 8.Bh4 g5 9.Bg3
+Bg7 10.Nf3 Qxb3 11.axb3 cxd4 12.exd4 Nxg3 13.fxg3 Bd7 14.Nbd2 O-O 15.Nc4 b5
+16.Na5 Nxa5 17.Rxa5 b4 18.O-O Be6 19.Rfa1 Rab8 20.Nd2 bxc3 21.bxc3 Bxb3 22.Rb1
+Be6 23.Rxb8 Rxb8 24.Rxa7 Kf8 25.Kf2 f5 26.Nf3 Rb2+ 27.Kg1 Rb3 28.Rc7 Ke8
+29.Nd2 Rb2 30.Nc4 Rb3 31.Nd2 Ra3 32.Nb1 Ra1 33.Rb7 Kf7 34.Kf2 Ra2+ 35.Kf1 Bd5
+36.Bxf5 Bxb7 37.Bd3 Ba6 38.Bxa6 Rxa6 39.Ke2 Ra2+ 40.Kf3 h5 41.h3 Ke6 42.h4 Kf5
+43.d5 g4+ 44.Ke3 Ke5 45.c4 Bh6+ 46.Kd3 Rxg2 47.Kc3 Rxg3+ 48.Kb4 Rh3 49.Kb5
+Rb3+ 50.Kc6 Rxb1 51.Kd7 g3 52.Kxe7 g2 53.c5 g1=Q 54.cxd6 Rb7+ 55.d7 Qg7+
+56.Ke8 Qf8# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.02.09"]
+[Round "5"]
+[White "Ilkka, Oskari"]
+[Black "Virolainen, Matti"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Matinkylän Shakkikerho 7"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Nc3 Nc6
+9.Nxd7 Qxd7 10.O-O Be7 11.d3 Rd8 12.Be3 b6 13.Rac1 O-O 14.a3 Nd5 15.Nxd5 exd5
+16.Qa4 Bf6 17.b4 Nd4 18.Qd1 Rc8 19.Bd2 Ne6 20.Qb3 Nd4 21.Qd1 Ne6 22.e3 Bb2
+23.Rb1 Bxa3 24.Qb3 cxb4 25.Bxb4 Bxb4 26.Qxb4 d4 27.e4 Rc3 28.Rbd1 Nc5 29.Qb1
+Qa4 30.f4 Qb3 31.Qxb3 Rxb3 32.Rf3 a5 33.Kf1 a4 34.Rf2 b5 35.e5 b4 36.Bd5 Rc3
+37.Rb2 Rb8 38.Ke2 b3 39.Ra1 Nxd3 40.Rd2 b2 41.Rb1 Rc1 42.Ba2 Rxb1 43.Bxb1 Nc1+
+44.Kd1 a3 45.Kc2 a2 46.Bxa2 Nxa2 0-1
