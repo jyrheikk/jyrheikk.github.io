@@ -425,3 +425,21 @@ Rxd1 30.Rxd1 Nc3 31.Re1 Nxb1 32.Rxb1 Rc2 33.Rf1 g6 34.Qb8+ Qd8 35.Qxd8+ Bxd8
 (40...h5 41.Nh6+ Kh8 42.Rf8+ Kg7 43.Rf7+ Kh8 44.Rf8+ (44.Rxc7 Rxa2) {=})
 41.Nh6 Rxh6 42.gxh6+ Kg8 43.Rd1 b6 44.Kg2 Bf4 45.Rd8+ Kf7 46.Rd7+ Kg8 47.Rb7
 Be3 48.Kf3 Bd4 49.Ke4 e5 50.Kd5 g5 51.Ke6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.03.19"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Bc4 Bf5 5.g4 Bg6 6.Nge2 e5 7.dxe5 Qxd1+ 8.Nxd1
+Nd7 9.Bf4 h5 10.g5 Ne7 11.e6 fxe6 12.Bxe6 Nc5 13.Bh3 Nd5 14.Be5 Nb4 15.Ne3
+(15.Nf4) Be7 (15...Nxc2+! 16.Nxc2 Nd3+) 16.Bxg7 Rg8 17.Bd4 Nca6 18.a3 Nd5
+19.Be6 Rf8 20.h4 Nxe3 21.fxe3 c5 22.Be5 Rf3 23.Nf4 Bf7 24.Bxf7+ Kxf7 25.Ke2 c4
+26.Nxh5 Bc5 27.Raf1 Re8 28.Bd4 Kg6 29.Nf4+ Kh7 30.Rxf3 exf3+ 31.Kxf3 c3 32.b4
+Bxd4 33.exd4 Nc7 34.d5 Rf8 35.Kg4 Rd8 36.Re1 Nxd5 37.Nxd5 Rxd5 38.Re7+ Kg8
+39.h5 Rd2 40.g6 Rxc2 41.h6 Rg2+ 42.Kf5 Kf8 43.Rc7 c2 44.h7 Rf2+ 45.Ke4 Rh2
+46.g7+ 1-0
