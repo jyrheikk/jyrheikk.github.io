@@ -33,3 +33,18 @@ c4 28.d4 exd4 29.cxd4 d5 30.e5 Kf8 31.Rf3 Ke7 32.Rxf4 Rh8 33.Rf3 Rh4 34.Kc3
 Rg4 35.Rg3 Rf4 36.f3 Rb8 37.Rh1 Ra8 38.Rd1 Ke6 39.Kc2 a5 40.Kc3 axb4+ 41.Kxb4
 Ra4+ 42.Kxb5 Rxa3 43.Kb4 Rfxf3 44.Rxf3 Rxf3 45.Rg1 Kf5 46.Kc5 Ke4 47.Re1+ Re3
 48.Rd1 Rd3 49.Re1+ Re3 50.Rd1 c3 51.Ra1 c2 52.Rc1 Rc3+ 53.Kb4 Kxd4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki, FIN"]
+[Date "2025.03.26"]
+[Round "1"]
+[White "Valli, Kari"]
+[Black "Drost, Robert"]
+[Result "0-1"]
+
+1.d4 c6 2.Nc3 d5 3.Bf4 Bf5 4.f3 e6 5.e4 Bg6 6.h4 Be7? 7.g3? h6 8.Bd3 Qb6
+9.Nge2 Nd7 10.Na4 Qa5+ 11.c3 b5 12.b4? Qxa4 13.Qxa4 bxa4 14.a3 Nb6 15.b5 c5
+16.Kd2 c4 17.Bc2 Kd7 18.Be3 f6 19.Nf4 Bf7 20.exd5 exd5 21.Bf5+ Ke8 22.h5 Bd6
+23.Rhe1 Ne7 24.Ng6 Bxg6 25.Bxg6+ Nxg6 26.hxg6 Kd7 27.f4 Rhe8 28.Bf2 Re7
+29.Rxe7+ Bxe7 30.f5 Re8 31.Be3 Bd6 32.g4 Re4 33.Rh1 Rxg4 34.Bxh6 gxh6 35.Ke2
+Bf8 36.Kf3 Re4 37.Rg1 Bg7 0-1
