@@ -1121,3 +1121,17 @@ f5 22.Re6 Bf6 23.Rxe8+ Rxe8 24.Be3 Re4 25.Rd1 f4 26.Bc1 Bxd4 27.Kf1 Bc3 28.f3
 Rd4 29.Rxd4 Bxd4 30.Bxf4 Kf7 31.Ke2 Ke6 32.Kd3 Kd5 33.Bb8 a5 34.f4 a4 35.Kc2
 Kc4 36.g4 b3+ 37.axb3+ axb3+ 38.Kb1 Kd5 39.h4 h5 40.g5 Ke4 41.Bd6 g6 42.Bc7
 Be3 43.Kb2 Bxf4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.03.26"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Bf3 Qc7 7.O-O Nc6 8.Nxc6 bxc6
+9.c4 a5 10.Nc3 Ba6 11.b3 Bc5 12.Bb2 d5 13.exd5 cxd5 14.Re1 Qa7 15.cxd5!?
+(15.Qd2) Bxf2+ 16.Kh1 Bxe1 17.Qxe1 O-O 18.Qg3 Rad8?? (18...e5) 19.Ne4 Ne8
+20.Nf6+ Nxf6 21.Bxf6 g6 22.Qg5 Qd4 23.Bxd4 1-0
