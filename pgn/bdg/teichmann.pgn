@@ -991,7 +991,7 @@ c6?? (15...e6) 16.Qxc6 Qg3+ 17.Kd1 1-0
 
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 e6
 9.Qf3 c6 10.g5 Bh5 11.Qf2 Nd5 12.Be2 Bg6 13.Bd3 (13.Nxd5) Qc7 14.O-O Bd6
-15.Bxg6 fxg6 16.Qf7+ Qxf7 17.Nf7 (17.Nf7 Bh2+ 18.Kxh2 O-O 19.Ne4 {=}) 1-0
+15.Bxg6 fxg6 16.Qf7+ Qxf7 17.Nxf7 (17.Nxf7 Bh2+ 18.Kxh2 O-O 19.Ne4 {=}) 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
@@ -1311,3 +1311,40 @@ e6 9.Qf3 c6 10.g5 Qxd4? 11.Nxg6 hxg6 12.gxf6 gxf6 13.Be3 Qd8 14.Bd3 Nd7
 9.Qf3 c6 10.g5 Qxd4 11.Nxg6 hxg6 12.gxf6 Rh5 13.Bd3 Re5+ 14.Ne2 gxf6 15.Bf4
 Qxb2 16.Rd1 (16.Bxe5!) Qc3+ (16...Nd7 17.O-O O-O-O {=}) 17.Kf1 {no more moves
 recorded} 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.03.31"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Tähkävuori, Tapani"]
+[Result "1-0"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki 2"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 e6
+9.Qf3 c6 10.g5 Bh5 11.Qf2 Nd5 12.Be2 Bg6 13.O-O Qc7 14.Nxd5 exd5 15.Bf4 Qe7
+16.Nxg6 hxg6 17.Rae1 Kd8 18.a3 (18.Bg4 Qb4 19.c3) Na6 19.Bg4 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.03.31"]
+[Round "7"]
+[White "Heikkinen, Jyrki"]
+[Black "Ilmoni, Tommy"]
+[Result "1/2-1/2"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Espoon Shakkikerho"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 e6
+9.Qf3 c6 10.g5 Nd5 11.Bd3 Nd7 12.Nxg6 hxg6 13.O-O Qe7 14.Nxd5 cxd5 15.c4 Nb6
+16.cxd5 (16.c5) Nxd5 17.Bb5+ Kd8 18.Qxf7 Qxf7 19.Rxf7 Be7 20.Rxg7 Rc8 21.Rxg6
+Rxh3 22.Kg2 Rh4 23.Bd2 Rc2 24.Rg8+ Kc7 25.Rc1 Ne3+ 26.Kf3 Rxc1 27.Bxc1 Nf5
+28.Bf4+ Kb6 29.Bc4 (29.Bd3) Nxd4+ 30.Ke4? e5 (30...Kc5) 31.Kxe5 Nf3+ 32.Kf5
+Bxg5 33.Rxg5 Nxg5 34.Kxg5 {no more moves recorded} 1/2-1/2
