@@ -1790,6 +1790,24 @@ Qc6 23.Bxf5 Nf6 24.Qh6+ Kg8 25.Re4 1-0
 [Site "Helsinki FIN"]
 [Date "2025.03.15"]
 [Round "7"]
+[White "Reunanen, Antti"]
+[Black "Zhukov, Matvei"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Helsinki Street Chess 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D31"]
+
+1.d4 c6 2.c4 d5 3.Nc3 e6 4.e4 Bb4 5.cxd5 exd5 6.e5 Bf5 7.Nf3 h6 8.Bd3 Ne7
+9.O-O O-O 10.Nh4 Bxd3 11.Qxd3 c5 12.Qg3 g5 13.f4 Ng6 14.fxg5 cxd4 15.Nxg6 fxg6
+16.Rxf8+ Bxf8 17.Nb5 Nc6 18.gxh6 Kh7 19.Bd2 Qb6 20.Rf1 Ne7 21.Rf7+ Kh8 22.Nd6
+Qxb2 23.Qg5 Qb1+ 24.Kf2 Ng8 25.h7 Bxd6 26.exd6 Re8 27.hxg8=Q+ Kxg8 28.Qf6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.03.15"]
+[Round "7"]
 [White "Nyrhinen, Harri"]
 [Black "Wallin, Adam"]
 [Result "0-1"]
