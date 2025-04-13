@@ -481,3 +481,24 @@ Bxc6 40.Kxd6 Bxd7 41.Rxd7+ Rxd7+ 42.Kxd7 h5 43.gxh5 f5 44.Kd6 Kf6 45.Kd5 {=}
 1.d4 d5 2.e4 dxe4 3.Nc3 e5 4.Qh5 Qxd4 5.Be3 Qb4 6.Qxe5+ Qe7 7.Qxe4 Nf6 8.Qa4+
 Nc6 9.O-O-O g6? 10.Bg5 Bg7 11.Bb5 Bd7 12.Nd5 Qe5 13.Bf4 Qh5 14.Nxc7+ Kf8
 15.Nxa8 Ng4 16.Nh3 Bf5 17.Bxc6 bxc6 18.Qb4+ Ke8 19.Rhe1+ Be6 20.Nc7# 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.03.31"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Sihvonen, Tero"]
+[Result "0-1"]
+[Section "M"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[TimeControl "600+5"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 e5 4.Qh5 Bb4 5.Qxe5+ Qe7 6.Qxg7 Qf6 7.Qxf6 Nxf6 8.Bd2
+Nc6 9.Nb5 Bxd2+ 10.Kxd2 O-O 11.c3 a6 12.Na3 b5 13.Nc2 Nd5 14.Ne3 Nce7 15.g3 f5
+16.Bg2 Bb7 17.Ne2 a5 18.Raf1 c6 19.h4 h5 20.Bh3 Rad8 21.Kc1 Bc8 22.Ng2 Ng6
+23.Rhg1 Kh7 24.Ngf4 Ngxf4 25.gxf4 Rf6 26.Rg5 Kh6 27.Rfg1 Re8 28.Ng3 (28.Kd2)
+Nxf4 29.Bf1 (29.Bxf5!) Ref8 30.Ne2 Nd3+ 31.Kc2 Nxf2? (31...f4) 32.Nf4 Ng4
+33.Rxh5+ Kg7 34.Be2 Rh8 35.Rg5+ Kf7 36.h5 Rg8 37.Ng6 Rgxg6 38.Rxg6 Rxg6
+39.hxg6+ Kxg6 40.Kd2 (40.Bxg4) Kg5 41.Ke1?? f4 0-1
