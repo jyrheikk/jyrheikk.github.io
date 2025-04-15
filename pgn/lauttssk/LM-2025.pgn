@@ -92,3 +92,21 @@ Rxh2 0-1
 21.Ke2 Bxb4 22.Rhf1 Na4 23.Bxb7 Nc3+ 24.Kf3 Ra7 25.Bc6+ Ke7 26.Rd4 Nxa2 27.Bd5
 Nc3 28.Rxb4 Nxd5 29.exd5 Kd6 30.Rb6+ Kxd5 31.Rxh6 Kc4 32.Ra1 a5 33.Rh5 a4
 34.Rxa4+ Rxa4 35.Rh4+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.04.15"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Salo, Mikko"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Bf5 5.g4 Bg6 6.Be3 e6 7.Nge2 Nf6 8.Nf4 Bb4
+9.h4 h6 10.Nxg6 fxg6 11.Bxe6 Qe7 12.Bb3 Nbd7 13.a3 Ba5 14.Ba2 O-O-O 15.b4 Bc7
+16.Qe2 Rhf8 17.g5 (17.O-O-O) Nh5 18.gxh6 Nf4 19.Qg4 (19.Bxf4) gxh6 20.Ne2 Nxe2
+(20...h5) 21.Kxe2 Qf6 22.Rag1 Bb6 23.c3 Rde8 24.Rh3 Kb8 25.Qxd7 c5 26.bxc5
+Bxc5 27.Rb1 (27.dxc5) Bb6 28.a4 Re7 29.Qb5 Rc8 30.a5 Bd8 31.Bd5 a6 32.Qb3
+(32.Qxb7+ Rxb7 33.Rxb7+ Ka8 34.Rf7+) Rcc7 33.Bxh6 (33.Qb6) Qf5 34.Bg5 (34.Ke1!
+Qxh3 35.Bf4) Qxh3 35.Bxe7 Qf3+ (35...Qd3+! 36.Ke1 e3 37.Qxb7+ Rxb7 38.Bd6+ Ka8
+39.Bxb7+ Ka7 40.Bb8+ Kxb8 41.Be4+ Qxb1+ 42.Bxb1) 36.Ke1 e3?? (36...Bxe7
+37.Bxb7 Qxc3+) 37.Bxf3 1-0
