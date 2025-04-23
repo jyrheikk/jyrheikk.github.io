@@ -1400,3 +1400,19 @@ Qxe5+ 15.Be2 O-O-O 16.Rd1 Rxd1+ 17.Kxd1 h5 18.Kc1 hxg4 19.Qxg4+ Qf5??
 (41...Nxg1 42.Kxg1 exf4) 42.Kxf3 Rxg1 43.Kf2 Rg8 44.Qxc5 Bxh3 45.Qc4+ Be6
 46.Qc5 Bh3 47.Qc4+ Kg7 48.f5 Kh8 49.Bb4 Qg7 (49...Rg2+) 50.Ke1 Qg1+ 51.Kd2
 Qg5+ 52.Ke1 (52.Kd1 Bg4 53.Bd2 Bxe2+) Qc1+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.04.23"]
+[Round "-"]
+[White "Jernström, Teemu"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Bg4 4.Be2 c6 5.d4 Nxd5 6.O-O e6 7.Ne5 Bf5 8.Bd2 Bd6
+9.f4 f6 10.c4 fxe5 (10...Nxf4) 11.fxe5 Nf6 12.exd6 Qxd6 13.Bf4 Qe7 14.Qe1 Nbd7
+15.c5 Nd5 16.Bd6 Qf6 17.Nc3 Qxd4+ 18.Kh1 O-O-O 19.Qg3 g5 20.Rad1 Qg7 21.a3 h5
+22.Bd3 (22.Nxd5 cxd5 23.c6) h4 23.Qe1 Bg4? (23...Nxc3) 24.Nxd5 exd5 25.Qa5 Nb8
+26.Bf5+? Bxf5 27.Rxf5 b6 28.cxb6 axb6 29.Qxb6? Rxd6 30.Rdf1 Nd7 31.Qa7 Re8
+32.a4 Qe7 33.R5f3 Nb8 34.Qc5 Re6 35.Qc1 Re1 36.Qd2 Qe2 37.Qxe2 R8xe2 38.Kg1
+Rxf1+ 39.Kxf1 Rxb2 40.Rf5 Nd7 41.Rxg5 Kc7 42.Rg4 c5 43.Rxh4 c4 0-1
