@@ -462,3 +462,18 @@ Bxc5 27.Rb1 (27.dxc5) Bb6 28.a4 Re7 29.Qb5 Rc8 30.a5 Bd8 31.Bd5 a6 32.Qb3
 Qxh3 35.Bf4) Qxh3 35.Bxe7 Qf3+ (35...Qd3+! 36.Ke1 e3 37.Qxb7+ Rxb7 38.Bd6+ Ka8
 39.Bxb7+ Ka7 40.Bb8+ Kxb8 41.Be4+ Qxb1+ 42.Bxb1) 36.Ke1 e3?? (36...Bxe7
 37.Bxb7 Qxc3+) 37.Bxf3 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.05.19"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Koivusipilä, Hannes"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 Bf5 6.g4 Bg6 7.g5 Nd5 8.Nxe4 e6
+9.Ne2 Nd7 10.c3 a6 11.a4 b6 12.O-O? (12.h4) c5 13.Qe1 Qc7 14.Bxd5 exd5 15.Bf4
+(15.Nf4!) Qc6 16.Nf2 O-O-O 17.a5 b5 18.dxc5 Bxc5 19.Nd4 Bxd4? (19...Qb7)
+20.cxd4 Kb7 21.Rc1 Qe6 22.Rc7+ Ka8 23.Qc3 Bf5 24.Rc6? (24.Re1) b4 25.Qc1 Qe2
+26.Bc7 Rc8 27.Qf4 g6 28.Rfc1 h6 29.Qd6 Qe6 30.Qxb4 Rxc7 31.Rxc7 Rb8 32.Rc8 Nb6
+33.axb6 Kb7 34.R8c7+ Ka8 35.Ra7# 1-0
