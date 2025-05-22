@@ -305,3 +305,20 @@ fxg6 15.Qg3 Nb6 16.h5 Rf5 17.Nxh7 Rxh5 18.Nf6+ Kf7 19.Nxh5 gxh5 20.Rxh5 Qg8
 23.Kh1 Qh3? (23...Qd3) 24.Bxd4 cxd4 25.c5 d3 26.Qb2 Nf7 27.fxg6 (27.Qg7!) Rf8
 28.gxf7+ Kd8 29.d6 e3 30.dxe7+ Kc7 31.Qe5+ Kc6 32.Qd6+ (32.Bd7+!) Kb5 33.Qxd3+
 Kxc5 34.Rf5+ Kb4 35.Qc4+ Ka3 36.Qa4# 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.05.22"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suominen, Antti"]
+[Result "1/2-1/2"]
+[TimeControl "1200+10"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 g6 6.h4 h5 7.Nf3 Bg4 8.Be2 Bg7
+9.Bg5 Nbd7 10.Qd3 Qb6 11.O-O O-O 12.c4 Rad8 13.Be3 Qc7 14.Qc2 Ne8 15.Ng5 Bxe2
+16.Nxe2 e5 17.Rad1 exd4 18.Bxd4 Nef6 19.Ng3 Qf4 20.Be3 (20.Nf3) Qxh4 21.Nf3
+(21.Rd4?? Ng4 22.Nf3 Nxe3) Qg4 22.Rd4 Qe6 23.Rfd1 Ng4 24.Re4 (24.Rd6) Nxe3
+25.Rxe3 Qf6 26.Ne4 Qxb2 27.Qxb2 Bxb2 28.Red3 Rde8 29.Rxd7 Rxe4 30.Rxb7 Bf6
+31.Rxa7 Rxc4 32.a4 g5 33.g3 g4 34.Nh4 Bd4 35.Rd7 c5 36.Nf5 Rxa4 37.Nxd4 cxd4
+38.R7xd4 Rxd4 39.Rxd4 {no more moves recorded} 1/2-1/2
