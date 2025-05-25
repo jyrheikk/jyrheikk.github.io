@@ -231,3 +231,49 @@ Rb8 37.exf4 gxf4 38.Nd7 Kf7 1-0
 16.g5 Nb6 17.Be3 Bg3+ 18.Ke2 Bd6 19.d5 exd5 20.Bxb6 cxb6 21.Qxd5 Qe7 22.Rd1
 Bc5 23.Rh1 Nd4+ 24.Kf1 Ne6 25.Ba4+ b5 26.Nxb5 Qd6 27.Nxd6+ Ke7 28.Nxb7 Rc8
 29.Qd7+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.05.19"]
+[Round "3"]
+[White "Sapokaite, Patricija"]
+[Black "Suihko, Ismo"]
+[Result "0-1"]
+
+1.d4 e6 2.Bf4 Nf6 3.Nf3 Nc6 4.e3 d5 5.Bd3 Be7 6.Ne5 O-O 7.c3 h6 8.h4 Kh8 9.g4
+Nxe5 10.dxe5 Ng8 11.g5 f5 12.exf6 gxf6 13.gxh6 f5 14.h7 Nf6 15.Be5 Qe8 16.Be2
+Kxh7 17.Bxf6 Bxf6 18.Bh5 Qe7 19.Rg1 Rg8 20.Kd2 Rxg1 21.Qxg1 Qg7 22.Na3 Qxg1
+23.Rxg1 Bxh4 24.Rh1 Be7 25.Be8+ Kg7 26.Nb5 c6 27.Rg1+ Kf8 28.Nc7 Rb8 29.Rh1
+Bd6 30.Rh8+ Kg7 31.Rh5 Bxc7 32.Rg5+ Kf8 33.Bg6 Bd7 34.Bh7 Ke7 35.Rg7+ Kd6
+36.Kd3 c5 37.c4 dxc4+ 38.Kxc4 b5+ 39.Kd3 Bc6 40.Ke2 Bb6 41.Rg6 Rb7 42.Rh6 Rf7
+43.f3 Bd7 44.e4 fxe4 45.Bxe4 c4 46.Rh1 Bd4 47.Rd1 e5 48.b3 c3 49.Kd3 Bf5
+50.Kc2 Bxe4+ 51.fxe4 Rf2+ 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.05.21"]
+[Round "3"]
+[White "Mäntsälä, Juha"]
+[Black "Bogdanov, Evgeny"]
+[Result "0-1"]
+
+1.e4 c6 2.d3 d5 3.Nd2 dxe4 4.dxe4 e5 5.b3 Bb4 6.a3 Bc3 7.Ra2 Nf6 8.Qf3 Bd4
+9.h3 Be6 10.c3 Bc5 11.c4 a5 12.Ne2 O-O 13.Ng3 a4 14.Be2 axb3 15.Nxb3 Nbd7
+16.Nf5 Qb6 17.O-O Bxf5 18.exf5 Ra4 19.Nd2 Rfa8 20.Rb2 Qa7 21.Rb3 Bxa3 22.Bxa3
+Rxa3 23.Rfb1 Rxb3 24.Rxb3 Nc5 25.Rb1 Qa2 26.Rd1 Qc2 27.Qe3 b6 28.Rb1 Na4
+29.Bd3 Qc3 30.Rb3 Qd4 31.Qf3 e4 32.Nxe4 Nxe4 33.Bxe4 Nc5 34.Bxc6 Ra1+ 35.Kh2
+Qd6+ 36.g3 Nxb3 37.Bb5 Qd1 38.Qg2 Nd4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.05.25"]
+[Round "3"]
+[White "Peitsalo, Olli-Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Qxd5 4.Nc3 Qa5 5.d4 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 c6
+9.h4 Be4 10.f3 Bd5 11.Bd2 Qb6 12.Nxd5 Nxd5 13.c4 Qxd4 14.Nxf7 Ne3 15.Bxe3??
+(15.Qc1 Nxf1 16.Bc3 Qe3+ 17.Qxe3 Nxe3 18.Nxh8) Qxe3+ 16.Be2 Kxf7 17.Qc2 e6
+18.Rd1 Bb4+ 19.Kf1 Bc5 0-1
