@@ -1348,3 +1348,25 @@ recorded} 1-0
 Rxh3 22.Kg2 Rh4 23.Bd2 Rc2 24.Rg8+ Kc7 25.Rc1 Ne3+ 26.Kf3 Rxc1 27.Bxc1 Nf5
 28.Bf4+ Kb6 29.Bc4 (29.Bd3) Nxd4+ 30.Ke4? e5 (30...Kc5) 31.Kxe5 Nf3+ 32.Kf5
 Bxg5 33.Rxg5 Nxg5 34.Kxg5 {no more moves recorded} 1/2-1/2
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.06.03"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kumar, Ashwin"]
+[Result "1-0"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 Nbd7
+9.Qf3 c6 10.Nxg6 hxg6 11.g5 Nh5 12.Bc4 e6 13.O-O Qe7 14.Bd2 Nb6 15.Bd3 Rd8
+16.Ne2 Qc7? (16...Nc8) 17.c4 Rd7 18.Ba5 (18.b4) c5 19.d5 (19.b4) exd5
+(19...Qe5) 20.b3? (20.Rae1) Bd6 21.Rae1 Kd8 22.Kg2 d4 23.Bd2 Re8 24.Be4 Rde7
+25.Bd5 Nxd5 26.cxd5 Be5 27.Qd3 Qd6 28.a4 Qxd5+ 29.Kg1 Bc7 30.a5 Qd6 31.Rf2 f5
+32.b4 Ng3 33.Bf4 Nxe2+ 34.Rexe2 Qd5 35.Bxc7+ Kxc7 36.Rc2 Re1+ 37.Rf1 Rxf1+
+38.Qxf1 b6 39.Qa6 d3 40.Qxa7+ Kc6?? 41.Qxb6+ Kd7 42.Qxc5 Qxc5+ 43.Rxc5 Kd6
+44.Rc3 Re1+? (44...Re3) 45.Kf2 Rd1 46.Ke3 d2 47.Rd3+ Kc6 48.Rxd2 Rh1 49.Kd4
+Rxh3 50.Ra2? (50.Kc4 {+-}) Rh4+ 51.Kc3 Kb5 52.a6 Rc4+ 53.Kd3 Rc8 54.a7 Ra8
+55.Kd4 Rd8+? (55...Kb6) 56.Ke5 Ra8 57.Ke6? (57.Kd6 Kb6 58.b5! {+-}) Kb6 {no
+more moves recorded} 1-0
