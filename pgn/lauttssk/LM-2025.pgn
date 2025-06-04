@@ -319,3 +319,23 @@ b4 43.Ba4 Ra3 44.Bc2 b3 45.Be4 a4 46.Bc6 Ra2 0-1
 9.d3 a6 10.g4 f5 11.exf5 gxf5 12.g5 b5 13.cxb5 axb5 14.a4 bxa4 15.Qxa4 d5
 16.h4 Bd7 17.Qd1 Nd4 18.Ng3 Nec6 19.Ra3 Qb6 20.Na4 Qb5 21.Nc3 Qb7 22.Na4 Qb5
 23.h5 Nb4 24.Be3 Nbc2 25.Bc1 Nxa3 26.Nc3 Qb3 27.Qxb3 Nxb3 28.bxa3 Bxc3 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.06.04"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Sotala, Jonne"]
+[Result "1-0"]
+[TimeControl "5400+30"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bf4 Bf5 6.c3 e6 7.Qb3 b6 8.Bb5+ Nd7
+9.Qa4 Bd6 10.Ne2 a5 11.h3 h5 12.O-O-O h4 13.Be3 Qe7 14.c4 c6 (14...Rd8? 15.c5
+bxc5 16.dxc5 Bxc5 17.Rxd7 Bxe3+ 18.Rd2+ {+-}) 15.Bxc6 Rd8 16.Nc3 O-O 17.Bxe4
+Bxe4 18.Nxe4 Nf6 19.Nxd6 Qxd6 20.Qb5 Rc8 21.Kb1 Rc7 22.Rc1 Rfc8 23.b3 Ne4
+24.Rc2 Qc6 25.Qxc6 Rxc6 26.Rhc1 f6 27.Kb2 Kf7 28.a3 Rd8 29.b4 axb4 30.axb4 Ke7
+31.b5 Rc7 32.Kb3 Rb7 33.Kb4 Rdb8 34.Ra1 e5 35.dxe5 fxe5 36.f3 Nd6 37.Bg5+ Ke6
+38.Bxh4 Rc7 39.Bf2 Rbc8 40.Rac1 (40.c5! bxc5+ 41.Rxc5) Rb7 41.Kb3 Nf5 42.Kb4
+Nd4 43.Bxd4 exd4 44.Re1+ Kf5 45.Re4 Rd7 46.Rd2 Rcd8 47.g4+ Kf6 48.f4 g6
+49.Rde2 Kf7 50.Re1 Rh8 51.Re6 Rxh3 52.Rxb6 Re3 53.Rd1 d3 54.c5 d2 55.c6 Rd4+
+56.Kc5 Re1 57.Kxd4 Rxd1 58.Kd3 1-0
