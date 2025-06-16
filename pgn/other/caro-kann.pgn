@@ -344,3 +344,18 @@ Ne3 30.Rfe1 Nxd1 31.Rxd1 Bf8 32.Ne4 f5 33.Nf2 Qe3 34.Qxe3 Rxe3 35.Rd3 Rxd3
 36.Nxd3 Rc8 37.Kg2 Rc3 38.Ne5 Rxa3 39.Nd7 b6 40.Kf2 Bd6 41.Ne5 Rb3 42.Nc6 a6
 43.Na7 Rxb4 44.Nc8 Bxf4 45.d6 Rb2+ 46.Ke1 Rd2 47.Bc6 Rxd6 48.Nxd6 Bxd6 {no
 more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.06.16"]
+[Round "-"]
+[White "Vorbrugg, Sebastian"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.d4 Nf6 5.Bd3 Bg4 6.h3 Bh5 7.Nbd2 Nc6 8.c3 e6
+9.O-O Bd6 10.Qb3 a6 11.Re1 b5 12.a4 Na5 13.Qa2 b4 14.cxb4 Bxb4 15.b3 Bxf3
+16.gxf3 Bc3 17.Rb1 Bxd4 18.Ba3 Qb6 19.Re2 Nh5 (19...Nc6!) 20.Kf1 (20.b4! Nc4)
+Nf4 21.Qc2 Nc6 22.Ree1 Rc8 23.b4 Kd7 (23...Ne7) 24.b5 Nb4 25.Qxc8+ Rxc8
+26.Bxb4 a5 27.Ba3 Nxd3 28.Red1 Rc2 29.Nb3 Rxf2+ 30.Kg1 Ra2+ 31.Kf1 Rf2+ 32.Kg1
+Qc7 33.Nxd4 Qh2# 0-1
