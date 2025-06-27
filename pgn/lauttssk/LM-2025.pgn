@@ -205,7 +205,7 @@ Qc3 37.f5 Nf4 38.Qe4 Nd3 39.Re2 Nf2+ 40.Rxf2 gxf2 41.Qe2 f1Q+ 42.Qxf1 Qxc2
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
-[Date "2024.04.29"]
+[Date "2025.04.29"]
 [Round "2"]
 [White "Sotala, Jonne"]
 [Black "Sapokaite, Patricija"]
@@ -309,7 +309,7 @@ b4 43.Ba4 Ra3 44.Bc2 b3 45.Be4 a4 46.Bc6 Ra2 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
-[Date "2024.05.27"]
+[Date "2025.05.27"]
 [Round "3"]
 [White "Zhukov, Matvei"]
 [Black "Sotala, Jonne"]
@@ -319,6 +319,20 @@ b4 43.Ba4 Ra3 44.Bc2 b3 45.Be4 a4 46.Bc6 Ra2 0-1
 9.d3 a6 10.g4 f5 11.exf5 gxf5 12.g5 b5 13.cxb5 axb5 14.a4 bxa4 15.Qxa4 d5
 16.h4 Bd7 17.Qd1 Nd4 18.Ng3 Nec6 19.Ra3 Qb6 20.Na4 Qb5 21.Nc3 Qb7 22.Na4 Qb5
 23.h5 Nb4 24.Be3 Nbc2 25.Bc1 Nxa3 26.Nc3 Qb3 27.Qxb3 Nxb3 28.bxa3 Bxc3 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.06.02"]
+[Round "4"]
+[White "Kauppinen, Janne"]
+[Black "Mäntsälä, Juha"]
+[Result "1-0"]
+
+1.c4 Nf6 2.d4 e6 3.Nf3 h6 4.Nc3 d5 5.e3 Na6 6.a3 c5 7.cxd5 exd5 8.Bxa6 bxa6
+9.O-O Bd7 10.Ne5 Bb5 11.Re1 Rc8 12.a4 Bc6 13.b3 Qa5 14.Bd2 Qc7 15.Rc1 Ne4
+16.Qe2 Nxd2 17.Qxd2 Qa5 18.Red1 cxd4 19.Qxd4 Bc5 20.Qg4 O-O 21.Nxc6 Rxc6
+22.Rxd5 Be7 23.Rxa5 Bb4 24.Qxb4 Rfc8 25.Qd4 Kh7 26.b4 Kg8 27.Rc5 Kf8 28.Rxc6
+Rxc6 29.Qd8# 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -381,3 +395,17 @@ Rxd7 16.Rad1 Rxd1 17.Rxd1 e6 18.a3 Bc5 19.Kh2 Bxf2 20.Rd2 Be1 21.Rd6 Bxc3
 9.Qxf3 e6 10.a3 a6 11.Ba4 b5 12.Bb3 Qb6 13.g4 Nxd4 14.Qd1 Bc5 15.g5 Nd7 16.Qd2
 Nf3+ 17.Kd1 Nxd2 18.Kxd2 Bxe3+ 19.fxe3 d4 20.Rae1 dxc3+ 21.bxc3 Qc5 22.Kc1
 Qxc3 23.e4 Qxb3 24.Re2 Qxa3+ 25.Kb1 Rc4 26.Rhh2 Rb4# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.06.27"]
+[Round "4"]
+[White "Bhandari, Sushil"]
+[Black "Sapokaite, Patricija"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 e6 3.d4 d5 4.exd5 exd5 5.c4 Nf6 6.Nc3 Be7 7.Bd3 Nc6 8.dxc5 d4
+9.Ne2 Bxc5 10.O-O O-O 11.a3 a5 12.Bg5 h6 13.Bd2 Re8 14.Ng3 Ne5 15.Nxe5 Rxe5
+16.Re1 Bg4 17.Qa4 Re7 18.Rxe7 Bxe7 19.Re1 Qc7 20.h3 Bh5 21.Nxh5 Nxh5 22.Qd1
+Qc5 23.Rxe7 Qxe7 24.Qxh5 a4 25.Bxh6 Qe1+ 26.Kh2 gxh6 27.Qxh6 Qe5+ 28.g3 Qg7
+29.Qb6 f6 30.Qxd4 Re8 31.Qd5+ Kh8 32.Qh5+ 1-0
