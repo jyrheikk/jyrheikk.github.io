@@ -579,3 +579,19 @@ Rc4 54.Be4 Rxe4 55.c7 Re2+ 56.Kg1 1-0
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 g6 6.Bf4 c6 7.Qd2 Qa5 8.Bc4 Bg7
 9.Ne5 O-O 10.O-O b5 11.Bb3 b4 12.Ne2 Ba6 13.Rf3 c5 14.Rh3 cxd4 15.Nc4? Bxc4
 16.Bxc4 Ne4 17.Qd3 Nc5 18.Qg3 Nc6? 19.Bc7 Ne4? 20.Qh4 Qxc7 21.Qxh7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.07.02"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Horttanainen, Emil"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 g6 6.Bf4 Bg7 7.Qd2 O-O 8.h4 h5
+9.Bh6 Bf5 10.Bxg7 Kxg7 11.Bd3 Bxd3 12.Qxd3 c6 13.O-O-O Ng4 14.Rdf1 Nd7 15.Ne4
+Qc7 16.Kb1 Ndf6 17.Neg5 b5 18.Qd2 (18.Ne5 Nxe5 19.Qg3) a5 19.Re1 Rad8 20.Qc3
+b4 21.Qc4 Nd5 22.Ne5 Nxe5 23.dxe5 e6?? (23...Qb6) 24.g4 Rh8 25.Rhf1 Rd7
+26.Rxf7+ Rxf7 27.Nxe6+ Kh7 28.Nxc7 Rxc7 29.gxh5 gxh5 30.Rg1 Re8 31.Qe4+ Kh8
+32.Qg6 1-0
