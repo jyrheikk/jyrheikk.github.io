@@ -359,3 +359,19 @@ more moves recorded} 0-1
 Nf4 21.Qc2 Nc6 22.Ree1 Rc8 23.b4 Kd7 (23...Ne7) 24.b5 Nb4 25.Qxc8+ Rxc8
 26.Bxb4 a5 27.Ba3 Nxd3 28.Red1 Rc2 29.Nb3 Rxf2+ 30.Kg1 Ra2+ 31.Kf1 Rf2+ 32.Kg1
 Qc7 33.Nxd4 Qh2# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.07.07"]
+[Round "?"]
+[White "Skalskis, Misa"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "480+4"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.c3 Bg4 6.Be2 e6 7.O-O Bxf3 8.Bxf3 cxd4
+9.cxd4 Qb6 10.Nc3 Nxd4? (10...Qxd4) 11.Qa4+ (11.Bxd5!) Nc6 12.Nb5? (12.Bxd5!
+exd5 13.Nxd5 Qd8 14.Rd1 Qc8) a6 13.Nd6+ Bxd6 14.exd6 Nf6 15.Be3 Qb4 16.Qxb4
+Nxb4 17.Bb6 Kd7 18.Bc7 Rhc8 19.Rfc1 Ne8 20.Be2 Nxc7 21.dxc7 Rxc7 22.a3 Nc6
+23.Rc3 Nd4 24.Bd3 Rac8 25.Rac1 Rxc3 26.Rxc3 Rxc3 27.bxc3 Nc6 28.f4 {no more
+moves recorded} 0-1
