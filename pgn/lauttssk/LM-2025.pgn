@@ -427,3 +427,17 @@ Rb8 31.g4 fxg3 e.p.32.fxg3 Ng5 33.h4 Nf7 34.Qf2 Rg4 35.Ng1 Qg6 36.Re3 Rf8
 Bxf3 44.Nxf3 Qc2+ 45.Qe2 Nh6 46.Kg1 Qxe2 47.Rxe2 Rxf3 48.Kg2 Rfxc3 49.bxc3
 Rxc3 50.Kh3 Rc2 51.Re3 b2 52.Rb3 Kf7 53.Rxb6 Ke6 54.a4 b1=Q 55.Rxb1 Ra2 56.a5
 Rxa5 57.Rb6 Ra3 58.Rb7 Nf5 59.Kg4 Rxg3+ 60.Kh5 g6# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.07.07"]
+[Round "4"]
+[White "Kulkarni, Pranav"]
+[Black "Peitsalo, Olli-Pekka"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.e3 d5 6.cxd5 exd5 7.Be2 b6 8.O-O Bb7
+9.a3 Be7 10.Ne5 c5 11.dxc5 bxc5 12.Bf3 Bd6 13.Ng4 Nxg4 14.Bxg4 d4 15.exd4 cxd4
+16.Nb5 Bxh2+ 17.Kxh2 Qd5 18.Bf3 Qxb5 19.Bxb7 Qxb7 20.Qxd4 Nc6 21.Qg4 Ne5
+22.Qg3 Qe4 23.f3 Qf5 24.Bf4 Nd3 25.Bd6 Rfd8 26.b4 Qh5+ 27.Kg1 Qh6 28.Bc7 Qe3+
+29.Kh2 Rd5 30.Qg4 Qh6+ 31.Kg1 Rh5 32.Qxh5 Qxh5 33.Rfd1 Qd5 34.Ra2 Qxa2 0-1
