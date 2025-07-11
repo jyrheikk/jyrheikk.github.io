@@ -109,7 +109,7 @@ function getMoveNumber(move, color = '') {
 }
 
 function showMove(moveNumber) {
-  const moveIntervalId = setInterval(selectMove, waitInterval);
+  const moveIntervalId = setInterval(selectMove, 3 * waitInterval);
 
   function selectMove() {
     const moves = document.getElementsByClassName('ct-board-move-mainline');
