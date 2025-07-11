@@ -82,16 +82,40 @@ function fetchPgn(filename) {
   }
 }
 
+const getValidNumber = (i = '1') => !isNaN(i) ? parseInt(i) - 1 : 0;
+
 function showGame(number) {
-  const gameNumber = !isNaN(number) ? parseInt(number) - 1 : 0;
   const gameIntervalId = setInterval(selectGame, waitInterval);
 
   function selectGame() {
     const gameSelector = document.getElementById(ids.games);
     if (gameSelector) {
       clearInterval(gameIntervalId);
-      gameSelector.selectedIndex = gameNumber;
+      gameSelector.selectedIndex = getValidNumber(number);
+      if (gameSelector.selectedIndex === -1) {
+        gameSelector.selectedIndex = 0;
+      }
       gameSelector.dispatchEvent(new Event('change'));
+    }
+  }
+}
+
+function getMoveNumber(move, color = '') {
+  let moveNumber = 2 * getValidNumber(move);
+  if (color.startsWith('b')) {
+    moveNumber++;
+  }
+  return moveNumber;
+}
+
+function showMove(moveNumber) {
+  const moveIntervalId = setInterval(selectMove, waitInterval);
+
+  function selectMove() {
+    const moves = document.getElementsByClassName('ct-board-move-mainline');
+    if (moves) {
+      clearInterval(moveIntervalId);
+      moves[moveNumber].click();
     }
   }
 }
@@ -129,11 +153,13 @@ function getPgnName() {
   return document.getElementById(ids.files);
 }
 
-// show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5")
+// show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5|move=12|color=b")
 (function () {
-  const { pgn, game } = parseUrlParams();
+  const { pgn, game, move, color } = parseUrlParams();
   selectPgn(pgn);
   showGame(game);
+  const moveNumber = getMoveNumber(move, color);
+  showMove(moveNumber);
 })();
 
 function copyToClipboard() {
