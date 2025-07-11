@@ -376,8 +376,8 @@ fxe5 10.dxe5 Ngxe5 11.Nxe5 Nxe5 12.Bxe5 Bf6 13.Qd4 a6 14.Be2 O-O 15.Bxf6 Rxf6
 16.O-O-O Qc7 17.Qh4 e5 18.Rhf1 d4 19.Bc4+ Kh8 20.Ne2 (20.f4 dxc3 21.fxe5 Rxf1
 22.Rxf1) b5 21.Bd3 Bf5 22.Bxf5 Rxf5 23.Qe4 Raf8 24.f4 c5 25.g4 (25.Rfe1! exf4
 26.Nxd4) R5f7 26.f5 g5 27.Rfe1 c4 28.Ng1 Qa5 29.Qxe5+ Kg8 30.Kb1 Rd8 31.Re4 d3
-32.Rxc4?? (32.cxd3) dxc2+ 33.Kxc2 Rxd1 34.Kxd1 Qd8+?? (34...Rd7+ 35.Ke2 Qd2+
-36.Kf1 bxc4 37.Qe6+) 35.Rd4 Rd7 36.Qe6+ 1-0
+32.Rxc4?? (32.cxd3) dxc2+ 33.Kxc2 Rxd1 34.Kxd1 Qd8+?? (34...Rd7+ 35.Ke2
+(35.Rd4? Qa4+) Qd2+ 36.Kf1 bxc4 37.Qe6+ {=}) 35.Rd4 Rd7 36.Qe6+ 1-0
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
