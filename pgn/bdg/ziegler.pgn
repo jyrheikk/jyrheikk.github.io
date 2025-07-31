@@ -732,3 +732,17 @@ Nd7 9.O-O g6 10.Bxf7+ Kxf7 11.Ng5+ Ke8 12.Nxe4 Bg7 13.Ng5 Qb6 14.Ne6 Bf6
 15.Bf4 Rc8 16.Kh1 Nf8 17.Nc5 Qxb2 18.Be3 (18.Qe2) Qa3 19.Rf3 Nd7 20.Bg5 Qa5
 21.Bxf6 Nxf6 22.Rxf6?? (22.Qe2) exf6 23.Qe2+ Kf8 24.Qe6 Kg7 25.Qd7+ Kh6
 26.Qh3+ Kg7 27.Qd7+ 1/2-1/2
+
+[Event "Lauttasaari Blitz Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.07.30"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Kopsa, Petri"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 exf3 5.Nxf3 c6 6.Bc4 Bf5 7.O-O e6 8.Ng5 Bg6
+9.Ne2 Bd6 10.Nf4 Qc7? 11.Nfxe6 Bxh2+ 12.Kh1 Qg3? 13.Rf3 (13.Bf4) (13.Nxg7+)
+Qd6 14.Re3 (14.Nxg7+) Kd7 15.Nc5+ Kc7 16.Bxf7 Nbd7 17.Nce6+? (17.Qf3) Kc8
+18.Rh3? (18.Nxg7) Bxf7 19.Nxf7 Qxe6 20.Nxh8 Bc7 {no more moves recorded} 1-0
