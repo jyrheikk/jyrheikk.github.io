@@ -422,11 +422,11 @@ Qc5 23.Rxe7 Qxe7 24.Qxh5 a4 25.Bxh6 Qe1+ 26.Kh2 gxh6 27.Qxh6 Qe5+ 28.g3 Qg7
 9.Qd3 d6 10.d5 e5 11.Nd2 Nc5 12.Qc2 a5 13.e4 O-O 14.Bd3 f4 15.Nf3 Nbd7 16.Bd2
 a4 17.Rb1 Nb3 18.Bc3 Rf6 19.Qe2 Ndc5 20.Bc2 Rg6 21.Bxb3 axb3 22.Rh2 Bd7 23.Bb4
 Nb7 24.Qd1 c5 25.Bd2 Ba4 26.Rc1 Qd8 27.Kf1 Qf6 28.Be1 Nd8 29.Rc3 Nf7 30.Qe2
-Rb8 31.g4 fxg3 32.fxg3 Ng5 33.h4 Nf7 34.Qf2 Rg4 35.Ng1 Qg6 36.Re3 Rf8
-37.Kg2 Rxe4 38.Rf3 Rxc4 39.Bd2 Qe4 40.Qe3 Qxd5 41.Bc3 Bc6 42.Kf1 Qd1+ 43.Kf2
-Bxf3 44.Nxf3 Qc2+ 45.Qe2 Nh6 46.Kg1 Qxe2 47.Rxe2 Rxf3 48.Kg2 Rfxc3 49.bxc3
-Rxc3 50.Kh3 Rc2 51.Re3 b2 52.Rb3 Kf7 53.Rxb6 Ke6 54.a4 b1=Q 55.Rxb1 Ra2 56.a5
-Rxa5 57.Rb6 Ra3 58.Rb7 Nf5 59.Kg4 Rxg3+ 60.Kh5 g6# 0-1
+Rb8 31.g4 fxg3 32.fxg3 Ng5 33.h4 Nf7 34.Qf2 Rg4 35.Ng1 Qg6 36.Re3 Rf8 37.Kg2
+Rxe4 38.Rf3 Rxc4 39.Bd2 Qe4 40.Qe3 Qxd5 41.Bc3 Bc6 42.Kf1 Qd1+ 43.Kf2 Bxf3
+44.Nxf3 Qc2+ 45.Qe2 Nh6 46.Kg1 Qxe2 47.Rxe2 Rxf3 48.Kg2 Rfxc3 49.bxc3 Rxc3
+50.Kh3 Rc2 51.Re3 b2 52.Rb3 Kf7 53.Rxb6 Ke6 54.a4 b1=Q 55.Rxb1 Ra2 56.a5 Rxa5
+57.Rb6 Ra3 58.Rb7 Nf5 59.Kg4 Rxg3+ 60.Kh5 g6# 0-1
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
@@ -441,3 +441,21 @@ Rxa5 57.Rb6 Ra3 58.Rb7 Nf5 59.Kg4 Rxg3+ 60.Kh5 g6# 0-1
 16.Nb5 Bxh2+ 17.Kxh2 Qd5 18.Bf3 Qxb5 19.Bxb7 Qxb7 20.Qxd4 Nc6 21.Qg4 Ne5
 22.Qg3 Qe4 23.f3 Qf5 24.Bf4 Nd3 25.Bd6 Rfd8 26.b4 Qh5+ 27.Kg1 Qh6 28.Bc7 Qe3+
 29.Kh2 Rd5 30.Qg4 Qh6+ 31.Kg1 Rh5 32.Qxh5 Qxh5 33.Rfd1 Qd5 34.Ra2 Qxa2 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.07.29"]
+[Round "4"]
+[White "Koivusipilä, Hannes"]
+[Black "Salo, Mikko"]
+[Result "1-0"]
+[TimeControl "2700+45"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5
+hxg5 10.Bxg5 Be7 11.Bxf6 Bxf6 12.exf6 Qxf6 13.Qg4 Nd7 14.Be2 Rh4 15.Qf3 Qxf3
+16.Bxf3 Bb7 17.O-O-O a6 18.Ne4 Ke7 19.Nc5 Nxc5 20.dxc5 Rd8 21.Rxd8 Kxd8
+22.Rd1+ Kc7 23.h3 Rf4 24.b4 e5 25.Re1 f6 26.Re4 Rxe4 27.Bxe4 Bc8 28.Kd2 f5
+29.Bf3 Bd7 30.g4 fxg4 31.hxg4 Kd8 32.Bd1 Ke7 33.f3 Kf6 34.Ke3 Be8 35.Bc2 Bf7
+36.a3 Kg5 37.Be4 Be8 38.Bf5 Bg6 39.Bd7 c3 40.Bxc6 c2 41.Kd2 Kf6 42.a4 e4
+43.fxe4 bxa4 44.Bxa4 Bxe4 45.Bxc2 Bc6 46.Ke3 Kg5 47.Bf5 Kf6 48.Kd4 Bf3 49.Bd7
+Ke7 50.c6 Kd6 51.g5 Bd5 52.c7 Kxd7 53.Kxd5 Kxc7 54.Kc5 1-0
