@@ -459,3 +459,17 @@ hxg5 10.Bxg5 Be7 11.Bxf6 Bxf6 12.exf6 Qxf6 13.Qg4 Nd7 14.Be2 Rh4 15.Qf3 Qxf3
 36.a3 Kg5 37.Be4 Be8 38.Bf5 Bg6 39.Bd7 c3 40.Bxc6 c2 41.Kd2 Kf6 42.a4 e4
 43.fxe4 bxa4 44.Bxa4 Bxe4 45.Bxc2 Bc6 46.Ke3 Kg5 47.Bf5 Kf6 48.Kd4 Bf3 49.Bd7
 Ke7 50.c6 Kd6 51.g5 Bd5 52.c7 Kxd7 53.Kxd5 Kxc7 54.Kc5 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.08.16"]
+[Round "5"]
+[White "Bogdanov, Evgeny"]
+[Black "Bhandari, Sushil"]
+[Result "1-0"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nf6 4.Nc3 a6 5.dxc5 Nc6 6.a3 e5 7.Bg5 Be7 8.Bxf6 Bxf6
+9.Nxd5 Be6 10.Nb6 Rb8 11.Bc4 Bxc4 12.Qxd8+ Rxd8 13.Nxc4 Be7 14.b4 O-O 15.Ne2
+f5 16.O-O f4 17.exf4 exf4 18.Rad1 Rxd1 19.Rxd1 f3 20.Nd4 Nxd4 21.Rxd4 fxg2
+22.Kxg2 Rb8 23.Rd7 Bd8 24.Nd6 b6 25.c6 Bf6 26.c7 Rf8 27.c8=Q Rxc8 28.Nxc8 b5
+29.Ra7 Bb2 30.Nd6 h6 31.Rxa6 Kh7 32.Nxb5 1-0
