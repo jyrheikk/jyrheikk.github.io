@@ -115,7 +115,9 @@ function showMove(moveNumber) {
     const moves = document.getElementsByClassName('ct-board-move-mainline');
     if (moves) {
       clearInterval(moveIntervalId);
-      moves[moveNumber].click();
+      if (moveNumber) {
+        moves[moveNumber].click();
+      }
     }
   }
 }
