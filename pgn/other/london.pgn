@@ -322,3 +322,16 @@ gxf5 23.Rf1 Rg8 24.Qxf5+ Qxf5 25.Rxf5 Ne7 26.Re5 Rae8 27.Rf1 Nc6 28.Rxd5 Re5
 15.Nd4 Rae8 16.f4 (16.Rfd1) e5 17.Nxc6 bxc6 18.Bf2 d5 (18...exf4) 19.e4 Qb7
 20.exd5 cxd5 21.Bb3 exf4 (21...Bb5!) 22.Qd2 Bc6 23.Qxf4 (23.Bc5) Re4 24.Qg4??
 Rxg4 {no more moves recorded} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2025.09.01"]
+[Round "-"]
+[White "Bogdanov, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.Nc3 Qxb2 5.Nb5 Na6? (5...Nd5) 6.Rb1 Qxa2 7.Ra1
+Qb2 8.Rxa6? bxa6 9.Nc7+ Kd8 10.Nxa8 Nd5 11.Nf3 Bb7 12.Nc7? Nxc7 (12...Nc3!)
+13.Bxc7+ Kxc7 14.dxc5 e6 15.Nd4 Bxc5 16.f3 e5 17.Nf5 g6 18.Nh6 f5 19.Nf7 Rf8
+20.Ng5 Bxe3 21.h4 a5 22.Bd3 h6 23.Ke2 Bb6 24.Nh3 e4 25.fxe4 Qd4 26.Rf1? 0-1
