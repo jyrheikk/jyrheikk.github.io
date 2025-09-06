@@ -20,6 +20,24 @@ Kh8 24.Ng6+ Kxh7 25.Nf8+ 1-0
 [Site "Helsinki FIN"]
 [Date "2025.09.06"]
 [Round "1"]
+[White "Kiili, Veikko"]
+[Black "Salo, Mikko"]
+[Result "0-1"]
+[Section "III Division:4"]
+[Board "2"]
+[WhiteTeam "Shakkiseura Gambiitti 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bf4 dxc4 6.a4 Bb4 7.e3 b5 8.axb5 cxb5 9.Be2
+Qb6 10.O-O O-O 11.Qc2 Bb7 12.b3 cxb3 13.Qxb3 Bxc3 14.Qxc3 Nd5 15.Qb2 Nxf4 16.exf4
+a6 17.Ne5 Qd6 18.Rfc1 Nd7 19.Qb3 Bd5 20.Qg3 Nf6 21.Bd3 Be4 22.Bxe4 Nxe4 23.Qe3
+Qd5 24.f3 Nf6 25.Nc6 Qd7 26.Ne5 Qb7 27.Rc6 Rfc8 28.Rac1 Rxc6 29.Rxc6 Rc8 30.Rxc8+
+Qxc8 31.Nd3 Qc3 32.Qe5 h6 33.Nc5 Nd5 34.Nxe6 Qe3+ 35.Qxe3 Nxe3 36.Nc7 b4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.06"]
+[Round "1"]
 [White "Koivusipilä, Hannes"]
 [Black "Gemenetzis, Iris"]
 [Result "1-0"]
