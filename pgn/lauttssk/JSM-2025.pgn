@@ -52,3 +52,230 @@ Qxc8 31.Nd3 Qc3 32.Qe5 h6 33.Nc5 Nd5 34.Nxe6 Qe3+ 35.Qxe3 Nxe3 36.Nc7 b4 0-1
 16.Bb6 Qf4+ 17.Be3 Qb8 18.Be2 Bc6 19.g5 b4 20.Nb1 Rxd1+ 21.Kxd1 Nd7 22.Bxc4 Qd8
 23.Kc1 Bxg5 24.Rg1 Bf6 25.Bd4 e5 26.Be3 a5 27.Qe2 a4 28.Bxf7+ Kxf7 29.Qc4+ Kf8
 30.Qxc6 a3 31.Rd1 axb2+ 32.Kxb2 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.06"]
+[Round "1"]
+[White "Schultz, Juho"]
+[Black "Bhandari, Sushil"]
+[Result "1/2-1/2"]
+[Section "III Division:4"]
+[Board "4"]
+[WhiteTeam "Shakkiseura Gambiitti 5"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.Be3 d6 7.Nbd2 Na5 8.Bb3 Bxe3 9.fxe3
+Nxb3 10.Nxb3 O-O 11.Qe2 c5 12.O-O b5 13.Nbd2 Bb7 14.c4 Re8 15.a3 bxc4 16.Nxc4 a5
+17.Qe1 a4 18.Rc1 Ba6 19.Rc2 Qc7 20.Nh4 Bxc4 21.Rxc4 Qb6 22.Qg3 Nh5 23.Qg4 g6 24.Qd7
+Rf8 25.Rc2 Ra7 26.Qh3 Ng7 27.Nf3 f5 28.exf5 Nxf5 29.Nd2 Raf7 30.Nc4 Qc7 31.Rcf2 Kg7
+32.g4 Nh6 33.e4 Rxf2 34.Rxf2 Rxf2 35.Kxf2 g5 36.Qf3 Nf7 37.Qd1 Qd7 38.h3 Qa7 39.b3
+axb3 40.Qxb3 Kf8 41.a4 Ke7 42.Qb5 Nd8 43.a5 Qd7 44.Qb6 Nc6 45.a6 Ke6 46.Na5 Nxa5
+47.Qxa5 Qa7 48.Qb5 c4+ 49.Ke2 cxd3+ 50.Qxd3 Kd7 51.Qb5+ Kc7 52.Kf3 Qb6 53.Qc4+ Kb8
+54.Qg8+ Ka7 55.Qxh7+ Kxa6 56.Qf7 Qd4 57.Qa2+ Kb7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Kokkila, Tero"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTitle "FM"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3
+Be7 10.Nbd2 O-O 11.Qe2 Nc5 12.Bc2 d4 13.cxd4 Nxd4 14.Nxd4 Qxd4 15.Re1 Rad8 16.Nf3
+Qc4 17.Bg5 Qxe2 18.Rxe2 Bxg5 19.Nxg5 h6 20.Nxe6 Nxe6 21.Be4 c5 22.g3 c4 23.f4 g5
+24.Rf1 Nc5 25.Bc2 Rd4 26.Kg2 Rfd8 27.Rff2 b4 28.Bf5 gxf4 29.Rxf4 Nd3 30.Bxd3 Rxf4
+31.gxf4 Rxd3 32.Re4 Rd2+ 33.Kg3 Rxb2 34.Rxc4 a5 35.a4 Ra2 36.Kg4 Rxa4 37.Rc8+ Kg7
+38.Rb8 Ra1 39.Kf5 Rc1 40.Rb5 Ra1 41.Rb7 Re1 42.Rb5 Ra1 43.h4 Ra2 44.Rb7 Re2 45.Ra7
+b3 46.Rxa5 b2 47.Rb5 Rf2 48.Rb7 Kf8 49.h5 Ke8 50.e6 fxe6+ 51.Kxe6 Kf8 52.f5 Re2+
+53.Kf6 Kg8 54.Rb3 Rf2 55.Rb8+ Kh7 56.Ke6 Re2+ 57.Kf6 Rf2 58.Rb7+ Kg8 59.Rb6 Kh7
+60.Rb8 Re2 61.Kf7 Rf2 62.Rb7 Kh8 63.f6 Re2 64.Kf8 Rf2 65.f7 Re2 66.Rb8 Kh7 67.Rb6
+Rf2 68.Ke7 Re2+ 69.Kf8 Rf2 70.Ke7 Re2+ 71.Kf8 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Havansi, Erkki"]
+[Black "Anttila, Perttu"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki"]
+
+1.e4 e6 2.d4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.h3 Nc6 6.Bb5 Bd7 7.Ne2 Nb4 8.Bxd7+ Qxd7 9.a3
+Nbd5 10.Ng3 Nxe3 11.fxe3 Qd5 12.Qe2 Bd6 13.Qf2 O-O-O 14.O-O Qc6 15.c4 Rdf8 16.b4 a6
+17.Rfb1 h5 18.a4 Bxg3 19.Qxg3 h4 20.Qf2 Kd7 21.b5 axb5 22.axb5 Qd6 23.Nb3 b6 24.Ra7
+Qg3 25.Qe2 Ra8 26.Rba1 Rxa7 27.Rxa7 g5 28.c5 g4 29.cxb6 gxh3 30.Rxc7+ Kd8 31.Na5
+Ng4 32.Nb7+ Ke8 33.Nd6+ Kf8 34.Rxf7+ Kg8 35.Qxg4+ Qxg4 36.Rf2 h2+ 37.Kxh2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Alava, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTitle "FM"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 Nd7 8.Qe2+ Qe7
+9.Qxe7+ Bxe7 10.Bf4 Nf8 11.Ne2 Ne6 12.Be3 O-O 13.O-O b6 14.c4 Ba6 15.Rab1 Rfd8
+16.b4 Bb7 (16...c5! 17.bxc5 Nxc5) 17.c5 b5 18.Rfd1 g6 19.a4 a6 20.a5 f5 21.Bc2 Bf6
+22.f4 Bc8 23.Bb3 Nc7 24.Nc3 (24.d5! cxd5 25.Rbc1) Be6 25.Bxe6 fxe6 26.Rb2 Nd5
+(26...h6) 27.Nxd5 Rxd5 28.Rbd2 Rad8 29.Kf2 Kf7 30.Kf3 R5d7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Kauppala, Pekka"]
+[Black "Hallenberg, Sami"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki"]
+[ECO "B21"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 d6 5.Nc3 g6 6.Nf3 Bg7 7.Nd5 Be6 8.Ng5 Bd7 9.h4
+h6 10.Nf3 Nf6 11.Be2 Ng4 12.c3 a6 13.h5 g5 14.Be3 Nxe3 15.Nxe3 b5 16.Nd4 Nxd4
+17.cxd4 Qa5+ 18.Kf1 e6 19.a3 O-O 20.Rd1 Rae8 21.b4 Qb6 22.Bg4 Rc8 23.Rh3 Rc7
+24.Rf3 Rfc8 25.d5 Rc3 26.Qd2 Be5 27.Rxf7 Kxf7 28.dxe6+ Bxe6 29.Bxe6+ Kxe6 30.Qd5+
+Ke7 31.Nf5+ Kf6 32.Nxh6 Qc7 33.Ng4+ Ke7 34.Ne3 Rxe3 35.fxe3 Qc2 36.Kg1 Qc4
+37.Qb7+ Rc7 38.Qa8 Qe2 39.Rf1 Qxe3+ 40.Kh1 Qf2 41.Rd1 Qh4+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Hietanen, Herman"]
+[Black "Kivinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D02"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 Be7 5.Bd3 O-O 6.Nbd2 b6 7.Qe2 Bb7 8.h4 c5 9.c3
+Nc6 10.h5 cxd4 11.exd4 Rc8 12.Ne5 Nxe5 13.dxe5 Ne8 14.O-O-O Bg5 15.Bxg5 Qxg5
+16.Kb1 f5 17.Nf3 Qe7 18.Nd4 Nc7 19.g4 Rf7 20.gxf5 exf5 21.Nxf5 Rxf5 22.Bxf5 Rf8
+23.Qd3 Qxe5 24.Bxh7+ Kh8 25.Bg6 Rxf2 26.h6 Rh2 27.Qf3 Ne6 28.hxg7+ Kxg7 29.Qf7+
+Kh8 30.Rxh2+ Qxh2 31.Qf6+ Kg8 32.Bf7+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Modanese, Augusto"]
+[Black "Paasikangas, Johanna"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki"]
+[ECO "E94"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Nbd7 7.O-O e5 8.Be3 Qe7 9.d5
+c5 10.dxc6 bxc6 11.Qa4 Bb7 12.Qa3 Ng4 13.Bg5 f6 14.Bh4 Nh6 15.Rad1 Nf7 16.Nd2
+g5 17.Bg3 Nc5 18.Nb3 Nxb3 19.Qxb3 c5 20.Bg4 Nh6 21.h3 Bc8 22.Bxc8 Raxc8 23.Nd5
+Qf7 24.Ne3 f5 25.exf5 Rcd8 26.Qd3 Nxf5 27.Nxf5 Qxf5 28.Qxf5 Rxf5 29.Rd5 Bf8
+30.Rfd1 Rb8 31.b3 Rb6 32.f3 Kf7 33.Kf2 Ke6 34.Ke3 Rf7 35.Ke4 a5 36.Be1 a4
+37.R5d3 axb3 38.Rxb3 Ra6 39.Rb2 Rf4+ 40.Kd3 Rd4+ 41.Ke2 Rxc4 42.Bf2 Be7 43.Rdd2
+Rca4 44.Rdc2 h5 45.g3 c4 46.Rb6 Rxa2 47.Rxa6 Rxc2+ 48.Ke3 Bd8 49.Be1 Rb2 50.f4
+gxf4+ 51.gxf4 Bb6+ 52.Kf3 Rb3+ 53.Ke2 exf4 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Räsänen, Otto"]
+[Black "Dahal, Sameep"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3 Be7 8.c4 O-O
+9.Nc3 bxc4 10.Bxc4 d6 11.Rb1 Na5 12.b3 c6 13.d4 exd4 14.Qxd4 d5 15.exd5 cxd5
+16.Be2 Nc6 17.Qa4 Nb4 18.Nd4 Qb6 19.Be3 Bc5 20.Rfd1 Bc8 21.a3 Bd7 22.axb4 Bxa4
+23.bxc5 Qxc5 24.Nxa4 Qd6 25.h3 h6 26.Bf3 Rab8 27.Ne2 Qc6 28.Nc5 Rfd8 29.b4 Ne4
+30.Nd4 Qg6 31.Nxe4 dxe4 32.Bg4 Qf6 33.g3 g6 34.h4 Rd5 35.Nc2 Rxd1+ 36.Rxd1 Qc3
+37.Rd2 h5 38.Be2 a5 39.bxa5 Qxa5 40.Rd1 Qa2 41.Nd4 Rd8 42.Rc1 Qb2 43.Nc6 Rd7
+44.Bc4 Kg7 45.Bf4 f6 46.Be6 Qxc1+ 47.Bxc1 Rd1+ 48.Kg2 Rxc1 49.Nd4 f5 50.Ne2
+Ra1 51.Nf4 Ra6 52.Bd5 Rb6 53.Kf1 Rb2 54.Ke1 Kf6 55.Bc6 Kf7 56.Bd5+ Kg7 57.Bc6
+Kf7 58.Bd5+ Kg7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Männistö, Kari"]
+[Black "Pölkki, Eino"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 d5 4.Bf4 e6 5.e3 Bd6 6.Bxd6 Qxd6 7.Bd3 Nc6 8.O-O O-O
+9.Nbd2 a6 10.a4 Nd7 11.Re1 f5 12.g3 Nf6 13.dxc5 Qxc5 14.Nd4 g5 15.Nxc6 bxc6
+16.Nf3 h6 17.Ne5 g4 18.f4 Kg7 19.Kf2 Bb7 20.Rh1 Qb6 21.b4 a5 22.Rb1 axb4
+23.Rxb4 Qa7 24.Qb3 Ba6 25.Bxa6 Qxa6 26.Rb7+ Kg8 27.Rb4 c5 28.Rb6 Ne4+ 29.Ke1
+Qxa4 30.Qxa4 Rxa4 31.Rb1 Nxc3 32.Rc1 Ne4 33.Nd3 c4 34.Nf2 Nxf2 35.Kxf2 Ra2+
+36.Ke1 Rb8 37.h3 gxh3 38.Rxh3 Kg7 39.Rh4 Rbb2 40.g4 Rg2 41.Kf1 fxg4 42.Rh1 g3
+0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "1"]
+[White "Malmberg, Dan"]
+[Black "Ilkka, Oskari"]
+[Result "1-0"]
+[Section "III Division:5"]
+[Board "1"]
+[WhiteTeam "Käpylän Shakkikerho 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.d4 c5 2.d5 Nf6 3.Nc3 g6 4.e4 d6 5.Be2 Bg7 6.f4 O-O 7.g4 e6 8.g5 Ne8 9.Nf3
+Qe7 10.Bd2 exd5 11.exd5 Bg4 12.Kf2 Nd7 13.h3 Bxf3 14.Bxf3 Nb6 15.Re1 Qd8
+16.b3 Nc7 17.Rb1 Nc8 18.Ne2 Nb5 19.a4 Nd4 20.Nxd4 cxd4 21.Bc1 Ne7 22.Be4 Rc8
+23.Bb2 Qb6 24.Qd3 Qc5 25.Rbd1 Nxd5 26.Bxd5 Qxd5 27.c4 Qc5 28.Bxd4 Bxd4+
+29.Qxd4 Qb4 30.Re3 a6 31.Qxd6 Qxd6 32.Rxd6 b5 33.cxb5 axb5 34.axb5 Rb8 35.b6
+Rb7 36.Rc3 Rfb8 37.Rcc6 Kg7 38.Kf3 Kf8 39.b4 Ke7 40.Rf6 Ke8 41.b5 Re7 42.Rc7
+Rb7 43.Rxb7 Rxb7 44.Ke4 Rd7 45.Ke5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "1"]
+[White "Mäkinen, Matti"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[Section "III Division:5"]
+[Board "3"]
+[WhiteTeam "Käpylän Shakkikerho 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.Qc2 d6 6.h3 Bxc3 7.bxc3 Qe7 8.Be2 O-O
+9.O-O h6 10.d3 Nd8 11.Nh2 Ne6 12.f4 exf4 13.Bxf4 Nxf4 14.Rxf4 Qe5 15.Raf1 Nh5
+16.d4 Qxf4 17.Rxf4 Nxf4 18.Bf1 f5 19.e5 dxe5 20.dxe5 Re8 21.Nf3 Ng6 22.Bd3
+Nxe5 23.Bxf5 Nxf3+ 24.gxf3 Bxf5 25.Qxf5 c6 26.Qd7 Re1+ 27.Kf2 Rae8 28.Qxb7
+R8e2+ 29.Kg3 Rg1+ 30.Kf4 g5+ 31.Kf5 Rxa2 32.Kg6 1-0
