@@ -409,3 +409,25 @@ fxe5 10.dxe5 Ngxe5 11.Nxe5 Nxe5 12.Bxe5 Bf6 13.Qd4 a6 14.Be2 O-O 15.Bxf6 Rxf6
 16.Nb6 Rd8 17.Bd2?? (17.Qg4) Bxc5 18.dxc5? (18.Nxd5 cxd5 19.Rc1 Bc4 20.Rxc4
 dxc4 21.Rxc5 {=}) Qxe5 19.Qa4 Bb5 20.Qxa5 Qxb2 21.Bc3 Qe2 22.Re1 Qh5 23.Bxg7?
 Rg8 24.Qc3 Qg6 25.Qf6 Rxg7 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "2"]
+[White "Alava, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Etelä-Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteElo "2180"]
+[BlackElo "2083"]
+[WhiteTitle "FM"]
+[TimeControl "40/6600:1800+30"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 Nd7 8.Qe2+ Qe7
+9.Qxe7+ Bxe7 10.Bf4 Nf8 11.Ne2 Ne6 12.Be3 O-O 13.O-O b6 14.c4 Ba6 15.Rab1 Rfd8
+16.b4 Bb7 (16...c5! 17.bxc5 Nxc5) 17.c5 b5 18.Rfd1 g6 19.a4 a6 20.a5 f5 21.Bc2 Bf6
+22.f4 Bc8 23.Bb3 Nc7 24.Nc3 (24.d5! cxd5 25.Rbc1) Be6 25.Bxe6 fxe6 26.Rb2 Nd5
+(26...h6) 27.Nxd5 Rxd5 28.Rbd2 Rad8 29.Kf2 Kf7 30.Kf3 R5d7 1/2-1/2
