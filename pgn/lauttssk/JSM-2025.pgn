@@ -114,8 +114,9 @@ Rf2 68.Ke7 Re2+ 69.Kf8 Rf2 70.Ke7 Re2+ 71.Kf8 1/2-1/2
 1.e4 e6 2.d4 d5 3.Be3 dxe4 4.Nd2 Nf6 5.h3 Nc6 6.Bb5 Bd7 7.Ne2 Nb4 8.Bxd7+ Qxd7 9.a3
 Nbd5 10.Ng3 Nxe3 11.fxe3 Qd5 12.Qe2 Bd6 13.Qf2 O-O-O 14.O-O Qc6 15.c4 Rdf8 16.b4 a6
 17.Rfb1 h5 18.a4 Bxg3 19.Qxg3 h4 20.Qf2 Kd7 21.b5 axb5 22.axb5 Qd6 23.Nb3 b6 24.Ra7
-Qg3 25.Qe2 Ra8 26.Rba1 Rxa7 27.Rxa7 g5 28.c5 g4 29.cxb6 gxh3 30.Rxc7+ Kd8 31.Na5
-Ng4 32.Nb7+ Ke8 33.Nd6+ Kf8 34.Rxf7+ Kg8 35.Qxg4+ Qxg4 36.Rf2 h2+ 37.Kxh2 0-1
+Qg3 25.Qe2 Ra8 26.Rba1 Rxa7 27.Rxa7 g5 28.c5 g4 29.cxb6 gxh3 30.Rxc7+ (30.Nc5+) Kd8
+31.Na5 Ng4 32.Nb7+?? (32.Nc6+ Ke8 33.Rc8+ Kd7 34.Ne5+ Nxe5 35.Rc7+ Ke8 36.dxe5 Qxe5
+37.Qd1 {+-}) Ke8 33.Nd6+ Kf8 34.Rxf7+ Kg8 35.Qxg4+ Qxg4 36.Rf2 h2+ 37.Kxh2 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -153,9 +154,10 @@ Ng4 32.Nb7+ Ke8 33.Nd6+ Kf8 34.Rxf7+ Kg8 35.Qxg4+ Qxg4 36.Rf2 h2+ 37.Kxh2 0-1
 1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 d6 5.Nc3 g6 6.Nf3 Bg7 7.Nd5 Be6 8.Ng5 Bd7 9.h4
 h6 10.Nf3 Nf6 11.Be2 Ng4 12.c3 a6 13.h5 g5 14.Be3 Nxe3 15.Nxe3 b5 16.Nd4 Nxd4
 17.cxd4 Qa5+ 18.Kf1 e6 19.a3 O-O 20.Rd1 Rae8 21.b4 Qb6 22.Bg4 Rc8 23.Rh3 Rc7
-24.Rf3 Rfc8 25.d5 Rc3 26.Qd2 Be5 27.Rxf7 Kxf7 28.dxe6+ Bxe6 29.Bxe6+ Kxe6 30.Qd5+
-Ke7 31.Nf5+ Kf6 32.Nxh6 Qc7 33.Ng4+ Ke7 34.Ne3 Rxe3 35.fxe3 Qc2 36.Kg1 Qc4
-37.Qb7+ Rc7 38.Qa8 Qe2 39.Rf1 Qxe3+ 40.Kh1 Qf2 41.Rd1 Qh4+ 0-1
+24.Rf3 Rfc8 25.d5 Rc3 26.Qd2 Be5 27.Rxf7?? (27.dxe6 Bxe6 28.Bxe6 fxe6 29.Ng4 Rxf3
+30.gxf3 {+-}) Kxf7 28.dxe6+ Bxe6 29.Bxe6+ Kxe6 30.Qd5+ Ke7 31.Nf5+ Kf6 32.Nxh6 Qc7
+33.Ng4+ Ke7 34.Ne3 Rxe3 35.fxe3 Qc2 36.Kg1 Qc4 37.Qb7+ Rc7 38.Qa8 Qe2 39.Rf1 Qxe3+
+40.Kh1 Qf2 41.Rd1 Qh4+ 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
