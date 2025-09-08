@@ -189,6 +189,7 @@ Kh8 30.Rxh2+ Qxh2 31.Qf6+ Kg8 32.Bf7+ 1-0
 [Board "6"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Etelä-Vantaan Shakki"]
+[BlackTitle "FM"]
 [ECO "E94"]
 
 1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Nbd7 7.O-O e5 8.Be3 Qe7 9.d5
@@ -281,6 +282,28 @@ Rb7 43.Rxb7 Rxb7 44.Ke4 Rd7 45.Ke5 1-0
 16.d4 Qxf4 17.Rxf4 Nxf4 18.Bf1 f5 19.e5 dxe5 20.dxe5 Re8 21.Nf3 Ng6 22.Bd3
 Nxe5 23.Bxf5 Nxf3+ 24.gxf3 Bxf5 25.Qxf5 c6 26.Qd7 Re1+ 27.Kf2 Rae8 28.Qxb7
 R8e2+ 29.Kg3 Rg1+ 30.Kf4 g5+ 31.Kf5 Rxa2 32.Kg6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.07"]
+[Round "1"]
+[White "Raivio, Pertti"]
+[Black "Koivusipilä, Hannes"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Espoon Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Be2 Be7 8.O-O O-O
+9.Kh1 b5 10.a3 Bb7 11.Bd3 Nbd7 12.Nb3 Rc8 13.f4 Rxc3 14.bxc3 Bxe4 15.Bxe4
+Nxe4 16.Bxe7 Qxe7 17.Qe1 d5 18.a4 Rc8 19.Rf3 Ndc5 20.axb5 axb5 21.Nd4 Qd7
+22.Qe2 h6 23.Qxb5 Nd2 24.Qxd7 Nxd7 25.Rd3 Nc4 26.Ne2 Nc5 27.Rf3 Nd2 28.Rh3
+Nce4 29.Kg1 Rb8 30.Nd4 Rc8 31.Ra3 Rb8 32.Nb3 Nc4 33.Ra2 Rc8 34.Rf3 Ncd6
+35.Ra6 Nb5 36.Nd4 Nxd4 37.cxd4 Rxc2 38.g3 Rc1+ 39.Kg2 Rc2+ 40.Kg1 Rc1+
+41.Rf1 Rc2 42.f5 Ng5 43.fxe6 Nh3+ 44.Kh1 fxe6 45.Rxe6 Nf2+ 46.Kg2 Ne4+
+47.Kg1 Rd2 48.Re8+ Kh7 49.Re7 Ng5 50.h4 Nh3+ 51.Kh1 Nf2+ 52.Kg2 Ng4+ 53.Kg1
+Nf6 54.Rxf6 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
