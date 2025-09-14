@@ -256,6 +256,7 @@ Bb7 16.Nxh5 Nc6 17.Nf6+ Kf8 18.Qh6+ Ke7 19.Nxg8+ Rxg8 20.Qg5+ Kf8 21.d5 exd5
 [Black "Salikhodjaev, Isroilkhon"]
 [Result "1-0"]
 [TimeControl "3600+30"]
+[Termination "time forfeit"]
 
 1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Nd5 5.Qg4 Kf8 6.a3 Be7 7.Bd3 c5 8.Nge2 Nc6
 9.Be3 cxd4 10.Bxd4 Nxd4 11.Qxd4 Qb6? (11...d6) 12.Nxd5 Qxd4 13.Nxd4 exd5
@@ -264,3 +265,20 @@ Bb7 16.Nxh5 Nc6 17.Nf6+ Kf8 18.Qh6+ Ke7 19.Nxg8+ Rxg8 20.Qg5+ Kf8 21.d5 exd5
 26.Rexd4 Be2 27.R1d2 (27.Bf3!) Bxd4 28.Rxd4 Bg4 29.h3 Bf5 30.Be4 Bxe4 31.Rxe4
 Kf6 32.g4 h6 33.c4 a5 34.Rd4 Ke6 35.b4 axb4 36.axb4 Rc6 37.Kb2 Rd6? 38.Rxd6+
 Kxd6 39.Kc3 Kc6 40.Kd4 Kd6 41.h4 Ke6 42.b5 d6 43.Ke4 h5 44.g5 Ke7 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.01.30"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Suihko, Ismo"]
+[Result "1-0"]
+[TimeControl "720+6"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Nd5 5.Qg4 Bxc3+ 6.bxc3 Rg8 7.c4 Ne7 8.Bd3 Ng6
+9.h4 f5 10.Qg3 Nc6 11.Ne2 Nb4 12.h5 Ne7 13.Nc3 Nxd3+ 14.Qxd3 d5 15.Ba3 c6
+16.Rb1 b6 17.c5 b5 18.Bc1 h6 19.Bd2 Kd7 20.Ne2 a5 21.Rh3 Qe8 22.Nf4 Ba6 23.Qf3
+(23.Bxa5) b4 24.a3 bxa3 25.Qxa3 a4 26.Qxa4 Bb5 27.Qb3 Rb8 28.Ne2 Bc4 29.Qxb8
+Qxb8 30.Rxb8 Rxb8 31.Kd1 Ra8 32.Rg3 Rg8 33.Nc3 Ke8 34.Na4 Kf7 35.Nb6 Nc8
+36.Nxc4 dxc4 37.Rc3 Ne7 38.Rxc4 Nd5 39.Ra4 Rb8 40.c4 Ne7 41.Ke2 {no more moves
+recorded} 1-0

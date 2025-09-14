@@ -448,6 +448,8 @@ Rxd1 28.Kxd1 Ke6 29.Nd8+ Kd5 30.Nf7 Ke4 31.Nxh6 f4 32.Ke2 f3+ 33.Kf2 Kf4
 [Black "Lehti, Juhani"]
 [Result "1-0"]
 [Stage "Final"]
+[WhiteElo "2083"]
+[BlackElo "2219"]
 [TimeControl "1200+10"]
 [Termination "time forfeit"]
 

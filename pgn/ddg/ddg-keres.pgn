@@ -299,7 +299,7 @@ Bxf6 17.Rxf6! gxf6 18.Ne4) 16.Rxf4 Nxd5 17.Rf2 (17.Qh5? Nxf4 18.Qxh6 f6!
 [Mode "EM"]
 
 1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 Nf6 5.f3 c5 6.d5 exd5 7.cxd5 exf3 8.Nxf3 Bd6
-9.Bb5+ Bd7 10.O-O O-O 11.Bg5 Bxb5 12.Nxb5 Qb6 13.Bxf6 Qxb5 14.Ng5!! (14.Nh4
+9.Bb5+ Bd7 10.O-O O-O 11.Bg5 Bxb5 12.Nxb5 Qb6? 13.Bxf6 Qxb5 14.Ng5!! (14.Nh4
 gxf6 15.Nf5 Bxh2+ 16.Kxh2 Kh8 17.Qh5) (14.Ng5 gxf6 15.Nxh7!) 1-0
 
 [Event "Casual Game"]
@@ -585,4 +585,3 @@ h5) 23.Qxg3 Bxg3 24.Nf5 Rfd8 25.d6 Ng6 26.Bxf6 Bxd6?? 27.Bxd8 Rxd8 28.Rd1 1-0
 16.Qxf3 Nxd5?? (16...Nbd7) 17.Qh5 g6 18.Qh6 Nf4 19.Kh1 Qxd3?? 20.Rxf4
 (20.Nf6#) f6 21.Nxf6+ Rxf6 22.Rxf6 Nd7 23.Rxg6+ Kf7 24.Qh7+ Ke8 25.Rg8+ Nf8
 26.Re1+ 1-0
-

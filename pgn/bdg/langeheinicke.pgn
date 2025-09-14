@@ -1659,7 +1659,7 @@ cxd4 22.Rxg5 hxg5 23.Be4 Nxe4 24.fxe4 Rfd8 25.Be5 Bc5 26.b4 d3 27.Qc3
 [White "Heikkinen, Jyrki"]
 [Black "Suominen, Antti"]
 [Result "1/2-1/2"]
-[TimeControl "180+2"]
+[TimeControl "600+5"]
 
 1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 e3 6.Bxe3 Bf5 7.Nge2 Nbd7 8.O-O Nb6
 9.Bb3 Nbd5 10.Bf2 e6 11.Ng3 Nxc3 12.bxc3 Bg6 13.f4 Be7 14.Qf3 a5 15.a4 O-O

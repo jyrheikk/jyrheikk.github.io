@@ -123,10 +123,11 @@ Nf2+ 24.Rxf2 Bxf2 25.Nf7 Rxd5? 26.Nxh8 Rxb5? 27.Rxb5 Nxh8 28.Rxe5 Bd4??
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2022.06.13"]
-[Round "Quarter-Final"]
+[Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Kumar, Ashwin"]
 [Result "1-0"]
+[Stage "Quarter-Final"]
 [TimeControl "1200+10"]
 
 1.d4 d6 2.e4 Nf6 3.Nc3 Nc6 4.d5 Ne5 5.f4 Ng6 6.g3 c6 7.h4 Bg4 8.Be2 h5 9.Qd3
