@@ -71,12 +71,13 @@ Nostalgiaa lisää myös se, että tämä on ensimmäinen kansainvälinen
 pelini. (Tarkennus analyyseihin: Variantin 23.Rd8 24.Rd6
 oikea loppuarvio on tasa-asema. Voittosiirto on 24.Qc7.)}
 
-[Event "Kerhoturnauksen B-ryhmä"]
+[Event "LauttSK:n kerhoturnaus"]
 [Site "Helsinki FIN"]
 [Date "1998.??.??"]
 [White "Siikonen, Timo"]
 [Black "Laakso, Mikko"]
 [Result "0-1"]
+[Section "B"]
 
 1.e4 c5 2.f4 d6 3.Nf3 Nc6 4.Bb5 Bd7 5.O-O Nf6 6.Nc3 a6 7.Bc4 {Tämän
 lähetin seikkailut eivät ole kovin tehokkaita.} e6 8.a4 Be7 {8.Nxe4
@@ -91,9 +92,10 @@ Bxe5 26.Ra8 Bxb2 27.Bg5 Rxa8 28.Qxa8+ Kf7 29.Qa7+ Kg6 30.Be7 Qe5
 (36...Qxd6) 37.Qa2 Qxd6 0-1
 {ML:n valitsema peli.}
 
-[Event "SPS, 4. kierros"]
+[Event "SPS"]
 [Site "Helsinki FIN"]
 [Date "1988.11.07"]
+[Round "4"]
 [White "Siikonen, Timo"]
 [Black "Savolainen, M."]
 [Result "1-0"]
@@ -222,12 +224,13 @@ hyvin tiheä varianttiviidakko, johon eksyy todella helposti.
 Lähipelissä en tätä avausta uskalla pelata. (WT = world tournament, M
 = master, GT = 14 peliä.)}
 
-[Event "Joukkueiden SM, II div."]
+[Event "Joukkueiden SM"]
 [Site "FIN"]
 [Date "1997.10.25"]
 [White "Joutsivuo, Timo"]
 [Black "Suvanto, Petro"]
 [Result "1-0"]
+[Section "II Division"]
 [ECO "Q12"]
 
 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 Bf5 5.e3 e6 6.Bd3 dxc4 (6...Bg6 {=}) 7.Bxc4
@@ -367,13 +370,13 @@ SM-turnauksessa). Tätä avausta ja myös ko. uhraus-muunnelmaa (20.dxc6)
 on pelattu tällä vuosikymmenellä jonkin verran ja pelataan
 edelleenkin. Analyysit Kirjeshakki-lehdestä.}
 
-[Event "Joukkue-SM, 2. divisioona"]
+[Event "Joukkueiden SM"]
 [Site "Helsinki FIN"]
 [Date "1998.01.10"]
 [White "Heikkinen, Jyrki"]
 [Black "Tähkävuori, Tapani"]
 [Result "0-1"]
-[Section "2. divisioona"]
+[Section "II Division"]
 [Board "2"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Rikospoliisien Shakkikerho"]
@@ -392,12 +395,13 @@ Bxd8 32.Qxd8+ Kg7 33.Qe7+ Bf7 34.g3 Qxf3 35.gxf4 Qd1+ 36.Kg2 Qd5+ 0-1
 {Peli Tähkävuorea vastaan on pikemminkin harmittavin pelini, joka
 muuttui yhden siirron takia "huonoimmaksi".}
 
-[Event "Kerhoturnauksen B-ryhmä"]
+[Event "LauttSK:n kerhoturnaus"]
 [Site "Helsinki FIN"]
 [Date "1998.03.18"]
 [White "Heikkinen, Jyrki"]
 [Black "Kauppinen, Janne"]
 [Result "1-0"]
+[Section "B"]
 [ECO "B41"]
 
 1.e4 c5 2.d4 cxd4 3.Nf3 e6 4.Nxd4 a6 5.Be3 d5 {Ehkä Nf6.} 6.exd5 Qxd5
@@ -409,7 +413,7 @@ jotenkin mukana; valkean tehokas kehittäminen tuottaa nyt nopeasti
 tulosta.} 13.Bxe6 fxe6 14.Nc6 1-0
 {JK:n valitsema peli.}
 
-[Event "Kerhoturnaus"]
+[Event "LauttSK:n kerhoturnaus"]
 [Site "Helsinki FIN"]
 [Date "1993.02.03"]
 [White "Rautio, Reijo"]
