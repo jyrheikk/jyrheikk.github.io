@@ -757,8 +757,8 @@ Be7 9.Bb2 a5 10.c5 Nc6 11.b5 Nb8 12.Bd4 Nfd7 13.Rc1 f6 14.c6 bxc6
 [Board "5"]
 [WhiteTeam "Lauttasaaren Shakkikerho 3"]
 [BlackTeam "Åminnefors Schackklubb"]
-[WhiteELO "1230"]
-[BlackELO "1455"]
+[WhiteElo "1230"]
+[BlackElo "1455"]
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Nf6 6.Be2 e5 7.Nf3 Be6
 8.Be3 Be7 9.Qd2 O-O 10.Bd3 Ng4 11.h3 Nxe3 12.Qxe3 Nc6 13.Nd5 Bxd5

@@ -704,35 +704,6 @@ fxe6 29.Qxe6+ Kh8 30.Rf7? (30.h5! Rb8 31.hxg6 Rb1+ 32.Rf1 Rxf1+ 33.Kxf1 Qf4+
 34.Kg1 {=}) (30.Qxg6 Qb6) Qxc3 31.Kh2 Rxd4 32.Rf3 Rxh4+ 33.Kg3 Qc4 34.Qxg6 Rh6
 35.Qg5 Qc7+ 36.Kg4 Qd7+ 37.Kg3 Qd6+ 38.Kf2 Qb6+ 39.Ke2 Re6+ 0-1
 
-[Event "Lauttasaari Sauna Tournament"]
-[Site "Helsinki FIN"]
-[Date "2025.06.12"]
-[Round "10"]
-[White "Heikkinen, Jyrki"]
-[Black "Drost, Robert"]
-[Result "1-0"]
-[TimeControl "180+2"]
-
-1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Bf5 5.g4 Bg6 6.Nge2 e6 7.Nf4 Ne7 8.h4 h6
-9.Be3 Nd7 10.Nxg6 Nxg6 11.h5 Ne7 12.Nxe4 Nb6 13.Bb3 Ned5 14.Qe2 Be7 15.O-O-O
-a5 16.a3 Rc8 17.f4 Nf6 18.Nf2 Nbd5 19.Bd2 b5 20.g5 a4? 21.gxf6 axb3 22.fxe7
-Qxe7 23.cxb3 c5 24.dxc5 Rxc5+ 25.Kb1 Qf6 26.Ne4 Qf5 27.Ka1 Rc8 28.Nd6+ 1-0
-
-[Event "Lauttasaari Cup"]
-[Site "Helsinki FIN"]
-[Date "2025.07.10"]
-[Round "?"]
-[White "Heikkinen, Jyrki"]
-[Black "Zhukov, Matvei"]
-[Result "1/2-1/2"]
-[TimeControl "960+8"]
-
-1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 Bf5 6.fxe4 Bxe4 7.Nxe4 Nxe4 8.Nf3
-Nd7 9.O-O g6 10.Bxf7+ Kxf7 11.Ng5+ Ke8 12.Nxe4 Bg7 13.Ng5 Qb6 14.Ne6 Bf6
-15.Bf4 Rc8 16.Kh1 Nf8 17.Nc5 Qxb2 18.Be3 (18.Qe2) Qa3 19.Rf3 Nd7 20.Bg5 Qa5
-21.Bxf6 Nxf6 22.Rxf6?? (22.Qe2) exf6 23.Qe2+ Kf8 24.Qe6 Kg7 25.Qd7+ Kh6
-26.Qh3+ Kg7 27.Qd7+ 1/2-1/2
-
 [Event "Lauttasaari Blitz Ch"]
 [Site "Helsinki FIN"]
 [Date "2025.07.30"]
@@ -746,3 +717,18 @@ Nd7 9.O-O g6 10.Bxf7+ Kxf7 11.Ng5+ Ke8 12.Nxe4 Bg7 13.Ng5 Qb6 14.Ne6 Bf6
 9.Ne2 Bd6 10.Nf4 Qc7? 11.Nfxe6 Bxh2+ 12.Kh1 Qg3? 13.Rf3 (13.Bf4) (13.Nxg7+)
 Qd6 14.Re3 (14.Nxg7+) Kd7 15.Nc5+ Kc7 16.Bxf7 Nbd7 17.Nce6+? (17.Qf3) Kc8
 18.Rh3? (18.Nxg7) Bxf7 19.Nxf7 Qxe6 20.Nxh8 Bc7 {no more moves recorded} 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.17"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Koivusipilä, Hannes"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+
+1.d4 d5 2.e4 c6 3.Nc3 dxe4 4.Bc4 Nf6 5.f3 exf3 6.Nxf3 Bf5 7.O-O e6 8.Ng5 Qc7
+9.Rxf5 exf5 10.Bxf7+ Qxf7 11.Nxf7 Kxf7 12.Qd3 g6 13.Bf4 (13.Ne4! Nxe4 14.Qb3+)
+Nbd7 14.Qc4+ Kg7 15.Re1 Nb6 16.Qb3 Rd8 17.Be5 (17.Re6 Rxd4 18.Be5 Rb4 19.Bxf6+
+Kg8 20.Bxh8) Be7 18.a4 Rd7 19.Qe6 Rhd8 20.a5 Nc8 21.g4 g5 22.Qxf5 Nd6 23.Qxg5+
+Kf7 24.Rf1 Rg8 25.Rxf6+ Bxf6 26.Qxf6+ 1-0
