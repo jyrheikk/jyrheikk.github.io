@@ -1,10 +1,11 @@
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "1.1"]
 [White "Kauppala, Pekka"]
 [Black "Väkevä, Jani"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Bg5 g6 3. Nc3 Bg7 4. Qd2 c5 5. dxc5 Qa5 6. O-O-O b5 7. Kb1
@@ -18,13 +19,14 @@ Rf8 42. Rb4 Nc8 43. Nh7 Rh8 44. Rb7 Ne7 45. Ng5 Rf8 46. h3 Nc6 47. Rg7
 Ne7 48. Kc3 Rc8+ 49. Kd2 Ra8 50. Nf7+ Ke6 51. Ng5+ Kd7 52. g4 Ra2+
 53. Kc3 Ra5 54. Kd4 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "2.1"]
 [White "Lehtosaari, Mauri"]
 [Black "Lehto, Arto"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B17"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. Qe2
@@ -37,13 +39,14 @@ Kd6 36. Bd3 Ke5 37. Be2 Bc6 38. f4+ Kd6 39. Bf3 Bxf3 40. gxf3 e5
 41. fxe5+ Kxe5 42. f4+ Ke6 43. Kd4 g4 44. Kd3 h5 45. Ke3 Kd7 46. Kd4
 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "3.1"]
 [White "Heikkinen, Jyrki"]
 [Black "Yrjönen, Markku"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Nc3 e6 3. e4 Bb4 4. a3 Bxc3+ 5. bxc3 Nxe4 6. Qg4 f5 7. Qxg7
@@ -52,13 +55,14 @@ Re8 14. Be5 Nd5 15. Nxh7 Nxe5 16. dxe5 c6 17. O-O-O Nxc3 18. Bxc6 Nxd1
 19. Rxd1 Re7 20. Nf6 Rc8 21. Bxd7 Kc7 22. Bxc8 Kxc8 23. h4 Rg7 24. h5
 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "4.1"]
 [White "Aho, Jukka"]
 [Black "Rantanen, Matti"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e6 6. Nf3 Be7 7. Bd3
@@ -72,13 +76,14 @@ O-O 8. Bg5 Nbd7 9. Qd2 c5 10. O-O-O a6 11. Ne4 cxd4 12. Nxd4 Nxe4
 47. Bxa8 f5 48. Nc5 a5 49. Kc2 axb4 50. cxb4 Nh7 51. Bd5 Nf6 52. Be6 Kc6
 53. Bxf5 Kd5 54. Kd3 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "5.1"]
 [White "Järvinen, Seppo"]
 [Black "Suninen, Jukka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "C44"]
 
 1. e4 e5 2. d4 exd4 3. c3 d3 4. Nf3 Nc6 5. Bxd3 d6 6. Qb3 Na5 7. Qc2 Be7
@@ -90,13 +95,14 @@ O-O 8. Bg5 Nbd7 9. Qd2 c5 10. O-O-O a6 11. Ne4 cxd4 12. Nxd4 Nxe4
 Qxa2 37. Qxe5+ Kg8 38. Qg5 Qxb3+ 39. Ke2 Re8+ 40. Re3 Rxe3+ 41. fxe3
 Qxc3 42. e4 f6 43. Qd5+ Bf7 44. Qxb7 Bh5+ 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "6.1"]
 [White "Inkinen, Tuukka"]
 [Black "Joutsivuo, Timo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D02"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. b3 c6 7. Bb2 Na6
@@ -107,39 +113,42 @@ Nf6 20. Rf1 e6 21. Rad1 Nde4 22. Qf4 Nh5 23. Qe3 Nexg3 24. Nf3 Nxf1
 31. Qf2 e5 32. dxe5 fxe5 33. c5 Rad8 34. Bc4+ Kh8 35. h4 Rd1+ 36. Ne1
 Rxc1 37. Rh2 Qd1 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "7.1"]
 [White "Rautio, Reijo"]
 [Black "Parkkinen, Antti"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C45"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 c6 7. Bf4
 Qf6 8. Qe3 Bg4 9. h3 Bh5 10. g4 Bg6 11. O-O-O h6 12. Bg3 b6 13. Ba6 Rd8
 14. Bb7 Ne7 15. Bxc6+ Nxc6 16. Nd5 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Kuusankoski FIN"]
 [Date "1999.09.25"]
 [Round "8.1"]
 [White "Komulainen, Tuomo"]
 [Black "Siikonen, Timo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qb3 c4 7. Qxb6 axb6
 8. Nf3 Nge7 9. g3 Nf5 10. Bf4 h6 11. h4 Na5 12. Nbd2 Bd7 13. Be2 b5
 14. O-O Be7 15. b4 Nc6 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "1.2"]
 [White "Prieur, Eetu"]
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B23"]
 
 1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 dxe4 6. Bxc6+ bxc6 7. Nxe4
@@ -154,13 +163,14 @@ Rh1 48. Kb4 Kc6 49. Re6+ Kc7 50. Rh6 h4 51. Kc5 h3 52. Rh7+ Kd8 53. b4
 h2 54. b5 Ke8 55. b6 Kd8 56. b7 Rb1 57. Rxh2 Rxb7 58. Rh8+ Kd7 59. Rh7+
 Kc8 60. Rxb7 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "2.2"]
 [White "Lehto, Arto"]
 [Black "Österman, Georg"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "E12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Bg5
@@ -171,13 +181,14 @@ Rfc8 14. Bf3 Nf6 15. Bxb7 Qxb7 16. Qb3 Rc7 17. a4 cxd4 18. cxd4 Rac8
 Rb2 31. Nxa5 bxa5 32. exd5 exd5 33. Rc1 Rb4 34. Rc5 Rxa4 35. Rxd5 Ra1+
 36. Kh2 a4 37. Ra5 a3 38. Ra7 a2 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "3.2"]
 [White "Issakainen, Ari"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A51"]
 
 1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. e3 Nc6 6. Nf3 Bf5 7. Nc3 Ng3
@@ -188,13 +199,14 @@ Qd6 14. Nxc6 Qxh2 15. Ne5+ Ke7 16. Qb4+ Kd8 17. Nf7+ Kc8 18. Qf4 Qxf4
 b5 30. Ne5 Kb7 31. Nf3 Bc5 32. Nxc7 Rc8 33. Rd7 Bb6 34. Rxg7 h6 35. Kd1
 Bxc7 36. Rxc7+ Rxc7 37. Bxc7 Kxc7 38. Kd2 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "4.2"]
 [White "Rantanen, Matti"]
 [Black "Halmeenmäki, Tuomo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D02"]
 
 1. d4 Nc6 2. Nf3 d5 3. Bf4 Bg4 4. e3 a6 5. Be2 e6 6. O-O Nf6 7. h3 Bh5
@@ -205,13 +217,14 @@ Red8 20. Qc1 Qf6 21. Qc4 Rd6 22. Rad1 Rad8 23. Rxd6 Rxd6 24. a4 Qd8
 31. Qb4 Rf6 32. Rd1 Qd6 33. Qxd6 Rxd6 34. bxc6 bxc6 35. Rc1 Rd8 36. Bf1
 Rb8 37. Be2 Rb2 38. Bf3 Bxf3 39. Nxf3 Kf8 40. g3 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "5.2"]
 [White "Linnanen, Lassi"]
 [Black "Järvinen, Seppo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B06"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Bd7 5. Qd2 a6 6. a4 c6 7. f3 Qa5
@@ -224,13 +237,14 @@ Ra8 37. Rb5 Kd7 38. Rb7+ Ke8 39. Rb5 Kd7 40. Kc4 Rc8+ 41. Kb3 Rc1
 42. Rb7+ Ke8 43. Bb4 Rg1 44. a5 Rxg3+ 45. Ka4 Rg1 46. a6 Ra1+ 47. Ba3
 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "6.2"]
 [White "Joutsivuo, Timo"]
 [Black "Kivimäki, Jaakko"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D20"]
 
 1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. a4 Nc6 5. Nf3 Bg4 6. e3 Na5 7. Be2 Bxf3
@@ -242,13 +256,14 @@ Qxd4 20. b3 Qb2 21. Qb1 Qxb1 22. Rxb1 c3 23. Be2 c2 24. Bxd3 cxb1=Q
 36. Rc1 Kxg5 37. f4+ Kg4 38. Bf1 Rxb3 39. Rxc7 Rb1 40. Rxf7 Rdd1
 41. Rxg7+ Kf5 42. Rf7+ Ke4 43. Kh2 Rxf1 44. Kh3 Rxf4 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "7.2"]
 [White "Ristoja, Jan"]
 [Black "Rautio, Reijo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D02"]
 
 1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Bd6 5. c4 c6 6. Nc3 O-O 7. O-O Nbd7
@@ -258,13 +273,14 @@ Qxd4 20. b3 Qb2 21. Qb1 Qxb1 22. Rxb1 c3 23. Be2 c2 24. Bxd3 cxb1=Q
 26. a3 axb4 27. axb4 Bc8 28. Bxc6 fxg3 29. Nd5 Nxd5 30. Bxd5 Rxb4
 31. Rxe5 Qf8 32. Re8 gxf2+ 33. Rxf2 Rg4+ 34. Qxg4 Bxg4 35. Bxf7+ Kh7 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.10.23"]
 [Round "8.2"]
 [White "Kohvakka, Raimo"]
 [Black "Toivola, Jari"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O
@@ -277,13 +293,14 @@ Na4 36. a6 Nc5 37. Kb6 Nxa6 38. Kxa6 Kxg5 39. Kb5 f5 40. exf5 exf5
 41. Bh3 Kf4 42. Kc5 Kxf3 43. Kd4 Kg3 44. Bf1 g5 45. Be2 Kf4 46. Bd3 g4
 47. Bxf5 Kxf5 48. Ke3 Kg5 49. Kf2 Kh4 50. Kg2 g3 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "1.3"]
 [White "Martynov, Pavel"]
 [Black "Clarke, Tom"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A80"]
 
 1. d4 e6 2. Nf3 f5 3. Nc3 Nf6 4. Bg5 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. e3
@@ -299,13 +316,14 @@ Qd4 37. Qxd4 cxd4 38. Rd1 d3 39. Bd7 Bc4 40. Bb5 Bxd5 41. f4 Re6
 Rb7 60. h5 Kc5 61. h6 Be8 62. Re6 Bf7 63. Re7 Rxe7 64. fxe7 Kd6 65. Kf6
 Be8 66. Bxh7 d4 67. Bd3 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "2.3"]
 [White "Kauppala, Pekka"]
 [Black "Nippula, Timo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Bg5 c5 3. dxc5 e6 4. e3 Bxc5 5. Nf3 h6 6. Bh4 d5 7. c4 Nbd7
@@ -320,13 +338,14 @@ Rxc5 48. Qxc5 Qf4 49. Rd1 Rb8 50. c7 Rc8 51. Na6 Qa4 52. Qd6 Kh7 53. Kg1
 h5 54. Qd3+ Kh6 55. Qd2+ Kh7 56. Qe2 Qa5 57. Rf1 Kg8 58. Qd3 g6 59. Qd6
 Kg7 60. Kh2 Qa4 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "3.3"]
 [White "Pitkänen, Sami"]
 [Black "Lehto, Arto"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A07"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. d3 c6 5. Nbd2 h6 6. h3 Nbd7 7. O-O e6
@@ -336,13 +355,14 @@ Kg7 60. Kh2 Qa4 1-0
 Nf8 26. Bxf6+ Kf7 27. Qg5 Ng6 28. Qh5 Bg8 29. Bc3 Kf8 30. Nf6 Qf7
 31. Rd7 Nge7 32. Qd1 Qg6 33. Rd8+ 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "4.3"]
 [White "Heikkinen, Jyrki"]
 [Black "Tuomala, Tapio"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C00"]
 
 1. d4 e6 2. e4 d5 3. c4 dxe4 4. Nc3 c5 5. d5 Nf6 6. Bg5 Be7 7. Bf4 Qa5
@@ -356,13 +376,14 @@ Rxd6 37. Ne5 Re6 38. Nxc4 Rc6 39. Rb4 a5 40. Nxa5 Rxc3 41. Nxb7 Kf6
 Ra3+ 48. Ke2 Ra2+ 49. Kd3 Rxg2 50. a6 Kd5 51. a7 Ra2 52. Rb5+ Kc6
 53. Ra5 1-0
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "5.3"]
 [White "Toikka, Jussi"]
 [Black "Rantanen, Matti"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A24"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 g6 4. Nc3 Bg7 5. Nf3 Nc6 6. O-O O-O 7. d4 exd4
@@ -375,13 +396,14 @@ Bxb2 25. Nxb2 Nd4 26. Nc4 Nxe2 27. Nxa5 Nd4 28. Nb7 Kf8 29. Nxc5 Ke7
 Nd4 42. Nf8+ Kf7 43. Nd7 Ne6 44. Ne5+ Kg7 45. Nxg6 Kxg6 46. f5+ Kxg5
 47. fxe6 Kf6 48. Kd5 Ke7 49. Kxc5 Kxe6 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "6.3"]
 [White "Järvinen, Seppo"]
 [Black "Johansson, Jukka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B47"]
 
 1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Be2 a6 5. d4 cxd4 6. Nxd4 Qc7 7. O-O
@@ -394,13 +416,14 @@ Rc5 31. Qd1 Rd5 32. Qf3 Bf8 33. g4 g5 34. Bc1 h6 35. Kg2 a4 36. Rf2 Qc4
 Rxe3 43. Qxe3 Qf1+ 44. Kg3 Qxf6 45. hxg5 hxg5 46. Qe4 Qf4+ 47. Qxf4
 gxf4+ 48. Kxf4 Kg7 49. Ke5 Kg6 50. Kf4 Kf6 51. Ke4 Kg5 52. Kf3 f5 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "7.3"]
 [White "Koskinen, Mika"]
 [Black "Joutsivuo, Timo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "C00"]
 
 1. e4 e6 2. d3 d5 3. Nd2 dxe4 4. dxe4 b6 5. Ngf3 Nf6 6. g3 Bb7 7. e5 Ng4
@@ -410,13 +433,14 @@ gxf4+ 48. Kxf4 Kg7 49. Ke5 Kg6 50. Kf4 Kf6 51. Ke4 Kg5 52. Kf3 f5 0-1
 Ba6 26. Qxc6 Qxc6 27. Rxc6 Bxe2 28. Rc7 Bh4 29. Rxa7 Bf3 30. Nc3 Rd2
 31. Bc1 Rc2 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.20"]
 [Round "8.3"]
 [White "Rautio, Reijo"]
 [Black "Rasanen, Jarmo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 d5 5. dxe5 Nxe4 6. Bxe4 dxe4 7. Qa4+
@@ -426,13 +450,14 @@ Nd7 20. b4 Bb6 21. Ng6 Bxg2 22. Ne7+ Kh7 23. Rf5 g5 24. Rxg5 h3 25. Bf4
 Raf8 26. Nf5 Rhg8 27. Rh5+ Kg6 28. Rg5+ Kh7 29. Rh5+ Kg6 30. Rg5+
 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "1.4"]
 [White "Turunen, Pekka"]
 [Black "Clarke, Tom"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "A84"]
 
 1. c4 f5 2. d4 Nf6 3. Nf3 e6 4. g3 Bb4+ 5. Bd2 a5 6. a3 Bxd2+ 7. Nbxd2
@@ -442,26 +467,28 @@ Nxa6 20. Qxa4 Nb8 21. Rfe1 Qe7 22. Nd3 Rb6 23. Rc3 Na6 24. f3 e5 25. e4
 fxe4 26. fxe4 d4 27. Rb3 Rxb3 28. Qxb3+ Kh8 29. Qb5 Qxa3 30. Nxe5 Nc5
 31. Qc4 Qc3 32. Rd1 Qe3+ 33. Kh1 Ncxe4 34. Nd3 Ng4 35. Re1 Nxg3+ 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "2.4"]
 [White "Kauppala, Pekka"]
 [Black "Behm, Jukka"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A40"]
 
 1. d4 g6 2. g3 Bg7 3. Bg2 d6 4. e4 Nf6 5. Ne2 Nbd7 6. O-O O-O 7. h3 c5
 8. d5 b5 9. a4 b4 10. Be3 a5 11. Nd2 Ba6 12. Kh2 Ne8 13. Rb1 Nb6 14. b3
 Rc8 15. Rg1 e6 16. dxe6 fxe6 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "3.4"]
 [White "Törnroos, Jukka"]
 [Black "Lehto, Arto"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D03"]
 
 1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 Be7 5. Bd3 Nbd7 6. Nbd2 c5 7. c3 h6
@@ -475,13 +502,14 @@ Nxc5 31. Nf1 Rd4 32. Bb1 Be6 33. f3 a5 34. Kf2 Nd3+ 35. Bxd3 Rxd3
 48. Kb4 Rc8 49. Rd3 Rb8+ 50. Kc3 Rc8+ 51. Kd2 Rc5 52. Rc3 Ra5 53. Rc1
 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "4.4"]
 [White "Heikkinen, Jyrki"]
 [Black "Sieviläinen, Tuomo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D00"]
 
 1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. f3 e6 6. Be3 exf3 7. Qxf3
@@ -494,13 +522,14 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 42. Kb1 d3 43. Re1 d2 44. Rd1 Rbd3 45. Nf1 Bf5 46. Ka2 R8d4 47. g4 Be6+
 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "5.4"]
 [White "Arppi, Heikki"]
 [Black "Rantanen, Matti"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6
@@ -509,13 +538,14 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 19. Rad1 Ne6 20. Nf3 Bf8 21. Qc1 Rd7 22. h4 h5 23. Rfe1 Red8 24. Qc2 Bb4
 25. Rf1 Ng7 26. Rd3 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "6.4"]
 [White "Järvinen, Seppo"]
 [Black "Juurikainen, Juha-Matti"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 Ne7 7. Nf3 h5
@@ -523,13 +553,14 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 14. Nb3 Qc7 15. Rhg1 Nxc5 16. Nxc5 Bxc5 17. Bxc5 Qxc5 18. g4 hxg3
 19. Rxg3 Nxg3 20. Ng5 Nf5 21. Re1 Qf2 0-1
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "7.4"]
 [White "Turunen, Tuomo"]
 [Black "Joutsivuo, Timo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C01"]
 
 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Be2 Ne7 6. O-O O-O 7. c4 c6
@@ -544,13 +575,14 @@ Be6 37. Ba3 Ra1+ 38. Rd1 Rxd1+ 39. Nxd1 Nf5 40. Bc5 Bd5 41. Ne3 Nh4
 53. Bd4+ Kg5 54. Bxh8 Kh4 55. Be5 Kxh3 56. Kg1 Kg4 57. Kh2 h4 58. Bd6 c5
 59. Bxc5 1/2-1/2
 
-[Event "I Division (Group 1)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "1999.11.21"]
 [Round "8.4"]
 [White "Rautio, Reijo"]
 [Black "Räty, Risto"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "C17"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. a3 Bxc3 7. bxc3 Nbc6
@@ -559,13 +591,14 @@ Be6 37. Ba3 Ra1+ 38. Rd1 Rxd1+ 39. Nxd1 Nf5 40. Bc5 Bd5 41. Ne3 Nh4
 19. f4 Nd4 20. Qg2 Nxc2 21. Qxd5+ Nxd5 22. Rad1 c3 23. Rxd2 cxd2 24. Rd1
 Nd4 25. Kf2 Nb3 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "1.5"]
 [White "Kauppala, Pekka"]
 [Black "Loisa, Antti"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D00"]
 [PlyCount "31"]
 
@@ -573,13 +606,14 @@ Nd4 25. Kf2 Nb3 0-1
 O-O-O c6 9. Nge2 Nd7 10. Nf4 Qc7 11. Nce2 Qa5 12. Kb1 O-O-O 13. h3 Nf6 14. Nxe6
 fxe6 15. g4 Rhf8 16. Nf4 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "2.5"]
 [White "Vilppolainen, Markku"]
 [Black "Lehto, Arto"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "A07"]
 [PlyCount "84"]
 
@@ -591,13 +625,14 @@ Qxd3 Ne8 29. f4 Bd6 30. f5 g5 31. g4 hxg4 32. Bxg4 gxh4 33. Bh5 Kf8 34. Bc1
 Qg7+ 35. Bg6 Ke7 36. Bd2 Nc7 37. Bxa5 Ne6 38. Bd2 Nf8 39. Qc4 Nxg6 40. Qe6+ Kf8
 41. Qxd6+ Ne7+ 42. Kh1 h3 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "3.5"]
 [White "Heikkinen, Jyrki"]
 [Black "Niemelä, Tuomo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D00"]
 [PlyCount "88"]
 
@@ -609,13 +644,14 @@ Ne5 c6 9. Bc4 e6 10. O-O Be7 11. g5 Nd5 12. Nxd5 exd5 13. Bd3 Bxd3 14. Nxf7 O-O
 dxc6 bxc6 34. Rc1 Ra5 35. a3 Rb5 36. Rxc6 Rxb2 37. Rxg6+ Kf7 38. Ra6 Ke7 39.
 Rxa7+ Kd6 40. Kf4 Rd2 41. Ke4 Kc6 42. Ke3 Rd1 43. Ke2 Rd4 44. Rh7 Kb5 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "4.5"]
 [White "Kettunen, Matti"]
 [Black "Rantanen, Matti"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B12"]
 [PlyCount "62"]
 
@@ -625,13 +661,14 @@ Bxh5 Rxh5 16. O-O-O Qc7 17. Qg4 O-O-O 18. Rh3 Kb8 19. Nb1 Bxg5 20. hxg5 Rxh3
 21. Qxh3 Rc8 22. Rd3 Qc4 23. b3 Qc5 24. Kb2 Ne7 25. Na3 b5 26. Qh7 b4 27. Nb1
 Nf5 28. Nxf5 Qxc2+ 29. Ka1 Qxd3 30. Qh1 gxf5 31. Qg1 Rc2 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "5.5"]
 [White "Järvinen, Seppo"]
 [Black "Kemppinen, Juha"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B00"]
 [PlyCount "86"]
 
@@ -643,13 +680,14 @@ bxc5 22. b3 Qe6 23. Ng3 Ne7 24. Rad1 Rad8 25. Rd2 Nc6 26. Re1 Qf7 27. Qc3 h5
 Bxd4 cxd4 35. Nxh5 Nxh5 36. Qxh5+ Kg8 37. Re4 Qxb4 38. Rd1 Qb2 39. Rf1 Qc2 40.
 Rh4 Qf5 41. Qd1 Rb7 42. Qa4 Rb2 43. f3 Qc2 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "6.5"]
 [White "Korhonen, Marko"]
 [Black "Joutsivuo, Timo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B19"]
 [PlyCount "105"]
 
@@ -663,13 +701,14 @@ a4 b5 41. Rc6 Ke7 42. axb5 Rd7 43. b6 Rd8 44. b7 Rb8 45. Re6+ Kf7 46. Rb6 Ke7
 47. h5 Kf7 48. f3 gxh5 49. Kf5 Ke7 50. d6+ Kf7 51. Rb5 h4 52. gxh4 h5 53. Rc5
 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "7.5"]
 [White "Siikonen, Timo"]
 [Black "Rinkinen, Simo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C53"]
 [PlyCount "88"]
 
@@ -681,13 +720,14 @@ Bxe3 21. Qxe3 c6 22. Rd2 Kf8 23. h3 Rxd2 24. Qxd2 Ke8 25. Qe3 b6 26. Qd3 Qe6
 Qd6 34. Qe2 g6 35. Kh2 h5 36. Qa6 Qd7 37. Qe2 Kd8 38. Qe3 Kc7 39. Qg5 Qe6 40.
 Qd2 Qb3 41. Kg1 Qa2 42. f3 Qc4 43. Kf2 Qc5+ 44. Qe3 Qb5 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2000.01.15"]
 [Round "8.5"]
 [White "Vanttaja, Ilkka"]
 [Black "Piippo, Mikko"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B22"]
 [PlyCount "57"]
 
@@ -697,13 +737,14 @@ Qd7 15. Bg5 Nd5 16. Rad1 Qc7 17. Qg4 Be7 18. Bxe7 Qxe7 19. Rd2 f5 20. Qa4 Nb6
 21. Qb3 c5 22. Re1 c4 23. Qb5 Rc5 24. Qb4 e5 25. Bd1 Qc7 26. Bc2 Nd5 27. Qa3
 Nf4 28. b3 Nd5 29. bxc4 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "1.6"]
 [White "Clarke, Tom"]
 [Black "Haapaniemi, Arto"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D00"]
 [PlyCount "85"]
 
@@ -715,13 +756,14 @@ Qe6 21. Qxe6 fxe6 22. Rc7 Bg7 23. Rxb7 f5 24. Nc7 Rh6 25. Nxb5 a6 26. Nd6 f4
 33. Ne4 Rf7 34. Rf4 Rxf4 35. exf4 a5 36. Kg2 Nd4 37. Rb1 Ba3 38. Rb7 Be7 39. h5
 a4 40. h6 Nf5 41. h7 Nh4+ 42. Kh3 Ng6 43. f5 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "2.6"]
 [White "Rönnqvist, Timo"]
 [Black "Kauppala, Pekka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "48"]
 
@@ -730,13 +772,14 @@ f6 9. Nxh7 Bf5 10. Nxf8 fxe5 11. fxe5 Nxe5 12. d4 cxd4 13. Bf4 Nc6 14. g4 Nxg4
 15. hxg4 Rxh1 16. gxf5 Rxf8 17. Qc2 e5 18. Bg3 e4 19. Qg2 Qb5 20. Qxh1 Qxb2 21.
 Qh3 Qxa1 22. f6+ Kd8 23. fxg7 Qxb1+ 24. Kd2 e3+ 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "3.6"]
 [White "Lehto, Arto"]
 [Black "Kiili, Markus"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "E71"]
 [PlyCount "129"]
 
@@ -752,13 +795,14 @@ axb5 Kxd5 54. Kf6 Kd4 55. Ke6 d5 56. Kd7 Kc3 57. Bd1 d4 58. Kc6 Na5+ 59. Kxc5
 d3 60. b6 Nb7+ 61. Kc6 Na5+ 62. Kc7 Kd2 63. Bh5 Kc3 64. b7 Nxb7 65. Kxb7
 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "4.6"]
 [White "Mattsson, Esa"]
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A32"]
 [PlyCount "108"]
 
@@ -772,13 +816,14 @@ Bf8 g5 41. f3 Bc6 42. e4 Ke6 43. Kh2 h5 44. Ba3 g4 45. hxg4 hxg4 46. Rc8 Rxb6
 47. Bc5 Ra6 48. Rc7 Bd7 49. Rb7 gxf3 50. gxf3 Rc6 51. Bb4 Rc8 52. Kg3 Rg8+ 53.
 Kf2 Rg7 54. Ke3 Rg2 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "5.6"]
 [White "Rantanen, Matti"]
 [Black "Hyvärinen, Juha"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D45"]
 [PlyCount "73"]
 
@@ -789,13 +834,14 @@ Ne5 Bxe5 22. dxe5 Bxf5 23. Qxf5 g6 24. Qf3 Kg7 25. e6 Rhf8 26. Bc3+ Kh7 27. e7
 Nxe7 28. Be5 Qd7 29. Qf6 Nf5 30. g4 Rg8 31. Rad1 Qe8 32. gxf5 gxf5+ 33. Kh2 Qe6
 34. Qxe6 fxe6 35. Rd7+ Kh6 36. Bf4+ Kg6 37. Rxe6# 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "6.6"]
 [White "Siltanen, Jussi"]
 [Black "Järvinen, Seppo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B06"]
 [PlyCount "105"]
 
@@ -809,13 +855,14 @@ b6 40. Bxc6 Rc7 41. Kd5 Nf5 42. Re6+ Kg5 43. b4 Rg7 44. Kc4 Kf4 45. Rf6 Kg5 46.
 Rf8 Re7 47. Rb8 Kf4 48. Rb7 Re6 49. b5 Rd6 50. Rxa7 Rxd4+ 51. Kc3 Ra4 52. Rf7
 Ke5 53. a7 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "7.6"]
 [White "Joutsivuo, Timo"]
 [Black "Haapaniemi, Juha"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "E81"]
 [PlyCount "116"]
 
@@ -830,13 +877,14 @@ a4 Kd6 47. axb5 axb5 48. Ke4 g5 49. b4 Nd8 50. Kd4 Nc6+ 51. Kc3 Ne5 52. Nd2
 Bxd2+ 53. Kxd2 Nxf3+ 54. Ke3 Ne5 55. Ke4 Nc6 56. Kf5 Nxb4 57. Kxg5 Kd5 58. Kf4
 Kd4 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Vantaa FIN"]
 [Date "2000.02.12"]
 [Round "8.6"]
 [White "Oksanen, Juha"]
 [Black "Rautio, Reijo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "C45"]
 [PlyCount "48"]
 
@@ -845,13 +893,14 @@ Kd4 0-1
 Qe5 Rfe8 15. Qg3 Qc5 16. Rdf1 Ng4 17. Rf3 Ne5 18. Rf4 b5 19. Kb1 a5 20. Ne2 a4
 21. Nd4 a3 22. Nxe6 Rxe6 23. b3 Qc3 24. Kc1 Nxd3+ 0-1
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "1.7"]
 [White "Lako, Mika"]
 [Black "Clarke, Tom"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A80"]
 [PlyCount "57"]
 
@@ -861,13 +910,14 @@ Bf4 O-O 16. Nc5 Rb5 17. Bd6 Bxc5 18. Bxc5 Be4 19. Qc1 d6 20. Ba3 Nc6 21. Rd1
 Nb4 22. Nd4 Bxg2 23. Nxb5 axb5 24. Kxg2 Nbd5 25. h3 Qa8 26. Kg1 Rc8 27. Qg5 b4
 28. Bxb4 Nxb4 29. Rxd6 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "2.7"]
 [White "Kauppala, Pekka"]
 [Black "Lehto, Antti"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A00"]
 [PlyCount "61"]
 
@@ -877,13 +927,14 @@ Kh1 Bg7 16. f5 b4 17. Nd5 e6 18. Ne3 Bf6 19. Nc4 Ne5 20. g5 Bxg5 21. Bxg5 Qxg5
 22. Nxe5 dxe5 23. f6 Bb7 24. Qf2 Rfc8 25. Ra7 Qh6 26. b3 Qf8 27. Qg3 Qd6 28. h4
 h6 29. Bh3 Kh7 30. Kh2 Rc7 31. Rfa1 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "3.7"]
 [White "Uimonen, Matti"]
 [Black "Lehto, Arto"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D60"]
 [PlyCount "92"]
 
@@ -895,13 +946,14 @@ Qd6 29. dxe5 Qxe5 30. Qxe5 fxe5 31. Re3 Nc5 32. Rd2 Kf7 33. Kf2 Rad7 34. Kf3 g5
 35. fxg6+ Kxg6 36. Ne7+ Kg5 37. Rxd7 Rxd7 38. Nd5 h4 39. Re2 Rf7+ 40. Ke3 Rf1
 41. h3 Rd1 42. Nb4 Rc1 43. Kd2 Ra1 44. Ke3 Rc1 45. Kd2 Ra1 46. Ke3 Rc1 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "4.7"]
 [White "Heikkinen, Jyrki"]
 [Black "Sahlberg, Erkki"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C00"]
 [PlyCount "77"]
 
@@ -913,13 +965,14 @@ Bf8 g6 27. Kd2 e5 28. Ke3 Ke6 29. b4 Kf5 30. Bd6 Bf1 31. c5 bxc5 32. Bxc5 a6
 33. Be7 h6 34. a4 g5 35. hxg5 hxg5 36. Bd8 Bc4 37. Be7 Bd5 38. b5 axb5 39. axb5
 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "5.7"]
 [White "Mäkinen, Ilkka"]
 [Black "Rantanen, Matti"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B12"]
 [PlyCount "54"]
 
@@ -929,13 +982,14 @@ Qxc5 16. Bd3 Bxd3 17. Qxd3 Rc8 18. Rh4 Nc6 19. Rg4 Qb5 20. Ne2 Qxd3 21. cxd3
 Rg8 22. Kd2 Bc5 23. d4 Be7 24. f4 g5 25. hxg6 Rxg6 26. Rxg6 fxg6 27. g3 Kf7
 1/2-1/2
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "6.7"]
 [White "Järvinen, Seppo"]
 [Black "Turtiainen, Tauno"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B08"]
 [PlyCount "121"]
 
@@ -950,13 +1004,14 @@ Re8 47. Rh8+ Ke7 48. Rxe8+ Rxe8 49. Rd4 Ke6 50. b6 Rb8 51. Kc3 f5 52. b5 f6 53.
 Ra4 Ke5 54. Kd3 f4 55. Ra7 f3 56. Ke3 d4+ 57. Kxf3 Kd5 58. Rc7 Kc4 59. b7 d3
 60. c6 Kxb5 61. Ke3 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "7.7"]
 [White "Sanjola, Hannu"]
 [Black "Joutsivuo, Timo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C10"]
 [PlyCount "49"]
 
@@ -965,13 +1020,14 @@ O-O Nc6 9. Re1 Bd7 10. c3 O-O-O 11. b4 g5 12. b5 Ne7 13. c4 Ng6 14. Be3 Bf4 15.
 Qa4 Kb8 16. c5 Ne7 17. Rab1 g4 18. Ne5 Bxe3 19. fxe3 Ka8 20. Nxd7 Rxd7 21. b6
 Nc6 22. Bb5 cxb6 23. cxb6 a6 24. Bxc6 Rd6 25. Qxa6+ 1-0
 
-[Event "I Division (Group A)"]
-[Site "Ch Finland Team 99/00"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.03.11"]
 [Round "8.7"]
 [White "Rautio, Reijo"]
 [Black "Sneitz, Åke"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C10"]
 [PlyCount "73"]
 
@@ -982,13 +1038,14 @@ Nf1 Bxd3 23. Qxd3 f5 24. exf6 Bxf6 25. Ne3 Re7 26. Ng4 Bg7 27. e5 Rh5 28. Rab1
 Rf5 29. Rec1 Nd7 30. Qd2 c5 31. axb4 cxb4 32. Nf4 Kf7 33. Ra1 Qb5 34. Nd3 b3
 35. cxb3 axb3 36. Rc7 Qb6 37. Qc3 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "1.1"]
 [White "Holopainen, Timo"]
 [Black "Kauppala, Pekka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B13"]
 [PlyCount "84"]
 
@@ -1000,13 +1057,14 @@ Bxf5 28. Nxf5 gxf5 29. d7 Rd8 30. Qh4 Rxd7 31. Qxh7 Rd5 32. Rc8+ Ke7 33. Qg8
 Rd8 34. Rxd8 Qxd8 35. Qxd8+ Kxd8 36. g3 Re3 37. a4 bxa4 38. Rd1+ Ke7 39. Rd5 a3
 40. Ra5 Bd6 41. Rxa6 Bxb4 42. Ra4 Re2 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "2.1"]
 [White "Lehto, Arto"]
 [Black "Toivonen, Aulis"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D52"]
 [PlyCount "98"]
 
@@ -1019,13 +1077,14 @@ Qc6 34. a5 Ke6 35. Qb8 Qc1+ 36. Kh2 Qc6 37. g4 hxg4 38. hxg4 Kf7 39. Qd6 Qb5
 40. Qc5 Qd7 41. Qc4 Qe6 42. Kg3 g5 43. Qc5 Qd7 44. Bb8 Ke6 45. Qc2 Ne7 46. Qe4+
 Kf7 47. Qh7+ Kf8 48. Be5 Qb5 49. Bd6 Qd3+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "3.1"]
 [White "Pihlajamäki, Antti"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "80"]
 
@@ -1037,13 +1096,14 @@ Nxe6 22. Rd1 Qc7 23. fxg4 hxg4 24. Qf2 Ng6 25. Rfe1 Be7 26. Ne2 Nh4 27. Kh1 Nf3
 Rd7 34. Qxe1 Qxf4 35. Bxd7+ Kxd7 36. Qd1+ Kc8 37. Bb6 Rh8 38. Qe2 g3 39. a6
 Qc1+ 40. Kg2 Rxh2+ 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "4.1"]
 [White "Joutsivuo, Timo"]
 [Black "Niemelä, Tuomas"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "E83"]
 [PlyCount "86"]
 
@@ -1055,13 +1115,14 @@ Bc6 28. Bh4 Re2 29. Bf2 Bd4 30. g4 h6 31. Bd3 Rd2 32. Bb1 Bxf2+ 33. Rxf2 Rd1+
 34. Rf1 Rxf1+ 35. Kxf1 Bf3 36. Kf2 Bxg4 37. Be4 Kf6 38. Ke3 Bxf5 39. Bc6 Ke5
 40. Be8 Be6 41. Kd3 Bg4 42. Kc3 h5 43. Bc6 h4 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "5.1"]
 [White "Tiihonen, Ilpo"]
 [Black "Rantanen, Matti"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D52"]
 [PlyCount "72"]
 
@@ -1072,13 +1133,14 @@ Ng3 cxd4 22. Rxe4 d3 23. Qb3 d2+ 24. Kb1 Rd7 25. Rd1 Rcd8 26. Ne2 Qf5 27. Nc3
 Ne6 28. Qc2 Qxf2 29. Nd5 Rxd5 30. cxd5 Rxd5 31. Qc8+ Rd8 32. Qc2 Qe2 33. a3 Bc5
 34. Rc4 Bxe3 35. Rc8 Qxd1+ 36. Qxd1 Rxc8 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "6.1"]
 [White "Rautio, Reijo"]
 [Black "Ripatti, Markku"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "62"]
 
@@ -1088,13 +1150,14 @@ Qe2 Be7 9. Ne5 O-O 10. g4 b5 11. Bd3 Nfd7 12. g5 Nxe5 13. dxe5 Nd7 14. f4 Nc5
 Bc5 22. Be3 Bxe3 23. Qxe3 Rfd8 24. Qe2 Rd4 25. Rd1 Rad8 26. Rxd4 Rxd4 27. Qe3
 Qb6 28. h4 c3 29. b3 Kf8 30. h5 Bd5 31. Rg4 Re4 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "7.1"]
 [White "Kärenlampi, Pirkka"]
 [Black "Kohvakka, Raimo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B02"]
 [PlyCount "114"]
 
@@ -1108,13 +1171,14 @@ Kc3 Kc5 42. h4 d4+ 43. Kd2 Kb4 44. Bd1 a6 45. g5 hxg5 46. hxg5 Bxf5 47. gxf6
 gxf6 48. Rf3 Rd5 49. Rf4 Kc5 50. Bf3 Re5 51. Bb7 a5 52. Bf3 Bd7 53. Rxf6 Bxa4
 54. Rf8 Kb4 55. Rf4 d3 56. Rd4 b5 57. Bd5 Kc5 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.09.23"]
 [Round "8.1"]
 [White "Turtiainen, Kimmo"]
 [Black "Jalo, Pentti"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B23"]
 [PlyCount "114"]
 
@@ -1128,13 +1192,14 @@ Qd1 Qf2 42. Qd3 Qe1+ 43. Kh2 Qf2 44. Bd1 g5 45. Qf3 Qd2 46. Be2 Be6 47. Bd3
 Qf4+ 48. Qxf4 gxf4 49. Kg1 Kf6 50. Kf2 Ke5 51. Kf3 Bd7 52. Ke2 Be8 53. Kf3 Bh5+
 54. Kf2 Bd1 55. Be2 Bxb3 56. Kf3 Bc2 57. Kg4 b3 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "1.2"]
 [White "Vooremaa, Andres"]
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A07"]
 [PlyCount "73"]
 
@@ -1145,13 +1210,14 @@ Bxc4 16. dxc4 d3 17. Nf3 Rc8 18. c3 Qc7 19. Be3 Rfd8 20. Nd2 exf4 21. gxf4 g5
 Rc1 Qb4 29. Bc5 Qxb5 30. Bxd6 Rxd6 31. Rc8+ Bf8 32. Qa1 Ra6 33. Qa4 Qb7 34. Qe8
 a4 35. bxa4 Rxa4 36. Qxa4 Qxc8 37. Bxc8 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "2.2"]
 [White "Lehto, Arto"]
 [Black "Pitkänen, Sami"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "E33"]
 [PlyCount "76"]
 
@@ -1162,13 +1228,14 @@ Nxg5 hxg5 16. d5 Ne7 17. Qd2 g4 18. hxg4 Qh4+ 19. Kg1 Bxg4 20. f3 Bd7 21. c5 f5
 28. c4 Rec7 29. Qb4 Qf6 30. a4 Qg6 31. Rae1 Rf7 32. Rg4 Qh6 33. Ree4 Rfc7 34.
 Rh4 Qf6 35. Rhg4 Qh6 36. Rh4 Qf6 37. Rhg4 b6 38. Rh4 Rc5 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "3.2"]
 [White "Nippula, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "E76"]
 [PlyCount "51"]
 
@@ -1177,13 +1244,14 @@ Nh5 9. Nf3 f5 10. Be3 Qe7 11. Qb3 Nf4 12. Bxf4 exf4 13. e5 Bxe5 14. O-O-O Bg7
 15. d6 Qe3+ 16. Kb1 Bxc3 17. c5+ Be6 18. Qxc3 cxd6 19. Rhe1 Qxc5 20. Rxe6 Qxc3
 21. bxc3 Nd7 22. Rxd6 Nf6 23. Ng5 Rac8 24. Ne6 Rf7 25. Bc4 h6 26. Rd8+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "4.2"]
 [White "Rantanen, Matti"]
 [Black "Tuomala, Tapio"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D55"]
 [PlyCount "95"]
 
@@ -1196,13 +1264,14 @@ Bxf5 29. Nxf5 Re6 30. Qf3 Qc8 31. Qxd5 Nb6 32. Qf3 Kf8 33. d5 Re5 34. d6 Ra7
 41. Bb5 Bh4 42. Bxd7 Ra2 43. Qxc5 Bxf2+ 44. Kh1 Qg3 45. Qd4+ f6 46. Qg4+ Qxg4
 47. Bxg4 h5 48. Bh3 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "5.2"]
 [White "Toikka, Jussi"]
 [Black "Rautio, Reijo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D69"]
 [PlyCount "60"]
 
@@ -1212,13 +1281,14 @@ Qxe5 15. f4 Qf5 16. Bd3 Qd5 17. Qc2 Qh5 18. f5 f6 19. Bc4+ Kh8 20. e4 Rd8 21.
 Rh3 Qg5 22. Rd1 Bd7 23. Rhd3 b5 24. Bb3 a5 25. Rxd7 Rxd7 26. Rxd7 Qe3+ 27. Qf2
 Qxe4 28. Qd2 Re8 29. Be6 h6 30. Rd8 Rxd8 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "6.2"]
 [White "Järvinen, Seppo"]
 [Black "Johansson, Jukka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B51"]
 [PlyCount "38"]
 
@@ -1226,13 +1296,14 @@ Qxe4 28. Qd2 Re8 29. Be6 h6 30. Rd8 Rxd8 1-0
 Re1 Qc7 9. Nc3 Be7 10. Bb3 Nc5 11. Re3 O-O 12. Qe2 b5 13. h3 Rd8 14. Nf3 b4 15.
 Na4 Nxb3 16. cxb3 Bd7 17. Bd2 Qb7 18. Rc1 Bc6 19. Bxb4 Bxa4 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "7.2"]
 [White "Mujunen, Martti"]
 [Black "Siikonen, Timo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C00"]
 [PlyCount "55"]
 
@@ -1242,13 +1313,14 @@ O-O-O 15. g4 Ng7 16. Bxa7 Bc6 17. Bd4 b6 18. f5 gxf5 19. gxf5 h6 20. f6 Nf5 21.
 Rdf1 Bd7 22. b4 Rhg8 23. Rhg1 Kb7 24. Bxf5 exf5 25. Rg7 Be6 26. Rfg1 Rh8 27.
 Be3 Kc6 28. Kb2 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.10.21"]
 [Round "8.2"]
 [White "Kohvakka, Raimo"]
 [Black "Haimi, Aleksander"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "C00"]
 [PlyCount "54"]
 
@@ -1258,13 +1330,14 @@ Ng4 9. c4 Nd7 10. Nh4 Ngxe5 11. Bxa8 Qxa8 12. O-O Bb7 13. f3 g5 14. Ng2 Bc5+
 21. Rxf3 h4 22. g4 Rg8 23. h3 f5 24. g5 e5 25. b4 Bd4 26. Bxe5 Rxg5+ 27. Kf1
 Rg1+ 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "1.3"]
 [White "Nivala, Tuomas"]
 [Black "Kauppala, Pekka"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B12"]
 [PlyCount "79"]
 
@@ -1276,13 +1349,14 @@ Nxd4 Nxd4 28. Kc3 Nf3 29. h4 Ne5 30. Kd4 Nxc4 31. Kxc4 Bf5 32. e7 Be6+ 33. Kd4
 Re8 34. Ke5 Bxa2 35. Ra1 Bf7 36. Rxa7 h6 37. Rd7 hxg5 38. hxg5 Kh7 39. Kf5 Bh5
 40. Rd8 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "2.3"]
 [White "Lehto, Arto"]
 [Black "Turunen, Markus"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D14"]
 [PlyCount "70"]
 
@@ -1293,13 +1367,14 @@ Rxc6 Rxc6 22. Rxc6 Qxc6 23. Qc3 Qxc3 24. Nxc3 Kf8 25. Kf1 Ke8 26. Bxd6 Bxd6 27.
 Ke2 Kd7 28. Kd3 Kc6 29. f3 a6 30. e4 Be7 31. a4 g6 32. g4 Ba3 33. Ne2 Bd6 34.
 Nc3 Ba3 35. Ne2 Bd6 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "3.3"]
 [White "Törnroos, Jukka"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "A48"]
 [PlyCount "108"]
 
@@ -1313,13 +1388,14 @@ bxa4 f5 34. Be2 h5 35. Kf3 h4 36. gxh4 Bxh2 37. Bc4 Kf7 38. Kg2 Bc7 39. Be2 e5
 gxh5 47. Bxh5 Kf5 48. Bg4+ Kg5 49. Bd7 Bc7+ 50. Kf2 Kf4 51. Bb5 e3+ 52. Kf1 Ba5
 53. Kg1 e2 54. Kh2 e1=Q 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "4.3"]
 [White "Rantanen, Matti"]
 [Black "Sieviläinen, Tuomo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "E17"]
 [PlyCount "63"]
 
@@ -1329,13 +1405,14 @@ Bb2 Qc8 16. Ne2 dxc4 17. bxc4 Bxg2 18. Kxg2 Qb7+ 19. e4 a6 20. Bc3 Qc6 21. f3
 Rxd1 22. Rxd1 Rd8 23. Rb1 g6 24. h4 h5 25. Nf4 b5 26. Nd5 Nxd5 27. exd5 exd5
 28. cxd5 Qxd5 29. e6 Qxe6 30. Re1 Qd7 31. Qe4 Bd6 32. Qe3 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "5.3"]
 [White "Juurikainen, Juha-Matti"]
 [Black "Joutsivuo, Timo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A08"]
 [PlyCount "71"]
 
@@ -1346,13 +1423,14 @@ Rd1 Rxd1+ 22. Nxd1 Bb6 23. c4 b4 24. b3 Nc6 25. Ne1 Nd4 26. Nd3 Kf7 27. Kg2 Ke7
 28. N1b2 Kd6 29. Na4 Ba7 30. f4 exf4 31. gxf4 Ne2 32. Kf3 Nd4+ 33. Kg3 Ne2+ 34.
 Kg4 Nc3 35. Nxc3 bxc3 36. Ne1 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "6.3"]
 [White "Rautio, Reijo"]
 [Black "Turunen, Tuomo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B06"]
 [PlyCount "87"]
 
@@ -1364,13 +1442,14 @@ cxd4 9. cxd4 e5 10. f5 exd4 11. fxg6 hxg6 12. Nbd2 Ne5 13. Bb1 Nfg4 14. Nb3 Nc4
 Rb1 Ra4 34. Nc5 Rc4 35. Rxb5 Kg6 36. Kf2 Kh5 37. Nd3 Rc2+ 38. Ke3 Kg4 39. Nxe5+
 Kxg3 40. Nd3 Rc3 41. Rg5+ Kh4 42. Rg8 Kh5 43. e5 Rc6 44. Kd4 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "7.3"]
 [White "Arppi, Heikki"]
 [Black "Järvinen, Seppo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B08"]
 [PlyCount "113"]
 
@@ -1384,13 +1463,14 @@ Kxe5 41. Rxa7 Rh3 42. Kg2 Kf4 43. Ra4 Ke3 44. Rxh2 Rxh2+ 45. Kxh2 d3 46. Ra3
 Kxf3 47. b4 Ke4 48. Ra8 Be6 49. Re8 Ke5 50. Rd8 Bd5 51. Re8+ Kd4 52. Re1 d2 53.
 Rd1 Kc3 54. Kg3 Kc2 55. Rxd2+ Kxd2 56. Kf4 Kc3 57. Kg5 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2000.11.18"]
 [Round "8.3"]
 [White "Siikonen, Timo"]
 [Black "Juntunen, Reijo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B21"]
 [PlyCount "109"]
 
@@ -1404,13 +1484,14 @@ Be5 40. h3 gxh3 41. gxh3 Kb6 42. Kc4 Ka5 43. Kb3 Kb6 44. Kb4 f5 45. a5+ Ka7 46.
 Bxh4 f4 47. Bf2+ Ka8 48. b6 f3 49. Kb5 Kb7 50. a6+ Ka8 51. Kc6 Bg3 52. Bxg3 f2
 53. Bxf2 Kb8 54. h4 Ka8 55. h5 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "1.4"]
 [White "Heikkinen, Jyrki"]
 [Black "Äijälä, Jouko"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D00"]
 [PlyCount "69"]
 
@@ -1421,13 +1502,14 @@ Rd3 Rf8 21. Rc3 Bd4 22. Rxc6+ Kd7 23. Rc4 Rb8 24. Rb1 g5 25. b3 Rb7 26. Rd1 Ke7
 27. Rcxd4 exd4 28. Rxd4 Ke6 29. Rd5 h6 30. c4 Rf7 31. c5 Rc7 32. b4 Rb7 33. a3
 a5 34. c6 Rc7 35. b5 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "2.4"]
 [White "Joentausta, Hannu"]
 [Black "Joutsivuo, Timo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C17"]
 [PlyCount "99"]
 
@@ -1440,13 +1522,14 @@ Rh3 35. Kf2 Qg8 36. Qe7 Kh7 37. Qg5 Qxg5 38. fxg5 Bd7 39. Rb7 Be8 40. Re7 Ba4
 41. Rxf7+ Kg6 42. Nf4+ Kxf7 43. Nxh3 Ke7 44. Ke3 Be8 45. Kd2 Kd8 46. Kc1 Kc7
 47. Kb2 Kb6 48. Ka3 Ka5 49. Nf4 Bf7 50. g6 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "3.4"]
 [White "Rantanen, Matti"]
 [Black "Pitkänen, Jorma"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "D73"]
 [PlyCount "105"]
 
@@ -1460,13 +1543,14 @@ Qd1+ 35. Kh2 Bd5 36. Bxd5 Qxd5 37. f5 Kf8 38. e6 fxe6 39. fxe6 Ke7 40. Qh6 Qd6+
 47. Qa8+ Ke3 48. Qe8+ Kd2 49. c4 Kd3 50. Qb5 Ke2 51. Qe8+ Kd3 52. Qb5 Ke2 53.
 Qe8+ 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "4.4"]
 [White "Tikander, Timo"]
 [Black "Rautio, Reijo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D02"]
 [PlyCount "83"]
 
@@ -1478,13 +1562,14 @@ Bxd5 exd5 29. h4 Bc8 30. Rd3 Bxd6 31. Rxb3 Rc1 32. Qxc1 Qxb3 33. Qxc8+ Bf8 34.
 e6 fxe6 35. Bd6 h5 36. Qxe6+ Kh8 37. Qxg6 Bxd6 38. Qxd6 Qxb2 39. Qf8+ Kh7 40.
 Kh2 Qb6 41. Qf5+ g6 42. Ng5+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "5.4"]
 [White "Siikonen, Timo"]
 [Black "Paananen, Kauko"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "C14"]
 [PlyCount "61"]
 
@@ -1494,13 +1579,14 @@ Bxa4 16. h3 c6 17. Nh2 h5 18. Nf3 Nc8 19. Qf2 Bb5 20. Ne1 Nb6 21. Qd2 Bxd3 22.
 Nxd3 Nc4 23. Qe2 b5 24. c3 a5 25. Nb2 Nxb2 26. Qxb2 a4 27. Qf2 Kd7 28. Qg3 Rag8
 29. Qg5 h4 30. Qxe7+ Kxe7 31. Rf3 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "6.4"]
 [White "Vehkalahti, Veli"]
 [Black "Kohvakka, Raimo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A46"]
 [PlyCount "98"]
 
@@ -1513,13 +1599,14 @@ N7xe6 Rxc3 28. Rxc3 Nxc3 29. Nxf8 Kxf8 30. Ne6+ Kf7 31. Nf4 Nxa2 32. Nxd5 b5
 a5 40. g4+ Kf6 41. Nc5 Nf4 42. Kc3 b2 43. Kxb2 Ng2 44. Ne4+ Kg7 45. h5 gxh5 46.
 gxh5 Nf4 47. Kb3 Nxh5 48. Ka4 Kg6 49. Kxa5 Kf5 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "7.4"]
 [White "Turtiainen, Kimmo"]
 [Black "Pärnänen, Hannu"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B23"]
 [PlyCount "113"]
 
@@ -1533,13 +1620,14 @@ Nce7 42. Ng3 Nxc3 43. Qxc3 Nd5 44. Qc1 Nxb4 45. Qe3 Nd5 46. Qf2 c3 47. Rb3 b4
 48. f5 exf5 49. Rbb1 Qe7 50. Nhxf5 gxf5 51. Qxf5 Ne3 52. Qf6+ Qxf6 53. Rxf6 c2
 54. Rc1 b3 55. Rb6 Ba3 56. Rxb3 Bxc1 57. Ne2 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
 [Date "2000.11.19"]
 [Round "8.4"]
 [White "Seppälä, Tero"]
 [Black "Kauppinen, Janne"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "C75"]
 [PlyCount "147"]
 
@@ -1556,13 +1644,14 @@ Bb2 Nd7 48. Rc6 Kh7 49. Nc3 Nd4 50. Rc7 Rd8 51. Nd5 Ne6 52. Rb7 Bg5 53. h4 Bh6
 Ke3 f5 67. Nd4+ Ke5 68. exf5 gxf5 69. a4 Kf6 70. Kf4 Ke7 71. a5 Kd7 72. h5 Kc7
 73. h6 Kb7 74. b5 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "1.5"]
 [White "Hurme, Harri"]
 [Black "Kauppala, Pekka"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A51"]
 [PlyCount "44"]
 
@@ -1571,13 +1660,14 @@ a3 Bxd2+ 9. Nxd2 Rd8 10. Be2 Qg6 11. O-O Nc6 12. Kh1 Be6 13. f3 Nxd2 14. Bxd2
 Na5 15. Rc1 b5 16. cxb5 Nb3 17. Rc2 Rd7 18. Rf2 Rad8 19. Bf1 Na1 20. Rc3 Nb3
 21. Rc2 Na1 22. Rc3 Nb3 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "2.5"]
 [White "Lehto, Arto"]
 [Black "Havansi, Erkki"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A88"]
 [PlyCount "85"]
 
@@ -1589,13 +1679,14 @@ Nxf3+ 22. Bxf3 Bxd4+ 23. Nxd4 Rxe1+ 24. Rxe1 Qxd4+ 25. Kh2 Nc5 26. Qd2 Qxd2+
 bxc6 bxc6 34. Nb3 Ke5 35. Kf1 Kd6 36. Ke2 Nc5 37. Nd4 Bd7 38. Ke3 h6 39. Bg2
 Na4 40. Bxc6 Bxc6 41. Nxf5+ Ke5 42. Nxh6 Bd7 43. h4 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "3.5"]
 [White "Saren, Ilkka"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "85"]
 
@@ -1607,13 +1698,14 @@ Rh5 g5 22. Rd3 Qf6 23. Nd7 Qg6 24. Nxf8 Bxf8 25. g4 Rd8 26. b4 Bg7 27. Qd2 h6
 Rd2 Qe4 35. Rfd3 Qf4 36. Qf3 Qxf3 37. Rxf3 Bxd4 38. Kg2 Rd6 39. Rc3 Bxc3 40.
 Rxd6 a5 41. Rd8+ Kg7 42. bxa5 Bxa5 43. Rb8 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "4.5"]
 [White "Joutsivuo, Timo"]
 [Black "Aakio, Seppo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D10"]
 [PlyCount "120"]
 
@@ -1628,13 +1720,14 @@ Bc3 g6 48. Ng4 h5 49. Ne5+ Kd6 50. Kf2 Be6 51. Nd3 Bd5 52. Nc5 Bc6 53. Ke3 Bg5+
 54. Kd3 Kd5 55. Ke2 Kc4 56. Kf2 Bc1 57. Ke2 g5 58. Kd1 Be3 59. Na6 Bf2 60. Nb4
 Bf3+ 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "5.5"]
 [White "Lehti, Juhani"]
 [Black "Rantanen, Matti"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B15"]
 [PlyCount "137"]
 
@@ -1650,13 +1743,14 @@ Kg6 47. Bb7 Kh5 48. Bc8 Kg6 49. Kf3 Bb6 50. Ke2 Ba7 51. Kd3 Kh5 52. Bxf5 Kh4
 Kxf4 60. Kg6 Ke5 61. Kxh6 Kf6 62. Kh7 Ke7 63. Bb5 Kf8 64. Bc4 Bd4 65. Kg6 Ke7
 66. h6 Kd6 67. h7 Kc7 68. Kf7 Kb6 69. Kg8 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "6.5"]
 [White "Rautio, Reijo"]
 [Black "Kullberg, Ari"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B99"]
 [PlyCount "90"]
 
@@ -1669,13 +1763,14 @@ Rxd5 Rd8 34. Bd3 Ng5 35. h4 Ngf7 36. a4 Rb8 37. axb5 axb5 38. g4 Ke6 39. Rc5
 Ne5 40. g5 Nxd3 41. cxd3 Rc8 42. b4 Rxc5 43. bxc5 Nf5 44. gxh6 gxh6 45. h5 Kd5
 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "7.5"]
 [White "Broman, Hannu"]
 [Black "Järvinen, Seppo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "E76"]
 [PlyCount "112"]
 
@@ -1689,13 +1784,14 @@ Rxf4 29. Bd2 Rxf1 30. Bxf1 d4 31. b4 Qe8 32. bxc5 Qf7 33. Bg2 Qf2 34. Qd1 d3
 Qxa6 Qd5 48. Qc4 Qxc4 49. Rxc4 e4 50. Kf2 Re6 51. Ke3 Ne8 52. Rxe4 Kf7 53. Be5
 Nf6 54. Bxf6 Rxe4+ 55. Kxe4 Kxf6 56. Kf4 g5+ 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.01.13"]
 [Round "8.5"]
 [White "Siikonen, Timo"]
 [Black "Ketola, Klaus"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B21"]
 [PlyCount "93"]
 
@@ -1708,13 +1804,14 @@ exf5 gxf5 22. Nxf5 Nxf5 23. Qxf5 Qxf5 24. Rxf5 Re7 25. Re2 Rxe2 26. Nxe2 Kg7
 Rh5+ Ke6 41. Rh6+ Kd7 42. Rh5 Rf7+ 43. Rf5 Rh7 44. Kg3 Ke6 45. Rg5 Rf7 46. Rg6+
 Kd7 47. d4 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "1.6"]
 [White "Clarke, Tom"]
 [Black "Harjula, Mika"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A45"]
 [PlyCount "135"]
 
@@ -1730,13 +1827,14 @@ b3 Rh2 47. g4 Rg2 48. Re4 Rg1 49. Kxb4 Kd5 50. Rc4 Kxe5 51. Kb5 Rd1 52. b4 Rd8
 Rc4 Rb1+ 60. Ka4 Ke5 61. Kb5 g5 62. Kc6 Rf1 63. b5 Rf6+ 64. Kc5 Rf8 65. b6 Rf1
 66. b7 Rf8 67. Kb6 Kd5 68. Rc5+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "2.6"]
 [White "Kemppinen, Juha"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "A51"]
 [PlyCount "66"]
 
@@ -1747,13 +1845,14 @@ Rc8 22. Rfc1 Kh8 23. Bf1 Bb7 24. Qd1 g5 25. hxg5 Qxg5 26. Bg2 Rg8 27. Qe2 Bxd5
 28. cxd5 Rxc1+ 29. Rxc1 f4 30. exf4 Qxg3 31. Kf1 Qxg2+ 32. Ke1 Nf3+ 33. Kd1
 Qg1+ 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "3.6"]
 [White "Joutsivuo, Timo"]
 [Black "Korhonen, Marko"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "E83"]
 [PlyCount "90"]
 
@@ -1765,13 +1864,14 @@ Nf4 22. Nf5 Be5 23. g3 Nh3+ 24. Kg2 Bxf5 25. exf5 g4 26. Qe2 Qg5 27. Qe4 Rb8
 Rxf6 Bxf6 35. Qg2 Qh6 36. Re1 Be5 37. Rd1 Qg6 38. Kf1 Nf3 39. Qe2 Qh6 40. Rb1
 Qh3+ 41. Qg2 Nd2+ 42. Kf2 Qxg2+ 43. Kxg2 Nxb1 44. h3 gxh3+ 45. Kxh3 d3 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "4.6"]
 [White "Kettunen, Matti"]
 [Black "Rantanen, Matti"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "96"]
 
@@ -1784,13 +1884,14 @@ Rd1 Qb6 34. h3 Kg7 35. Kh1 f4 36. Kg1 Re3 37. Qd2 g5 38. Qf2 Qe6 39. Rd2 Qe4
 40. Kh2 h5 41. Qf1 g4 42. Rd1 Re2 43. Kg1 gxh3 44. gxh3 f3 45. Kh1 Qf4 46. Qg1+
 Rg2 47. Qxg2+ fxg2+ 48. Kxg2 Qe4+ 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "5.6"]
 [White "Rautio, Reijo"]
 [Black "Niemelä, Tuomo"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B72"]
 [PlyCount "92"]
 
@@ -1802,13 +1903,14 @@ c3 g4 28. cxd4 gxh3 29. g4 Rf8 30. exd5 exd5 31. Ke2 cxd4 32. Rh1 Rh8 33. f4
 Rh4 34. Kf3 h2 35. Kg3 Rh8 36. g5 Ke6 37. Kg4 d3 38. f5+ Ke5 39. g6 Kf6 40. Kf3
 d4 41. Kf2 e6 42. fxe6 Kxg6 43. Ke1 Kf6 44. Kd2 Rh3 45. b4 Kxe6 46. a4 Kd5 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "6.6"]
 [White "Miettinen, Keijo"]
 [Black "Järvinen, Seppo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "B06"]
 [PlyCount "35"]
 
@@ -1816,13 +1918,14 @@ d4 41. Kf2 e6 42. fxe6 Kxg6 43. Ke1 Kf6 44. Kd2 Rh3 45. b4 Kxe6 46. a4 Kd5 0-1
 Bd4+ 9. Kh1 O-O 10. e5 Bxc3 11. bxc3 Bd7 12. Ng5 Nf5 13. Ne4 Bc6 14. Nf6+ Kg7
 15. Qe1 Nd7 16. Bxf5 Nxf6 17. exf6+ Qxf6 18. Be4 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "7.6"]
 [White "Siikonen, Timo"]
 [Black "Karstu, Timo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "94"]
 
@@ -1835,13 +1938,14 @@ b4 34. b3 Ra8 35. Rf3 Kf8 36. Kd3 Rb8 37. Rg3 Rd8+ 38. Ke4 Ke7 39. Rg8 Rf8 40.
 Rg3 Kxe6 41. Rg6+ Kxf7 42. Ra6 Ke7 43. Rxa5 Rf2 44. Rb5 Rxh2 45. Rxb4 h5 46.
 Rb5 h4 47. Rh5 Rb2 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Lappeenranta FIN"]
 [Date "2001.02.10"]
 [Round "8.6"]
 [White "Myyrä, Markku"]
 [Black "Kohvakka, Raimo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A16"]
 [PlyCount "95"]
 
@@ -1854,13 +1958,14 @@ Reb8 28. Ref1 R8b7 29. Qa4 Qe6 30. Qd1 Nf8 31. Rf4 f5 32. exf6 Qe3+ 33. Kh1 Rh7
 Qa7+ Ke6 41. Qa8 Rxb4 42. axb4 Qd2+ 43. Kh3 Nf2+ 44. Rxf2 Qxf2 45. Qxc6+ Kf7
 46. Qxd5+ Kf8 47. Qd8+ Kf7 48. Qe7+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "1.7"]
 [White "Clarke, Tom"]
 [Black "Molander, Riku"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "A45"]
 [PlyCount "129"]
 
@@ -1876,13 +1981,14 @@ Bd3 53. Kf4 Bb4 54. Bf6 Ke8 55. g4 Be4 56. g5 Kf7 57. Ke5 Bd2 58. g6+ Kg8 59.
 Bg5 Kg7 60. Ke6 Bb4 61. Bf4 Bf3 62. Be5+ Kh6 63. Kf6 Bg4 64. Bf4+ Kh5 65. g7
 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "2.7"]
 [White "Vatanski, Aleksander"]
 [Black "Kauppala, Pekka"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A00"]
 [PlyCount "131"]
 
@@ -1898,13 +2004,14 @@ Rxa5 Rxb3 54. Rh5 Nf5 55. Ke1 Ra3 56. Kd2 Rxa4 57. Kc2 Ra3 58. Kb2 Rc3 59. Rh8
 Nd4 60. h4 Rc2+ 61. Kb1 b3 62. h5 Kg5 63. h6 Rh2 64. h7 Kg6 65. Rd8 Rxh7 66.
 Rxd4 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "3.7"]
 [White "Lehto, Arto"]
 [Black "Korhonen, Pasi"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A58"]
 [PlyCount "161"]
 
@@ -1922,13 +2029,14 @@ Nb5 Rd2+ 66. Kg3 Rd3+ 67. Kf2 Ke4 68. Nxd6+ Rxd6 69. Rh8 Rd2+ 70. Ke1 Rd6 71.
 Ra8 Ke3 72. Ra3+ Nd3+ 73. Kf1 Rf6+ 74. Kg2 Rg6+ 75. Kf1 Ke4 76. Ra4+ Kf3 77.
 Ra3 Ke3 78. Rb3 Rg3 79. Ra3 Rg6 80. Rb3 Ke4 81. Ra3 1/2-1/2
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "4.7"]
 [White "Lehtisalo, Marko"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B01"]
 [PlyCount "120"]
 
@@ -1943,13 +2051,14 @@ f4 47. Rb2 Kf6 48. Re2 a5 49. bxa5 Rxa5 50. Rb2 g5 51. Ke2 Ke5 52. Rb4 Kd5 53.
 h4 Kc5 54. Re4 Ra2+ 55. Ke1 gxh4 56. Rxf4 h3 57. Rh4 h2 58. Kf1 b4 59. f4 b3
 60. f5 b2 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "5.7"]
 [White "Rantanen, Matti"]
 [Black "Hytönen, Harri"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "D18"]
 [PlyCount "124"]
 
@@ -1964,13 +2073,14 @@ Ng6 41. Ng2 Nf8 42. f4 Nd7 43. f5 Kf8 44. Nf4 Nxf4+ 45. Bxf4 Kg8 46. g5 hxg5
 Ke4 Rc4 54. Rxa7+ Kg6 55. Bf8 Rxd4+ 56. Kf3 Rd5 57. Rb7 Rxb5 58. Ke4 Kxg5 59.
 Bxg7 Rb3 60. Bf6+ Kg4 61. Bg5 Kxg5 62. Rg7+ Nxg7 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "6.7"]
 [White "Myllyniemi, Martti"]
 [Black "Rautio, Reijo"]
 [Result "1-0"]
+[Section "I Division"]
 [ECO "D46"]
 [PlyCount "107"]
 
@@ -1984,13 +2094,14 @@ Kg2 Bxe6 42. Qxh6+ Kg8 43. Qg5+ Kf8 44. h4 b3 45. axb3 cxb3 46. Bxb3 Qh7 47.
 Bxd5 Qc2+ 48. Kg3 Qc7+ 49. Kf3 Bxd5+ 50. Qxd5 Qh2 51. Qd8+ Kf7 52. Qe7+ Kg6 53.
 Qg7+ Kf5 54. Qg5+ 1-0
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "7.7"]
 [White "Järvinen, Seppo"]
 [Black "Tuovinen, Jukka"]
 [Result "0-1"]
+[Section "I Division"]
 [ECO "B50"]
 [PlyCount "82"]
 
@@ -2002,13 +2113,14 @@ Bxf1 Kf7 29. Nc2 Rb7 30. Rb3 Kg6 31. Ne3 Rxb3 32. axb3 Nf6 33. Ke2 Kg5 34. Kf2
 h5 35. Kg3 hxg4 36. h4+ Kg6 37. Nd5 Nh5+ 38. Kf2 Kh6 39. Ne7 Be6 40. Nf5+ Bxf5
 41. exf5 Nf4 0-1
 
-[Event "I Division (Group B)"]
-[Site "Ch Finland Team 00/01"]
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2001.03.10"]
 [Round "8.7"]
 [White "Jolkkonen, Kim"]
 [Black "Siikonen, Timo"]
 [Result "1/2-1/2"]
+[Section "I Division"]
 [ECO "A83"]
 [PlyCount "66"]
 
