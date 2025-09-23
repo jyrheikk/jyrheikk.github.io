@@ -85,7 +85,7 @@ Rxf7 21.Qxc7 1-0
 [WhiteTeam "Lappeenrannan Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [TimeControl "40/7200:1800"]
-[FEN "2r3rk/bb5p/3p4/p2Nnpq1/2P1p3/P3P1P1/1N2QPB1/R1R3K1 b - 3 27"]
+[FEN "2r3rk/bb5p/3p4/p2Nnpq1/2P1p3/P3P1P1/1N2QPB1/R1R3K1 b - - 3 27"]
 
 27...Bxd5 28.cxd5 Rxc1+ 29.Rxc1 f4 30.exf4 Qxg3 31.Kf1 Qxg2+ 32.Ke1 Nf3+
 33.Kd1 Qg1+ 34.Kc2 0-1
@@ -99,7 +99,7 @@ Rxf7 21.Qxc7 1-0
 [Result "1-0"]
 [BlackElo "2109"]
 [TimeControl "300"]
-[FEN "r2q3r/pbp1k3/1p2ppBp/4n3/1PPQ4/2N5/P5PP/R4RK1 w - 1 18"]
+[FEN "r2q3r/pbp1k3/1p2ppBp/4n3/1PPQ4/2N5/P5PP/R4RK1 w - - 1 18"]
 
 18.Qxe5! fxe5 19.Rf7+ Kd6 (19...Ke8 20.Rh7+ Kf8 21.Rxh8+) 20.Nb5+ (20.Nb5+
 Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
