@@ -92,7 +92,7 @@ Rxd1 16.Raxd1 Nxe5 17.Rd8+ Kh7 18.h4 f5 19.Rfd1 Nxc4 20.Rf8 e5 21.Rdd8 Kg6
 [WhiteElo "1685"]
 [EventDate "1996.05.??"]
 [Mode "EM"]
-[Termination "Abandoned"]
+[Termination "abandoned"]
 
 1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 e5 5.f3 exd4 6.Nxe4 Nc6 7.Bd3 Bb4+ 8.Bd2 Qe7
 9.Ne2 f5 10.N4g3 Qe3 11.Bxf5 Nge7 12.Bxc8 Rxc8 *
