@@ -1252,7 +1252,7 @@ Rcb8 22.Bd2 g4 23.c4 dxc4 24.e4 Bg6 25.Bxc4 gxf3 26.gxf3 Bh5 27.Be2 Rc8
 [Section "I Division:1"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Shakkikerho Aatos"]
+[BlackTeam "Shakkiseura Aatos"]
 [BlackTitle "FM"]
 [ECO "B38"]
 
@@ -1273,7 +1273,7 @@ Ra1+ 42.Kf2 Ra2+ 43.Ke1 Rh2 44.g4 Nh4 45.Rb5+ 1-0
 [Result "1/2-1/2"]
 [Section "I Division:1"]
 [Board "2"]
-[WhiteTeam "Shakkikerho Aatos"]
+[WhiteTeam "Shakkiseura Aatos"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [WhiteTitle "FM"]
 [ECO "D00"]
@@ -1296,7 +1296,7 @@ Ra4 43.Qc7 Rc8 44.Qb7 axb2 45.Qxb2 Rca8 46.Qb7 h5 47.Rb2 1/2-1/2
 [Section "I Division:1"]
 [Board "3"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Shakkikerho Aatos"]
+[BlackTeam "Shakkiseura Aatos"]
 [ECO "B22"]
 
 1.e4 c5 2.Nf3 Nc6 3.c3 e6 4.d4 d5 5.exd5 exd5 6.Bb5 Nf6 7.O-O Be7 8.dxc5 O-O
@@ -1323,7 +1323,7 @@ Rxd4 44.dxc6 Rxb4 45.cxb7 Rxb7 46.a6 Rb4 47.Ra2 Rd7 48.Rd1 Rxd1 49.Nxd1 Ba7
 [Result "1/2-1/2"]
 [Section "I Division:1"]
 [Board "4"]
-[WhiteTeam "Shakkikerho Aatos"]
+[WhiteTeam "Shakkiseura Aatos"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [ECO "B08"]
 
@@ -1345,7 +1345,7 @@ g5 37.g3 f6 38.Nd3 Bd7 39.f4 g4 40.Ne1 Kc6 41.Nc2 Be6 42.Kd3 Kb7 43.Nb4 Bf7
 [Section "I Division:1"]
 [Board "5"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Shakkikerho Aatos"]
+[BlackTeam "Shakkiseura Aatos"]
 [ECO "E90"]
 
 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 a5 8.g4 Na6 9.Nf3
@@ -1364,7 +1364,7 @@ Rbf8 23.Rxf6 Qxf6 24.Kc2 Kg7 25.Qd2 Qf3 26.Bh6+ Kg8 27.Bxf8 Qxh1 28.Qf2 Qe4+
 [Result "1-0"]
 [Section "I Division:1"]
 [Board "6"]
-[WhiteTeam "Shakkikerho Aatos"]
+[WhiteTeam "Shakkiseura Aatos"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [ECO "D02"]
 
@@ -1386,7 +1386,7 @@ Bf6 36.Nd5 Be5 37.Kxd3 Rc8 38.Rd2 Rc1 39.Ke3 Rb1 40.Kd3 a5 41.Re2 g5 42.Ne7 g4
 [Section "I Division:1"]
 [Board "7"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[BlackTeam "Shakkikerho Aatos"]
+[BlackTeam "Shakkiseura Aatos"]
 [ECO "B43"]
 
 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be3 Nf6 6.Nc3 Qc7 7.Bd3 Bc5 8.Qe2 b5
@@ -1404,7 +1404,7 @@ Rc8 30.Ke1 Kf8 1/2-1/2
 [Result "1-0"]
 [Section "I Division:1"]
 [Board "8"]
-[WhiteTeam "Shakkikerho Aatos"]
+[WhiteTeam "Shakkiseura Aatos"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [ECO "E07"]
 
