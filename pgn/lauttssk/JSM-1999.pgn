@@ -7,6 +7,8 @@
 [Result "1-0"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Pohjois-Kymen Shakki"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Bg5 g6 3. Nc3 Bg7 4. Qd2 c5 5. dxc5 Qa5 6. O-O-O b5 7. Kb1
@@ -29,6 +31,8 @@ Ne7 48. Kc3 Rc8+ 49. Kd2 Ra8 50. Nf7+ Ke6 51. Ng5+ Kd7 52. g4 Ra2+
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Pohjois-Kymen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B17"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. Qe2
@@ -50,6 +54,8 @@ Kd6 36. Bd3 Ke5 37. Be2 Bc6 38. f4+ Kd6 39. Bf3 Bxf3 40. gxf3 e5
 [Result "1-0"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Pohjois-Kymen Shakki"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Nc3 e6 3. e4 Bb4 4. a3 Bxc3+ 5. bxc3 Nxe4 6. Qg4 f5 7. Qxg7
@@ -67,6 +73,8 @@ Re8 14. Be5 Nd5 15. Nxh7 Nxe5 16. dxe5 c6 17. O-O-O Nxc3 18. Bxc6 Nxd1
 [Result "1-0"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Pohjois-Kymen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e6 6. Nf3 Be7 7. Bd3
@@ -89,6 +97,8 @@ O-O 8. Bg5 Nbd7 9. Qd2 c5 10. O-O-O a6 11. Ne4 cxd4 12. Nxd4 Nxe4
 [Result "0-1"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Pohjois-Kymen Shakki"]
 [ECO "C44"]
 
 1. e4 e5 2. d4 exd4 3. c3 d3 4. Nf3 Nc6 5. Bxd3 d6 6. Qb3 Na5 7. Qc2 Be7
@@ -109,6 +119,8 @@ Qxc3 42. e4 f6 43. Qd5+ Bf7 44. Qxb7 Bh5+ 0-1
 [Result "0-1"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Pohjois-Kymen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D02"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. b3 c6 7. Bb2 Na6
@@ -128,6 +140,8 @@ Rxc1 37. Rh2 Qd1 0-1
 [Result "1-0"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Pohjois-Kymen Shakki"]
 [ECO "C45"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 c6 7. Bf4
@@ -143,6 +157,8 @@ Qf6 8. Qe3 Bg4 9. h3 Bh5 10. g4 Bg6 11. O-O-O h6 12. Bg3 b6 13. Ba6 Rd8
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Pohjois-Kymen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qb3 c4 7. Qxb6 axb6
@@ -158,6 +174,8 @@ Qf6 8. Qe3 Bg4 9. h3 Bh5 10. g4 Bg6 11. O-O-O h6 12. Bg3 b6 13. Ba6 Rd8
 [Result "1-0"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Shakkikerho Garde 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B23"]
 
 1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 dxe4 6. Bxc6+ bxc6 7. Nxe4
@@ -181,6 +199,8 @@ Kc8 60. Rxb7 1-0
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Shakkikerho Garde 2"]
 [ECO "E12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Bg5
@@ -200,6 +220,8 @@ Rb2 31. Nxa5 bxa5 32. exd5 exd5 33. Rc1 Rb4 34. Rc5 Rxa4 35. Rxd5 Ra1+
 [Result "1-0"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Shakkikerho Garde 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A51"]
 
 1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. e3 Nc6 6. Nf3 Bf5 7. Nc3 Ng3
@@ -219,6 +241,8 @@ Bxc7 36. Rxc7+ Rxc7 37. Bxc7 Kxc7 38. Kd2 1-0
 [Result "0-1"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Shakkikerho Garde 2"]
 [ECO "D02"]
 
 1. d4 Nc6 2. Nf3 d5 3. Bf4 Bg4 4. e3 a6 5. Be2 e6 6. O-O Nf6 7. h3 Bh5
@@ -238,6 +262,8 @@ Rb8 37. Be2 Rb2 38. Bf3 Bxf3 39. Nxf3 Kf8 40. g3 0-1
 [Result "1-0"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Shakkikerho Garde 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B06"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Bd7 5. Qd2 a6 6. a4 c6 7. f3 Qa5
@@ -259,6 +285,8 @@ Ra8 37. Rb5 Kd7 38. Rb7+ Ke8 39. Rb5 Kd7 40. Kc4 Rc8+ 41. Kb3 Rc1
 [Result "0-1"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Shakkikerho Garde 2"]
 [ECO "D20"]
 
 1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. a4 Nc6 5. Nf3 Bg4 6. e3 Na5 7. Be2 Bxf3
@@ -279,6 +307,8 @@ Qxd4 20. b3 Qb2 21. Qb1 Qxb1 22. Rxb1 c3 23. Be2 c2 24. Bxd3 cxb1=Q
 [Result "1-0"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Shakkikerho Garde 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D02"]
 
 1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Bd6 5. c4 c6 6. Nc3 O-O 7. O-O Nbd7
@@ -297,6 +327,8 @@ Qxd4 20. b3 Qb2 21. Qb1 Qxb1 22. Rxb1 c3 23. Be2 c2 24. Bxd3 cxb1=Q
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Shakkikerho Garde 2"]
 [ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O
@@ -318,6 +350,8 @@ Na4 36. a6 Nc5 37. Kb6 Nxa6 38. Kxa6 Kxg5 39. Kb5 f5 40. exf5 exf5
 [Result "1-0"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Karhulan Työväen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A80"]
 
 1. d4 e6 2. Nf3 f5 3. Nc3 Nf6 4. Bg5 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. e3
@@ -342,6 +376,8 @@ Be8 66. Bxh7 d4 67. Bd3 1-0
 [Result "1-0"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Karhulan Työväen Shakki"]
 [ECO "A45"]
 
 1. d4 Nf6 2. Bg5 c5 3. dxc5 e6 4. e3 Bxc5 5. Nf3 h6 6. Bh4 d5 7. c4 Nbd7
@@ -365,6 +401,8 @@ Kg7 60. Kh2 Qa4 1-0
 [Result "1-0"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Karhulan Työväen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A07"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. d3 c6 5. Nbd2 h6 6. h3 Nbd7 7. O-O e6
@@ -383,6 +421,8 @@ Nf8 26. Bxf6+ Kf7 27. Qg5 Ng6 28. Qh5 Bg8 29. Bc3 Kf8 30. Nf6 Qf7
 [Result "1-0"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Karhulan Työväen Shakki"]
 [ECO "C00"]
 
 1. d4 e6 2. e4 d5 3. c4 dxe4 4. Nc3 c5 5. d5 Nf6 6. Bg5 Be7 7. Bf4 Qa5
@@ -405,6 +445,8 @@ Ra3+ 48. Ke2 Ra2+ 49. Kd3 Rxg2 50. a6 Kd5 51. a7 Ra2 52. Rb5+ Kc6
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Karhulan Työväen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A24"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 g6 4. Nc3 Bg7 5. Nf3 Nc6 6. O-O O-O 7. d4 exd4
@@ -426,6 +468,8 @@ Nd4 42. Nf8+ Kf7 43. Nd7 Ne6 44. Ne5+ Kg7 45. Nxg6 Kxg6 46. f5+ Kxg5
 [Result "0-1"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Karhulan Työväen Shakki"]
 [ECO "B47"]
 
 1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Be2 a6 5. d4 cxd4 6. Nxd4 Qc7 7. O-O
@@ -447,6 +491,8 @@ gxf4+ 48. Kxf4 Kg7 49. Ke5 Kg6 50. Kf4 Kf6 51. Ke4 Kg5 52. Kf3 f5 0-1
 [Result "0-1"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Karhulan Työväen Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C00"]
 
 1. e4 e6 2. d3 d5 3. Nd2 dxe4 4. dxe4 b6 5. Ngf3 Nf6 6. g3 Bb7 7. e5 Ng4
@@ -465,6 +511,8 @@ Ba6 26. Qxc6 Qxc6 27. Rxc6 Bxe2 28. Rc7 Bh4 29. Rxa7 Bf3 30. Nc3 Rd2
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Karhulan Työväen Shakki"]
 [ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 d5 5. dxe5 Nxe4 6. Bxe4 dxe4 7. Qa4+
@@ -483,6 +531,8 @@ Raf8 26. Nf5 Rhg8 27. Rh5+ Kg6 28. Rg5+ Kh7 29. Rh5+ Kg6 30. Rg5+
 [Result "0-1"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Joensuun Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A84"]
 
 1. c4 f5 2. d4 Nf6 3. Nf3 e6 4. g3 Bb4+ 5. Bd2 a5 6. a3 Bxd2+ 7. Nbxd2
@@ -501,6 +551,8 @@ fxe4 26. fxe4 d4 27. Rb3 Rxb3 28. Qxb3+ Kh8 29. Qb5 Qxa3 30. Nxe5 Nc5
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
 [ECO "A40"]
 
 1. d4 g6 2. g3 Bg7 3. Bg2 d6 4. e4 Nf6 5. Ne2 Nbd7 6. O-O O-O 7. h3 c5
@@ -516,6 +568,8 @@ Rc8 15. Rg1 e6 16. dxe6 fxe6 1/2-1/2
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Joensuun Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D03"]
 
 1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 Be7 5. Bd3 Nbd7 6. Nbd2 c5 7. c3 h6
@@ -538,6 +592,8 @@ Nxc5 31. Nf1 Rd4 32. Bb1 Be6 33. f3 a5 34. Kf2 Nd3+ 35. Bxd3 Rxd3
 [Result "0-1"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
 [ECO "D00"]
 
 1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. f3 e6 6. Be3 exf3 7. Qxf3
@@ -559,6 +615,8 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Joensuun Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6
@@ -576,6 +634,8 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 [Result "0-1"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
 [ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 Ne7 7. Nf3 h5
@@ -592,6 +652,8 @@ Qxb3 37. axb3 Be6 38. Ka2 Re4 39. Bd6 Rd8 40. Ng3 Re3 41. Bf4 Rxb3
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Joensuun Shakkikerho 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C01"]
 
 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Be2 Ne7 6. O-O O-O 7. c4 c6
@@ -615,6 +677,8 @@ Be6 37. Ba3 Ra1+ 38. Rd1 Rxd1+ 39. Nxd1 Nf5 40. Bc5 Bd5 41. Ne3 Nh4
 [Result "0-1"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho 2"]
 [ECO "C17"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. a3 Bxc3 7. bxc3 Nbc6
@@ -632,6 +696,8 @@ Nd4 25. Kf2 Nb3 0-1
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Lappeenrannan Shakkikerho"]
 [ECO "D00"]
 [PlyCount "31"]
 
@@ -648,6 +714,8 @@ fxe6 15. g4 Rhf8 16. Nf4 1/2-1/2
 [Result "0-1"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Lappeenrannan Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A07"]
 [PlyCount "84"]
 
@@ -668,6 +736,8 @@ Qg7+ 35. Bg6 Ke7 36. Bd2 Nc7 37. Bxa5 Ne6 38. Bd2 Nf8 39. Qc4 Nxg6 40. Qe6+ Kf8
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Lappeenrannan Shakkikerho"]
 [ECO "D00"]
 [PlyCount "88"]
 
@@ -688,6 +758,8 @@ Rxa7+ Kd6 40. Kf4 Rd2 41. Ke4 Kc6 42. Ke3 Rd1 43. Ke2 Rd4 44. Rh7 Kb5 1/2-1/2
 [Result "0-1"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Lappeenrannan Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B12"]
 [PlyCount "62"]
 
@@ -706,6 +778,8 @@ Nf5 28. Nxf5 Qxc2+ 29. Ka1 Qxd3 30. Qh1 gxf5 31. Qg1 Rc2 0-1
 [Result "0-1"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Lappeenrannan Shakkikerho"]
 [ECO "B00"]
 [PlyCount "86"]
 
@@ -726,6 +800,8 @@ Rh4 Qf5 41. Qd1 Rb7 42. Qa4 Rb2 43. f3 Qc2 0-1
 [Result "1-0"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Lappeenrannan Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B19"]
 [PlyCount "105"]
 
@@ -748,6 +824,8 @@ a4 b5 41. Rc6 Ke7 42. axb5 Rd7 43. b6 Rd8 44. b7 Rb8 45. Re6+ Kf7 46. Rb6 Ke7
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Lappeenrannan Shakkikerho"]
 [ECO "C53"]
 [PlyCount "88"]
 
@@ -768,6 +846,8 @@ Qd2 Qb3 41. Kg1 Qa2 42. f3 Qc4 43. Kf2 Qc5+ 44. Qe3 Qb5 1/2-1/2
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Lappeenrannan Shakkikerho"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B22"]
 [PlyCount "57"]
 
@@ -786,6 +866,8 @@ Nf4 28. b3 Nd5 29. bxc4 1/2-1/2
 [Result "1-0"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Vantaan Shakki"]
 [ECO "D00"]
 [PlyCount "85"]
 
@@ -806,6 +888,8 @@ a4 40. h6 Nf5 41. h7 Nh4+ 42. Kh3 Ng6 43. f5 1-0
 [Result "0-1"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B01"]
 [PlyCount "48"]
 
@@ -823,6 +907,8 @@ Qh3 Qxa1 22. f6+ Kd8 23. fxg7 Qxb1+ 24. Kd2 e3+ 0-1
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Vantaan Shakki"]
 [ECO "E71"]
 [PlyCount "129"]
 
@@ -847,6 +933,8 @@ d3 60. b6 Nb7+ 61. Kc6 Na5+ 62. Kc7 Kd2 63. Bh5 Kc3 64. b7 Nxb7 65. Kxb7
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A32"]
 [PlyCount "108"]
 
@@ -869,6 +957,8 @@ Kf2 Rg7 54. Ke3 Rg2 1/2-1/2
 [Result "1-0"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Vantaan Shakki"]
 [ECO "D45"]
 [PlyCount "73"]
 
@@ -888,6 +978,8 @@ Nxe7 28. Be5 Qd7 29. Qf6 Nf5 30. g4 Rg8 31. Rad1 Qe8 32. gxf5 gxf5+ 33. Kh2 Qe6
 [Result "1-0"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B06"]
 [PlyCount "105"]
 
@@ -910,6 +1002,8 @@ Ke5 53. a7 1-0
 [Result "0-1"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Vantaan Shakki"]
 [ECO "E81"]
 [PlyCount "116"]
 
@@ -933,6 +1027,8 @@ Kd4 0-1
 [Result "0-1"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Vantaan Shakki"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C45"]
 [PlyCount "48"]
 
@@ -950,6 +1046,8 @@ Qe5 Rfe8 15. Qg3 Qc5 16. Rdf1 Ng4 17. Rf3 Ne5 18. Rf4 b5 19. Kb1 a5 20. Ne2 a4
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "1"]
+[WhiteTeam "Helsingin Shakkiklubi 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A80"]
 [PlyCount "57"]
 
@@ -968,6 +1066,8 @@ Nb4 22. Nd4 Bxg2 23. Nxb5 axb5 24. Kxg2 Nbd5 25. h3 Qa8 26. Kg1 Rc8 27. Qg5 b4
 [Result "1-0"]
 [Section "I Division"]
 [Board "2"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 2"]
 [ECO "A00"]
 [PlyCount "61"]
 
@@ -986,6 +1086,8 @@ h6 29. Bh3 Kh7 30. Kh2 Rc7 31. Rfa1 1-0
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "3"]
+[WhiteTeam "Helsingin Shakkiklubi 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D60"]
 [PlyCount "92"]
 
@@ -1006,6 +1108,8 @@ Qd6 29. dxe5 Qxe5 30. Qxe5 fxe5 31. Re3 Nc5 32. Rd2 Kf7 33. Kf2 Rad7 34. Kf3 g5
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "4"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 2"]
 [ECO "C00"]
 [PlyCount "77"]
 
@@ -1026,6 +1130,8 @@ Bf8 g6 27. Kd2 e5 28. Ke3 Ke6 29. b4 Kf5 30. Bd6 Bf1 31. c5 bxc5 32. Bxc5 a6
 [Result "1/2-1/2"]
 [Section "I Division"]
 [Board "5"]
+[WhiteTeam "Helsingin Shakkiklubi 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B12"]
 [PlyCount "54"]
 
@@ -1044,6 +1150,8 @@ Rg8 22. Kd2 Bc5 23. d4 Be7 24. f4 g5 25. hxg6 Rxg6 26. Rxg6 fxg6 27. g3 Kf7
 [Result "1-0"]
 [Section "I Division"]
 [Board "6"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 2"]
 [ECO "B08"]
 [PlyCount "121"]
 
@@ -1067,6 +1175,8 @@ Ra4 Ke5 54. Kd3 f4 55. Ra7 f3 56. Ke3 d4+ 57. Kxf3 Kd5 58. Rc7 Kc4 59. b7 d3
 [Result "1-0"]
 [Section "I Division"]
 [Board "7"]
+[WhiteTeam "Helsingin Shakkiklubi 2"]
+[BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C10"]
 [PlyCount "49"]
 
@@ -1084,6 +1194,8 @@ Nc6 22. Bb5 cxb6 23. cxb6 a6 24. Bxc6 Rd6 25. Qxa6+ 1-0
 [Result "1-0"]
 [Section "I Division"]
 [Board "8"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Helsingin Shakkiklubi 2"]
 [ECO "C10"]
 [PlyCount "73"]
 
