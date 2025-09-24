@@ -10,7 +10,6 @@
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Työväen Shakkikerho 2"]
 [ECO "A45"]
-[PlyCount "73"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nf6 5. e4 dxe4 6. Nc3 e3 7. Qd3 e6 8.
 O-O-O Be7 9. Qxe3 c6 10. g4 Nd5 11. Nxd5 cxd5 12. Bxe7 Qxe7 13. f4 Nc6 14. Nf3
@@ -31,7 +30,6 @@ Qxg6 Rxh7 35. Rxh7+ Kd6 36. Rf7 Qg8 37. Qf6 1-0
 [WhiteTeam "Turun Työväen Shakkikerho 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D69"]
-[PlyCount "127"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Rc1 c6 8. Bd3
 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. dxe5 Nxe5 14. Nxe5
@@ -56,7 +54,6 @@ Ke6 54. Bxb5 Kxf6 55. Bxc4 Bd1 56. Bb5 Ke7 57. Kb4 Kd6 58. Bxa4 Be2 59. Bb5 Bf3
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Työväen Shakkikerho 2"]
 [ECO "C00"]
-[PlyCount "78"]
 
 1. d4 d5 2. e4 e6 3. c4 Bb4+ 4. Nc3 Ne7 5. Bd3 dxe4 6. Bxe4 f5 7. Bf3 O-O 8.
 Qb3 Nbc6 9. Nge2 a5 10. a3 a4 11. Qc2 Bxc3+ 12. Qxc3 Na5 13. b4 axb3 14. Bb2
@@ -78,7 +75,6 @@ Rg6 0-1
 [WhiteTeam "Turun Työväen Shakkikerho 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "E11"]
-[PlyCount "78"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Bxd2 h6 7. Bf4 Bb7 8.
 e3 d6 9. h3 Nbd7 10. Be2 O-O 11. O-O Qe7 12. Rc1 e5 13. Bg3 a5 14. Bh4 Rfe8 15.
@@ -99,7 +95,6 @@ e4 35. Kh1 Nf3 36. Qc2 Rde8 37. Qe2 Qd4 38. Bxf4 Rxf4 39. Rxf3 Rxf3 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Työväen Shakkikerho 2"]
 [ECO "E83"]
-[PlyCount "105"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. a3 e5 8. d5 Ne7
 9. Bd3 Nh5 10. Nge2 f5 11. Qc2 Nf4 12. Nxf4 exf4 13. Bf2 fxe4 14. Bxe4 Bf5 15.
@@ -123,7 +118,6 @@ Ke7 53. Rg3 1/2-1/2
 [WhiteTeam "Turun Työväen Shakkikerho 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C35"]
-[PlyCount "67"]
 
 1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 d6 5. d4 g5 6. c3 Nc6 7. O-O Nh6 8. b4
 Rg8 9. h3 Rg6 10. b5 Na5 11. Bd3 Bxh3 12. gxh3 Qd7 13. Rf2 g4 14. e5 Nf5 15.
@@ -144,7 +138,6 @@ Be7 34. Rxe7 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Työväen Shakkikerho 2"]
 [ECO "B21"]
-[PlyCount "89"]
 
 1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. O-O e6 6. Nc3 Nge7 7. Bxc6 Nxc6 8.
 d3 O-O 9. Qe1 d5 10. e5 a6 11. Qg3 b5 12. Bd2 f6 13. exf6 Qxf6 14. Rae1 Ra7 15.
@@ -166,7 +159,6 @@ Qa7 Re7 42. Rg1+ Kh8 43. Rg4 Qf8 44. Rag1 Bxf4 45. Rf1 1-0
 [WhiteTeam "Turun Työväen Shakkikerho 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D38"]
-[PlyCount "104"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Nbd7 7. e3 c5 8. cxd5
 cxd4 9. exd4 Qa5 10. Qc2 Nxd5 11. Rc1 O-O 12. Bd3 Nf4 13. O-O Nxd3 14. Qxd3 b6
@@ -189,7 +181,6 @@ Kc1 Kd4 48. Re7 Ra2 49. Kd1 Kd3 50. Rd7+ Ke4 51. Ke1 Ra1+ 52. Ke2 Ra2+ 1/2-1/2
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Kulttuuri-Shakki -58"]
 [ECO "B06"]
-[PlyCount "104"]
 
 1. d4 g6 2. e4 d6 3. Bc4 c6 4. Nc3 b5 5. Bb3 Nf6 6. Qf3 e5 7. Bg5 Be7 8. dxe5
 dxe5 9. Rd1 Nbd7 10. Bh6 Bf8 11. Be3 Qe7 12. g4 Bg7 13. Nge2 O-O 14. Ng3 Nc5
@@ -213,7 +204,6 @@ Be6 0-1
 [WhiteTeam "Kulttuuri-Shakki -58"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D42"]
-[PlyCount "36"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
 Bd3 Nc6 9. a3 O-O 10. Bc2 Nxc3 11. bxc3 Bf6 12. O-O b6 13. Qd3 g6 14. Bh6 Bg7
@@ -231,7 +221,6 @@ Bd3 Nc6 9. a3 O-O 10. Bc2 Nxc3 11. bxc3 Bf6 12. O-O b6 13. Qd3 g6 14. Bh6 Bg7
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Kulttuuri-Shakki -58"]
 [ECO "C13"]
-[PlyCount "112"]
 
 1. d4 Nf6 2. Nc3 d5 3. e4 e6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
 Rh5 Qe7 9. Qg4 f5 10. Qh3 g6 11. Rh6 Nf8 12. O-O-O Bd7 13. f4 Nc6 14. Nf3 Nd8
@@ -255,7 +244,6 @@ Kc1 Rg1 55. Rxh4 Rxc2+ 56. Kb1 Rxd1# 0-1
 [WhiteTeam "Kulttuuri-Shakki -58"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "E06"]
-[PlyCount "36"]
 
 1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. Qc2 c5 7. d4 cxd4 8. Nxd4
 Nc6 9. e3 Qb6 10. Nb3 dxc4 11. Qxc4 e5 12. Nc3 Be6 13. Qe2 Rfd8 14. Nd2 Rac8
@@ -273,7 +261,6 @@ Nc6 9. e3 Qb6 10. Nb3 dxc4 11. Qxc4 e5 12. Nc3 Be6 13. Qe2 Rfd8 14. Nd2 Rac8
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Kulttuuri-Shakki -58"]
 [ECO "B13"]
-[PlyCount "96"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. Bf4 Bxf3 8.
 Qxf3 e6 9. Nd2 Bd6 10. O-O O-O 11. Rae1 Rb8 12. g4 Qc7 13. Bxd6 Qxd6 14. g5 Nd7
@@ -296,7 +283,6 @@ cxd5 a2 48. Nf7+ Kg7 0-1
 [WhiteTeam "Kulttuuri-Shakki -58"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A46"]
-[PlyCount "142"]
 
 1. Nf3 Nf6 2. d4 c5 3. g3 cxd4 4. Nxd4 g6 5. Bg2 Bg7 6. O-O O-O 7. c4 Nc6 8.
 Nc2 d6 9. Nc3 Ne5 10. b3 a6 11. h3 Rb8 12. f4 Nc6 13. Bb2 Nh5 14. Kh2 e5 15. e3
@@ -322,7 +308,6 @@ Ka5 Ra1+ 67. Kb4 Rb1+ 68. Ka3 Ra1+ 69. Kb3 Ra6 70. Kb4 Ra1 71. Kb5 Rb1+ 1/2-1/2
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Kulttuuri-Shakki -58"]
 [ECO "C50"]
-[PlyCount "57"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. Nxd4 Ne5 6. Bb3 d6 7. O-O Nf6 8.
 f4 Nc6 9. Nxc6 bxc6 10. e5 Ne4 11. Qf3 Nc5 12. Qxc6+ Bd7 13. Qf3 O-O 14. Bd5
@@ -342,7 +327,6 @@ Kg1 Kh8 28. Qh6 Rg8 29. Bxf7 1-0
 [WhiteTeam "Kulttuuri-Shakki -58"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B07"]
-[PlyCount "102"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h6 6. Be3 Nc6 7. Nh3 e5 8. d5 Ne7
 9. f3 Nh5 10. Bf2 Bxh3 11. Rxh3 Nf4 12. Rh2 Nxe2 13. Qxe2 a6 14. g4 Qd7 15. a4
@@ -365,7 +349,6 @@ Qh8+ Kxa7 48. Qxh5 Bb6 49. Qh7+ Ka6 50. Qh2 Bd4+ 51. Kb1 Qb3+ 0-1
 [WhiteTeam "Salon Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D79"]
-[PlyCount "51"]
 
 1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. d4 d5 7. cxd5 cxd5 8. Nc3
 Ne4 9. Nxe4 dxe4 10. Ng5 Bxd4 11. Nxe4 Bg4 12. Bh6 Re8 13. Qa4 Bxe2 14. Rfe1
@@ -385,7 +368,6 @@ exd6 21. Rxe8+ Bxe8 22. Bxb7 Nc6 23. Bxa8 Nxd4 24. Rd1 Nb5 25. Re1 Nc7 26. Re7
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Salon Shakkikerho"]
 [ECO "A89"]
-[PlyCount "69"]
 
 1. d4 f5 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. g3 Nf6 6. Bg2 O-O 7. O-O Nc6 8. d5
 Ne5 9. Nxe5 dxe5 10. e4 f4 11. gxf4 exf4 12. e5 Ng4 13. e6 Ne5 14. Qb3 f3 15.
@@ -406,7 +388,6 @@ Bc5 Qg7 35. Rg1 1-0
 [WhiteTeam "Salon Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C01"]
-[PlyCount "99"]
 
 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bf4 Nf6 5. Nc3 c6 6. Qd2 Bf5 7. O-O-O Be7 8.
 f3 Nbd7 9. g4 Be6 10. Bd3 a6 11. Nge2 b5 12. Ng3 Qa5 13. Nf5 Bxf5 14. Bxf5 g6
@@ -429,7 +410,6 @@ Qd5 40. c4 Qd6 41. Qe4 Rh8 42. c5 Nxc5 43. dxc5 Qd2+ 44. Qc2 Qd4+ 45. Ka2 Rh1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Salon Shakkikerho"]
 [ECO "B32"]
-[PlyCount "49"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
 Qxf6 Nxf6 9. f3 h6 10. c4 Rb8 11. Nc3 Nd4 12. Rb1 d6 13. Bd3 Bd7 14. Be3 Ne6
@@ -448,7 +428,6 @@ Na6 22. Nxb5 Bxb5 23. cxb5 Rxb5 24. Bd3 Rxb4 25. Bxa6 1-0
 [WhiteTeam "Salon Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C43"]
-[PlyCount "15"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
 Qh5 1/2-1/2
@@ -465,7 +444,6 @@ Qh5 1/2-1/2
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Salon Shakkikerho"]
 [ECO "C69"]
-[PlyCount "99"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Qxd4 Qxd4 8.
 Nxd4 c5 9. Ne2 Bd7 10. Bf4 O-O-O 11. Nbc3 Ne7 12. Rfd1 Ng6 13. Bg3 Bc6 14.
@@ -488,7 +466,6 @@ g3 46. Kc4 Na4 47. Kb4 Nb6 48. Kb5 Nc8 49. a4 Kxg2 50. Kc6 0-1
 [WhiteTeam "Salon Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A38"]
-[PlyCount "129"]
 
 1. g3 c5 2. Bg2 Nf6 3. c4 g6 4. Nc3 Bg7 5. Nf3 O-O 6. O-O Nc6 7. a3 e6 8. e4
 Qc7 9. d3 d6 10. Re1 a6 11. h3 Rb8 12. Be3 b5 13. cxb5 axb5 14. a4 bxa4 15.
@@ -514,7 +491,6 @@ Rg4 60. Kf3 h4 61. Rd7+ Kg6 62. Rd8 Kg5 63. Rg8+ Kh5 64. Rh8+ Kg5 65. Rg8+
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Salon Shakkikerho"]
 [ECO "D53"]
-[PlyCount "53"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 b6 6. Nf3 Nbd7 7. Bd3 c5 8. O-O
 O-O 9. h3 Bb7 10. Rc1 Rc8 11. Qe2 dxc4 12. Bxc4 Nd5 13. Bxe7 Qxe7 14. Ba6 N7f6
@@ -534,7 +510,6 @@ Rxd6 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Euran Shakkikerho"]
 [ECO "A56"]
-[PlyCount "108"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. h3 Bg7 7. g4 h5 8. g5 Nh7 9.
 Nf3 a6 10. a4 Nd7 11. Be3 f5 12. gxf6 Qxf6 13. Be2 O-O 14. Qd2 Nb6 15. b3 Bd7
@@ -558,7 +533,6 @@ f4 Kf6 48. f5 Kg5 49. Be1 Be3 50. Kh2 Bf4+ 51. Kg1 g3 52. Kh1 Kg4 53. f6 g2+
 [WhiteTeam "Euran Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "E93"]
-[PlyCount "62"]
 
 1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 8. Bg5
 h6 9. Bh4 a5 10. Nd2 g5 11. Bg3 Nc5 12. h3 Ne8 13. Nf1 f5 14. exf5 Bxf5 15. Ne3
@@ -578,7 +552,6 @@ Rh7 29. Qg3 Kh8 30. Rf3 Bh4 31. Qf4 Bf2+ 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Euran Shakkikerho"]
 [ECO "E15"]
-[PlyCount "44"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 Ba6 7. Qa4 Bb7 8. Nc3
 O-O 9. Qc2 Nc6 10. e4 d6 11. O-O e5 12. d5 Na5 13. Nd1 c5 14. Ne3 Bc8 15. a3
@@ -597,7 +570,6 @@ Qe7 1/2-1/2
 [WhiteTeam "Euran Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C17"]
-[PlyCount "49"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 cxd4 7. Nb5 Bc7 8. f4
 Ne7 9. Bd3 Nbc6 10. Nf3 a6 11. Nbxd4 Nxd4 12. Nxd4 Bb6 13. Be3 Bd7 14. Qf3 Qc7
@@ -616,7 +588,6 @@ Qd8 22. Bg6 Qg5 23. Qxf7+ Kd8 24. Qf6+ Qxf6 25. exf6 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Euran Shakkikerho"]
 [ECO "C42"]
-[PlyCount "78"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8.
 Re1 Re8 9. c4 c6 10. Nc3 Bb4 11. Qc2 f5 12. a3 Bxc3 13. bxc3 Be6 14. cxd5 cxd5
@@ -637,7 +608,6 @@ Rxe4 35. Qh8 axb4 36. Qh7+ Ke8 37. Qxg6+ Rf7 38. Qc6+ Kf8 39. Qxh6+ Kg8 0-1
 [WhiteTeam "Euran Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A35"]
-[PlyCount "64"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nc2 Bxc3+ 7. bxc3 Nf6
 8. f3 d5 9. e3 O-O 10. cxd5 Nxd5 11. Bd2 Qc7 12. Qc1 e5 13. e4 Nde7 14. Ne3 Be6
@@ -657,7 +627,6 @@ Nxe4 28. f5 Qc6 29. Rg2 Nf2+ 30. Kg1 Nh3+ 31. Kh1 Ngf4 32. Bxf4 Nxf4 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Euran Shakkikerho"]
 [ECO "C41"]
-[PlyCount "100"]
 
 1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. g4 Bg6 6. d3 h5 7. g5 h4 8. Be3 c6
 9. Nbd2 a5 10. a4 Nd7 11. Qe2 Ne7 12. O-O-O d5 13. exd5 cxd5 14. Bb5 f6 15. Bc5
@@ -680,7 +649,6 @@ Rxe3 Bf5 47. Rxg7+ Kxg7 48. Kd1 Rg6 49. Ke1 Rg2 50. c4 Rg3 0-1
 [WhiteTeam "Euran Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A25"]
-[PlyCount "86"]
 
 1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 Bc5 6. a3 a5 7. Nge2 d6 8. O-O
 O-O 9. Rb1 Be6 10. d3 Rb8 11. Na4 Ba7 12. Nec3 d5 13. cxd5 Nxd5 14. Nb5 f4 15.
@@ -702,7 +670,6 @@ c5 41. Kf2 Ra8 42. h5 Bxh5 43. Rh4 Bg6 1/2-1/2
 [WhiteTeam "Shakkikerho X"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A13"]
-[PlyCount "89"]
 
 1. c4 e6 2. g3 d5 3. Bg2 dxc4 4. Na3 Bxa3 5. Qa4+ Bd7 6. Qxa3 Bc6 7. Nf3 Nf6 8.
 O-O Nbd7 9. b3 Nb6 10. Bb2 a5 11. Rac1 Bd5 12. bxc4 Nxc4 13. Qa4+ Qd7 14. Rxc4
@@ -724,7 +691,6 @@ gxf5 gxf5 41. Kd4 h5 42. a3 Nb6 43. Ke5 Kc4 44. d6 Kb3 45. Ke6 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Shakkikerho X"]
 [ECO "E11"]
-[PlyCount "173"]
 
 1. d4 Nf6 2. c4 Nc6 3. Nf3 e6 4. g3 Bb4+ 5. Bd2 Qe7 6. Bg2 Bxd2+ 7. Nbxd2 a5 8.
 O-O d6 9. e4 e5 10. d5 Nb8 11. Ne1 O-O 12. Nd3 Nfd7 13. Qc2 Na6 14. a3 Ndc5 15.
@@ -753,7 +719,6 @@ Kxd5 86. Bb7+ Kc5 87. Ke3 0-1
 [WhiteTeam "Shakkikerho X"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B01"]
-[PlyCount "56"]
 
 1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Nf3 Qxd5 5. Be2 e6 6. O-O Be7 7. c4 Qd8 8.
 Qb3 Qc8 9. Nc3 O-O 10. Be3 Nbd7 11. Rac1 c6 12. h3 Bh5 13. g4 Bg6 14. Nh4 e5
@@ -773,7 +738,6 @@ Qxb7 Nd5 28. Rxf8+ Rxf8 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Shakkikerho X"]
 [ECO "E11"]
-[PlyCount "91"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Bxd2 Ne4 7. Bf4 c6 8.
 e3 d5 9. Bd3 Nd7 10. Qc2 f5 11. O-O h6 12. Ne5 Nxe5 13. Bxe5 Qe7 14. c5 Rf7 15.
@@ -795,7 +759,6 @@ Ne3 41. Rc7+ Kd8 42. Be2 Rf5 43. Rh7 Be6 44. Rh8+ Kd7 45. Rb7+ Kc6 46. Rc7+ 1-0
 [WhiteTeam "Shakkikerho X"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C00"]
-[PlyCount "92"]
 
 1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. h3 h6 6. Bd3 Bd6 7. Qe2+ Be6 8.
 O-O O-O 9. Be3 Nbd7 10. c3 Re8 11. Qd2 Ne4 12. Bxe4 dxe4 13. Nh2 Bc4 14. Re1 f5
@@ -818,7 +781,6 @@ Rd2+ 0-1
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Shakkikerho X"]
 [ECO "B33"]
-[PlyCount "60"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. c4 bxc4 13. Nxc4 Bxd5 14. exd5
@@ -838,7 +800,6 @@ Qd1 Rg6 22. Qh5 Kg7 23. Ne3 Qd7 24. Rc1 Rh6 25. Qd1 Rb8 26. b3 Qb5 27. Rc4 Qb6
 [WhiteTeam "Shakkikerho X"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "C07"]
-[PlyCount "75"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. dxc5 dxe4 7. Nxe4
 Qxd1+ 8. Kxd1 Nc6 9. Be3 O-O-O+ 10. Ke2 Nd4+ 11. Bxd4 Rxd4 12. Nd6+ Bxd6 13.
@@ -859,7 +820,6 @@ axb5+ Kxb5 27. c3 g5 28. f3 h5 29. g4 hxg4 30. hxg4 fxg4 31. fxg4 a6 32. Nf1 a5
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Shakkikerho X"]
 [ECO "D94"]
-[PlyCount "77"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Bd3 c5 7. dxc5 Qa5 8. O-O
 dxc4 9. Bxc4 Qxc5 10. Qb3 Nc6 11. Na4 Qh5 12. Bd2 e5 13. Bc3 e4 14. Nd4 Ne5 15.
@@ -967,7 +927,6 @@ Ka3 Nb5+ 94. Ka4 Nd4 95. Ka3 0-1
 [WhiteTeam "Turun Shakinystävät"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "D00"]
-[PlyCount "57"]
 
 1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. Qd2 Qb6 5. c4 Bf5 6. Nc3 e6 7. Nf3 Nd7 8. c5
 Qc7 9. Bg3 Qd8 10. b4 Ngf6 11. e3 Ne4 12. Nxe4 dxe4 13. Ne5 Nxe5 14. Bxe5 f6
@@ -987,7 +946,6 @@ Rd1 Rd8 28. Rxd8+ Bxd8 29. b5 1-0
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Shakinystävät"]
 [ECO "B07"]
-[PlyCount "52"]
 
 1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Be3 Bg7 5. Qd2 O-O 6. Bh6 c6 7. h4 Qa5 8. f3 b5
 9. Bxg7 Kxg7 10. h5 b4 11. hxg6 fxg6 12. Nce2 Nbd7 13. Nf4 Nb6 14. Nd3 Nc4 15.
@@ -1006,7 +964,6 @@ b3 Bxd3 22. cxd3 Nf4 23. Rd1 Rb4 24. g3 Ne6 25. Ne2 Nxd4 26. Nxd4 Rxd4 1/2-1/2
 [WhiteTeam "Turun Shakinystävät"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "B14"]
-[PlyCount "102"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. h3 O-O 8. cxd5
 Nxd5 9. Bc4 Nxc3 10. bxc3 Nc6 11. O-O Bf5 12. Re1 Rc8 13. g4 Bd7 14. Bg5 Bf6
@@ -1029,7 +986,6 @@ Nd6 41. Rc3 Nb5 42. Rc5 Nd4 43. f4 Ne2+ 44. Kh2 Nxf4 45. Bf3 Nd3 46. Rb5 Ne5
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Shakinystävät"]
 [ECO "A65"]
-[PlyCount "60"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 Be7 7. Bd3 O-O 8. Nge2
 a6 9. a4 Ng4 10. O-O Bf6 11. f4 c4 12. Bxc4 Qb6+ 13. Kh1 Nf2+ 14. Rxf2 Qxf2 15.
@@ -1049,7 +1005,6 @@ Nxd1 Rxe2 28. Kf1 Rc2 29. b5 axb5 30. axb5 Bd4 0-1
 [WhiteTeam "Turun Shakinystävät"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
 [ECO "A00"]
-[PlyCount "41"]
 
 1. e4 g6 2. g3 Bg7 3. Bg2 Nc6 4. Ne2 e5 5. Nbc3 Nge7 6. O-O d6 7. d3 Be6 8. Nd5
 O-O 9. c4 Qd7 10. Nec3 Nd4 11. Bg5 f6 12. Bd2 c6 13. Nxe7+ Qxe7 14. Ne2 Qd7 15.
@@ -1068,7 +1023,6 @@ Nxd4 exd4 16. Bf4 Rad8 17. Qa4 b6 18. Rfe1 c5 19. Qxd7 Rxd7 20. h4 h6 21. Bd2
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Turun Shakinystävät"]
 [ECO "D55"]
-[PlyCount "102"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 c6 7. c5 Nbd7 8. Bd3
 h6 9. Bh4 Nh5 10. Bxe7 Qxe7 11. g4 Nhf6 12. Rg1 e5 13. Be2 Nh7 14. Qc2 e4 15.
