@@ -80,7 +80,7 @@ Nc6 16.Qxa5 Nxa5 17.Rfe1 Bf5 18.Ne5 Nb3 19.Nc4?? 0-1
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
 [WhiteElo "2072"]
-[WhiteElo "2023"]
+[BlackElo "2023"]
 [TimeControl "40/5400:1800"]
 
 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Bg7 5.Bxf6 Bxf6 6.Nxd5 Bg7 7.e3 c5 8.Qb3 e6
@@ -97,7 +97,7 @@ Nc6 16.Qxa5 Nxa5 17.Rfe1 Bf5 18.Ne5 Nb3 19.Nc4?? 0-1
 [White "Nurk, Ivo"]
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
-[Section "II division"]
+[Section "II Division"]
 [Board "2"]
 [WhiteTeam "Karjaan Ura"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
@@ -154,7 +154,7 @@ Rxa2 28.Nd4 Bc2 29.Bb6 Ra6 30.Nc6 Rxc7 (30...Bh4 31.Rxc2 Rxb6 32.Kf1 Rxc7
 [White "Sjöberg, Mikael"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
-[Section "III division"]
+[Section "III Division"]
 [Board "1"]
 [WhiteTeam "Itä-Helsingin Shakkikerho 4"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
