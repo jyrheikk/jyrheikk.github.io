@@ -455,7 +455,7 @@ Bf8 34.Ra8 Rxa8 35.Rxa8 Kf7 36.Rb8 Ba3 37.Rxb7 Ke7 38.c5 Kd8 39.c6 Bc8
 [Result "1-0"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Turun Työväen Shakki 10"]
+[BlackTeam "Turun Työväen Shakkikerho 10"]
 [TimeControl "300"]
 
 1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Bc4 Nxe4 6.Bxf7+ Kxf7 7.Nxe4 h6
@@ -844,7 +844,7 @@ h4 53.a5 h3 54.Kf2 h2 55.Kg2 Rxf4 1-0
 [Section "A"]
 [Board "1"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
-[BlackTeam "Shakkikerho Aatos"]
+[BlackTeam "Shakkiseura Aatos"]
 [WhiteElo "2051"]
 [BlackElo "2180"]
 [TimeControl "900"]
