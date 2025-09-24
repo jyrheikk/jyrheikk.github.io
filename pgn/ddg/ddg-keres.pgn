@@ -275,8 +275,7 @@ Fritz 4.01}) Nd7 23.Re6 cxb2?? 24.Rxb6 Ra1 25.Rxb4 Rxf1+ 26.Qxf1 Rxf7 27.Qb1
 [Black "?"]
 [Result "*"]
 [Termination "unterminated"]
-[Annotator "Schiller, Eric"]
-[Annotator "Heikkinen, Jyrki"]
+[Annotator "Schiller, Eric:Heikkinen, Jyrki"]
 
 1.e4 e6 2.d4 d5 3.c4 dxe4 4.Nc3 Nf6 5.f3 c5 6.d5 exd5 7.cxd5 exf3 8.Nxf3 Bd6
 9.Bb5+ Nbd7 10.O-O O-O 11.Bg5 h6 12.Bh4 a6 (12...Re8) 13.Bxd7 Bxd7 14.Ne4 Bf4
@@ -340,7 +339,7 @@ Qxe2 32.Re1 Qf3+ 33.Kg1 {+-}) 1-0
 [White "Heikkinen, Jyrki"]
 [Black "Tuomala, Tapio"]
 [Result "1-0"]
-[Section "I division"]
+[Section "I Division"]
 [Board "4"]
 [WhiteTeam "Lauttasaaren Shakkikerho"]
 [BlackTeam "Karhulan Työväen Shakki"]
