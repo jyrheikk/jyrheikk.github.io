@@ -4,6 +4,7 @@
 [Round "?"]
 [White "Lehto, Arto"]
 [Black "Piastowski"]
+[Mode "PM"]
 [ECO "A67"]
 [Result "1-0"]
 
@@ -205,6 +206,7 @@ pöytäkirjaan ja häipynyt pelipaikalta.}
 [Black "Apicella, Manuel (FRA)"]
 [Result "1-0"]
 [EventDate "1990.05.10"]
+[Mode "PM"]
 [Annotator "Lehto, Arto"]
 [ECO "Q85"]
 
@@ -336,6 +338,7 @@ huolimatta - itselleni harvinainen peli siis.}
 [Black "Kokkila, Tero"]
 [Result "1-0"]
 [EventDate "1990.??.??"]
+[Mode "PM"]
 [ECO "Q44"]
 
 1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 e6 5.Bg5 dxc4 {Ex-MM Mihail
