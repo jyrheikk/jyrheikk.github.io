@@ -74,7 +74,6 @@ Kg8 28.Qg6+ 1/2-1/2
 [WhiteTeam "Hangon Shakkiseura"]
 [BlackTeam "Lauttasaaren Shakkikerho 2"]
 [WhiteElo "1715"]
-[BlackElo "-"]
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.c3 Nf6 5.e5 dxe5 6.Nxe5 Nc6 7.Nxc6 bxc6
 8.cxd4 Bg4 9.f3 Bd7 10.Nc3 e6 11.a3 Qa5 12.Bd2 Qb6 13.Qc2 Rb8 14.O-O-O
@@ -675,7 +674,7 @@ Qb7 23.Qe3 Nb6 24.Qe2 bxc4 25.bxc4 Qa6 26.c5 Qxe2 27.Rxe2 Nd5 28.Ba1 Rb8
 [BlackElo "1645"]
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.c3 e6 7.Bg5 Be7 8.Nd2 O-O
-9.O-O a6 10.f4 e5 11.fxe5 dxe5 12.Nxc6 bxc6 13.Nc4 Qc7 14.Qc2  Be6 15.b3 Bxc4
-16.Bxc4 Rfd8 17.Bxf6 Bxf6 18.Qe2 Rd6 19.Rf3 Rad8 20.h3  Qa7+ 21.Kh1 Rd2 22.Qf1
-R8d6 23.Bxa6 Qd7 24.Kh2 Bg5 25.Be2 Bf4+ 26.g3  Rxe2+ 27.Kg1 Be3+ 28.Kh1 Rdd2
+9.O-O a6 10.f4 e5 11.fxe5 dxe5 12.Nxc6 bxc6 13.Nc4 Qc7 14.Qc2 Be6 15.b3 Bxc4
+16.Bxc4 Rfd8 17.Bxf6 Bxf6 18.Qe2 Rd6 19.Rf3 Rad8 20.h3 Qa7+ 21.Kh1 Rd2 22.Qf1
+R8d6 23.Bxa6 Qd7 24.Kh2 Bg5 25.Be2 Bf4+ 26.g3 Rxe2+ 27.Kg1 Be3+ 28.Kh1 Rdd2
 29.Rxe3 Rxe3 0-1
