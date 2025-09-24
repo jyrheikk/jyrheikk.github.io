@@ -411,7 +411,7 @@ Qxh3+ 33.Rg2 Rg6 0-1
 [White "Nybäck, Tomi"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
-[Section "II division"]
+[Section "II Division"]
 [Board "4"]
 [WhiteTeam "Järvenpään Shakkikerho"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
@@ -529,7 +529,7 @@ more moves recorded} 1/2-1/2
 [White "Issakainen, Ari"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
-[Section "I division"]
+[Section "I Division"]
 [Board "3"]
 [WhiteTeam "Shakkikerho Garde 2"]
 [BlackTeam "Lauttasaaren Shakkikerho"]
@@ -746,7 +746,7 @@ recorded} 1-0
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
 [WhiteElo "2020"]
-[WhiteElo "2041"]
+[BlackElo "2041"]
 [TimeControl "1200+10"]
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 d6 5.Qc2 d5 6.e3 Nc6 7.a3 Be6 8.Nc3
@@ -763,7 +763,7 @@ Nxc3 9.Qxc3 a5 10.Bd2 g5 11.Nd4 Qd7 12.Nxe6 fxe6 13.Be2 h5 14.O-O g4
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
 [WhiteElo "2423"]
-[WhiteElo "2041"]
+[BlackElo "2041"]
 [WhiteTitle "IM"]
 [TimeControl "1200+10"]
 
