@@ -7,7 +7,6 @@
 [Result "*"]
 [WhiteTeam "Suomalainen Shakkikerho"]
 [BlackTeam "Lahden Shakkikerho"]
-[SetUp "1"]
 [FEN "rn1qkb1r/pp3pp1/2p2np1/8/P1BpP1P1/2N4P/1P3P2/R1BQK2R w KQkq - 0 12"]
 
 12.e5! Bb4 (12...dxc3 13.Bxf7+ Kxf7 14.Qxd8 cxb2 15.Qc7+ Ke6 16.Bxb2!) 13.Bg5
@@ -38,7 +37,6 @@ Qxd2+ 20.Kxd2 Na6 21.Bxd5 cxd5 22.Rxd5 Nc5 *
 [Result "1-0"]
 [WhiteTitle "FM"]
 [BlackTitle "IM"]
-[SetUp "1"]
 [FEN "4R3/p5pk/7p/r1B2P2/1pn1p1PP/8/n4K2/6N1 w - - 0 46"]
 
 46.g5! hxg5 (46...Rxc5 47.g6#) 47.Nh3! gxh4 48.Ng5+?! (48.Re6!) Kh6 49.Nxe4
@@ -56,7 +54,6 @@ Nh3+ {=}) 58.Bf8!! Nd6 (58...b2 59.Rh7) 59.Bxh6! b2 60.Bf8! Nxf5 61.Rb7! Nd4
 [Result "*"]
 [WhiteTitle "WC"]
 [BlackTitle "FM"]
-[SetUp "1"]
 [FEN "5r1k/2p4p/p1Np1r2/3Pp1qn/4Ppb1/P1NQ4/1PP2RPP/4K2R b - - 0 24"]
 
 24...Qh4! 25.Qf1! Rh6 26.Nb4?! (26.Rg1! Qxh2 (26...Rhf6 {=}) 27.g3! Qh3
@@ -72,7 +69,6 @@ Bxf3 32.Qxh1 Rxh1 33.Kf2 Bg4 {-/+} *
 [Result "1/2-1/2"]
 [WhiteTitle "WC"]
 [BlackTitle "FM"]
-[SetUp "1"]
 [FEN "8/7p/5k2/3P4/5K2/P4N2/8/5r2 b - - 0 50"]
 
 50...Ra1? (50...Rd1! 51.Ng5 Kg6!) 51.Ng5! h5 52.Ne4+ Kg6! 53.d6! Rxa3?
