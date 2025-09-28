@@ -481,6 +481,25 @@ Be7 16.Bf4 O-O-O 17.Nxc7 Rdg8 18.Bxf7 R8g7 19.Bd5 Nxd5 20.Rf1 Nxf4 21.Nb5 Ne5
 [Site "Helsinki FIN"]
 [Date "2025.09.28"]
 [Round "2"]
+[White "Louhivaara, Jere"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Helsingin Shakkiklubi 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 g6 6.Nf3 Bg7 7.Bd3 O-O 8.O-O Bg4
+9.c3 a5 10.h3 Be6 11.Re1 Bd5 12.Be3 b5 13.b3 Bxf3 14.Qxf3 Nd5 15.Bd2 Na6
+16.Ne4 Rc8 17.a4 Nac7 18.Qe2 b4 19.c4 Nc3 20.Nxc3 bxc3 21.Bxc3 Bxd4 22.Bxd4
+Qxd4 23.Rad1 Qc3 24.Be4 Ne6 25.Rd3 Qb4 26.Qd2 Qb6 27.Qc3 Nc5 28.Rde3 Rb8
+29.Bc2 e6 30.Qf6 Qd8 31.Qe5 Qd2 32.R1e2 Qc1+ 33.Kh2 Qa3 34.h4 h5 35.Rg3 Rb7
+36.Qxh5 Qa1 37.Qxc5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "2"]
 [White "Särelä, Juha"]
 [Black "Camden-Dunne, Tamerlane"]
 [Result "0-1"]
