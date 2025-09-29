@@ -276,7 +276,7 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [FEN "2kr1b1r/ppp2pp1/2q2n2/3p3p/1n3P2/P1NPPQ1P/1PPK2B1/R1B4R b - - 0 14"]
 
 14...Ne4+ 15.Nxe4? (15.Ke2 Nxc3+ 16.bxc3 Nxc2) Qxc2+ 16.Ke1 dxe4 17.Qe2 Qxe2+
-(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ 0-1 {in move 26}
+(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ {White resigned in move 26} 0-1
 
 [Event "Lauttasaari Chess Club 60th Anniversary"]
 [Site "Helsinki FIN"]

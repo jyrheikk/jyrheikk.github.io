@@ -959,8 +959,8 @@ more moves recorded} 0-1
 28.Ra5 Kd7 29.Re5 Be6 30.Re2 Bf5 31.Kg2 Be4+ 32.f3 Bb7 33.g4 Nf7
 34.Kg3 Ng5 35.Re3 Nf7 36.a3 Nd6 37.Rd3 Ke7 38.c5 Nf7 39.b4 Bc6 40.h4
 h6 41.f4 Ke6 42.Re3+ Kd7 43.Rb3 (43.f5) Bb5 44.Rb2 Ke6 45.Rd2 Bc6
-46.Kf2 h5 47.g5 Kf5 48.Kg3 1/2-1/2 (48.Kg3 Bb5 49.Rd1 Ke6 50.Re1+ Kd7
-51.f5 {+-})
+46.Kf2 h5 47.g5 Kf5 48.Kg3 (48.Kg3 Bb5 49.Rd1 Ke6 50.Re1+ Kd7 51.f5
+{+-}) 1/2-1/2
 
 [Event "Finland Team Ch 2012-2013"]
 [Site "Helsinki FIN"]
@@ -1103,7 +1103,7 @@ Kxf8 21.Bxf6 Nxf6 22.Qd8+ Kf7 23.Qc7+ Kg8 24.Rd8+ Kh7 25.Rxc8 f4 1-0
 [Round "6"]
 [White "Laato, Samuli"]
 [Black "Kauppala, Pekka"]
-[Result "1/2-1/2"]
+[Result "1-0"]
 [Section "II Division"]
 [Stage "Qualifier"]
 [Board "2"]
