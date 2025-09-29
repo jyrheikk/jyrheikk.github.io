@@ -494,6 +494,25 @@ Kg4 50.Bc7 Kf5 51.Bb6 Kg4 52.Bc7 Kf5 1/2-1/2
 [Site "Helsinki FIN"]
 [Date "2025.09.28"]
 [Round "3"]
+[White "Kumar, Ashwin"]
+[Black "Torvinen, Eetu"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+[ECO "E71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nc6 7.d5 Nb8 8.Nge2 e5 9.g4
+Na6 10.Ng3 Ne8 11.Bd3 Nc5 12.Bc2 a5 13.a3 Bf6 14.Qc1 Bh4 15.Nce2 Ng7 16.Bh6 c6
+17.O-O cxd5 18.cxd5 a4 19.Kg2 Bd7 20.f4 exf4 21.Qxf4 Bb5 22.Rf3 Qe7 23.g5 Bxg3
+24.Nxg3 Nd7 25.Bd3 Bxd3 26.Rxd3 f6 27.gxf6 Nxf6 28.Qe3 Rac8 29.Rc3 Rce8 30.Re1
+Rf7 31.Bg5 Qd7 32.Qd4 Nfh5 33.Rc4 Nxg3 34.Kxg3 Nh5+ 35.Kg2 Ref8 36.Re2 Rf3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
 [White "Männistö, Kari"]
 [Black "Jönhede, Marko"]
 [Result "1/2-1/2"]
