@@ -437,6 +437,63 @@ Be7 16.Bf4 O-O-O 17.Nxc7 Rdg8 18.Bxf7 R8g7 19.Bd5 Nxd5 20.Rf1 Nxf4 21.Nb5 Ne5
 [Site "Helsinki FIN"]
 [Date "2025.09.28"]
 [Round "3"]
+[White "Blinkov, Pavel"]
+[Black "Lehti, Juhani"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Qb6 5.Qb3 c4 6.Qc2 e5 7.dxe5 Bf5 8.Qc1 g5 9.Bg3
+h5 10.h3 Bg7 11.Nf3 g4 12.hxg4 hxg4 13.Rxh8 Bxh8 14.Nd4 Nge7 15.Nd2 Bxe5
+16.Nxf5 Nxf5 17.Bxe5 Nxe5 18.Qc2 Qe6 19.O-O-O O-O-O 20.e4 Ne7 21.b3 b5 22.exd5
+Rxd5 23.Qe4 f5 24.Qe3 Nd3+ 25.Bxd3 Qxe3 26.Bxf5+ Nxf5 27.fxe3 Nxe3 28.Rg1 Rd3
+29.Ne4 cxb3 30.axb3 b4 31.cxb4 Rxb3 32.Kd2 Nxg2 33.Nd6+ Kd7 34.Nc4 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
+[White "Aakio, Seppo"]
+[Black "Myller, Janne"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5 7.exd5 cxd5 8.O-O
+c6 9.Re1+ Be7 10.h3 O-O 11.Bf4 Be6 12.Nd2 Bd6 13.Qf3 Bxf4 14.Qxf4 Qb8 15.Qxb8
+Rfxb8 16.b3 a5 17.a4 Nd7 18.Re3 Nc5 19.Rae1 g6 20.Nf3 Rb4 21.Bf1 Ne4 22.Bd3
+Nc5 23.Bf1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
+[White "Hämäläinen, Jussi"]
+[Black "Kivinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "A04"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 c5 6.e4 Nc6 7.Re1 d6 8.Nbd2 Qc7
+9.c3 Rb8 10.a3 Nd7 11.Nf1 Nde5 12.Ne3 e6 13.Nh4 b5 14.f4 Nd7 15.Nf3 Nb6 16.d4
+cxd4 17.cxd4 d5 18.e5 Nc4 19.b3 Nxe3 20.Bxe3 b4 21.a4 Ba6 22.Rc1 Rfc8 23.g4
+Qd7 24.Bf1 Bxf1 25.Rxf1 Bf8 26.Qd3 Na5 27.Bd2 Rxc1 28.Rxc1 Rc8 29.Rxc8 Qxc8
+30.Ne1 Qb7 31.Ng2 Nc6 32.Be3 Nb8 33.Kf2 Qc6 34.Bd2 Nd7 35.f5 exf5 36.gxf5 gxf5
+37.Nf4 Bh6 38.Qxf5 Bxf4 39.Bxf4 Nf8 40.Qg5+ Ng6 41.Qd8+ Kg7 42.Qf6+ Qxf6
+43.exf6+ Kxf6 44.Bd6 Ne7 45.Bxb4 Nc6 46.Bc5 a5 47.Bb6 Kf5 48.Kf3 Kg5 49.Ke3
+Kg4 50.Bc7 Kf5 51.Bb6 Kg4 52.Bc7 Kf5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
 [White "Männistö, Kari"]
 [Black "Jönhede, Marko"]
 [Result "1/2-1/2"]
