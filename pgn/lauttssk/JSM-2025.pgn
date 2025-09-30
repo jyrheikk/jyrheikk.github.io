@@ -513,6 +513,25 @@ Rf7 31.Bg5 Qd7 32.Qd4 Nfh5 33.Rc4 Nxg3 34.Kxg3 Nh5+ 35.Kg2 Ref8 36.Re2 Rf3 0-1
 [Site "Helsinki FIN"]
 [Date "2025.09.28"]
 [Round "3"]
+[White "Turunen, Tuomo"]
+[Black "Modanese, Augusto"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Nf6 5.Nc3 Bb4 6.a3 Bd6 7.cxd5 O-O 8.Nf3 h6
+9.Be2 Nbd7 10.O-O Nb6 11.Ne5 Nfxd5 12.Nc4 Nxc4 13.Bxc4 c6 14.Qh5 Nb6 15.Bb3
+Qf6 16.Be3 Re8 17.Rfe1 Bf5 18.Rad1 Rad8 19.d5 Bg6 20.Qg4 Nxd5 21.Nxd5 cxd5
+22.Bxd5 b6 23.Bd4 Rxe1+ 24.Rxe1 Bxh2+ 25.Kxh2 Qd6+ 26.Re5 Re8 27.Qxg6 Qxg6
+28.Rxe8+ Kh7 29.Be4 f5 30.Re7 Qh5+ 31.Kg1 Qd1+ 32.Kh2 Qxd4 33.Bxf5+ Kg8
+34.Be6+ Kf8 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
 [White "Männistö, Kari"]
 [Black "Jönhede, Marko"]
 [Result "1/2-1/2"]
@@ -537,6 +556,25 @@ Rf7 31.Bg5 Qd7 32.Qd4 Nfh5 33.Rc4 Nxg3 34.Kxg3 Nh5+ 35.Kg2 Ref8 36.Re2 Rf3 0-1
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
 
 1.d4 e6 2.c4 f5 3.g3 Nf6 4.Nf3 c6 5.Bg2 d5 6.b3 Bd6 7.Ba3 Bxa3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.28"]
+[Round "3"]
+[White "Horttanainen, Emil"]
+[Black "Antonov, Alexei"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Joensuun Shakkikerho"]
+
+1.e4 c6 2.d4 d5 3.e5 Qb6 4.c4 dxc4 5.Bxc4 Bf5 6.Nc3 e6 7.Nf3 Ne7 8.O-O Nd5
+9.Bd3 Bg6 10.Nxd5 cxd5 11.Be3 Nc6 12.Bxg6 hxg6 13.Qd2 Be7 14.Rac1 Rh5 15.Rfd1
+Kd7 16.a3 Rah8 17.g3 g5 18.Bxg5 Bxg5 19.Nxg5 Rxh2 20.Nf3 Rh1+ 21.Kg2 Rxd1
+22.Rxd1 f6 23.exf6 gxf6 24.Qf4 Qd8 25.b4 Rh5 26.b5 Na5 27.Ne5+ Ke7 28.Ng4 f5
+29.Rc1 Nc4 30.Ne5 Qd6 31.Nxc4 (31.g4 Rh7 32.Qg5+) Qxf4 32.gxf4 dxc4 33.Rxc4
+Kd6 34.Rc5 Rh7 35.a4 b6 36.Re5 Rf7 37.Kf3 Rf6 38.Ke3 1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
