@@ -1,10 +1,11 @@
-[Event "SM-liiga"]
+[Event "Finland Team Ch"]
 [Site "?"]
 [Date "1979.??.??"]
 [Round "?"]
 [White "Hurme, Harri"]
 [Black "Sorri, Juhani"]
 [Result "*"]
+[Section "M"]
 [WhiteTeam "Suomalainen Shakkikerho"]
 [BlackTeam "Lahden Shakkikerho"]
 [FEN "rn1qkb1r/pp3pp1/2p2np1/8/P1BpP1P1/2N4P/1P3P2/R1BQK2R w KQkq - 0 12"]
@@ -33,7 +34,7 @@ Qxd2+ 20.Kxd2 Na6 21.Bxd5 cxd5 22.Rxd5 Nc5 *
 [Date "1989.??.??"]
 [Round "?"]
 [White "Hurme, Harri"]
-[Black "Rytshagov, Mihail"]
+[Black "Rychagov, Mikhail"]
 [Result "1-0"]
 [WhiteTitle "FM"]
 [BlackTitle "IM"]
@@ -45,11 +46,11 @@ Kh5 50.Kf3! Ra6! 51.Bd4! Nc3! 52.Bxg7! Nxe4! 53.Kf4! Rh6! 54.Bxh6! Ned6
 Nh3+ {=}) 58.Bf8!! Nd6 (58...b2 59.Rh7) 59.Bxh6! b2 60.Bf8! Nxf5 61.Rb7! Nd4
 62.Ba3 Ne2+ 1-0
 
-[Event "Karpov-simultaani"]
+[Event "Karpov Simul"]
 [Site "Valkeakoski FIN"]
 [Date "1996.??.??"]
 [Round "?"]
-[White "Karpov, Anatoli"]
+[White "Karpov, Anatoly"]
 [Black "Hurme, Harri"]
 [Result "*"]
 [WhiteTitle "WC"]
@@ -60,11 +61,11 @@ Nh3+ {=}) 58.Bf8!! Nd6 (58...b2 59.Rh7) 59.Bxh6! b2 60.Bf8! Nxf5 61.Rb7! Nd4
 28.Qxh3 Bxh3) Ng3! 27.hxg3 Qxh1 28.gxf4 Rxf4 29.Rxf4 exf4 30.Nd3 f3 31.gxf3
 Bxf3 32.Qxh1 Rxh1 33.Kf2 Bg4 {-/+} *
 
-[Event "Karpov-simultaani"]
+[Event "Karpov Simul"]
 [Site "Valkeakoski FIN"]
 [Date "1996.??.??"]
 [Round "?"]
-[White "Karpov, Anatoli"]
+[White "Karpov, Anatoly"]
 [Black "Hurme, Harri"]
 [Result "1/2-1/2"]
 [WhiteTitle "WC"]
