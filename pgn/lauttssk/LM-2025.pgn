@@ -247,6 +247,25 @@ Bc5 23.Rh1 Nd4+ 24.Kf1 Ne6 25.Ba4+ b5 26.Nxb5 Qd6 27.Nxd6+ Ke7 28.Nxb7 Rc8
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2025.05.15"]
+[Round "3"]
+[White "Salo, Mikko"]
+[Black "Bhandari, Sushil"]
+[Result "1-0"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 cxd4 6.cxd4 Bd7 7.Bd3 Bb5 8.O-O Bxd3
+9.Qxd3 Nc6 10.Nc3 a6 11.a3 f6 12.Re1 fxe5 13.Nxe5 Nxd4 (13...Qxd4 14.Qh3 Nxe5
+15.Qxe6+ Be7 16.Rxe5) 14.Nxd5 Qc5 15.Nc7+ Qxc7 16.Qxd4 Rd8 17.Qg4 Qe7 18.Bg5
+Nf6 19.Bxf6 Qxf6 20.Ng6 Kf7 21.Nxh8+ Kg8 22.Qxe6+ Qxe6 23.Rxe6 Kxh8 24.Rae1
+Kg8 25.h4 a5 26.Rb6 Rd7 27.Re8 Kf7 28.Rb8 Rd1+ 29.Kh2 Bd6+ 30.Rxd6 Rxd6
+31.Rxb7+ Kf6 32.b4 axb4 33.axb4 Rd2 34.f3 h6 35.Kg3 g5 36.hxg5+ hxg5 37.Rc7
+Rb2 38.Rc4 Kf5 39.Rc5+ Kg6 40.b5 Kf6 41.Kh2 Rb1 42.g4 Rb3 43.Kg2 Rb2+ 44.Kf1
+Rb1+ 45.Ke2 Rb3 46.Rc6+ Ke5 47.b6 Kf4 48.Rf6+ Kg3 49.Kd2 Rxf3 50.Rxf3+ Kxf3
+51.b7 Kxg4 52.b8=Q Kh4 53.Ke2 Kh3 54.Kf2 Kg4 55.Qf8 Kh4 56.Kg2 Kg4 57.Qf3+ Kh4
+58.Qh3# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2025.05.19"]
 [Round "3"]
 [White "Sapokaite, Patricija"]
@@ -562,6 +581,21 @@ Rxb5 56.Ra6+ Kd5 57.Rxe6 Rb4 58.Re5+ Kd4 59.Kxf5 Rb8 60.Re6 Rb5+ 61.Kf6 Rb8
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2025.08.??"]
+[Round "5"]
+[White "Salo, Mikko"]
+[Black "Zhukov, Matvei"]
+[Result "1-0"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h5 7.Nf3 Nf6 8.Bd3 Bxd3
+9.Qxd3 e6 10.Bd2 Nbd7 11.O-O-O Qc7 12.Kb1 O-O-O 13.Ng5 Nb6 14.Ne2 Nfd5 15.c4
+Nf6 16.Bf4 Qd7 17.Qc2 Ng4 18.Rhf1 f6 19.Ne4 Be7 20.Nc5 Bxc5 21.dxc5 Qe7
+22.cxb6 axb6 23.f3 Nh6 24.Qa4 e5 25.Bh2 Kc7 26.f4 Ng4 27.Bg1 Ra8 28.Qb3 c5
+29.fxe5 Qxe5 30.Nf4 Qe4+ 31.Ka1 g5 32.Nd5+ Kb8 33.Rfe1 Qh7 34.Re7 Qg8 35.Qxb6
+Qc8 36.Rc7 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2025.09.17"]
 [Round "6"]
 [White "Heikkinen, Jyrki"]
@@ -590,3 +624,15 @@ Kf7 24.Rf1 Rg8 25.Rxf6+ Bxf6 26.Qxf6+ 1-0
 h6 16.Qc2 Qxd4+ 17.Be3 Qe5 18.Rae1 Qd6 19.Qb3 b5 20.Re2 Bf8 21.Qc2 Qd7 22.Rd1
 Rxe3 23.Kxe3 Bc5+ 24.Kd2 d4 25.Kc1 b4 26.c4 a5 27.b3 Nd5 28.Re5 Nc3 29.Rde1 d3
 30.Qd2 a4 31.a3 axb3 32.Kb2 Qa4 33.axb4 Bd4 34.Ra5 Qxb4 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.09.23"]
+[Round "6"]
+[White "Sotala, Jonne"]
+[Black "Salo, Mikko"]
+[Result "0-1"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Ne2 cxd4 6.cxd4 Bg4 7.Nbc3 e6 8.h3 Bxe2
+9.Bxe2 Nge7 10.Be3 Nf5 11.O-O Be7 12.Rc1 O-O 13.Bd3 Nxe3 14.fxe3 Bg5 15.Qf3
+Rc8 16.Rf2 Nxd4 17.Qg3 Bh4 18.Qg4 Bxf2+ 19.Kxf2 Nc6 0-1
