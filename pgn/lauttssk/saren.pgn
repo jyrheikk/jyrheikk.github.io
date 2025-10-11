@@ -1,0 +1,52 @@
+[Event "Youth Finnish Ch"]
+[Site "Helsinki FIN"]
+[Date "1959.06.09"]
+[Round "?"]
+[White "Saren, Ilkka"]
+[Black "Havansi, Erkki"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 d5 6.Nf3 O-O 7.O-O Nc6 8.a3 Bxc3
+9.bxc3 dxc4 10.Bxc4 Qc7 11.Ba2 e5 12.h3 h6 13.Bb2 Re8 14.d5 Na5 15.c4 Ne4
+16.Nd2 Nd6 17.Rc1 b6 18.Qh5 Bf5 19.f4 exf4 20.exf4 Bg6 21.Qg4 Qc8 22.f5 Nxf5
+23.Bb1 Ne3 24.Rxf7 Nxg4 25.Rxg7+ Kh8 26.Rxg6+ Ne5 27.Nf3 Qc7 28.d6 Qh7 29.Nxe5
+Qxg6 30.Nxg6+ Kg8 31.Be52 Nc6 32.Bg3 Nd4 33.Ne7+ Rxe7 34.dxe7 Ne2+ 35.Kf2 Nxc1
+36.Bg6 Nb3 37.e8Q+ Rxe8 38.Bxe8 Nd2 39.Bb5 Nb1 40.a4 Nc3 1-0
+
+[Event "Me-luokan turnaus"]
+[Site "Helsinki FIN"]
+[Date "1960.08.19"]
+[Round "?"]
+[White "Saren, Ilkka"]
+[Black "Kiviaho, Allan"]
+[WhiteTitle "FM"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 Be7 8.O-O b5
+9.f4 b4 10.Na4 Nxe4? 11.f5!! d5 (11...e5 12.Bxf7+! Kxf7 13.Ne6 Qd7 (13...Qa5?
+14.Qh5+ g6 15.fxg6+ Kxe6 16.g7 Rd8 17.Qg4+) 14.Nb6 Qc6 15.Qh5+ Kg8 16.Nxc8!
+Qxc8 17.Qg4 Bf6 18.Qxe4) 12.fxe6 fxe6 13.Nxe6! Bxe6 14.Qh5+ Kd7 (14...g6
+15.Qe5) 15.Bxd5 Nf6 16.Bxe6+ Kxe6 17.Re1+ Kd7 18.Rd1+ Bd6 19.Qf7+! (19.Rxd6!?
+Kxd6 20.Qf7! Ke5!! 21.Be3 (21.Bf4+) {=}) Kc8 (19...Qe7 20.Rxd6+! Kxd6 21.Bf4+
+Kd7 22.Rd1+) 20.Qe6+ Kc7 21.Bf4 Ne8 22.Rxd6 Nxd6 23.Rd1 Qf6 24.Bxd6+ Kb7
+25.Qd5+ (25.Qd5+ Nc6 26.Nc5+ Kb6 27.Nd7+ Kb7 28.Nxf6) 1-0
+
+[Event "Finland Ch"]
+[Site "Helsinki FIN"]
+[Date "1974.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Saren, Ilkka"]
+[Black "Alivirta, Orri"]
+[WhiteTitle "FM"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 Nbd7
+9.O-O-O b5 10.Bxb5 axb5 11.Ndxb5 Qb8 12.e5 Bb7 13.Qe2 dxe5 14.Qc4 Bc5
+(14...Be7 15.Nc7+ Kf8 16.Rxd7 Nxd7 17.Rd1 {=}) 15.Bxf6 gxf6 16.Rxd7 Be3+
+17.Kb1 Kxd7 18.Rd1+ Bd4 (18...Ke7 19.Qb4+ Ke8 20.Nd6+ Kf8 21.Nf5+ Kg8 22.Nxe3
+{=}) 19.fxe5 fxe5 20.Nxd4 exd4 21.Qxd4+ Bd5 (21...Ke7 22.Qc5+ Kf6 23.Rf1+ Kg6
+24.Qe7 f5 25.Qxe6+ Kg7 26.Qe7+ Kg6 27.h4 Ra5 28.h5+ Kxh5 29.Qf7+ Kh4 30.Qf6+
+Kg3 31.Qg5+ Kh2 32.Qh4+ Kxg2 33.Rf2+ Kg1 34.Ne2# {Tal–Stean, Hastings 1974})
+22.Nxd5 exd5 23.Qxd5+ Ke7 24.Qc5+ Kf6 25.Rf1+ Ke6 26.Qf5+ Kd6 27.Qf6+ Kc7
+28.Qxf7+ Kc8 29.Qe6+ Kb7 30.Rf7+ Qc7 31.Qd5+ Kb8 32.Qxa8+ 1-0
