@@ -52,7 +52,7 @@ Rxf7 21.Qxc7 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
-[Date "1999.??.??"]
+[Date "1999.04.07"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Rantanen, Matti"]
@@ -63,7 +63,7 @@ Rxf7 21.Qxc7 1-0
 
 [Event "Piratti Tournament"]
 [Site "Helsinki FIN"]
-[Date "2000.??.??"]
+[Date "2000.05.20"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Suominen, Antti"]
@@ -130,7 +130,7 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
-[Date "2003.??.??"]
+[Date "2003.03.19"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Paukku, Jukka"]
@@ -141,7 +141,7 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
-[Date "2003.??.??"]
+[Date "2003.11.05"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Siikonen, Timo"]
@@ -150,18 +150,6 @@ Kc6 21.Be4+ Qd5 22.Rxc7#) 1-0
 
 27.Rf6 Kh7 (27...Qc6 28.d5) 28.Rxh6+ Kxh6 29.Rf6+ Kh7 30.Qxg5 Rg8
 31.Rh6# 1-0
-
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2004.??.??"]
-[Round "?"]
-[White "Sobenin, Evgeny"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[FEN "r1b1k2r/3p1pbp/6p1/qppP1p2/1nP5/1P3NP1/3NPP1P/1QR1KB1R b Kk - 0 14"]
-
-14...Qc7 15.Kd1 (15.Bg2 Ra1 16.Qxa1 Bxa1 17.Rxa1 Nc2+) Ra2 (15...Ra2 16.Bg2
-Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -182,6 +170,18 @@ Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 31...Bf3 (31...Rxc2 {-/+}) 32.Qxb6 Nd5 33.Qxc5+? (33.Qh6+) Kf7 34.Qxd4 f4
 35.gxf4 gxf4 {the mate net is ready} 36.Qa7+ Kg6 37.Qa6+ Kg5 38.d4 Ne3+ 39.Ke1
 Nxc2+ 40.Kf1 Be2+ 41.Qxe2 Rxe2 42.Kxe2 Nxd4+ {0-1 in 53} 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2004.11.17"]
+[Round "?"]
+[White "Sobenin, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "r1b1k2r/3p1pbp/6p1/qppP1p2/1nP5/1P3NP1/3NPP1P/1QR1KB1R b Kk - 0 14"]
+
+14...Qc7 15.Kd1 (15.Bg2 Ra1 16.Qxa1 Bxa1 17.Rxa1 Nc2+) Ra2 (15...Ra2 16.Bg2
+Rb2 17.Qa1 Rxd2+ 18.Kxd2 Bxa1) 0-1
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
@@ -213,8 +213,8 @@ Qg6 23.Qf4 {this move I missed in my analysis} e5! 24.dxe5 Bc8 25.Nh4 Qg4
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
-[Date "2005.??.??"]
-[Round "?"]
+[Date "2005.06.02"]
+[Round "4"]
 [White "Lehto, Arto"]
 [Black "Heikkinen, Jyrki"]
 [Result "*"]
@@ -228,8 +228,8 @@ move in my analysis during the game} 38.Qb2 Qc7 * {Black is winning}
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
-[Date "2007.??.??"]
-[Round "?"]
+[Date "2007.03.21"]
+[Round "2"]
 [White "Heikkinen, Jyrki"]
 [Black "Siikonen, Timo"]
 [Result "1-0"]
@@ -240,7 +240,7 @@ move in my analysis during the game} 38.Qb2 Qc7 * {Black is winning}
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
-[Date "2007.??.??"]
+[Date "2007.09.10"]
 [Round "?"]
 [White "Poduval, Praseet"]
 [Black "Heikkinen, Jyrki"]
@@ -265,18 +265,6 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 [FEN "r1b1k2r/1p3ppp/pn2p3/2qpP3/5P2/P1N5/1PPQ2PP/2KR1B1R w kq - 2 14"]
 
 14.Ne4! Qc6 15.Nd6+ Ke7? 16.Qb4 1-0
-
-[Event "Piratti Tournament"]
-[Site "Helsinki FIN"]
-[Date "2008.??.??"]
-[Round "?"]
-[White "Kauppala, Pekka"]
-[Black "Heikkinen, Jyrki"]
-[Result "0-1"]
-[FEN "2kr1b1r/ppp2pp1/2q2n2/3p3p/1n3P2/P1NPPQ1P/1PPK2B1/R1B4R b - - 0 14"]
-
-14...Ne4+ 15.Nxe4? (15.Ke2 Nxc3+ 16.bxc3 Nxc2) Qxc2+ 16.Ke1 dxe4 17.Qe2 Qxe2+
-(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ {White resigned in move 26} 0-1
 
 [Event "Lauttasaari Chess Club 60th Anniversary"]
 [Site "Helsinki FIN"]
@@ -322,14 +310,27 @@ gxf6 15.Ne4 Rhg8+ 16.Ng3 Ne5 (16...Rxg3+!) 17.Qh5?? (17.Qe2 Rxd2!) Qxh5 0-1
 28.Rbd1!? Qc5+ 29.Kh1 Re3?? (29...Qxc4! {-/+}) 30.Qxc6+ Qxc6+ 31.bxc6 Rxc3?
 (31...Kb8 32.Nb5 {+/-}) 32.c7 Rb8 33.Rd8 Nd7 34.Rxb8+ Nxb8 35.c8=Q 1-0
 
+[Event "Piratti Tournament"]
+[Site "Helsinki FIN"]
+[Date "2008.11.15"]
+[Round "?"]
+[White "Kauppala, Pekka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[FEN "2kr1b1r/ppp2pp1/2q2n2/3p3p/1n3P2/P1NPPQ1P/1PPK2B1/R1B4R b - - 0 14"]
+
+14...Ne4+ 15.Nxe4? (15.Ke2 Nxc3+ 16.bxc3 Nxc2) Qxc2+ 16.Ke1 dxe4 17.Qe2 Qxe2+
+(17...exd3! 18.Qd2 Qc4) 18.Kxe2 exd3+ {White resigned in move 26} 0-1
+
 [Event "Nokia Correspondence Tournament"]
 [Site "Helsinki FIN"]
-[Date "2009.??.??"]
+[Date "2009.03.11"]
 [Round "?"]
 [White "Heikkinen, Jyrki"]
 [Black "Suihko, Ismo"]
 [Result "1-0"]
 [FEN "r4r2/pp1nbpk1/2p1pn2/q5N1/3P2P1/3BB2Q/PPP2R2/5RK1 w - - 0 18"]
+[Mode "ICS"]
 
 {Analysis position of the game} 18.Qh6+! Kxh6 (18...Kg8 19.Rh2) 19.Nxe6+ Qg5
 20.Bxg5# 1-0
@@ -429,17 +430,6 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 
 17.h5! bxc4 18.hxg6 Bxf6 19.Rxh7+ Kg8 20.Qh5 Bg7 21.Rh8+ 1-0
 
-[Event "Casual Game"]
-[Site "Helsinki FIN"]
-[Date "2010.??.??"]
-[Round "?"]
-[White "Heikkinen, Jyrki"]
-[Black "Wigelius, Pentti"]
-[Result "1-0"]
-[FEN "r2q3k/ppp1b2p/4QrpB/8/2Bp1N2/5P2/PPP4P/2KR2R1 w - - 0 21"]
-
-21.Nh5! Rxe6 22.Bg7+ Kg8 23.Bxe6# 1-0
-
 [Event "Finland Team Ch 09/10"]
 [Site "Helsinki FIN"]
 [Section "II Division:2"]
@@ -481,6 +471,17 @@ Qh1+ 22.Bf1 Qxf3 {-+} *
 
 10.O-O! (10.Qd2 {continued the game, 0-1 in 42}) Bxe3 11.fxe3 Rxe3? (11...Nc6
 {+/=}) 12.Ne5! fxe5?? 13.Qh5 {+-} *
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2010.06.02"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Wigelius, Pentti"]
+[Result "1-0"]
+[FEN "r2q3k/ppp1b2p/4QrpB/8/2Bp1N2/5P2/PPP4P/2KR2R1 w - - 0 21"]
+
+21.Nh5! Rxe6 22.Bg7+ Kg8 23.Bxe6# 1-0
 
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
@@ -971,7 +972,7 @@ exf3 23.fxe5 Rxe5 24.Rag1 Re4+ 25.Kg5 Kg7 26.Rg4 h6+ 27.Kh4 g5# *
 
 [Event "Finland Blitz Team Ch"]
 [Site "Pori FIN"]
-[Date "2017.??.??"]
+[Date "2017.08.06"]
 [Round "?"]
 [White "Hytönen, Harri"]
 [Black "Heikkinen, Jyrki"]
@@ -985,13 +986,16 @@ exf3 23.fxe5 Rxe5 24.Rag1 Re4+ 25.Kg5 Kg7 26.Rg4 h6+ 27.Kh4 g5# *
 
 [Event "Finland Blitz Team Ch"]
 [Site "Jyväskylä FIN"]
-[Date "2018.??.??"]
-[Round "?"]
+[Date "2018.08.05"]
+[Round "11"]
 [White "Heikkinen, Jyrki"]
 [Black "Hentunen, Asko"]
 [Result "*"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Matinkylän Shakkikerho"]
+[WhiteElo "2045"]
+[BlackElo "2308"]
+[BlackTitle "FM"]
 [TimeControl "300"]
 [FEN "r3q1k1/1p1bB3/p2pp1p1/2p1b3/P1B1P2Q/2N4P/1Pn3P1/5RK1 w - - 0 26"]
 
