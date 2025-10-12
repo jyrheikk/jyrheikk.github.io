@@ -596,6 +596,21 @@ Qc8 36.Rc7 1-0
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
+[Date "2025.08.??"]
+[Round "5"]
+[White "Sapokaite, Patricija"]
+[Black "Nguyen, Huong"]
+[Result "1-0"]
+
+1.d4 d5 2.Bf4 Nc6 3.Nf3 Bf5 4.e3 e6 5.c3 a6 6.Qb3 b5 7.Nbd2 Nf6 8.Ne5 Nxe5
+9.dxe5 Nd7 10.Be2 h6 11.h4 c5 12.g4 Bh7 13.g5 Bf5 14.gxh6 gxh6 15.a4 c4 16.Qa2
+b4 17.a5 Rb8 18.e4 Bg6 19.exd5 bxc3 20.bxc3 Nc5 21.Nxc4 Be4 22.f3 Bxd5 23.Rd1
+Rb3 24.Nd6+ Bxd6 25.exd6 Rxc3 26.Qa1 Qf6 27.Be3 Nb3 28.Qa4+ Bc6 29.d7+ Bxd7
+30.Qxd7+ Kf8 31.Qd6+ Qe7 32.Qb8+ Kg7 33.Qe5+ f6 34.Qxc3 Rb8 35.Rg1+ Kf7
+36.Bxh6 Rg8 37.Rxg8 Kxg8 38.Qxb3 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
 [Date "2025.09.17"]
 [Round "6"]
 [White "Heikkinen, Jyrki"]
