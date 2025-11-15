@@ -628,3 +628,25 @@ Qxd4 23.Rad1 Qc3 24.Be4 Ne6 25.Rd3 Qb4 26.Qd2 Qb6 27.Qc3 Nc5 28.Rde3 Rb8
 23.Kg2 Nc5 24.Bxc5 bxc5 25.g4 h6 26.h4 Rc7 27.h5 f5 28.Nh4 fxg4 29.hxg6 Rf6
 30.Rg3 Rf4 31.Nf5 c4 32.Rh1 Nd3 33.f3 Qb6 34.Nxh6+ Bxh6 35.Rxh6 gxf3+ 36.Rxf3
 Rg4+ 37.Rg3 Rxg3+ 38.Kxg3 Qg1+ 39.Kf3 Qxb1 0-1
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
+[White "Lehtosaari, Mauri"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nf3 c6 6.e3 O-O 7.Be2 Nh5 8.Be5 f6
+9.Bxb8 Rxb8 10.cxd5 f5 (10...cxd5) 11.Qb3 Kh8 12.dxc6 Qd6 13.c7 (13.Nb5) Qxc7
+14.Ng5 Qd6 (14...e5!) 15.Bxh5 (15.Nf7+ Rxf7 16.Bxh5 Be6 17.d5 Bd7) Qf6 16.h4
+gxh5 17.Nd5 Qd6 18.Nf4 Bd7 19.O-O (19.Nf7+) Be8 20.Qe6 Rf6 21.Qxd6 Rxd6 22.Nd3
+Bf6 23.Rfc1 Kg7 24.Nf3 Bc6 25.Nde5 Bd5 26.Rc7 Rbd8 27.b3 Ra6 28.b4 Ra3 29.g3
+Rd6 30.Ne1? (30.Nc4 Bxc4 31.Rxc4) Rda6 31.Rc5 Rxa2 32.Rxa2 Bxa2 33.N1d3 Bb1
+34.f3 Ra4? (34...Bxd3 35.Nxd3 Ra3 36.Nf4 Rxe3 37.Nxh5+ Kg6 38.Nf4+ Kg7 39.Rxf5
+Bxd4 {=}) 35.Rc7 Bxe5 (35...Bxd3) 36.Nxe5 Rxb4 37.Rxe7+ Kg8?? (37...Kf6) 38.d5
+Kf8 39.d6 f4 40.Rf7+ 1-0
