@@ -41,20 +41,6 @@ Re7 17.Nd5 Rb8 18.Bg5 Nf6 19.Nxf6+ Kh8 20.Nd5 Bf8 21.Bf6+ Kg8 22.Nxf5 gxf5
 [Date "2025.11.22"]
 [Round "-"]
 [White "Kumar, Ashwin"]
-[Black "Derefalk, Anders"]
-[Result "1-0"]
-
-1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.cxd5 Bb4 5.dxe6 Bxc3+ 6.bxc3 Bxe6 7.Nf3 h6 8.Ba3
-Ne4 9.Qd3 Bf5 10.Qb5+ Nc6 11.Qxf5 Nxc3 12.Rc1 Qf6 13.Qxf6 gxf6 14.Rxc3 O-O-O
-15.e3 Rhe8 16.Be2 a6 17.Bxa6 Kb8 18.O-O Rd5 19.Rb1 Na5 20.Bb4 Ka7 21.Bf1 c6
-22.Bc5+ Ka8 23.Ra3 b5 24.Rxa5+ Kb7 25.a4 Ra8 26.Rxa8 Kxa8 27.axb5 cxb5 28.Rxb5
-f5 29.g4 fxg4 30.Bg2 1-0
-
-[Event "Ashwin Kumar Simul"]
-[Site "Helsinki FIN"]
-[Date "2025.11.22"]
-[Round "-"]
-[White "Kumar, Ashwin"]
 [Black "Mohamed, Yakub"]
 [Result "0-1"]
 
@@ -63,6 +49,20 @@ Nbd7 10.g4 g5 11.Ng3 Nc5 12.Bc2 c6 13.Nf5 Bxf5 14.exf5 cxd5 15.cxd5 Qb6 16.Rb1
 Qb4 17.O-O Rfe8 18.a3 Qc4 19.f3 e4 20.f4 Nd3 21.Bxd3 Qxd3 22.Qxd3 exd3 23.fxg5
 Rxe3 24.gxf6 Bxf6 25.Kg2 Rc8 26.Nd1 Rc2+ 27.Rf2 Re1 28.Ne3 Rxf2+ 29.Kxf2 Rxb1
 30.Nc4 b5 31.Nxd6 d2 0-1
+
+[Event "Ashwin Kumar Simul"]
+[Site "Helsinki FIN"]
+[Date "2025.11.22"]
+[Round "-"]
+[White "Kumar, Ashwin"]
+[Black "Derefalk, Anders"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.cxd5 Bb4 5.dxe6 Bxc3+ 6.bxc3 Bxe6 7.Nf3 h6 8.Ba3
+Ne4 9.Qd3 Bf5 10.Qb5+ Nc6 11.Qxf5 Nxc3 12.Rc1 Qf6 13.Qxf6 gxf6 14.Rxc3 O-O-O
+15.e3 Rhe8 16.Be2 a6 17.Bxa6 Kb8 18.O-O Rd5 19.Rb1 Na5 20.Bb4 Ka7 21.Bf1 c6
+22.Bc5+ Ka8 23.Ra3 b5 24.Rxa5+ Kb7 25.a4 Ra8 26.Rxa8 Kxa8 27.axb5 cxb5 28.Rxb5
+f5 29.h3 h5 30.g4 fxg4 31.Bg2 gxh3 32.Ne5 hxg2 33.Nc6 1-0
 
 [Event "Ashwin Kumar Simul"]
 [Site "Helsinki FIN"]
