@@ -60,9 +60,9 @@ Rxe3 24.gxf6 Bxf6 25.Kg2 Rc8 26.Nd1 Rc2+ 27.Rf2 Re1 28.Ne3 Rxf2+ 29.Kxf2 Rxb1
 
 1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.cxd5 Bb4 5.dxe6 Bxc3+ 6.bxc3 Bxe6 7.Nf3 h6 8.Ba3
 Ne4 9.Qd3 Bf5 10.Qb5+ Nc6 11.Qxf5 Nxc3 12.Rc1 Qf6 13.Qxf6 gxf6 14.Rxc3 O-O-O
-15.e3 Rhe8 16.Be2 a6 17.Bxa6 Kb8 18.O-O Rd5 19.Rb1 Na5 20.Bb4 Ka7 21.Bf1 c6
+15.e3 Rhe8 16.Be2 a6 17.Bxa6 Kb8 18.O-O Rd5 19.Rb1 Na5 20.h3 Ka7 21.Bf1 c6
 22.Bc5+ Ka8 23.Ra3 b5 24.Rxa5+ Kb7 25.a4 Ra8 26.Rxa8 Kxa8 27.axb5 cxb5 28.Rxb5
-f5 29.h3 h5 30.g4 fxg4 31.Bg2 gxh3 32.Ne5 hxg2 33.Nc6 1-0
+f5 29.g4 fxg4 30.Bg2 gxh3 31.Ne5 hxg2 32.Nc6 1-0
 
 [Event "Ashwin Kumar Simul"]
 [Site "Helsinki FIN"]
@@ -133,7 +133,7 @@ Qxd6 30.Rxf8+ Kg7 31.Rg8+ Kh7 32.Rh8+ Kg7 33.Qg8+ Kf6 34.Rxh6 Ke7 35.Qg7+ Kd8
 
 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.b6 Qxb6 6.Nc3 g6 7.Nf3 d6 8.Nd2 Bg7 9.e4
 O-O 10.Be2 e6 11.Nc4 Qc7 12.dxe6 Bxe6 13.Qxd6 Qxd6 14.Nxd6 Nbd7 15.O-O Ne8
-16.Rd1 Bd4 17.Nxe8 Rfxe8 18.Bh6 Nf6 19.Bg5 Ng4 20.Bxg4 Bxg4 21.Re1 Rab8 22.Bc1
+16.Rd1 Bd4 17.Nxe8 Rfxe8 18.Bh6 Nf6 19.Bf3 Ng4 20.Bxg4 Bxg4 21.Re1 Rab8 22.Bc1
 f6 23.Kf1 Bd7 24.a4 Bc6 25.f3 Kf7 26.Ra2 Rb4 27.Be3 f5 28.Bxd4 cxd4 29.Nd1
 Bxa4 30.Nf2 Bb3 31.Ra3 Bc4+ 32.Kg1 Rxb2 33.Rd1 Bb3 34.Rc1 Rc2 35.Rca1 Bc4
 36.Rd1 Rd8 37.exf5 gxf5 38.Nd3 Kf6 39.Nb4 Be2 40.Nxc2 Bxd1 41.Rxa6+ Ke5 42.Nb4
