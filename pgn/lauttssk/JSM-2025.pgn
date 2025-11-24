@@ -633,6 +633,28 @@ Rg4+ 37.Rg3 Rxg3+ 38.Kxg3 Qg1+ 39.Kf3 Qxb1 0-1
 [Site "Kotka FIN"]
 [Date "2025.11.15"]
 [Round "4"]
+[White "Lehti, Juhani"]
+[Black "Upero, Jussi"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kymen Shakki"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.Bg5 Be6
+9.g3 Nbd7 10.Bg2 Qb6 11.Rb1 Rc8 12.O-O Qb4 13.Nh4 g6 14.Kh1 Nb6 15.f4 h6
+16.Bxf6 Bxf6 17.f5 Bc4 18.fxg6 Bxh4 19.gxh4 Bxf1 20.gxf7+ Ke7 21.Bxf1 Rhf8
+22.a5 Rxc3 23.bxc3 Qxa5 24.Qd2 Rxf7 25.Qxh6 Qxc3 26.Bd3 Nd7 27.Qg5+ Ke8 28.h5
+Nf8 29.h6 b5 30.Rg1 d5 31.exd5 Qd4 32.Qg2 Rf6 33.h7 Rh6 34.Qe4 Qxe4+ 35.Bxe4
+Nxh7 36.Rg6 Rh4 37.Re6+ Kd7 38.Bxh7 Rxh7 39.Rxa6 Rh4 40.Rb6 b4 41.Kg2 Rc4
+42.Kg3 Rxc2 43.Rxb4 Kd6 44.Rb5 Rc5 45.Rxc5 Kxc5 46.h4 Kxd5 47.h5 Ke6 48.h6 Kf6
+49.Kf3 Kg6 50.Ke4 Kxh6 51.Kxe5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
 [White "Lehtosaari, Mauri"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
@@ -655,6 +677,53 @@ Kf8 39.d6 f4 40.Rf7+ 1-0
 [Site "Kotka FIN"]
 [Date "2025.11.15"]
 [Round "4"]
+[White "Kauppala, Pekka"]
+[Black "Kholopov, Evgeny"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kymen Shakki"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Bc4 c6 4.Nc3 b5 5.Bb3 b4 6.Nce2 d5 7.exd5 cxd5 8.a3 bxa3
+9.Rxa3 Nf6 10.Ng3 O-O 11.N1e2 Nc6 12.Nf4 Qb6 13.Be3 Ba6 14.Nd3 Bxd3 15.Qxd3
+Ng4 16.O-O Nb4 17.Qe2 Nxe3 18.fxe3 e6 19.Rfa1 a5 20.Ba4 f5 21.c3 Na6 22.Qb5
+Rfb8 23.Qd7 Ra7 24.Qc6 Qxc6 25.Bxc6 Rb6 26.Be8 Kf8 27.Rxa5 Kxe8 28.b4 Bh6
+29.b5 Bxe3+ 30.Kf1 Kd7 31.Ke2 Bf4 32.bxa6 Rb2+ 33.Kf3 Bc7 34.R5a4 g5 35.Ne2 h5
+36.h3 h4 37.Ke3 Bf4+ 38.Nxf4 gxf4+ 39.Kf3 Kc6 40.R4a2 Rb3 41.Ra3 Rb2 42.R1a2
+Rb1 43.Kxf4 Re1 44.Kg5 Re3 45.Kxh4 f4 46.Kg5 f3 47.gxf3 Rxf3 48.Kg4 Raf7
+49.Rg2 R7f4+ 50.Kh5? Rxh3+ 51.Kg5 Rf8 52.a7 Rhh8 53.Rg4 Kb5 54.a8=Q Rhg8+
+55.Kh4 Rxa8 56.Rxa8 Rxa8 57.Rg6? (57.Kg3) Kc4 58.Rxe6 Kxc3 59.Kg3 Rf8 60.Re7
+Kxd4 61.Rd7 Ke4 62.Ra7 d4 63.Ra4 Ke3 64.Ra3+ d3 65.Kg2 Ke2 66.Ra7 Rg8+ 67.Kh3
+Rd8 68.Kg2 d2 69.Re7+ Kd3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
+[White "Montonen, Samu"]
+[Black "Kivinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d3 d5 4.Qe2 Be7 5.g3 Nf6 6.Bg2 Nc6 7.O-O O-O 8.e5 Nd7 9.c4
+f6 10.exf6 Nxf6 11.Nc3 d4 12.Ne4 Nxe4 13.Qxe4 Bf6 14.h4 Qe7 15.Bh3 e5 16.Bxc8
+Raxc8 17.Bd2 g6 18.Kg2 Rcd8 19.Rh1 Rd7 20.Qg4 Qf7 21.h5 Re7 22.hxg6 Qxg6
+23.Qxg6+ hxg6 24.Rae1 Rh7 25.Rxh7 Kxh7 26.a3 a5 27.Bg5 Kg7 28.Bxf6+ Kxf6
+29.Nd2 b6 30.Ne4+ Kf5 31.Rh1 Ne7 32.Rh7 Ke6 33.g4 Kd7 34.Kg3 Kd8 35.Ng5 Kd7
+36.Ne4 Kd8 37.Nd2 Kd7 38.Nf3 Kd6 39.Nxe5 Kxe5 40.Rxe7+ Kd6 41.Rb7 Kc6 42.Rg7
+Rf6 43.a4 Kd6 44.g5 Re6 45.Kf3 Kc6 46.Rf7 Kd6 47.Rf4 Kd7 48.Re4 Rd6 49.Kg4 Kd8
+50.f4 Kc7 51.f5 gxf5+ 52.Kxf5 Rd8 53.g6 Rg8 54.Kf6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
 [White "Dahal, Sameep"]
 [Black "Engelberg, Jan"]
 [Result "1/2-1/2"]
@@ -669,6 +738,111 @@ Nxd4 16.Qe4 Nc6 17.Kh1 O-O 18.f4 Qd4 19.Qe2 Rad8 20.Be3 Qe4 21.Qf2 b6 22.Rae1
 Qa4 23.b3 Qb5 24.Rd1 Ne7 25.Bc1 Nd5 26.Bb2 Rc8 27.Rc1 Qd3 28.Kg1 Qe4 29.Rce1
 Qc2 30.Re2 Qd3 31.Rd2 Qe3 32.Qxe3 Nxe3 33.Rff2 Rfd8 34.Rfe2 Rxd2 35.Rxd2 g6
 36.Kf2 Nd1+ 37.Ke2 Nxb2 38.Rxb2 Rc1 39.g3 Kf8 40.Rd2 Ke7 41.Ke3 Rc3+ 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
+[White "Inkinen, Julius"]
+[Black "Männistö, Kari"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Bxc3+ 5.Qxc3 Ne4 6.Qc2 f5 7.Nf3 d6 8.e3 b6
+9.Bd3 Bb7 10.b3 Nd7 11.O-O O-O 12.Bb2 Qe7 13.Rae1 a5 14.Nd2 Nxd2 15.Qxd2 Rae8
+16.f3 e5 17.a3 e4 18.fxe4 Bxe4 19.Bxe4 Qxe4 20.Rf4 Qe7 21.Qd3 g6 22.e4 g5
+23.Qg3 Kh8 24.d5+ Ne5 25.Rxf5 Rxf5 26.exf5 h6 27.Bxe5+ dxe5 28.Qc3 h5 29.Qf3
+g4 30.Qe3 Kg7 31.Rf1 Rf8 32.f6+ Rxf6 33.Qg5+ Kf7 34.Qxh5+ Kg7 35.Qg5+ Kf7
+36.Rxf6+ Qxf6 37.Qxf6+ Kxf6 38.Kf2 e4 39.Ke3 Ke5 40.b4 axb4 41.axb4 b5 42.cxb5
+Kxd5 43.h4 gxh3 44.gxh3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
+[White "Piippo, Mikko"]
+[Black "Heinilä, Ilari"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Kymen Shakki"]
+[ECO "A80"]
+
+1.d4 f5 2.Bg5 d6 3.Nc3 Nd7 4.Qd3 g6 5.O-O-O Ngf6 6.e4 fxe4 7.Nxe4 Bg7 8.Nf3
+O-O 9.Ng3 b6 10.h4 a5 11.h5 Ba6 12.Qb3+ d5 13.hxg6 hxg6 14.Bxa6 Rxa6 15.Qd3 b5
+16.Qxg6 Qe8 17.Qd3 c5 18.Bxf6 Nxf6 19.dxc5 Qc6 20.Nf5 Ne4 21.Nxe7+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Kotka FIN"]
+[Date "2025.11.15"]
+[Round "4"]
+[White "Karhumaa, Ilari"]
+[Black "Zhukov, Matvei"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Kymen Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Nc3 Bg4 6.Bf3 Bf5 7.h4 h6 8.Nge2 e6
+9.Ng3 Bh7 10.Bf4 Bb4 11.O-O O-O 12.h5 Nbd7 13.Nce4 Nxe4 14.Nxe4 Nf6 15.Qd3 Nd5
+16.Be5 Be7 17.Qb3 Qb6 18.Qxb6 axb6 19.c4 Nb4 20.Rfd1 Nxa2 21.Bc7 Nb4 22.Bxb6
+Na6 23.Nc5 Nxc5 24.dxc5 Rxa1 25.Rxa1 Bd8 26.Ra8 Bxb6 27.Rxf8+ Kxf8 28.cxb6 f5
+29.Bxc6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Lehti, Juhani"]
+[Black "Holopainen, Timo"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "B09"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Nc6 7.O-O Bg4 8.Ne2 Bxf3
+9.Rxf3 e5 10.c3 exd4 11.Nxd4 Nxd4 12.cxd4 Nd7 13.Be3 c5 14.Bb5 cxd4 15.Bxd4
+Bxd4+ 16.Qxd4 Nc5 17.e5 Qb6 18.Bc4 dxe5 19.fxe5 Rad8 20.Qf2 Ne6 21.Qxb6 axb6
+22.Raf1 Ng5 23.Rf6 Rd4 24.b3 b5 25.Bxb5 Rc8 26.Bc4 Re4 27.g3 Rxe5 28.h4 b5
+29.Bxf7+ Nxf7 30.Rxf7 Ra8 31.R7f2 Re3 32.Kg2 Re7 33.Rc1 Rea7 34.Rc5 Rb7 35.Kh3
+b4 36.Rc4 Kg7 37.g4 Rd8 38.g5 Rd3+ 39.Kg4 h6 40.gxh6+ Kxh6 41.Rff4 Rd2 42.Rxb4
+Rxb4 43.Rxb4 Rg2+ 44.Kf3 Rxa2 45.Rb7 Rb2 46.b4 Rb3+ 47.Kf4 Rh3 48.Kg4 Rb3
+49.Rb8 Kg7 50.b5 Rb1 51.b6 Rb5 52.Kg3 Kh7 53.Rb7+ Kg8 54.Kf3 Kh8 55.Ke3 Kg8
+56.Kd3 Kh8 57.Kc3 Rb1 58.Kc4 Kg8 59.Kd5 Rb2 60.Ke6 Rb1 61.Kf6 Rb2 62.Kxg6 Rg2+
+63.Kf6 Rb2 64.Ke6 Rb1 65.Kd7 Kh8 66.Rb8+ Kh7 67.Kc7 Kg7 68.Re8 Kf7 69.Re2 Rc1+
+70.Kb8 Rb1 71.b7 Kg7 72.Rc2 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Honkanen, Marko"]
+[Black "Havansi, Erkki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Qe7 4.Nc3 c6 5.Be2 Nf6 6.dxe5 dxe5 7.O-O Qc7 8.a4 Be7
+9.h3 O-O 10.Bc4 Nbd7 11.Nh4 Nxe4 12.Nxe4 Bxh4 13.Qh5 Be7 14.Ng5 Bxg5 15.Bxg5
+Nb6 16.Bb3 Bf5 17.Bf6 Bg6 18.Qxe5 Qxe5 19.Bxe5 Rad8 20.Rad1 Be4 21.Bc7 Rxd1
+22.Rxd1 Nd5 23.Bd6 Rd8 24.Bg3 Rd7 25.f3 Bf5 26.a5 Be6 27.c3 Kf8 28.Bf2 a6
+29.Bc5+ Ke8 30.Bc2 h6 31.h4 Nf4 32.Rxd7 Kxd7 33.Kf2 Bc4 34.Bf8 Nh5 35.g4 Ke8
+36.Bc5 Nf4 37.Bd4 Ne6 38.Be3 Bd5 39.f4 f6 40.f5 Nf8 41.b3 Nd7 42.c4 Bf7 43.Kg3
+Ke7 44.Kf4 Kd6 45.Ke4 Bg8 46.Kd4 Bf7 47.Bf4+ Ke7 48.b4 Ne5 49.Bxe5 fxe5+
+50.Kxe5 Bxc4 51.g5 hxg5 52.hxg5 Bf7 53.Be4 Kd7 54.Kd4 Kd6 55.Bf3 Bb3 56.Bg4
+Bg8 57.f6 gxf6 58.gxf6 Bf7 59.Be2 Bg6 60.Bc4 Bh5 61.f7 Ke7 62.Kc5 Bf3 63.Be6
+Be4 64.Bc8 Kxf7 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
@@ -689,6 +863,108 @@ O-O 10.Nbd2 f6 11.exf6 gxf6 12.Nb3 c4 13.Nbd2 f5 14.Ne5 Nf6 15.Qe1 Nxe5
 29.Rg1 {+-}) f4 29.Bc2 Nf5 30.Qxf4 (30.Qh3!) Qh5 31.Qf3 Qh4 32.Qf4 Qh5 33.Bxf5
 Rxf5 34.Qg3 Re8 35.Rxf5 exf5 36.Qf3 Qh4 37.Qf4 Qxf4 38.Rxf4 Kg8 39.h4 Kf7
 40.Kg2 Kg6 41.Kg3 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Calonius, Mikael"]
+[Black "Kauppala, Pekka"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D24"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 a6 5.a4 Bg4 6.e3 e6 7.Bxc4 Nc6 8.h3 Bh5 9.g4
+Bg6 10.h4 h6 11.h5 Bh7 12.g5 hxg5 13.Nxg5 Bf5 14.Bd2 Nb4 15.Rc1 Nd3+ 16.Bxd3
+Bxd3 17.Qf3 c6 18.Ne2 Qd5 19.Qxd5 exd5 20.Nf4 Bf5 21.Ke2 Bd6 22.Rh4 Bg4+ 23.f3
+Bxf4 24.exf4 Bxh5 25.Ba5 Kd7 26.Rch1 Rhe8+ 27.Kf2 Bg6 28.f5 Bxf5 29.Nxf7 Rab8
+30.Rg1 b6 31.Ne5+ Kd6 32.Bb4+ c5 33.Ba3 Rbc8 34.Rxg7 Rg8 35.Rb7 Rb8 36.Rxb8
+Rxb8 37.Rh6 Ke6 38.Nd7 Kxd7 39.Rxf6 Be6 40.Ke3 Rc8 41.dxc5 bxc5 42.f4 Rc6
+43.f5 d4+ 44.Kd2 Bd5 45.Rg6 Rxg6 46.fxg6 Kc6 47.Kd3 Bb3 48.g7 Bg8 49.b4 cxb4
+50.Bxb4 Kd5 51.Be7 Bh7+ 52.Kd2 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Kivinen, Jyrki"]
+[Black "Ahola, Eetu"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Re1 d6 6.d4 exd4 7.Nxd4 Bd7 8.Nc3 O-O
+9.Nxc6 bxc6 10.Bc4 Re8 11.h3 Bf8 12.Bg5 h6 13.Bh4 g5 14.Bg3 Be6 15.Bxe6 Rxe6
+16.e5 dxe5 17.Qxd8 Rxd8 18.Rxe5 Rd2 19.Rxe6 fxe6 20.Rc1 Bd6 21.Bxd6 cxd6
+22.Kf1 Kf7 23.Ke1 Rd4 24.Rd1 Rxd1+ 25.Kxd1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Paronen, Petteri"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B00"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nc3 Bg4 5.d5 Ne5 6.Be2 Ng6 7.Nd4 Bd7 8.g4 e6 9.g5
+Ng8 10.Bh5 N8e7 11.dxe6 Bxe6 12.f4 Bd7 13.Be3 Nc6 14.Qe2 Nxd4 15.Bxd4 Nxf4
+16.Bxf7+ Kxf7 17.Rf1 Qxg5 18.Qf2 Ke8 19.Qxf4 Qxf4 20.Rxf4 c6 21.a4 Rg8 22.Ke2
+Be6 23.Kd3 Be7 24.Rg1 g5 25.Rf2 Kd7 26.Bf6 Raf8 27.Rgf1 Bh3 28.Bxe7 Bxf1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Modanese, Augusto"]
+[Black "Suominen, Antii"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Käpylän Shakkikerho"]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Bd3 Bb7 5.Nbd2 c5 6.O-O Nc6 7.c3 d5 8.Qe2 Bd6 9.e4
+dxe4 10.Nxe4 Nxe4 11.Bxe4 Qc7 12.d5 exd5 13.Bxd5+ Kf8 14.c4 Re8 15.Qd3 Nb4
+16.Qf5 Bc8 17.Qh5 Nxd5 18.cxd5 Kg8 19.Bg5 h6 20.Rfe1 Rf8 21.Bd2 Qd7 22.Ne5 Qf5
+23.Qxf5 Bxf5 24.Nc6 a5 25.Ne7+ Bxe7 26.Rxe7 Rd8 27.Re5 Bg6 28.Be3 Kh7 29.Rd1
+Rd6 30.h4 h5 31.Re7 Rhd8 32.Rb7 R8d7 33.Rxd7 Rxd7 34.d6 Bf5 35.Bf4 Kg6 36.Re1
+Be6 37.a3 Kf5 38.g3 f6 39.Kg2 Bd5+ 40.Kf1 Bc4+ 41.Kg2 Bd5+ 42.Kf1 Be4 43.Rd1
+g5 44.hxg5 fxg5 45.Be3 h4 46.gxh4 gxh4 47.Kg1 Bf3 48.Rd2 Ke5 49.Kh2 Bd5
+50.Bf4+ Ke4 51.Bg5 Rxd6 52.Bxh4 Rh6 53.Kg3 Rg6+ 54.Kh2 Bc6 55.Bg3 Rh6+ 56.Kg2
+Kf5+ 57.Kf1 Bf3 58.Rd5+ Bxd5 59.Ke2 Bc4+ 60.Kd2 Re6 61.Kc3 Ba6 62.Bc7 Ke4
+63.f4 Rh6 64.Kd2 Rh2+ 65.Kc3 Rh3+ 66.Kd2 Kd4 67.Be5+ Kc4 68.Bc3 Kd5 69.f5 Ke4
+70.f6 Rh2+ 71.Ke1 Ke3 72.Kd1 Rf2 73.Kc1 Bc4 74.Kd1 Bd3 75.Kc1 Rf1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2025.11.16"]
+[Round "5"]
+[White "Cheng, Hanz Martin"]
+[Black "Zhukov, Matvei"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Käpylän Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2
+Re8+ 9.Ne2 g6 10.Be3 Be6 11.h4 Qd7 12.h5 f5 13.O-O-O b5 14.hxg6 fxg6 15.g4 Rf8
+16.f3 Qf7 17.d5 cxd5 18.Nd4 f4 19.Bf2 a6 20.Bxg6 Qxg6 21.Qxg6+ hxg6 22.Nxe6
+Re8 23.Rde1 Nc6 24.Rh6 Ne5 25.Nd4 Nd3+ 26.Kd2 Nxe1 27.Rxg6+ Kh7 28.Rxd6 Ng2
+29.Nf5 Ne3 30.Nxe3 fxe3+ 31.Bxe3 Red8 32.Rh6+ Kg7 33.g5 Rh8 34.Bd4+ 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
