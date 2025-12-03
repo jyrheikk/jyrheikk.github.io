@@ -445,3 +445,23 @@ Rg8 24.Qc3 Qg6 25.Qf6 Rxg7 0-1
 16.Ne3 Nd4 17.Qxh5 Rxh5 18.Bxh5 Rg8 19.Nhg4 Bg7 20.Nh2 Rh8 21.Bg4 f5 22.Bd1 Nc6
 23.f3 e4 24.dxe4 Bd4 25.Re1 f4 26.Ng4 Bxg4 27.hxg4 dxe4 28.fxe4 Ne5 29.Kf1 Rh1+
 30.Kf2 fxe3+ 31.Ke2 Qb5+ 32.c4 Qxc4# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2025.12.03"]
+[Round "?"]
+[White "Dahal, Sameep"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Stage "Semi-Final"]
+[TimeControl "1200+10"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.c3 Nf6 6.Bd3 Qc7 7.Qe2 Bg4 8.Nbd2 e6
+9.h3 Bh5 10.g4 Bg6 11.Bxg6 hxg6 12.Ne5 Bd6 13.f4 O-O-O 14.b3 Rdf8 (14...Nxe5)
+15.Bb2 Kb8 16.Ndf3 Nd7 17.Nxd7+ Qxd7 18.Ne5 Nxe5 19.fxe5 Be7 20.O-O-O Bg5+
+21.Kb1 f5 22.exf6 gxf6 23.Qd3 Qh7 24.Rde1 Re8 25.a4 Bh4 26.Re2 g5 (26...f5)
+27.Qxh7 Rxh7 28.Rf1 Rf7 (28...Bg3) 29.c4 dxc4 30.bxc4 Bg3 31.Kc2 Kc8 32.Kd3
+Kd7 33.Bc1 Rh7 34.Rxf6 Bf4 35.Bxf4 gxf4 36.Rxf4 Rxh3+ 37.Re3 Rh2? 38.Rg3?
+(38.Rf7+ Kc8 39.d5 {+-}) Ra2 39.Ke4 Rxa4 40.g5 Rxc4 41.g6 Rxd4+ 42.Kxd4 e5+
+43.Ke4 exf4+ 44.Kxf4 Rg8 45.Kg5 Ke7 46.Rf3 Kd6 47.Rf7 Kc6 48.Rf6+ Kc7 49.Rf7+
+Kc6 1/2-1/2
