@@ -548,3 +548,18 @@ Qxc2 50.Bb3 {no more moves recorded} 0-1
 1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e6 5.Be3 Bb4 6.Qd2 Bxc3 7.bxc3 exf3 8.Nxf3 h6
 9.Bd3 Nc6 10.O-O Qe7 11.Rab1 e5 12.Rbe1 Kd8?? 13.Bf4 Qa3 14.Nxe5 Nxe5 15.Bxe5
 Be6 16.c4 b6 17.d5 Qc5+ 18.Kh1 Bd7 19.Rxf6 Re8 20.Rxf7 Qd4?? 21.Bxd4 1-0
+
+[Event "Lauttasaari Christmas Tournament"]
+[Site "Helsinki FIN"]
+[Date "2025.12.17"]
+[Round "10"]
+[White "Heikkinen, Jyrki"]
+[Black "Zyuzin, Zakhar"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.f3 e6 5.fxe4 Bb4 6.a3 Bxc3+ 7.bxc3 Nxe4 8.Qg4
+Nxc3 9.Qxg7 Rf8 (9...Qh4+ 10.g3 Qe4+ 11.Kd2 Rf8 12.Kxc3 Qxh1 13.Bb5+ c6 14.Bh6
+Nd7) 10.Bh6 Qd6 11.Nf3 Nd7 12.Qxh7 Nf6 13.Qd3 Nfe4 14.Bxf8 Qxf8 15.Be2 Bd7
+16.a4 O-O-O 17.O-O Qg7 18.Ne5 Rg8 19.Bf3 Ng5 20.Qxc3 Nxf3+ 21.Qxf3 {no more
+moves recorded} 1-0
