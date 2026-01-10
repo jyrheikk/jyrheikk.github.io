@@ -1091,3 +1091,20 @@ Ng4 10.Qc1 Nxe3 11.Qxe3 Bb6 12.Qc1 g5 13.Kh1 g4 14.Ng1 h5 15.Nd2 h4 16.Nc4 Ba7
 (23...Rxh3+ 24.gxh3 Qg3+ 25.Kh1 Qxh3#) 24.Qd2 Bd7 25.Nxb6 cxb6 26.Qf2 b5
 27.Ng1 O-O-O 28.Rad1 f6 29.Qb6 Rg8 30.Rf2 Be8 31.d4 Bh5 32.d5 Bxf3 33.Nxf3
 Rxg2+ 34.Rxg2 Qxg2# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.10"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Kangas, Lauri"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.exf6 Nxf6 10.O-O Bd6 11.Nf3 O-O 12.Bg5 e5 13.dxe5 Nxe5 14.Nxe5 Bxe5 15.Qd2
+Qb6 16.Nc3 Be6 17.Rae1 Nd7 18.Kh1 h6 19.Bh4 (19.Bxh6!) Bf4 20.Qd1 Ne5 21.Bb1
+Ng4? 22.Qd3 (22.Nxd5!) Rf5 (22...Nf6) 23.Rxe6 Qxe6 24.Qxf5 1-0
