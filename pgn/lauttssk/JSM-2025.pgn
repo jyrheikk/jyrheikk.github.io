@@ -988,7 +988,7 @@ Nf4 30.Rd7 Ng6 31.a6 1-0
 [Site "Helsinki FIN"]
 [Date "2025.11.16"]
 [Round "3"]
-[White "Kuzin, Dmtro"]
+[White "Kuzin, Dmytro"]
 [Black "Heikkinen, Juha"]
 [Result "1-0"]
 [Section "III Division:5"]
@@ -1108,3 +1108,98 @@ Rxg2+ 34.Rxg2 Qxg2# 0-1
 9.exf6 Nxf6 10.O-O Bd6 11.Nf3 O-O 12.Bg5 e5 13.dxe5 Nxe5 14.Nxe5 Bxe5 15.Qd2
 Qb6 16.Nc3 Be6 17.Rae1 Nd7 18.Kh1 h6 19.Bh4 (19.Bxh6!) Bf4 20.Qd1 Ne5 21.Bb1
 Ng4? 22.Qd3 (22.Nxd5!) Rf5 (22...Nf6) 23.Rxe6 Qxe6 24.Qxf5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.10"]
+[Round "6"]
+[White "Kumar, Ashwin"]
+[Black "Tikanmäki, Heikki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Päivölän Shakkisiirtelijät"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.cxd5 exd5 6.Qa4+ Nc6 7.Bb5 Bd7 8.Bxc6
+Bxc3+ 9.bxc3 Bxc6 10.Qa3 a5 11.Rb1 Qe7 12.Qxe7+ Kxe7 13.Ba3+ Kd7 14.Nf3 Ne4
+15.Ne5+ Ke6 16.c4 f6 17.Nxc6 bxc6 18.Rc1 Kd7 19.f3 Nd6 20.Bxd6 Kxd6 21.c5+ Kd7
+22.Rb1 Rab8 23.Kd2 Rb5 24.a4 Rb4 25.Rxb4 axb4 26.a5 Kc8 27.Rb1 Kb7 28.Rxb4+
+Ka6 29.e4 Re8 30.Ke3 Kxa5 31.Rb7 Re7 32.h4 h6 33.h5 Ka6 34.Rb8 Rd7 35.e5 Re7
+36.f4 fxe5 37.dxe5 Ka5 38.Kd4 Ka6 39.f5 Ka5 40.e6 Ka6 41.Ke5 Ka5 42.f6 gxf6
+43.Kxf6 Rh7 44.Re8 Kb4 45.Kg6 Kxc5 46.Kxh7 Kd6 47.Kg7 c5 48.Kf7 c4 49.Ra8 c3
+50.e7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.11"]
+[Round "4"]
+[White "Ylönen, Veikko"]
+[Black "Kuzin, Dmytro"]
+[Result "1-0"]
+[Section "III Division:5"]
+[Board "1"]
+[WhiteTeam "Helsinki Street Chess 4"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Qe7+ 7.Qe2 Qxe2+ 8.Bxe2
+cxd4 9.Nb3 Bb4+ 10.Bd2 Bxd2+ 11.Kxd2 Nf6 12.Bd3 O-O 13.Nbxd4 Re8 14.Rhe1 Ne4+
+15.Bxe4 dxe4 16.Nxc6 bxc6 17.Nd4 Bb7 18.c4 Re5 19.f4 Rh5 20.h3 c5 21.Nb3 e3+
+22.Rxe3 Bxg2 23.Rg1 Rd8+ 24.Kc3 Rxh3 25.Rxh3 Bxh3 26.Nxc5 h5 27.b4 Bf5 28.a4
+h4 29.b5 Rc8 30.Kd4 h3 31.Rh1 f6 32.a5 Rd8+ 33.Ke3 Re8+ 34.Kf3 Rc8 35.b6 axb6
+36.axb6 Rxc5 37.b7 Be4+ 38.Kxe4 Rxc4+ 39.Kd5 Rb4 40.Kc6 Rb2 41.Rxh3 Rc2+
+42.Kd7 Rb2 43.Kc7 Rc2+ 44.Kb8 Kf7 45.Ra3 Kg6 46.Ra5 Kh6 47.Ka7 Rb2 48.b8=Q
+Rxb8 49.Kxb8 g5 50.fxg5+ fxg5 51.Kc7 Kh5 52.Kd6 Kh4 53.Ke5 g4 54.Kf4 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.11"]
+[Round "4"]
+[White "Männistö, Kari"]
+[Black "Tamminen, Atte"]
+[Result "1/2-1/2"]
+[Section "III Division:5"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Helsinki Street Chess 4"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Qb6 5.b3 Ne4 6.Bd3 Bg4 7.h3 Bh5 8.c3 cxd4
+9.exd4 e6 10.O-O Be7 11.Re1 Ng5? 12.Nbd2 (12.Bxg5) Nd7 13.Rc1 Nxf3+ 14.Nxf3
+O-O 15.Qe2 a6 16.Qe3 Bg6 17.Bxg6 hxg6 18.Ne5 Nxe5 19.Bxe5 Qa5 20.c4 Bb4 21.Re2
+Rac8 22.c5 Ba3 23.Qc3 Qb5 24.Rcc2 Rc6 25.Re3 b6 26.Bd6 Rfc8 27.Qd3?? Qxd3
+28.Rxd3 bxc5 (28...Rxd6) 29.Bxc5 e5 30.Rdc3 exd4 31.Bxd4 Rxc3 32.Rxc3 Rxc3
+33.Bxc3 Kf8 34.Kf1 f6 35.Ke2 Ke7 36.Kd3 Kd6 37.Bd4 Bb4 38.a4 a5 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.11"]
+[Round "4"]
+[White "Ilkka, Oskari"]
+[Black "Montonen, Claus"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Itä-Helsingin Shakkikerho 3"]
+
+1.c4 Nf6 2.Nc3 e5 3.e4 g6 4.g3 Bg7 5.Bg2 O-O 6.Nge2 d6 7.O-O Be6 8.d3 c6 9.h3
+Qc8 10.Kh2 Na6 11.f4 Nc7 12.Ng1 h5 13.Qf3 Nce8 14.f5 Bd7 15.g4 hxg4 16.hxg4
+Nh7 17.Qh3 g5 18.Nf3 f6 19.Kg3 Rf7 20.Rh1 Bh8 21.Bxg5 Qd8 22.Be3 Kf8 23.Nh4
+1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.01.11"]
+[Round "4"]
+[White "Mononen, Heikki"]
+[Black "Koivusipilä, Hannes"]
+[Result "1/2-1/2"]
+[Section "III Division:4"]
+[Board "3"]
+[WhiteTeam "Itä-Helsingin Shakkikerho 3"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+
+1.b4 e5 2.Bb2 d6 3.e3 Nf6 4.Be2 g6 5.Nf3 Bg7 6.O-O O-O 7.c4 Nc6 8.b5 Ne7 9.Nc3
+c6 10.a4 Qc7 11.d4 e4 12.Nd2 d5 13.Rc1 Re8 14.Ba3 h5 15.Bxe7 Qxe7 16.h3 Be6
+17.cxd5 cxd5 18.Re1 Rac8 19.Nf1 Qb4 20.Qd2 Qd6 21.Na2 Nd7 22.Qb4 Qb8 23.a5 Bf8
+24.Qb3 Qd6 25.Rc3 Rxc3 1/2-1/2
