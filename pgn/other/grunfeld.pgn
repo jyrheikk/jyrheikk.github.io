@@ -563,3 +563,21 @@ Rd6 30.Ne1? (30.Nc4 Bxc4 31.Rxc4) Rda6 31.Rc5 Rxa2 32.Rxa2 Bxa2 33.N1d3 Bb1
 34.f3 Ra4? (34...Bxd3 35.Nxd3 Ra3 36.Nf4 Rxe3 37.Nxh5+ Kg6 38.Nf4+ Kg7 39.Rxf5
 Bxd4 {=}) 35.Rc7 Bxe5 (35...Bxd3) 36.Nxe5 Rxb4 37.Rxe7+ Kg8?? (37...Kf6) 38.d5
 Kf8 39.d6 f4 40.Rf7+ 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.01.14"]
+[Round "?"]
+[White "Kumar, Ashwin"]
+[Black "Heikkinen, Jyrki"]
+[Result "1/2-1/2"]
+[Stage "Final"]
+[TimeControl "1200+10"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Be3 Bg7 8.Rc1 Qa5
+9.Qd2 O-O 10.Nf3 Nc6 11.d5 Ne5 12.Nxe5 Bxe5 13.h4 h5 14.Bg5 Qc7 15.Bc4 a6
+16.f4 Bg7 17.e5 b5 18.d6 exd6 19.exd6 Qd7 (19...Re8+) 20.Bd5 Bb7 21.O-O Kh7?
+(21...b4) 22.f5 Bxd5 23.Qxd5 Rae8 24.f6 (24.Rce1) Bh6 25.Qxc5?? (25.Rce1) Re6
+26.Rcd1 Rd8? (26...Rc8 27.Qd5 Rc6) 27.Rfe1? (27.Bxh6 Kxh6 28.Rd5) Rxe1+
+28.Rxe1 Qxd6 29.Qxd6 Rxd6 30.Re7 Bxg5 31.Rxf7+ (31.hxg5) Kh6 32.hxg5+ Kxg5 {no
+more moves recorded} 1/2-1/2
