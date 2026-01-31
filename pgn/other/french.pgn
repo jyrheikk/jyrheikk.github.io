@@ -11,6 +11,28 @@
 14.Nf3 O-O 15.g3? e5 16.Bc2 Bg4 17.Nbd2 e4 18.Nxe4 dxe4 19.Bxe4 Nxe4 20.Qxe4
 Bxf3 21.Qe6+ Kh8 22.c4 Rf6 23.Qe1 Qd7 0-1
 
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1986.01.14"]
+[Round "5"]
+[White "Viinamäki, Markku"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Board "2"]
+[WhiteTeam "Jyväskylän kaupunki 2"]
+[BlackTeam "Jyväskylän Lyseon lukio 2"]
+[TimeControl "40/5400:900"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Be2 Be7 6.Bf4 a6 7.h4 b6 8.h5 h6 9.Bf3
+Bb7 10.Nge2 Bd6 11.Bg3 Qd7 12.Nf4 Bb4 13.O-O O-O 14.Bh4 Ne4 15.Nxe4 dxe4
+16.Bg4 Qe8 17.c3 Be7 18.Bg3 Nd7 19.Qb3 Nf6 20.Bf5 a5 21.Ng6 a4 22.Qc4 Ba6
+23.Nxe7+ Qxe7 24.Qxc7 Qxc7 25.Bxc7 Bxf1 26.Rxf1 Ra7 27.Bxb6 Rb7 28.Bc5 Rfb8
+29.Bd6 Rd8 30.Ba3 Nxh5 (30...Rb5) 31.Bxe4 Rb6 32.Bb4 Re8 33.Re1 Kh8
+(33...Rbe6) 34.f3 f5 35.g4 fxe4 36.gxh5 e3 37.Kf1 g6 38.b3 Rf6 39.Ke2 Rf5
+40.hxg6 Rg5 41.Kd3 Rxg6 42.Rxe3 Ra8 43.c4 Rb8 44.Ba3 (44.Bc3) axb3 45.axb3
+Rxb3+ 46.Ke4 Re6+ 47.Kd5 Rexe3 48.Bf8 h5 49.c5 Rxf3 50.Be7 Kg7 51.c6 Rfc3
+52.Kd6 Kf7 53.c7 Rxc7 54.Kxc7 Kxe7 55.d5 Rc3+ 56.Kb6 h4 0-1
+
 [Event "Kalakukko Tournament"]
 [Site "Kuopio FIN"]
 [Date "1986.04.26"]

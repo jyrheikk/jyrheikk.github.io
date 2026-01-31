@@ -16,6 +16,24 @@ gxf2+ 25.Kxf2? Qc8 (25...Bc5!) 26.a6 Qf5+ 27.Ke1 Qxe5+ 28.Qxe5 Bxe5 29.Ra3 Rf8
 30.c4 Nd7 31.Raf3 f6 32.Rf5 c6 33.Kd2 cxb5 34.cxb5 Kc7 35.Rh5 bxa6 36.bxa6 Rh8
 37.Rb1 Nc5 38.Rh4 Kc6 39.Rc4 Rd8+ 40.Kc2 Rd7 41.Rb5?? 0-1
 
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1986.03.13"]
+[Round "7"]
+[White "Nurmela, Ismo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Board "2"]
+[WhiteTeam "Kuohu"]
+[BlackTeam "Jyväskylän Lyseon lukio 2"]
+[TimeControl "40/5400:900"]
+
+1.d4 Nf6 2.g3 d5 3.Bg2 Bf5 4.Bf4 e6 5.a3 Bd6 6.Qd2 Bxf4 7.Qxf4 Bxc2 8.Nc3 Bg6
+9.Nf3 O-O 10.O-O Qe7 11.Rac1 c6 12.Qd2 Ne4 13.Qf4 Nxc3 14.Rxc3 Nd7 15.Qd2
+(15.Qc7!) c5 16.e3 c4 17.Ne1 b5 18.f4 Nf6 19.Nf3 Ne4 20.Qc1 Nxc3 21.Qxc3 f6
+22.Nh4 Bd3 23.Rf2 a5 24.f5 b4 25.Qd2 bxa3 26.Qc3 a2 27.b3 Qa3 28.Qa1 cxb3
+29.fxe6 Rfc8 30.Rb2 Rc1+ 31.Qxc1 a1=Q 0-1
+
 [Event "Heart of Finland"]
 [Site "Jyväskylä FIN"]
 [Date "1991.07.19"]
