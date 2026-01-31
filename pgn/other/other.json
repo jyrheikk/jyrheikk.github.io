@@ -18,7 +18,7 @@
   "sicilian.pgn": 68,
   "caro-kann.pgn": 30,
   "nimzowitsch.pgn": 8,
-  "center-counter.pgn": 70,
+  "center-counter.pgn": 71,
   "center-counter-main.pgn": 46,
   "pirc.pgn": 49,
   "austrian.pgn": 59,
@@ -27,12 +27,12 @@
   "scotch.pgn": 7,
   "petrov.pgn": 4,
   "french.pgn": 60,
-  "alekhine.pgn": 5,
+  "alekhine.pgn": 6,
   "modern.pgn": 16,
 
   "reti.pgn": 16,
   "bird.pgn": 6,
-  "benko.pgn": 5,
+  "benko.pgn": 6,
   "grob.pgn": 6,
   "misc.pgn": 39,
   "fischer-random.pgn": 20
