@@ -12,6 +12,27 @@
 gxf3 15.Rf1!? f4 16.d5) 14.Bf1 Qh4 15.Ng2 Qh3 16.Nxf4 Qh4 17.Ng2 Qh3 18.Ne3
 Qh4 19.Bc4 Nc6 20.Nef5 1-0
 
+[Event "Lauttasaari Club Tournament"]
+[Site "Helsinki FIN"]
+[Date "2001.06.13"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Rantanen, Matti"]
+[Result "0-1"]
+[Section "A"]
+[TimeControl "40/5400:900"]
+
+1.d4 b6 2.e4 e6 3.c4 Bb7 4.Nc3 Bb4 5.d5 Qf6 6.Nf3 Bxc3+ 7.bxc3 d6 8.Be2 Ne7
+9.O-O h6 10.Be3 O-O 11.Qd2 Nd7 12.Rae1 Nc5 13.Qc2 Ng6 14.Nd4 Rfe8 15.Nb5 Re7
+16.Bd4 (16.f4) e5 17.Be3 Bc8 18.f3 a6 19.Na3 Bd7 20.Qd2 Rae8 21.Kh1 Nf4 22.g3
+Nxe2 23.Qxe2 Qg6 24.g4 h5 25.gxh5 Qxh5 26.Rg1 f6 27.Nc2 g5 28.Bd2 Rh7 29.Rg2
+Kf7 30.Ne3 Reh8 31.Nf1 Bh3 32.Rf2 Bxf1 33.Rexf1 Nd7 34.Rg1 a5 35.Rg3 Nf8
+36.Kg1 Ng6 37.Kf1 Re8 38.Ke1 Reh8 39.Qd1 Re8 40.Qa4 Re7 41.Qc6 Rh8 42.c5 dxc5
+43.d6 cxd6 44.Qxd6 Re6 45.Qc7+ Ne7 46.Be3 Rc8 47.Qd7 Rec6 48.Rb2 (48.Rh3) R8c7
+49.Qd3 Qh4 50.Kf1 Qh5 51.Kg2 Rc8 52.Qa6 Rb8 53.Qa7 Qh8 54.Qa6 (54.Rh3) Qc8
+55.Qe2 Qe6 56.Kh1 Rd8 57.Rg1 Rcd6 58.Qa6 Ng6 59.Rgb1 Nf4 60.Rxb6?? Rd1+
+61.Rxd1 Rxd1+ 62.Bg1 Qh3 63.Rb2 Qxf3+ 0-1
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2001.11.07"]

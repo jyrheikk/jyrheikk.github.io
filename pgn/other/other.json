@@ -1,6 +1,6 @@
 {
   "larsen.pgn": 4,
-  "english.pgn": 25,
+  "english.pgn": 26,
   "qgambit.pgn": 21,
   "pillsbury.pgn": 13,
   "dutch.pgn": 18,
@@ -14,8 +14,8 @@
   "trompowsky.pgn": 11,
   "london.pgn": 21,
 
-  "owen.pgn": 11,
-  "sicilian.pgn": 68,
+  "owen.pgn": 12,
+  "sicilian.pgn": 69,
   "caro-kann.pgn": 30,
   "nimzowitsch.pgn": 8,
   "center-counter.pgn": 71,
@@ -34,6 +34,6 @@
   "bird.pgn": 6,
   "benko.pgn": 6,
   "grob.pgn": 6,
-  "misc.pgn": 39,
+  "misc.pgn": 40,
   "fischer-random.pgn": 20
 }

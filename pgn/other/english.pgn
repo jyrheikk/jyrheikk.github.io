@@ -1,3 +1,23 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1985.02.01"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Rossi, J"]
+[Result "0-1"]
+[Section "D"]
+[TimeControl "40/5400:1800"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Nf3 h6 7.e4 Bc5 8.Be2 d6
+9.O-O Bg4 10.h3 Bh5 11.Be3 (11.Nxe5!) Bxe3 12.fxe3 Bg6 13.Nd2 (13.Nh4!) Ne7
+14.Bg4 Qb6 15.Nd5 Nexd5 16.exd5 Qxe3+ 17.Rf2 O-O 18.Bf3 e4 19.Be2 Nd7 20.Nf1
+Qg5 21.Nh2 f5 22.Kh1 Ne5 23.Qd4 f4 24.Raf1 b6 25.b4 Rac8 26.Ng4 Nxg4 27.Bxg4
+Rc7 28.g3 f3 29.Kh2 h5 30.Bxf3 exf3 31.Rxf3 Rxf3 32.Rxf3 Qe5 33.Qxe5 dxe5
+34.Rc3 Bf5 35.h4 Bc8 36.Kg1 Ba6 37.c5 e4 38.Kf2 (38.c6!) bxc5 39.bxc5 Rf7+
+40.Ke3 Rf3+ 41.Kd4 Rd3+ 42.Rxd3 exd3 43.Kc3 Kf7 44.d6 Ke6 45.a3 Kd7 46.Kd2 Bb5
+47.a4 Bxa4 48.Kxd3 Bb5+ 49.Kd4 a5 50.Kc3 Ke6 51.Kd4 a4 52.Kc3 Kd5 53.Kb4 Bc6
+0-1
+
 [Event "Ruth Cup"]
 [Site "Jyväskylä FIN"]
 [Date "1985.12.05"]

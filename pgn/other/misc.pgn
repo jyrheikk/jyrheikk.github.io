@@ -17,6 +17,22 @@ f5 22.Qxb2 Qg7 23.Qxb4 Qxg5? 24.Rh8+! Kxh8 25.Qxf8+ Kh7 26.Qf7+ 1-0
 
 [Event "Talvi Tournament"]
 [Site "Jyväskylä FIN"]
+[Date "1985.02.02"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Oksanen, Timo"]
+[Result "0-1"]
+[Section "D"]
+[TimeControl "40/5400:1800"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 Be7 7.O-O O-O 8.Qc2 dxc4
+9.Bxc4 b5 10.Bb3 a5 11.a4 Ba6 12.Re1 Rc8 13.Ne2 b4 14.Nf4 c5 15.dxc5 Nxc5
+16.Ng5 Bd3 17.Qd1 Nxb3 18.Qxb3 Bc2 19.Ngxe6 Qe8 20.Qxc2 Rxc2 21.Nxf8 Bxf8
+22.f3 Bd6 23.Nh3 Qe5 24.g3 Qh5 25.Nf2 Qxf3 26.Rf1 Ng4 27.Bd2 Rxd2 28.Rac1 Bf8
+0-1
+
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
 [Date "1985.02.03"]
 [Round "5"]
 [White "Pietarila, Ahti"]
@@ -34,6 +50,26 @@ Nf6 28.Kf1 gxh4 29.Qxh4 Qxh4 30.gxh4 Rad8 31.Ke1 Rg1+ 32.Nf1 Ng4 33.Rc8 Rxc8
 34.Rxc8+ Kg7 35.Rc1 Nh2 36.Kd2 Rxf1 37.Rxf1 Nxf1+ 38.Kc3 Kf6 (38...Nxe3) 39.a4
 Ke6 40.Kc2 Kd5 41.Kc3 Nh2 42.a5 Kc6 43.Kc4 a6 44.b5+ axb5+ 45.Kb4 Ng4 46.a6
 Kb6 47.a7 Kxa7 48.Kxb5 Nxf2 49.Kc5 Nd3+ 0-1
+
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1986.02.01"]
+[Round "3"]
+[White "Paukku, Raimo"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 c5 6.O-O Be7 7.Nc3 cxd4 8.Qxd4 Nc6
+9.Qd3 O-O 10.e4 d5 11.e5 Nb4 12.Qe2 Ne8 13.a3 Nc6 14.cxd5 exd5 15.b4 Nc7
+16.Rd1 Re8 17.Bf4 a6 18.Qa2 d4 19.Nxd4 Nxd4 20.Bxb7 Rb8 21.Bd5 Nce6 22.Be3 Qc7
+23.Bxd4 Nxd4 24.Bxf7+ Kh8 25.Nd5 Qxe5 26.Bxe8 Rxe8 27.Qc4 Nf3+ 28.Kg2 Qh5
+29.h3 Rf8 30.Qg4 Ne1+ 31.Rxe1 Qxd5+ 32.Qe4 Qf7 33.Re2 Bf6 34.Rd1 a5 35.bxa5
+bxa5 36.Rd3 Qa7 37.a4 h6 38.Qc6 Ba1 39.Rf3 Rxf3 40.Re8+ Kh7 41.Qxf3 Qb6
+42.Qe4+ Qg6 43.Qxg6+ (43.Rh8+) Kxg6 44.f4 Bc3 45.Kf3 Kf7 46.Re4 g6 47.g4 g5
+48.fxg5 hxg5 49.Rc4 Bd2 50.Rc5 Ke6 51.Ke4 Kf6 52.Kd5 Bb4 53.Rc6+ Ke7 54.Rh6
+Kf7 55.Ke4 Kg7 56.Ra6 Kf7 57.Kf5 Bd2 58.Ra7+ Ke8 59.Ke6 Kf8 60.Kf6 Ke8 61.Ra8+
+Kd7 62.Rg8 Kc6 63.Rxg5 Bxg5+ 1-0
 
 [Event "Matinkylä Tournament"]
 [Site "Espoo FIN"]
@@ -187,27 +223,6 @@ b5 23.Be2 Rxc3 24.Bxc3 Bxf3 25.Bxf3 Rd3 26.Bg2 Nxf2 27.Kxf2 Rxc3 28.Bf3 e6
 36.gxh4 Bxh2 37.Bc4 Kf7 38.Kg2 Bc7 39.Be2 e5 40.Bc4+ Kf6 41.Be2 e4 42.Kf2 f4
 43.Bg4 Ke5 44.h5 Bb6+ 45.Kg2 f3+ 46.Kg3 gxh5 47.Bxh5 Kf5 48.Bg4+ Kg5 49.Bd7
 Bc7+ 50.Kf2 Kf4 51.Bb5 e3 52.Kf1 Ba5 53.Kg1 e2 54.Kh2 e1=Q 0-1
-
-[Event "Lauttasaari Club Tournament"]
-[Site "Helsinki FIN"]
-[Date "2001.06.13"]
-[Round "?"]
-[White "Heikkinen, Jyrki"]
-[Black "Rantanen, Matti"]
-[Result "0-1"]
-[Section "A"]
-[TimeControl "40/5400:900"]
-
-1.d4 b6 2.e4 e6 3.c4 Bb7 4.Nc3 Bb4 5.d5 Qf6 6.Nf3 Bxc3+ 7.bxc3 d6 8.Be2 Ne7
-9.O-O h6 10.Be3 O-O 11.Qd2 Nd7 12.Rae1 Nc5 13.Qc2 Ng6 14.Nd4 Rfe8 15.Nb5 Re7
-16.Bd4 (16.f4) e5 17.Be3 Bc8 18.f3 a6 19.Na3 Bd7 20.Qd2 Rae8 21.Kh1 Nf4 22.g3
-Nxe2 23.Qxe2 Qg6 24.g4 h5 25.gxh5 Qxh5 26.Rg1 f6 27.Nc2 g5 28.Bd2 Rh7 29.Rg2
-Kf7 30.Ne3 Reh8 31.Nf1 Bh3 32.Rf2 Bxf1 33.Rexf1 Nd7 34.Rg1 a5 35.Rg3 Nf8
-36.Kg1 Ng6 37.Kf1 Re8 38.Ke1 Reh8 39.Qd1 Re8 40.Qa4 Re7 41.Qc6 Rh8 42.c5 dxc5
-43.d6 cxd6 44.Qxd6 Re6 45.Qc7+ Ne7 46.Be3 Rc8 47.Qd7 Rec6 48.Rb2 (48.Rh3) R8c7
-49.Qd3 Qh4 50.Kf1 Qh5 51.Kg2 Rc8 52.Qa6 Rb8 53.Qa7 Qh8 54.Qa6 (54.Rh3) Qc8
-55.Qe2 Qe6 56.Kh1 Rd8 57.Rg1 Rcd6 58.Qa6 Ng6 59.Rgb1 Nf4 60.Rxb6?? Rd1+
-61.Rxd1 Rxd1+ 62.Bg1 Qh3 63.Rb2 Qxf3+ 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
