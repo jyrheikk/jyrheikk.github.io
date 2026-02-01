@@ -6,6 +6,7 @@
 [Black "Heikkinen, Jyrki"]
 [Result "1/2-1/2"]
 [WhiteElo "2340"]
+[WhiteTitle "FM"]
 [TimeControl "600"]
 
 1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 Nxc6 5.c3 Bf5 6.Be2 Rc8 7.Nf3 e6

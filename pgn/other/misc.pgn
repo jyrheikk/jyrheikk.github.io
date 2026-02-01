@@ -1,5 +1,29 @@
 [Event "Firm League"]
 [Site "Jyväskylä FIN"]
+[Date "1984.11.14"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Vaskelainen, Ari-Pekka"]
+[Result "0-1"]
+[Board "3"]
+[WhiteTeam "Jyväskylän Lyseon lukio 2"]
+[BlackTeam "Kangas"]
+[TimeControl "40/5400:900"]
+
+1.Nf3 e6 2.c4 Nf6 3.d4 Bb4+ 4.Bd2 Qe7 5.Qb3 Bxd2+ 6.Nbxd2 b6 7.e4 Bb7 8.Bd3 d5
+9.e5 Ne4 10.O-O Nxd2 11.Nxd2 dxc4 12.Qxc4 Qg5 13.Ne4 Qe7 14.Rac1 O-O 15.Qxc7
+Qxc7 16.Rxc7 Ba6 17.Bxa6 Nxa6 18.Rcc1 Nb4 19.a3 Nd3 20.Rc2 Rac8 21.Rd2 Nc1
+22.b4 Nb3 23.Rd3 Nc1 24.Rdd1 Ne2+ 25.Kh1 Rc4 26.f3 Rxd4 27.Rxd4 Nxd4 28.Rd1
+Nc2 29.Rd7 a5 30.bxa5 bxa5 31.Ra7 Nxa3 32.Rxa5 Nc4 33.Rc5 Ne3 34.h4 h6 35.Kg1
+Rb8 36.Kf2 Nf5 37.h5 Rb2+ 38.Kg1 Nh4 39.Nf2 Rb1+ 40.Kh2 Rb2 41.Nd3 Rxg2+
+42.Kh3 Rd2 43.Kxh4 Rxd3 44.f4 Rd1 45.Rc8+ Kh7 46.Rf8 Rd7 47.Kg4 g6 48.Re8
+gxh5+ (48...g5! 49.fxg5 Rd4+ {-+}) 49.Kxh5 Rd4 50.Kg4 h5+ 51.Kg5 (51.Kxh5??)
+Kg7 52.f5 exf5 (52...Re4 53.fxe6!) 53.Kxh5 Rg4 54.Rc8 Re4 55.Re8 Rg4 56.e6
+fxe6 57.Rxe6 Rg1 58.Kh4 Kf7 59.Rb6 Ke7 60.Kh3 Rg8 61.Kh2 f4 62.Ra6 f3 63.Ra2
+Ke6 64.Rf2 Rf8 65.Kg3 Ke5 66.Rxf3 Rxf3+ 67.Kxf3 1/2-1/2
+
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
 [Date "1985.01.21"]
 [Round "5"]
 [White "Heikkinen, Jyrki"]
@@ -50,6 +74,24 @@ Nf6 28.Kf1 gxh4 29.Qxh4 Qxh4 30.gxh4 Rad8 31.Ke1 Rg1+ 32.Nf1 Ng4 33.Rc8 Rxc8
 34.Rxc8+ Kg7 35.Rc1 Nh2 36.Kd2 Rxf1 37.Rxf1 Nxf1+ 38.Kc3 Kf6 (38...Nxe3) 39.a4
 Ke6 40.Kc2 Kd5 41.Kc3 Nh2 42.a5 Kc6 43.Kc4 a6 44.b5+ axb5+ 45.Kb4 Ng4 46.a6
 Kb6 47.a7 Kxa7 48.Kxb5 Nxf2 49.Kc5 Nd3+ 0-1
+
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1985.10.05"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Mattila, Ykä"]
+[Result "1-0"]
+[Board "?"]
+[WhiteTeam "Jyväskylän Lyseon lukio 2"]
+[BlackTeam "Muusikot"]
+[TimeControl "40/5400:900"]
+
+1.e4 e5 2.Nf3 f6? 3.Nxe5 fxe5? 4.Qh5+ g6 5.Qxe5+ Be7 6.Qxh8 Kf8 7.Bc4 d5
+8.Bxd5 Ke8 9.Qxg8+ Kd7 10.Be6+ Kd6 11.e5+ Kxe5 12.f4+ Kd6 13.Qxd8+ Bxd8
+14.Bxc8 Nc6 15.Bxb7 Rb8 16.Bxc6 Kxc6 17.Nc3 g5 18.f5 g4 19.d4 Kb7 20.Bf4 Bf6
+21.O-O-O Rh8 22.Rhe1 h6 23.Be5 Bg5+ 24.Kb1 Rc8 25.f6 h5 26.f7 Bh6 27.Nd5 c6
+28.Ne7 Rf8 29.Ng8 Bg5 30.Rf1 Be3 31.Bg7 Rxg8 32.fxg8=Q 1-0
 
 [Event "Talvi Tournament"]
 [Site "Jyväskylä FIN"]

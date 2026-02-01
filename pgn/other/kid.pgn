@@ -1,3 +1,27 @@
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1984.10.20"]
+[Round "2"]
+[White "Virolainen"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Board "4"]
+[WhiteTeam "Ruthin ravintola"]
+[BlackTeam "Jyväskylän Lyseon lukio 2"]
+[TimeControl "40/5400:900"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 g6 4.Nf3 Bg7 5.e4 d6 6.Bg5 Qd7 7.Be2 b6 8.Qd2 h6 9.Be3
+Bb7 10.d5 e5 11.h3 c6 12.Rc1 Na6 13.a3 Nc5 14.Qc2 Nh5? 15.b4 Na6 16.Qd2?
+(16.dxc6) f5 17.Qc2 Rf8 18.b5 cxb5 19.c5 Qf7 20.Bxb5+ Ke7 21.cxd6+ Kxd6 22.Bc6
+Bxc6 23.dxc6 Ke6 24.Qb3+ Ke7 25.Nd5+ Ke8 26.c7 Nc5 27.Qb5+ Qd7 28.Qxd7+ Kxd7
+29.Bxc5 bxc5 30.Rxc5 Nf4 31.Nxf4 exf4 32.O-O fxe4 33.Rd1+ Kc8 34.Nh4 g5 35.Ng6
+Re8 36.Ne7+ Kb7 37.Rb1+ Ka6 38.c8=Q+ (38.Rc4 Bc3 39.Ra4+ Ba5 40.Nc6) Raxc8
+39.Nxc8 Re6 40.Rc4 Re5 41.Ra4+ (41.Rc7) Ra5 42.Rxa5+ Kxa5 43.Nxa7 Bd4 44.Nc6+
+Ka6 45.Nxd4 h5 46.Rb8 Ka7 47.Rg8 e3 48.fxe3 fxe3 49.Rxg5 Kb6 50.Rxh5 Kc7
+51.Re5 Kd6 52.Rxe3 Kd5 53.Nf5 Kc5 54.Kf2 Kd5 55.Kf3 Kc4 56.Ke4 Kc5 57.Rd3 Kb5
+58.Rc3 Ka4 59.Kd4 Kb5 60.Rc4 Kb6 61.Kd5 Kb7 62.Kd6 Kb6 63.Rb4+ Ka5 64.Kc6 Ka6
+65.Ra4# 1-0
+
 [Event "Tampere University of Technology Ch"]
 [Site "Tampere FIN"]
 [Date "1990.11.05"]

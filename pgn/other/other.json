@@ -1,6 +1,6 @@
 {
   "larsen.pgn": 4,
-  "english.pgn": 26,
+  "english.pgn": 27,
   "qgambit.pgn": 21,
   "pillsbury.pgn": 13,
   "dutch.pgn": 18,
@@ -8,15 +8,15 @@
   "snake.pgn": 13,
   "catalan.pgn": 5,
   "grunfeld.pgn": 33,
-  "kid.pgn": 27,
+  "kid.pgn": 28,
   "veresov.pgn": 18,
   "paleface.pgn": 22,
   "trompowsky.pgn": 11,
   "london.pgn": 21,
 
   "owen.pgn": 12,
-  "sicilian.pgn": 69,
-  "caro-kann.pgn": 30,
+  "sicilian.pgn": 70,
+  "caro-kann.pgn": 32,
   "nimzowitsch.pgn": 8,
   "center-counter.pgn": 71,
   "center-counter-main.pgn": 46,
@@ -26,7 +26,7 @@
   "italian.pgn": 3,
   "scotch.pgn": 7,
   "petrov.pgn": 4,
-  "french.pgn": 61,
+  "french.pgn": 62,
   "alekhine.pgn": 6,
   "modern.pgn": 16,
 
@@ -34,6 +34,6 @@
   "bird.pgn": 6,
   "benko.pgn": 7,
   "grob.pgn": 6,
-  "misc.pgn": 40,
+  "misc.pgn": 42,
   "fischer-random.pgn": 20
 }
