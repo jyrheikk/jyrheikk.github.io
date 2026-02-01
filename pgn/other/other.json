@@ -6,7 +6,7 @@
   "dutch.pgn": 18,
   "benoni.pgn": 28,
   "snake.pgn": 13,
-  "catalan.pgn": 5,
+  "catalan.pgn": 6,
   "grunfeld.pgn": 33,
   "kid.pgn": 28,
   "veresov.pgn": 18,
@@ -32,8 +32,8 @@
 
   "reti.pgn": 16,
   "bird.pgn": 6,
-  "benko.pgn": 7,
+  "benko.pgn": 14,
   "grob.pgn": 6,
-  "misc.pgn": 42,
+  "misc.pgn": 34,
   "fischer-random.pgn": 20
 }

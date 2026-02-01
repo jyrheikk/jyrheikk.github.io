@@ -1,3 +1,23 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1986.02.01"]
+[Round "3"]
+[White "Paukku, Raimo"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 c5 6.O-O Be7 7.Nc3 cxd4 8.Qxd4 Nc6
+9.Qd3 O-O 10.e4 d5 11.e5 Nb4 12.Qe2 Ne8 13.a3 Nc6 14.cxd5 exd5 15.b4 Nc7
+16.Rd1 Re8 17.Bf4 a6 18.Qa2 d4 19.Nxd4 Nxd4 20.Bxb7 Rb8 21.Bd5 Nce6 22.Be3 Qc7
+23.Bxd4 Nxd4 24.Bxf7+ Kh8 25.Nd5 Qxe5 26.Bxe8 Rxe8 27.Qc4 Nf3+ 28.Kg2 Qh5
+29.h3 Rf8 30.Qg4 Ne1+ 31.Rxe1 Qxd5+ 32.Qe4 Qf7 33.Re2 Bf6 34.Rd1 a5 35.bxa5
+bxa5 36.Rd3 Qa7 37.a4 h6 38.Qc6 Ba1 39.Rf3 Rxf3 40.Re8+ Kh7 41.Qxf3 Qb6
+42.Qe4+ Qg6 43.Qxg6+ (43.Rh8+) Kxg6 44.f4 Bc3 45.Kf3 Kf7 46.Re4 g6 47.g4 g5
+48.fxg5 hxg5 49.Rc4 Bd2 50.Rc5 Ke6 51.Ke4 Kf6 52.Kd5 Bb4 53.Rc6+ Ke7 54.Rh6
+Kf7 55.Ke4 Kg7 56.Ra6 Kf7 57.Kf5 Bd2 58.Ra7+ Ke8 59.Ke6 Kf8 60.Kf6 Ke8 61.Ra8+
+Kd7 62.Rg8 Kc6 63.Rxg5 Bxg5+ 1-0
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2013.08.14"]
