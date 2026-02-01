@@ -1,0 +1,96 @@
+[Event "Talvi Tournament"]
+[Site "Jyväskylä FIN"]
+[Date "1985.02.02"]
+[Round "3"]
+[White "Heikkinen, Jyrki"]
+[Black "Oksanen, Timo"]
+[Result "0-1"]
+[Section "D"]
+[TimeControl "40/5400:1800"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 Be7 7.O-O O-O 8.Qc2 dxc4
+9.Bxc4 b5 10.Bb3 a5 11.a4 Ba6 12.Re1 Rc8 13.Ne2 b4 14.Nf4 c5 15.dxc5 Nxc5
+16.Ng5 Bd3 17.Qd1 Nxb3 18.Qxb3 Bc2 19.Ngxe6 Qe8 20.Qxc2 Rxc2 21.Nxf8 Bxf8
+22.f3 Bd6 23.Nh3 Qe5 24.g3 Qh5 25.Nf2 Qxf3 26.Rf1 Ng4 27.Bd2 Rxd2 28.Rac1 Bf8
+0-1
+
+[Event "Finland School Team Ch"]
+[Site "Kuopio FIN"]
+[Date "1986.05.03"]
+[Round "2"]
+[White "Väntsi, Timo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Board "3"]
+[WhiteTeam "Oulun normaalikoulu"]
+[BlackTeam "Jyväskylän Lyseon lukio"]
+[TimeControl "40/4800:600"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 c6 5.e3 Be7 6.Bd3 O-O 7.O-O b6 8.Qc2 Bb7 9.e4
+dxe4 10.Nxe4 Nbd7 11.Bg5 h6 12.Bh4 Nxe4 13.Bxe7 Qxe7 14.Bxe4 Nf6 15.Rad1?!
+Nxe4 16.Qxe4 Rad8 17.Ne5? c5! 18.Qe3 Qd6! 19.Nf3 Bxf3 20.Qxf3 cxd4 21.Rd2 e5
+22.Qe2 f5 23.Rfd1 Qc5 24.b4 Qxb4 25.Qxe5 Rfe8! 26.Qf4 Re4 0-1
+
+[Event "Golders Green Rapidplay"]
+[Site "London GBR"]
+[Date "1996.07.13"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Wilson, Jonathan"]
+[Result "1/2-1/2"]
+[TimeControl "1800"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.f3 dxc4 5.a4 e5 6.dxe5 Qxd1+ 7.Kxd1 Nfd7 8.Bf4 Nc5
+9.Kc2 Nba6 10.Rd1 Be6 11.g3 Be7 12.Bh3 Rd8 13.Bxe6 Nb4+ 14.Kb1 Rxd1+ 15.Nxd1
+Nxe6 16.Bd2 Nd4 17.Ne3 b5 18.Bc3 Ne6 19.Nf5 Nd5 20.Bd4 g6 21.Nxe7 Kxe7 22.Bxa7
+{no more moves recorded} 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2009.10.21"]
+[Round "?"]
+[White "Suominen, Antti"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5
+hxg5 10.Bxg5 Nbd7 11.exf6 Bb7 12.g3 Nxf6 13.Bg2 Be7 14.Nxb5?? Qa5+ 15.Qd2 Qxb5
+16.Qf4? Qb4+ (16...Nh5) 17.Kf1 Nd5 18.Bxd5 cxd5 19.Qe5 Rh5?? 20.Bxe7 Qxb2
+21.Qxh5 Qxa1+ 22.Kg2 Qxd4 23.Bg5 Qe4+ 24.f3 Qe2+ 25.Kh3 d4 26.Qh8+ Kd7
+27.Qxd4+ Bd5 28.Qf6 Bxf3 29.Qxf7+ Kc6 30.Rb1 Qg2+ 31.Kh4 Qxh2# 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2019.10.02"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Sjövall, Tiia"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.f3 a6 5.e4 e6 6.e5 Nfd7 7.f4 Bb4 8.Qg4 O-O 9.c5 b6
+(9...Nxc5) 10.cxb6 Nxb6 (10...Qxb6) 11.a3 Bxc3+ 12.bxc3 Nc4 13.Bd3 h6 14.Nf3
+(14.Ne2) Qa5 15.Bd2 Nd7 16.f5? Nxd2 17.f6?! Nxf3+ 18.gxf3 g6?? 19.Bxg6 Kh8
+20.Qh5 Qxc3+ 21.Ke2 Qb2+ 22.Ke3 Qc3+ 23.Bd3 1-0
+
+[Event "Finland Team Ch"]
+[Site "Joensuu FIN"]
+[Date "2024.09.23"]
+[Round "2"]
+[White "Nokka, Risto"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Joensuun Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[WhiteTitle "FM"]
+[TimeControl "40/6600:1800+30"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.e3 g6 5.Nc3 Bg7 6.Be2 O-O 7.O-O Nbd7 8.b3 Nb6 9.h3
+dxc4 10.bxc4 Qc7 11.Qb3 Nbd7 12.Ba3 Re8 13.e4 Nh5 (13...e5) 14.Rfd1 Nf4 15.Bf1
+Ne6 16.Rac1 Qf4 (16...b6) 17.Rb1 Ng5 18.Nxg5 Qxg5 19.Bc1 Qh4 (19...Qa5) 20.Be3
+f5 (20...e5) 21.g3 Qh5 22.c5+ e6 23.Kg2 f4 (23...fxe4) 24.Be2 Qg5 25.Bxf4 Qe7
+26.Bd6 Qf7 27.Rd3 g5 28.e5 b6 29.Qd1 Kh8 30.Bh5 Qg8 31.Qf3 Rf8 32.Bxf8 Bxf8
+33.Ne4 Ba6 34.Rc3 bxc5 35.Nxc5 Bxc5 36.dxc5 Nxe5 37.Qe4 Qg7 38.Rcb3 Rf8 39.Rb8
+Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0

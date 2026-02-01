@@ -41,22 +41,6 @@ f5 22.Qxb2 Qg7 23.Qxb4 Qxg5? 24.Rh8+! Kxh8 25.Qxf8+ Kh7 26.Qf7+ 1-0
 
 [Event "Talvi Tournament"]
 [Site "Jyväskylä FIN"]
-[Date "1985.02.02"]
-[Round "3"]
-[White "Heikkinen, Jyrki"]
-[Black "Oksanen, Timo"]
-[Result "0-1"]
-[Section "D"]
-[TimeControl "40/5400:1800"]
-
-1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 Be7 7.O-O O-O 8.Qc2 dxc4
-9.Bxc4 b5 10.Bb3 a5 11.a4 Ba6 12.Re1 Rc8 13.Ne2 b4 14.Nf4 c5 15.dxc5 Nxc5
-16.Ng5 Bd3 17.Qd1 Nxb3 18.Qxb3 Bc2 19.Ngxe6 Qe8 20.Qxc2 Rxc2 21.Nxf8 Bxf8
-22.f3 Bd6 23.Nh3 Qe5 24.g3 Qh5 25.Nf2 Qxf3 26.Rf1 Ng4 27.Bd2 Rxd2 28.Rac1 Bf8
-0-1
-
-[Event "Talvi Tournament"]
-[Site "Jyväskylä FIN"]
 [Date "1985.02.03"]
 [Round "5"]
 [White "Pietarila, Ahti"]
@@ -522,28 +506,6 @@ Qxh2+ 33.Ke1 Qh4+ 0-1
 24.Qe1 Rab8 (24...Qb4) 25.Rd4 Qg5?? 26.Rg4 Qh6 27.Rxg7+ (27.Bxd5 Bxd5 28.Qd2!!
 Qg6 29.Rxg6) Qxg7 28.Bxg7 Kxg7 29.Rd1 f6 30.b3 Rb5 31.Rd4 Rc8 32.Qd2 Rc5
 33.Rg4+ Kh8 34.h3 f5 35.Qd4+ 1-0
-
-[Event "Finland Team Ch"]
-[Site "Joensuu FIN"]
-[Date "2024.09.23"]
-[Round "2"]
-[White "Nokka, Risto"]
-[Black "Heikkinen, Jyrki"]
-[Result "1-0"]
-[Section "I Division:2"]
-[Board "2"]
-[WhiteTeam "Joensuun Shakkikerho"]
-[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
-[WhiteTitle "FM"]
-[TimeControl "40/6600:1800+30"]
-
-1.Nf3 Nf6 2.d4 d5 3.c4 c6 4.e3 g6 5.Nc3 Bg7 6.Be2 O-O 7.O-O Nbd7 8.b3 Nb6 9.h3
-dxc4 10.bxc4 Qc7 11.Qb3 Nbd7 12.Ba3 Re8 13.e4 Nh5 (13...e5) 14.Rfd1 Nf4 15.Bf1
-Ne6 16.Rac1 Qf4 (16...b6) 17.Rb1 Ng5 18.Nxg5 Qxg5 19.Bc1 Qh4 (19...Qa5) 20.Be3
-f5 (20...e5) 21.g3 Qh5 22.c5+ e6 23.Kg2 f4 (23...fxe4) 24.Be2 Qg5 25.Bxf4 Qe7
-26.Bd6 Qf7 27.Rd3 g5 28.e5 b6 29.Qd1 Kh8 30.Bh5 Qg8 31.Qf3 Rf8 32.Bxf8 Bxf8
-33.Ne4 Ba6 34.Rc3 bxc5 35.Nxc5 Bxc5 36.dxc5 Nxe5 37.Qe4 Qg7 38.Rcb3 Rf8 39.Rb8
-Kg8 40.Rxf8+ Kxf8 41.Rb8+ Ke7 42.Re8+ Kf6 43.f4 1-0
 
 [Event "Casual Game"]
 [Site "lichess.org"]

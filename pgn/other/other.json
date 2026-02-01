@@ -1,7 +1,8 @@
 {
   "larsen.pgn": 4,
   "english.pgn": 27,
-  "qgambit.pgn": 21,
+  "slav.pgn": 6,
+  "qgambit.pgn": 17,
   "pillsbury.pgn": 13,
   "dutch.pgn": 18,
   "benoni.pgn": 28,
@@ -34,6 +35,6 @@
   "bird.pgn": 6,
   "benko.pgn": 14,
   "grob.pgn": 6,
-  "misc.pgn": 34,
+  "misc.pgn": 32,
   "fischer-random.pgn": 20
 }
