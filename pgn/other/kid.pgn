@@ -111,6 +111,21 @@ Nf8 43.Qxa4 Ng6 44.Qe8+ Kh7 45.Qe4 Kh6 46.Nxg6?? (46.Qe6) Qf1+ 47.Kh2 Qh3+ 0-1
 
 [Event "Golders Green Rapidplay"]
 [Site "London GBR"]
+[Date "1996.05.18"]
+[Round "3"]
+[White "Groels, K"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "1800"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 c5 6.d5 d6 7.e4 a6 8.f4 e5 9.Nge2
+Nh5 10.O-O (10.f5!) f5 11.exf5 gxf5 12.fxe5 dxe5 13.d6 Nc6 14.Qd5+ Kh8 15.Qxc5
+e4 16.Nd5 (16.Nxe4!) Be5 17.Bf4 Nxf4 18.Nexf4?? Bd4+ 19.Qxd4+ Nxd4 20.c5 Bd7
+21.Rad1 Ne6 22.Nxe6 Bxe6 23.Nc7 Qd7 24.b3 Rac8 25.Nxe6 Qxe6 26.d7 Rcd8 27.Rd6
+Qe5 28.b4 a5 29.a3 0-1
+
+[Event "Golders Green Rapidplay"]
+[Site "London GBR"]
 [Date "1997.01.18"]
 [Round "5"]
 [White "Heikkinen, Jyrki"]
