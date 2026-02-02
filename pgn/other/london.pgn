@@ -216,6 +216,20 @@ Rxb2+ 45.Rxb2 Rxb2+ 46.Kxb2 Kxc6 47.Kc3 Kd5 48.Kd3 f5 49.Ke3 Kc4 50.g4 g6
 51.h5 Kc3 52.h6 Kc4 53.gxf5 gxf5 54.Kd2 Kd4 55.Ke2 Kc3 56.Ke3 Kc2 57.Ke2 f4
 0-1
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2022.01.12"]
+[Round "4"]
+[White "Lindholm, Arto"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Bf4 g6 3.h4 h5 4.Nf3 Bg7 5.Nc3 c5 6.dxc5 Qa5 7.Qd4 Nc6 8.Qc4 Ne4
+9.Bd2 Nxd2 10.Kxd2? d5 11.cxd6 Be6 12.d7+ Kf8 13.Qd3 Rd8 14.e3? Rxd7 15.Nd4
+Nxd4 16.exd4 Rxd4 {no more moves recorded} 0-1
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2022.01.17"]
