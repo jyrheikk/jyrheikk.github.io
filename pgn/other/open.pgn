@@ -14,6 +14,24 @@ Qh5 23.Re7 Bb8 24.Rfe1 Bf4 25.Rb7 Rh6! 26.Ree7 Bxh2+ 27.Kf1 Bg3! 28.Rxg7+ Kh8
 34.Kd1 Bxf3+ 35.Nxf3 Qxf3+ 36.Qxf3 Rxf3 37.Rxh7+ Kg8 38.Rh1?? Rd3+ 39.Kc2 Rxd4
 40.Rg1 Rg4 41.Rb3 Re2+ 42.Kd1 Rd2+! 43.Kc1 Rd3! 44.Kc2 Rxb3 45.Kxb3 Kf7 0-1
 
+[Event "Firm League"]
+[Site "Jyväskylä FIN"]
+[Date "1985.10.05"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Mattila, Ykä"]
+[Result "1-0"]
+[Board "?"]
+[WhiteTeam "Jyväskylän Lyseon lukio 2"]
+[BlackTeam "Muusikot"]
+[TimeControl "40/5400:900"]
+
+1.e4 e5 2.Nf3 f6? 3.Nxe5 fxe5? 4.Qh5+ g6 5.Qxe5+ Be7 6.Qxh8 Kf8 7.Bc4 d5
+8.Bxd5 Ke8 9.Qxg8+ Kd7 10.Be6+ Kd6 11.e5+ Kxe5 12.f4+ Kd6 13.Qxd8+ Bxd8
+14.Bxc8 Nc6 15.Bxb7 Rb8 16.Bxc6 Kxc6 17.Nc3 g5 18.f5 g4 19.d4 Kb7 20.Bf4 Bf6
+21.O-O-O Rh8 22.Rhe1 h6 23.Be5 Bg5+ 24.Kb1 Rc8 25.f6 h5 26.f7 Bh6 27.Nd5 c6
+28.Ne7 Rf8 29.Ng8 Bg5 30.Rf1 Be3 31.Bg7 Rxg8 32.fxg8=Q 1-0
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2004.04.14"]

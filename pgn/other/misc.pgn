@@ -59,24 +59,6 @@ Nf6 28.Kf1 gxh4 29.Qxh4 Qxh4 30.gxh4 Rad8 31.Ke1 Rg1+ 32.Nf1 Ng4 33.Rc8 Rxc8
 Ke6 40.Kc2 Kd5 41.Kc3 Nh2 42.a5 Kc6 43.Kc4 a6 44.b5+ axb5+ 45.Kb4 Ng4 46.a6
 Kb6 47.a7 Kxa7 48.Kxb5 Nxf2 49.Kc5 Nd3+ 0-1
 
-[Event "Firm League"]
-[Site "Jyväskylä FIN"]
-[Date "1985.10.05"]
-[Round "1"]
-[White "Heikkinen, Jyrki"]
-[Black "Mattila, Ykä"]
-[Result "1-0"]
-[Board "?"]
-[WhiteTeam "Jyväskylän Lyseon lukio 2"]
-[BlackTeam "Muusikot"]
-[TimeControl "40/5400:900"]
-
-1.e4 e5 2.Nf3 f6? 3.Nxe5 fxe5? 4.Qh5+ g6 5.Qxe5+ Be7 6.Qxh8 Kf8 7.Bc4 d5
-8.Bxd5 Ke8 9.Qxg8+ Kd7 10.Be6+ Kd6 11.e5+ Kxe5 12.f4+ Kd6 13.Qxd8+ Bxd8
-14.Bxc8 Nc6 15.Bxb7 Rb8 16.Bxc6 Kxc6 17.Nc3 g5 18.f5 g4 19.d4 Kb7 20.Bf4 Bf6
-21.O-O-O Rh8 22.Rhe1 h6 23.Be5 Bg5+ 24.Kb1 Rc8 25.f6 h5 26.f7 Bh6 27.Nd5 c6
-28.Ne7 Rf8 29.Ng8 Bg5 30.Rf1 Be3 31.Bg7 Rxg8 32.fxg8=Q 1-0
-
 [Event "Matinkylä Tournament"]
 [Site "Espoo FIN"]
 [Date "1991.02.24"]

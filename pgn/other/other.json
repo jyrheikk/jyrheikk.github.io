@@ -23,7 +23,7 @@
   "center-counter-main.pgn": 46,
   "pirc.pgn": 49,
   "austrian.pgn": 59,
-  "open.pgn": 4,
+  "open.pgn": 5,
   "italian.pgn": 3,
   "scotch.pgn": 7,
   "petrov.pgn": 4,
@@ -35,6 +35,6 @@
   "bird.pgn": 6,
   "benko.pgn": 14,
   "grob.pgn": 6,
-  "misc.pgn": 32,
+  "misc.pgn": 31,
   "fischer-random.pgn": 20
 }
