@@ -1,3 +1,22 @@
+[Event "Casual Game"]
+[Site "Jyväskylä FIN"]
+[Date "1985.??.??"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Kuru, Lauri"]
+[Result "0-1"]
+[EventDate "1985.08.21"]
+[Mode "EM"]
+
+1.d4 Nf6 2.Bf4 d5 3.Nc3 Bf5 4.f3 h6 5.g4 Bh7 6.Bg2 Na6 7.e4 e6 8.exd5 exd5
+9.Qe2+ Qe7 10.O-O-O O-O-O 11.Qxe7 Bxe7 12.Nb5 g5 13.Be5 c6 14.Nc3 Rhe8 15.h4
+Bg6 16.Bf1 Nc7 17.Nh3 Nd7 18.Bg7 h5 19.Nxg5 Bxg5+ 20.hxg5 hxg4 21.fxg4 Re3
+22.Rh3 Rxh3 23.Bxh3 Ne6 24.Bf6 Nxf6 25.gxf6 Rh8 26.Bf1 Rh2 27.Bd3 Bxd3 28.Rxd3
+Rg2 29.b3 Rxg4 30.Ne2 Nf4 31.Nxf4 Rxf4 32.c4 Rxf6 33.Kd1 Kc7 34.Ke2 Rf4 35.Rd1
+f5 36.c5 a5 37.Kd3 b6 38.Rh1 bxc5 39.dxc5 a4 40.Rh7+ Kc8 41.Rh8+? (41.Rf7) Kb7
+42.Rh6 Rf3+ 43.Kc2 Rf2+ 44.Kb1 a3 45.Rf6 f4 46.Kc1 f3 47.b4 Rf1+ 48.Kd2 f2
+49.Ke2 Ra1 50.Kxf2 Rxa2+ 51.Kg3 Rb2 52.Rf3 Ka6 0-1
+
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
 [Date "2005.09.17"]
