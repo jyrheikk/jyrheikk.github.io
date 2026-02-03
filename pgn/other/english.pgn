@@ -25,6 +25,7 @@ Rc7 28.g3 f3 29.Kh2 h5 30.Bxf3 exf3 31.Rxf3 Rxf3 32.Rxf3 Qe5 33.Qxe5 dxe5
 [White "Bragge, Anssi"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
+[Section "C"]
 [TimeControl "40/5400:900"]
 
 1.c4 Nf6 2.g3 d5 3.cxd5 Nxd5 4.Bg2 e5 5.Nc3 Nf6 6.d3 Nc6 7.f4 Bc5 8.fxe5? Nxe5

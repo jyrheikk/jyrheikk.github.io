@@ -10,7 +10,7 @@
   "catalan.pgn": 6,
   "grunfeld.pgn": 33,
   "kid.pgn": 29,
-  "veresov.pgn": 18,
+  "veresov.pgn": 19,
   "paleface.pgn": 22,
   "trompowsky.pgn": 11,
   "london.pgn": 23,
@@ -33,8 +33,8 @@
 
   "reti.pgn": 16,
   "bird.pgn": 6,
-  "benko.pgn": 14,
+  "benko.pgn": 15,
   "grob.pgn": 6,
-  "misc.pgn": 30,
+  "misc.pgn": 31,
   "fischer-random.pgn": 20
 }

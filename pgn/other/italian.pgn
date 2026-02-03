@@ -26,6 +26,7 @@ Qxf3 43.c4 Qxe4+ 44.Kb2 Nf5 45.Rd8+ Ka7 46.R1d3 b5 47.c5 Qb4+ 48.Kc2 Qxc5+
 [White "Heikkinen, Jyrki"]
 [Black "Uusitalo, Pekka"]
 [Result "1-0"]
+[Section "C"]
 [WhiteElo "1528"]
 [BlackElo "1683"]
 [TimeControl "40/5400:900"]

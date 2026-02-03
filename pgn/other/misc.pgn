@@ -59,6 +59,31 @@ Nf6 28.Kf1 gxh4 29.Qxh4 Qxh4 30.gxh4 Rad8 31.Ke1 Rg1+ 32.Nf1 Ng4 33.Rc8 Rxc8
 Ke6 40.Kc2 Kd5 41.Kc3 Nh2 42.a5 Kc6 43.Kc4 a6 44.b5+ axb5+ 45.Kb4 Ng4 46.a6
 Kb6 47.a7 Kxa7 48.Kxb5 Nxf2 49.Kc5 Nd3+ 0-1
 
+[Event "Nordic School Team Ch"]
+[Site "Heinola FIN"]
+[Date "1986.10.17"]
+[Round "1"]
+[White "Kanerva, Anssi"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTeam "Finland"]
+[BlackTeam "Finland 2"]
+[TimeControl "40/7200:1800"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.e3 d5 6.Bd2 Be7 7.Rc1 O-O 8.cxd5 exd5
+9.Bd3 Ne4 10.Qc2 f5 11.O-O Nd7 12.Be1 (12.Nxe4! dxe4 13.Qxc7 Bd5 14.Bc4) a6
+13.Qb3 Ndf6 14.Nd2 Nxd2 (14...c5!) 15.Bxd2 Qd7 16.Qc2 Ne4 17.Bxe4 fxe4 18.Nxe4
+dxe4 19.Qxc7 Rad8 20.Qxb6 Rc8 21.Bb4 Rf6 22.Qa5 Bd8 23.Rxc8 Bxc8 24.Qa3 Rg6
+25.Qb3+ Kh8 26.f4 Qg4 (26...exf3 27.Rxf3 Bf6) 27.Qc2 Bf5 28.Be1 h6 29.Bg3 Bh4
+30.Qf2 Bxg3 31.Qxg3 Qxg3 32.hxg3 Rxg3 33.Kf2 Rg6 34.Rc1 Rb6 35.b3 Kh7 36.Rc3
+Be6 37.Ke2 Kg6 38.Rc5 Kf6 39.Kd2 Bg4 40.Kc3 Be2 41.a3 Rd6 42.a4 Kf7 43.b4 Bd1
+44.a5 Be2 (44...Ba4) 45.d5 Rg6 46.Kd4 Bd3 47.Rc6 Rxg2 (47...Rxc6) 48.d6? Ke6?
+(48...Bb5 49.Rb6 Ke6 50.Kxe4 h5) 49.Rb6 Rc2 50.f5+ Kd7 (50...Kxf5 51.d7 Bb5
+52.Rxb5+ axb5 53.a6 Rd2+ 54.Kc5 Rxd7 55.Kxb5 h5) 51.Ke5 Rc8?? (51...Kc8)
+52.Rb7+ Kd8 53.Rxg7 Rc2 54.f6 Bc4 55.f7 Bxf7 56.Rxf7 Rg2 57.Kxe4 Ke8 58.Rh7
+Rg4+ 59.Kd5 Rxb4 60.Rxh6 Rb3 61.e4 Kf7 62.Rh7+ Kg8 63.Ra7 1-0
+
 [Event "Matinkylä Tournament"]
 [Site "Espoo FIN"]
 [Date "1991.02.24"]
