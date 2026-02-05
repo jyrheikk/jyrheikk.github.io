@@ -363,6 +363,7 @@ Qc8 15.Qg4 Nd4 16.cxd4 Qxc4 17.Bh6 g6 18.Bxf8 Rxf8 19.fxg6 fxg6 20.Qd7 Rf7
 [Black "Lammi, Esa"]
 [Result "1-0"]
 [Section "B"]
+[TimeControl "40/5400:1800"]
 
 1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5
 Nb8 9.Qf3 Be7 10.Qc3 Na6 11.Be3 b6?? 12.Qc6+ Bd7 13.Nxd6+ (13.Qb7) Kf8 14.Qc4

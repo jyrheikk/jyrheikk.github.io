@@ -36,6 +36,24 @@ Nxd4 14.Bxd4 a6 15.Nc3 b5 16.Nd5 Bxd5 17.exd5 Rc8 18.Qe2 (18.Qf3) Rxc1
 Kg5 36.Kf3 Kf5 37.g3 e4+ 38.Ke3 Ke5 39.Ke2 Kd4 40.Kd2 g5 41.Ke2 f5
 42.Kd2 f4 43.gxf4 gxf4 44.h4 Ke5 45.Kc3 h5 46.Kc4 f3 47.Kc3 e3 0-1
 
+[Event "Gambiitti Tournament"]
+[Site "Helsinki FIN"]
+[Date "1992.10.23"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Mattson, Esa"]
+[Result "0-1"]
+[Section "B"]
+[TimeControl "40/5400:1800"]
+
+1.e4 c5 2.b4 cxb4 3.d4 d5 4.Nd2 Nc6 5.Bb2 e6 6.Ngf3 Nge7 7.Bd3 g6 8.h4 h5
+9.Ng5 Bg7 10.e5 Nf5 11.Bxf5 exf5 12.Qe2 (12.a3!) Be6 13.a3 Qb6 14.Nb3 O-O
+15.O-O Rfe8 16.Rfb1 bxa3 17.Rxa3 Bf8 18.Raa1 a6 19.Bc3 Qa7 20.Qe3 b5 21.Na5
+Qd7 22.Bd2 Nxa5 23.Rxa5 Qc7 24.Rba1 Qc6 25.Qb3 Reb8 26.c3 (26.Bb4!) Rb6 27.Nf3
+Qc4 28.Qb2 Bc8 29.Bg5 Be6 30.Nd2 Qc6 31.Nf1 b4 32.Rc1 b3 33.Bf6 Rab8 34.Qd2 b2
+35.Rb1 f4 36.Qxf4 Bf5 37.Rc5 Qd7 38.e6 Qxe6 39.Be5 Bxb1 40.Bxb8 Bf5 41.Nd2
+Qe1+ 42.Kh2 Rxb8 43.Qxb8 Qxd2 44.Rxd5 b1=Q 0-1
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "1995.03.24"]
