@@ -563,3 +563,17 @@ Nxc3 9.Qxg7 Rf8 (9...Qh4+ 10.g3 Qe4+ 11.Kd2 Rf8 12.Kxc3 Qxh1 13.Bb5+ c6 14.Bh6
 Nd7) 10.Bh6 Qd6 11.Nf3 Nd7 12.Qxh7 Nf6 13.Qd3 Nfe4 14.Bxf8 Qxf8 15.Be2 Bd7
 16.a4 O-O-O 17.O-O Qg7 18.Ne5 Rg8 19.Bf3 Ng5 20.Qxc3 Nxf3+ 21.Qxf3 {no more
 moves recorded} 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.02.04"]
+[Round "8"]
+[White "Heikkinen, Jyrki"]
+[Black "Helske, Jyrki"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[Termination "time forfeit"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6 5.fxe4 c5 6.d5 exd5 7.exd5 Be7 8.Nf3
+(8.Bb5+!) O-O 9.Bd3 Bg4 10.O-O a6 11.a4 Bd6 12.h3 Bh5 13.Qe1 Qc7 14.Qh4 (14.Nb5) Bg6
+15.Bxg6 hxg6 16.Ne2 Nbd7 17.Ng5 Bh2+ 18.Kh1 Bd6 19.Bf4 Rae8 20.Bxd6 Qxd6 21.Nf4 1-0
