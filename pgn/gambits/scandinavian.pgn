@@ -81,6 +81,24 @@ Kh6 69.Kf6 Kh5 70.Rf4 1-0
 20.Qa5 f4 21.Nf3 Qg4 22.Ne5? Qf5 23.Rfe1 f3 24.Qc3 Bxe5 25.Rxd8+ Rxd8
 26.Rxe5 Rd1+ 27.Re1 Qh3 28.Qh8+ Rd8 0-1
 
+[Event "TUL Tournament"]
+[Site "Helsinki FIN"]
+[Date "1991.04.21"]
+[Round "4"]
+[White "Lehtioksa, Jorma"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[WhiteElo "2092"]
+[BlackElo "1869"]
+[TimeControl "40/5400:1800"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 c6 4.Nc3 cxd5 5.d4 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3
+Bxf3 9.gxf3 Nb6 10.Be3 e6 11.O-O-O Qc8 12.Kb1 Be7 13.Rg1 g6 14.Bh6 Bf8 15.Bxf8
+Kxf8 16.Bh3 Kg7 (16...Qc7) 17.d5 Nd8 18.Rd4 f5 (18...Qc5) 19.Qb4 Rf8 20.Qe7+
+Rf7 21.Qg5 Qc5 22.Rh4 Qf8 (22...Kf8) 23.Qh6+ Kg8 24.Rxg6+ Kh8 25.dxe6 Qxh6
+26.Rgxh6 Rg7 27.Bxf5 Nc6 28.Rxh7+ Rxh7 29.Rxh7+ Kg8 30.Rxb7 Nd4 31.Bg4 Nc4
+32.Ne4 Rc8 33.Nf6+ 1-0
+
 [Event "Lauttasaari Club Tournament"]
 [Site "Helsinki FIN"]
 [Date "1998.04.29"]
