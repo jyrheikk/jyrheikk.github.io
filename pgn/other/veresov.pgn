@@ -25,6 +25,8 @@
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
 [Section "B"]
+[WhiteElo "1989"]
+[BlackElo "1906"]
 [TimeControl "40/5400:1800"]
 
 1.d4 Nf6 2.Nc3 d5 3.Bg5 c5 4.e3 Qa5 5.Bxf6 exf6 6.dxc5 Be6 7.Bb5+ Nc6 8.a3 Rd8

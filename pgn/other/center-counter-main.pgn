@@ -145,6 +145,7 @@ Rxe1 26.Bxc5 1-0
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
 [Section "B"]
+[TimeControl "40/5400:1800"]
 
 1.e4 d5 2.exd5 Qxd5 3.c4 Qd8 4.d4 Nf6 5.Nc3 g6 6.Nf3 Bg7 7.Be2 O-O 8.O-O e6
 9.Bf4 c6 10.Qd2 Qe7 11.Rad1 Rd8 12.Bg5 Qf8 13.h4 h6 14.Bf4 Na6 15.Qc1 b6 16.a3

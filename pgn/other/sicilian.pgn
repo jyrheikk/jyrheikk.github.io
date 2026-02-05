@@ -383,6 +383,9 @@ axb4 41.axb4 Kd6 42.Kb3 g6 43.hxg6 Bxg6 44.Re1 h5 45.gxh5 Bxh5 46.Ka4 Bg4
 [Black "Ristoja, Jan"]
 [Result "0-1"]
 [Section "B"]
+[WhiteElo "1902"]
+[BlackElo "1991"]
+[TimeControl "40/5400:1800"]
 
 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 d6 7.c4 Be7 8.O-O Bd7
 9.a3 O-O 10.f4 Qb6 11.e5?? Nxd4 (11...dxe5) 12.Kh1 g6 13.Bc2 Ne8 14.Bxd4 Qc7
@@ -394,6 +397,31 @@ Qd7 24.Raf1 Rc8 25.b4 a5 26.Rf6 Bg4 27.Bb1 (27.Qf4) axb4 28.axb4 Rc6 29.b5
 41.Rb1 Re7 42.Rfb3 Rc8 43.Bd4 Ng3+ 44.Kh2 Nf5 45.Bg1 Rcc7 46.g4 Ng7 47.Kh3 Bg5
 48.Rd1 Rcd7 49.Bh2 Ne6 50.Rb6 Nxc5 51.Rb5 Ne6 52.Rbxd5 Rxd5 53.Rxd5 Nf4+
 54.Bxf4 Bxf4 55.Rb5 Bxe5 56.g5 Bf4 57.Kg4 Re5 58.Rxb7 Bxg5 0-1
+
+[Event "Helsingin Shakkiklubi Tournament"]
+[Site "Helsinki FIN"]
+[Date "1993.05.16"]
+[Round "4"]
+[White "Heikkinen, Jyrki"]
+[Black "Saarinen, Harri"]
+[Result "0-1"]
+[Section "B"]
+[WhiteElo "1902"]
+[BlackElo "1969"]
+[TimeControl "40/5400:1800"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 g6 7.Be3 Bg7 8.O-O O-O
+9.h3 a6 10.Qd2 Qc7 11.Rad1 b5 12.Nxc6 Qxc6 13.Nd5 (13.Bf3! e5 14.Qxd6) Nxd5
+14.exd5 Qc7 15.c3 Re8 16.h4 h5 17.Bh6 Bf6 18.Bg5 Bf5 19.Rfe1 Kg7 20.Bxf6+ exf6
+21.f3 Qc5+ 22.Qd4 Rac8 23.Kf2 Re5 24.Kf1 Qc7 25.Rd2 Rce8 26.a4 Bd7 27.Ra1 R8e7
+28.Bd3 Qb7 29.axb5 Bxb5 30.c4 Bd7 31.b4 Qxb4 32.Rb2 Qc5 33.Qxc5 dxc5 34.Rxa6
+Re3 35.Be4 f5 36.Bb1 Rc3 37.Ra7 Rxc4 38.d6 Rc1+ 39.Kf2 Ree1 40.Bd3 Red1 41.Ke2
+c4 42.Rxd7 Rxd3 43.Rd2 Rcc3 44.Ra2 (44.Rxd3) Kf6 45.Raa7 Rc2+ 46.Ke1 Rb3
+47.Rxf7+ Ke6 48.Rae7+ Kxd6 49.Re2 Rxe2+ 50.Kxe2 Rb2+ 51.Ke3 Rxg2 52.Kd4 Ke6
+53.Ra7 Rc2?? (53...Rd2+ 54.Kxc4 Ke5) 54.Ra6+ Kf7 55.Ke5? (55.Ra7+) Re2+ 56.Kd4
+c3 57.Rc6 c2 58.Kd3 Rh2 59.Rc4 c1=Q 60.Rxc1 Rxh4 61.Ke3 Kf6 62.f4 Rh3+ 63.Kd4
+Rf3 64.Rc6+ Kg7 65.Rc7+ Kh6 66.Ke5 h4 67.Kf6 Rb3 68.Rc8 Rb6+ 69.Ke5 Kh5
+70.Rh8+ Kg4 71.Rh6 h3 72.Kd4 Re6 73.Kd3 Kg3 0-1
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
