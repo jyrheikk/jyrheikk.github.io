@@ -19,7 +19,7 @@
   "sicilian.pgn": 71,
   "caro-kann.pgn": 32,
   "nimzowitsch.pgn": 8,
-  "center-counter.pgn": 70,
+  "center-counter.pgn": 71,
   "center-counter-main.pgn": 46,
   "pirc.pgn": 49,
   "austrian.pgn": 59,
@@ -35,6 +35,6 @@
   "bird.pgn": 6,
   "benko.pgn": 15,
   "grob.pgn": 6,
-  "misc.pgn": 31,
+  "misc.pgn": 32,
   "fischer-random.pgn": 20
 }

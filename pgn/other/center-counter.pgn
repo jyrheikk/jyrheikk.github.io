@@ -180,6 +180,25 @@ Bxg3 29.Re7 Nf3+ 30.gxf3 Bh4+ 31.fxg4 Bxf6 32.Re2 fxg4 33.Ne4 Bg7 34.a5 c6
 35.dxc6 Bxc6 36.b4 Rf8 37.b5 Bd5 38.b6 Rf4 39.Ng5 Bd4 40.Be4 Bc4 41.Rxd4 Bxe2
 1-0
 
+[Event "Teboil Tournament"]
+[Site "Helsinki FIN"]
+[Date "1991.08.10"]
+[Round "2"]
+[White "Auvinen, Esa"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Nxd5 4.d4 g6 5.c4 Nf6 6.Be2 Bg7 7.O-O O-O 8.Nc3 Nbd7
+9.Bf4 a6 10.Re1 c5 11.d5 Nh5 12.Be3 Qa5 13.Qd2 Rb8 14.Bh6 b5 15.Bxg7 Kxg7
+16.b3 Re8 17.Ne4 Qb6 18.Rac1 b4 19.Bd3 f5 20.Neg5 Nf8 21.Ne5 Qf6 22.Ngf7 f4
+23.Be2 Nd7 24.Bxh5 gxh5 25.Re4 Nxe5 26.Rxf4 Qxf7? (26...Bf5) 27.Rxf7+ Nxf7
+28.Re1 Bf5 29.Qf4 e6 30.h4 Rbc8 31.Re3 Kf8 32.f3 Kg7 33.g4 hxg4 34.fxg4 Bb1
+35.dxe6 Nd8 36.Qg5+ Kh8 37.Qf6+ Kg8 38.Re5 Rc6 39.Qf1 Bc2 40.Qg2 Bg6 41.h5
+Rcxe6 42.Rxe6 Nxe6 43.hxg6 hxg6 44.Qc6 Kf7 45.Qxa6 Rd8 46.a3 Rd1+ 47.Kf2 Ra1?
+(47...bxa3) 48.Qb7+ Kf6 49.axb4 Ra2+ 50.Kg3 cxb4 51.Qxb4 g5 52.Qc3+ Kf7 53.c5
+Nf4 54.Kf3 Rg2 55.Qc4+ Ke7 56.Qxf4 1-0
+
 [Event "Helsingin Shakkiklubi Tournament"]
 [Site "Helsinki FIN"]
 [Date "1993.05.15"]
