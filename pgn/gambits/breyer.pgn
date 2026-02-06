@@ -193,6 +193,29 @@ O-O 9.Bxd7 Nbxd7 10.d4 Nb6 11.Nxf4 Qd7 12.Nh5 Nbxd5 13.Nxd5 Nxd5 14.c4 Nb4
 Bb4 9.e5 Ne7 10.Bd3 Nd5 11.Bd2 Bxc3 12.bxc3 h6 13.Ng5 b5 14.Ne4 O-O 15.O-O-O
 d6 16.Nxd6 Bg4 17.Rdf1 Ne7 18.Bxh6 gxh6 19.Rxh6 f5 20.exf6 Rxf6 21.Rfxf6 1-0
 
+[Event "Helsingin Shakkiklubi Tournament"]
+[Site "Helsinki FIN"]
+[Date "1998.05.16"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Mahrberg, Ilpo"]
+[Result "0-1"]
+[Section "B"]
+[TimeControl "40/5400:1800"]
+
+1.e4 e5 2.f4 exf4 3.Qf3 d6 4.d4 Qh4+ 5.g3 fxg3 6.hxg3 Qf6 7.Nc3 Qxf3 8.Nxf3
+Be7 9.Nd5 Bd8 10.Be3 Nf6 11.Bd3 Be6 12.Nf4 Bg4 13.Ng5 Nc6 14.Bc4? O-O 15.Rh4
+h6 16.Ng6 Na5 17.Bxf7+ Rxf7 18.Bd2 Nc4 19.Nxf7 Kxf7 20.e5 Nxd2 21.Kxd2 Ne4+
+22.Ke3 Bxh4 23.Nxh4 Ng5 24.Rf1+ Kg8 25.Ng6 Be6 26.d5 Bf7 27.Ne7+ Kh7 28.e6 Bg6
+29.c4 Re8 30.Nxg6 Kxg6 31.b4 Nxe6 32.dxe6 Rxe6+ 33.Kd4 Rf6 34.Re1 Kf7 35.Re3
+Re6 36.Rf3+ Ke7 37.a4 Rf6 38.Re3+ Kd7 39.Kd3 Rf1 40.Kc3 b6 41.Kb2 Rf2+ 42.Kc3
+g5 43.Kb3 g4 44.Kc3 h5 45.b5 Rh2 46.Kd4 Rf2 47.Re1 Rf5 48.Re3 c6 49.Ra3 c5+
+50.Ke4 Ke6 51.a5 d5+ 52.cxd5+ Rxd5 53.axb6 axb6 54.Ra6 Rd6 55.Kf4 Kf6 56.Ra8
+Rd4+ 57.Ke3 Rb4 58.Rh8 Rxb5 59.Rxh5 Rb4 60.Rh6+ Kg5 61.Rc6 Rb3+ 62.Kf2 Kf5
+63.Kg2 Rb2+ 64.Kf1 Ke5 65.Rg6 Rb4 66.Ke2 Kd5 67.Kd2 Ke5 68.Kc2 Kf5 69.Rg8 c4
+70.Kc3 Rb3+ 71.Kxc4 Rxg3 72.Rb8 Ra3 73.Rxb6 g3 74.Rb8 Kf4 75.Rf8+ Ke3 76.Kb4
+Rd3 77.Kc4 Rd4+ 78.Kc3 Rf4 0-1
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2002.10.02"]
