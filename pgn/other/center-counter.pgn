@@ -996,10 +996,11 @@ Kb4 35.Rxc7 Kxa4 36.Rxf7 Kxb5 37.Rh7 1-0
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
 [Date "2013.12.04"]
-[Round "7"]
+[Round "6"]
 [White "Joutsivuo, Timo"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
+[Section "A"]
 [TimeControl "40/5400:1200+30"]
 
 1.e4 d5 2.e5 Bf5 3.d4 e6 4.Bd3 Bxd3 5.Qxd3 Nd7 6.Ne2 c5 7.c3 Qb6 8.O-O Ne7

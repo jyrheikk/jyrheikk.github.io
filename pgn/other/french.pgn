@@ -378,6 +378,20 @@ e4 24.Bf4 Qd8 25.f3 f5 26.Qe1 Qe7 27.Rg1 Rcg8 28.Rd1 Qf6 29.g3 Ng5 30.Qf1 Qe6
 31.Ba4 Nf7 32.Re1 Ne7 33.Bxd7 Qxd7 34.Qf2 Ng6 35.Nxg6+ hxg6 36.Kg2 g5 37.Bc1
 Qe6 38.f4 Rh7 39.Rh1 Qg6 40.Rh2 g4 41.h4 1/2-1/2
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2007.04.19"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Paasonen, Kim"]
+[Result "1-0"]
+[TimeControl "40/5400:1800"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 e6 4.Nxe4 Nf6 5.Ng3 Nc6 6.Nf3 Be7 7.Bd3 b6 8.c3 Bb7
+9.Bc2 h6 10.Qd3 Qd7 11.Ba4 Qd6 12.Ne5 Rf8?? 13.Qc4 O-O-O 14.Nxc6 a6 15.Bf4
+Qxf4 16.Nxe7+ Kb8 17.Nc6+ Ka8 18.Nxd8 b5 19.Ne2 Qd6 20.Nxb7 Kxb7 21.Bxb5 axb5
+22.Qxb5+ Kc8 23.Qb4 Qd8 24.a4 Nd5 25.Qb5 Qg5 26.c4 Qxg2 27.Rg1 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2007.11.07"]

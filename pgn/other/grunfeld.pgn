@@ -58,6 +58,27 @@ Be5 27.Nh3 R1d3 28.Qf7 e3 29.fxe3 Rxe3 30.Ng5 Bg7? (30...Bxg3+ {-+}) 31.Ne6 Rg8
 Nc6 9.e3 Bg4 10.Be2 Rac8 11.Bg3 Qa5+ 12.Qd2 Nb4 13.O-O Rc2 14.Qe1 Rxb2 15.a3
 Nc6 16.Qxa5 Nxa5 17.Rfe1 Bf5 18.Ne5 Nb3 19.Nc4?? 0-1
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2005.04.18"]
+[Round "2"]
+[White "Kaiju, Kauko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/5400:1800"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 Bg7 6.Qb3 Nb6 7.e4 O-O 8.Be3 a5
+9.Be2 Bg4 10.d5 a4 11.Qc2 a3 12.b3 Na6 (12...c6) 13.Bxa6 Rxa6 14.O-O Nd7?
+(14...Bxf3) 15.Nd4 Nf6 16.h3 Bd7 17.e5 Ne8 18.f4 c5 19.dxc6 Bxc6 20.b4 Bd7
+21.Rfd1 e6 22.Rac1 Nc7 23.b5 Ra8 24.Nb3 Qc8 25.Qd3 Be8 26.Bb6 Qb8 27.Nc5 Bh8
+28.N5e4 h6 29.g3 Bg7 30.Kg2 Kh7 31.g4 Kh8 32.h4 f6 33.exf6 Rxf6 34.Nxf6 Bxf6
+35.Bd4 Bxd4 36.Qxd4+ Kg8 37.Kg3 Bf7 38.Ne4 Nd5 39.Nf6+ Nxf6 40.Qxf6 Qa7 41.Rd4
+(41.Rd8+) Qb6 42.Rcd1 Rf8 43.Qe5 Be8 44.Rd6 Qxb5 45.Qxb5 Bxb5 46.Rxe6 Kf7
+47.Rb6 Bc6 48.Rd3 Re8 49.Rxa3 Re2 50.Ra7 Ke8 51.a4 Re3+ 52.Kh2 Re2+ 53.Kg1
+Rg2+ 54.Kf1 Rxg4 55.Rb4?? (55.a5) Kd7 56.a5 Kd6 57.a6 bxa6 58.Rxa6 Kc5
+59.Rxc6+ Kxc6 60.Kf2 Rxh4 61.Kf3 g5 62.Re4 Kd5 63.Ra4 Kd6 64.Kg3 Rh1 65.fxg5
+hxg5 66.Kg4?? Rh4+ 0-1
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2005.05.18"]
@@ -341,7 +362,7 @@ Qg7) 63.Nxh7 Rh4+ 64.Rh3 Qf4+ 65.Kg1 Qc1+ (65...Qd4+ 66.Kh1 (66.Kf1 Qc4+) Qd1+
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
 [Date "2014.11.12"]
-[Round "7"]
+[Round "6"]
 [White "Paasonen, Kim"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]

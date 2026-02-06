@@ -79,6 +79,23 @@ Nxf6 9.Be2 b6 10.Bf3 Nc6 11.Bf4 Kd8 12.Nh3 Ba6 13.Ng5 Re8 (13...Rf8? 14.Bxc6
 {+-}) 14.Be5 Nd5 15.Nxh7 Nxe5 16.dxe5 c6 17.O-O-O! Nxc3 (17...Re7) 18.Bxc6
 Nxd1 19.Rxd1 Re7 20.Nf6 Rc8 21.Bxd7 Kc7 22.Bxc8 Kxc8 23.h4 Rg7 24.h5 1-0
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2003.06.11"]
+[Round "4"]
+[White "Valkeajärvi, Simo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/5400:1800"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.Bg5 h6 5.Bh4 g5 6.Bg3 Nxe4 7.Qf3 d5 8.O-O-O Bxc3
+9.bxc3 c5 10.Bb5+ Bd7 11.c4 Bxb5 12.cxb5 Qa5 13.dxc5 Qxb5 14.Be5 f6 15.Qh5+
+Kf8 16.Bd6+ Kg7 17.Ne2 Nxf2 (17...Nc6!) 18.Nd4 Qe8 19.Qe2 Ne4 20.Rhf1 (20.h4!)
+Nc6 21.Qb5 Nxd6 22.cxd6 Nxd4 23.Qxb7+ Qf7 24.Qxf7+ Kxf7 25.Rxd4 Rhd8 26.h4
+Rxd6 27.hxg5 hxg5 28.Rg4 Kg6 29.Rd4 e5 30.Rb4 Rb6 31.Ra4 f5 32.Ra5 Rd6 33.Rd1
+Rad8 34.Rxa7 d4 35.Kd2 e4 36.Ke2 f4 37.Re7 Kf5 38.a4 g4 39.Rf7+ Rf6 40.Rxf6+
+Kxf6 41.a5 f3+ 42.Kf2 e3+ 43.Kg3 f2 44.Ra1 Ra8 0-1
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2003.07.29"]

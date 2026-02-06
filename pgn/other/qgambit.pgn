@@ -183,6 +183,21 @@ Kg8 16.Qg6+ Kh8 17.Ng5 Qe8 18.Qh6+ Kg8 19.Bh7+ 1-0
 Rcxd7 23.Rxd7 Rxd7 24.Qxe4 Kf8 25.f6 (25.Bxg7+! Kxg7 26.f6+ {+-}) g6 26.Qf4
 Kg8 27.Qh6 Qf8 28.Re8 Rd8 29.Qg7# 1-0
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2013.05.16"]
+[Round "3"]
+[White "Kaiju, Kauko"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "A"]
+[TimeControl "40/5400:1200+30"]
+
+1.d4 d5 2.c4 Bf5 3.Nc3 e6 4.cxd5 exd5 5.Qb3 Nc6 6.Nf3 Nb4 (6...Nf6) 7.e4 dxe4
+8.Ng5 Nh6 9.Bc4 Qe7 10.O-O O-O-O 11.Be3 f6?? (11...Nc6) 12.Ne6 Bxe6 13.Bxe6+
+Kb8 14.a3 Nc6 (14...Nc2) 15.d5 Ne5 16.Nb5 a6 17.Nd4 Ka8 18.Rac1 Nd3 19.Rc3
+(19.Rc6) Rd6 20.Qc2 c5 21.dxc6 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2016.12.28"]

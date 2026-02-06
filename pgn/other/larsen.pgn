@@ -30,6 +30,29 @@ Rd7 23.bxc5 Bxc5 24.Rxd7 Kxd7 25.Rd1+ Kc6 26.c4 Rg6 27.Be5 Re6 28.Bf4 Bd6
 Kc5 36.Re6 Kxc4 37.Rxe4+ Kc5 38.f5 h5 39.Kf4 a6 40.f6 Rg8 41.Kf5 b5 42.Re5+
 Kc4 43.axb5 axb5 44.f7 Rf8 45.Kf6 1-0
 
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2011.06.09"]
+[Round "4"]
+[White "Valkeajärvi, Simo"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/5400:1200+30"]
+
+1.b3 Nf6 2.Bb2 d6 3.d3 e5 4.e4 Be6 5.Be2 Be7 6.Nf3 O-O 7.Ng5 Bd7 8.h4 Ne8
+9.Qd2 h6 10.Nf3 f5 11.Nc3 c6 12.d4 fxe4 13.Nxe4 Bf5 14.Ng3 e4 15.Nxf5 Rxf5
+16.g4 Rf8 (16...Rxf3) 17.Ng1 Bxh4 18.Nh3 Qe7 19.Qe3 Nf6 20.Nf4 Bg5 (20...Nd5)
+21.Ng6 Bxe3 (21...Qc7) 22.Nxe7+ Kf7 23.fxe3 Kxe7 24.O-O-O Nd5 25.Kd2 Nd7
+26.Rdf1 b5 27.c4 bxc4 28.Bxc4? N7f6 29.a3 Rab8 (29...Nxg4) 30.Bxd5 Nxd5 31.b4
+a5 (31...Rxf1 32.Rxf1 Rf8) 32.Rxf8 Kxf8 33.Rc1 Rb6 34.Bc3 axb4 35.Bxb4 Nxb4
+36.axb4 Rxb4? (36...Ke7) 37.Rxc6 Rb2+ 38.Ke1 Rg2 39.Rxd6 Rxg4 40.Re6 Kf7
+41.Re5 Kf6 42.Re8 Kf5 43.Re5+ Kf6 44.Re8 g6 45.d5 Rg5 46.Re6+ Kf7 47.Rxe4 Rxd5
+48.Rh4 h5 49.Kf2 Kf6 50.Kf3 Kg5 51.Rh2 Rf5+ 52.Kg3 Re5 53.Kf3 h4 54.Rg2+ Kf5
+(54...Kh5) 55.Re2 g5?? (55...Kg5) 56.e4+ Kg6 57.Kg4 Kh6 58.Re3 Kg6 59.Re2 Rc5
+60.Re3 Rb5 61.Re2?? (61.Rc3) Rb3 62.Rg2 Re3 63.e5 Rxe5 64.Rd2 Re4+ 65.Kf3 Kf5
+66.Rd5+ Re5 67.Rd4 Rb5 68.Rd3 g4+ 69.Kg2 Rb2+ 70.Kg1 g3 71.Rc3 Kg4 72.Rc1 Rb4
+73.Rf1 h3 74.Rd1 h2+ 75.Kh1 Kh3 0-1
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2021.07.12"]
