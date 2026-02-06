@@ -15,11 +15,11 @@
   "trompowsky.pgn": 11,
   "london.pgn": 23,
 
-  "owen.pgn": 12,
+  "owen.pgn": 13,
   "sicilian.pgn": 72,
   "caro-kann.pgn": 32,
   "nimzowitsch.pgn": 8,
-  "center-counter.pgn": 72,
+  "center-counter.pgn": 73,
   "center-counter-main.pgn": 46,
   "pirc.pgn": 49,
   "austrian.pgn": 59,
@@ -35,6 +35,6 @@
   "bird.pgn": 6,
   "benko.pgn": 15,
   "grob.pgn": 6,
-  "misc.pgn": 32,
+  "misc.pgn": 33,
   "fischer-random.pgn": 20
 }

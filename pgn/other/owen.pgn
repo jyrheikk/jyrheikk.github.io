@@ -92,6 +92,19 @@ recorded} 1-0
 (14...g6) 15.f5 Ba6 16.Nb5 Be7 17.fxe6 fxe6 18.Ng5 Nxd4?? (18...Nf8 19.Bd3)
 19.Qh5+ g6 20.Bxg6+ hxg6 21.Qxg6+ 1-0
 
+[Event "Nokia Correspondence Tournament"]
+[Site "-"]
+[Date "2009.03.02"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Niemelä, Petri"]
+[Result "1-0"]
+[EventDate "2009.02.09"]
+[Mode "EM"]
+
+1.d4 b6 2.e4 c5 3.dxc5 bxc5 4.Qd5 Nc6 5.Qxc5 e5 6.Qe3 Nf6 7.Nf3 d5 8.Bb5 Qd6?
+9.exd5 Nxd5 10.Qxe5+ 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2009.11.04"]

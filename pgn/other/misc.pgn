@@ -315,6 +315,23 @@ Nh5 10.dxc5 Nxg3 11.hxg3 Bxc5 12.Na4 Bd6 13.Nd4 Bxe2 14.Qxe2 Nxd4 15.exd4 Qa5
 bxa4 22.Rb1 Ka8 23.bxa4 Qxa4 24.Rb3 Rxd4 25.Qf3+ Rd5 26.Qc3 Qe8 27.Rxa3 f5
 {=}) Bxc5 0-1
 
+[Event "Nokia Correspondence Tournament"]
+[Site "-"]
+[Date "2009.03.02"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Kelemen, Lajos"]
+[Result "1-0"]
+[EventDate "2009.02.09"]
+[Mode "EM"]
+
+1.d4 d5 2.e4 e5? 3.dxe5 d4 4.f4 Nd7 5.Qxd4 Bc5 6.Qd3 Nh6 7.Be3 O-O 8.Nc3 Ng4
+9.Bxc5 Nxc5 10.Qxd8 Rxd8 11.Rd1 Rxd1+ 12.Nxd1 Nxe4 13.Bd3 Nc5 14.Nf3 Be6 15.a3
+Rd8 16.Ke2 Nxd3 17.cxd3 Bf5 18.d4 Be4 19.Nc3 Bxf3+ 20.Kxf3 Nh6 21.d5 a6 22.Rd1
+Nf5 23.Ke4 g6 24.g4 Ng7 25.f5 Ne8 26.f6 b5 27.g5 Rc8 28.d6 cxd6 29.exd6 Rd8
+30.Ke5 h6 31.h4 Kh7 32.Ne4 hxg5 33.Nxg5+ Kg8 34.d7 Nc7 35.Kd6 Ne6 36.Nxe6 fxe6
+37.Ke7 Rf8 38.d8=Q Rxd8 39.Rxd8+ Kh7 40.f7 Kh6 41.Rh8+ Kg7 42.f8=Q# 1-0
+
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
 [Date "2010.03.10"]

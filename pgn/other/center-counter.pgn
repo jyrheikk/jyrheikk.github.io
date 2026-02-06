@@ -199,6 +199,20 @@ Rcxe6 42.Rxe6 Nxe6 43.hxg6 hxg6 44.Qc6 Kf7 45.Qxa6 Rd8 46.a3 Rd1+ 47.Kf2 Ra1?
 (47...bxa3) 48.Qb7+ Kf6 49.axb4 Ra2+ 50.Kg3 cxb4 51.Qxb4 g5 52.Qc3+ Kf7 53.c5
 Nf4 54.Kf3 Rg2 55.Qc4+ Ke7 56.Qxf4 1-0
 
+[Event "Tampere University of Technology Ch"]
+[Site "Tampere FIN"]
+[Date "1991.10.14"]
+[Round "1"]
+[White "Muhonen, Jukka"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "40/5400:900"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d3 Nc6 6.Bf4 e5 7.Bg3 Be6 8.Nf3
+O-O-O 9.Be2 Be7 10.O-O h5 11.Bh4 f6 12.h3 g5 13.Bg3 h4 14.Bh2 g4 15.hxg4 Bxg4
+16.c4 Qd7 17.Nxe5 Nxe5 18.Bxe5 Bxe2 19.Qxe2 fxe5 20.Qxe5 h3 21.g3 Bd6 22.Qd5
+Qg7 23.Qe6+ Kb8 24.Kh2 Bxg3+ 25.fxg3 Qxb2+ 0-1
+
 [Event "Helsingin Shakkiklubi Tournament"]
 [Site "Helsinki FIN"]
 [Date "1993.05.15"]
