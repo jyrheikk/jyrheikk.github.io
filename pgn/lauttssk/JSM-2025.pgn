@@ -1420,6 +1420,24 @@ Nxd5 16.Bg3 Nf6 17.Qc2 Bd7 18.Qe2 Rc8 19.Qf3 Bc6 20.Nxc6 Rxc6 21.Rad1 Bd6
 [Site "Helsinki FIN"]
 [Date "2026.02.07"]
 [Round "7"]
+[White "Havansi, Erkki"]
+[Black "Rinne, Heini"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsinki Street Chess 2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 h5 6.h4 c5 7.Nf3 Nc6 8.c3 cxd4
+9.Nxd4 Nxd4 10.Qxd4 Qxd4 11.cxd4 g6 12.Be3 Bd7 13.Bd3 Bg7 14.Rc1 O-O 15.Ne4
+Bc6 16.f3 Nd5 17.Bf2 Nf4 18.Bf1 Rad8 19.Rd1 Ne6 20.Bc4 Bxe4 21.Bxe6 Bxf3
+22.gxf3 fxe6 23.Ke2 Rc8 24.Rc1 Kf7 25.Kd3 Rfd8 26.Ke4 Ke8 27.Rhg1 Kf7 28.Rgd1
+Ke8 29.Rg1 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.07"]
+[Round "7"]
 [White "Reunanen, Antti"]
 [Black "Heikkinen, Jyrki"]
 [Result "1-0"]
@@ -1431,14 +1449,76 @@ Nxd5 16.Bg3 Nf6 17.Qc2 Bd7 18.Qe2 Rc8 19.Qf3 Bc6 20.Nxc6 Rxc6 21.Rad1 Bd6
 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ Nd7 8.Nf3 c5
 9.O-O O-O 10.Be3 cxd4 11.cxd4 Nf6 12.Bd3 b6 13.Qb3 Bb7 14.d5 Nxd5 15.exd5 Bxa1
 16.Rxa1 Bxd5 17.Bc4 Bxc4 18.Qxc4 Rc8 19.Qh4 f6 (19...Qd7) 20.Qg4 Qd5 21.Qa4
-Rfd8 22.h4 Rc7 23.Kh2 Kg7 24.Rb1 e5 25.h5 g5 26.h6+ Kg6 (26...Kxh6 27.Qh4+ Kg7
-28.Bxg5 fxg5 29.Nxg5) 27.Qg4 (27.Bxg5! fxg5 28.Qg4) Rc4 28.Nh4+ Kf7 (28...Kxh6
-29.f4! Kg7 30.Nf5+ Kh8 31.Qh3 Rg8 (31...exf4? 32.Rd1! Qg8 33.Qh6 Rf8 34.Rd8)
-32.fxg5 fxg5) 29.Qh5+ Kf8 (29...Ke6!) 30.Bxg5 Qf7 (30...e4! 31.Rd1 Qxd1
-32.Ng6+ hxg6 33.Qxg6 Qd6+ 34.g3 Rc7 35.Bf4 Qc5 36.Qxf6+ Ke8) (30...fxg5
-31.Qxg5 Rd7 32.Rb3 e4 33.Qf4+ Ke8) 31.Qxf7+ Kxf7 32.Nf3 Rd3 (32...Rd5 33.Be3
-f5) 33.Be3 Ra4 34.Rc1 Ke6 35.Rc7 Rd7 36.Rc2 Rg4 37.Kh3 Rg8 38.g4 Rgd8 39.Nh4
-Rd1 40.Nf5 Kf7 41.Rc7+ R1d7 42.Rc6 Rd3 43.Kg2 e4 44.Kg3 R8d7 45.Kf4 Ra3
-46.Kxe4 Rxa2 47.Bd4 Re2+ 48.Kf3 Re6 49.Rc8 a5? (49...Re8 50.Rxe8 Kxe8 51.Bxf6
-b5 52.g5 Kf7) 50.Rh8 Kg6 51.Be3 (51.Nh4+! Kxh6 52.Rg8) Rxe3+ 52.Kxe3 a4 53.Rb8
-a3 54.Ra8 1-0
+Rfd8 22.h4 Rc7 23.Kh2 Kg7 24.Rb1 e5 25.h5 g5 26.h6+ Kg6 27.Qg4 (27.Bxg5! fxg5
+28.Qg4) Rc4 28.Nh4+ Kf7 (28...Kxh6 29.f4!) 29.Qh5+ Kf8 (29...Ke6!) 30.Bxg5 Qf7
+(30...e4! 31.Rd1 Qxd1 32.Ng6+ Ke8!) (30...fxg5 31.Qxg5 Rd7) 31.Qxf7+ Kxf7
+32.Nf3 Rd3 (32...Rd5 33.Be3 f5) 33.Be3 Ra4 34.Rc1 Ke6 35.Rc7 Rd7 36.Rc2 Rg4
+37.Kh3 Rg8 38.g4 Rgd8 39.Nh4 Rd1 40.Nf5 Kf7 41.Rc7+ R1d7 42.Rc6 Rd3 43.Kg2 e4
+44.Kg3 R8d7 45.Kf4 Ra3 46.Kxe4 Rxa2 47.Bd4 Re2+ 48.Kf3 Re6 49.Rc8 a5?
+(49...Re8 50.Rxe8 Kxe8 51.Bxf6 b5) 50.Rh8 Kg6 51.Be3 (51.Nh4+! Kxh6 52.Rg8)
+Rxe3+ 52.Kxe3 a4 53.Rb8 a3 54.Ra8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.07"]
+[Round "7"]
+[White "Laine, Karri"]
+[Black "Mikkola, Aleksi"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsinki Street Chess 2"]
+[ECO "E60"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 d6 4.d4 Bg7 5.Bb2 O-O 6.Bg2 e5 7.dxe5 Ng4 8.O-O Nc6
+9.c4 Ngxe5 10.Nxe5 Nxe5 11.Nc3 h5 12.Qd2 Rb8 13.Rad1 Be6 14.f4 Ng4 15.h3 Nf6
+16.e4 Nh7 17.Qf2 c5 18.Nb5 Bxb2 19.Qxb2 Qe7 20.Nxd6 Rfd8 21.e5 a6 22.Qf2 b6
+23.Ne4 Kg7 24.Nc3 b5 25.Nd5 Qa7 26.Kh2 Bf5 27.Ne3 bxc4 28.Nxf5+ gxf5 29.bxc4
+Qb6 30.Rd5 Rdc8 31.Rfd1 Qb2 32.R1d2 Qc1 33.Rc2 Qa3 34.Rd7 Nf8 35.Rd6 Ne6
+36.Bd5 Nd4 37.Rd2 Rd8 38.Rxd8 Rxd8 39.Rb2 Rd7 40.Kg2 Qc3 41.Qd2 Qa3 42.Qf2 Qc3
+43.Rb6 a5 44.Qb2 Qe3 45.e6 Rxd5 46.cxd5 f6 47.Qf2 Qe4+ 48.Kh2 Qxd5 49.e7 Nf3+
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.07"]
+[Round "7"]
+[White "Kivinen, Jyrki"]
+[Black "Mai, Linh"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Helsinki Street Chess 2"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4 d5 6.exd6 Nxd6 7.Be2 Nc6 8.Qd1 Be7
+9.Nc3 O-O 10.O-O Bf5 11.Be3 Bf6 12.Qd2 Re8 13.Rad1 Nb4 14.Bd3 Nxd3 15.cxd3 Bg4
+16.Ne2 Bxf3 17.gxf3 Nf5 18.Nf4 Nh4 19.Qe2 Nf5 20.Qd2 Nxe3 21.fxe3 Rxe3 22.Kh1
+Bd4 23.Ng2 Re6 24.Rfe1 Qf6 25.Rxe6 fxe6 26.Qe2 Bxb2 27.Rb1 Bd4 28.Qe4 Rf8
+29.Ne1 b6 30.Nc2 Bc5 31.d4 Bd6 32.Rf1 Qf5 33.Qe2 Rf6 34.Ne3 Qf4 35.Ng4 Rg6
+36.Rd1 h5 37.Ne5 Rg5 38.Nc6 Kh8 39.Rf1 h4 40.Rf2 Qc1 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.07"]
+[Round "7"]
+[White "Wallin, Adam"]
+[Black "Kumar, Ashwin"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Helsinki Street Chess 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D15"]
+
+1.Nf3 g6 2.d4 d5 3.c4 c6 4.Nc3 Nf6 5.Bf4 Bg7 6.e3 O-O 7.Be2 Bg4 8.Ne5 Bxe2
+9.Qxe2 Nh5 10.O-O dxc4 11.Qxc4 Nxf4 12.exf4 e6 13.Rfd1 Nd7 14.Ne4 Nb6 15.Qc5
+Qc7 16.a4 a5 17.Nd6 Nd5 18.g3 Rad8 19.Ndc4 Ra8 20.Qd6 Rfd8 21.Qxc7 Nxc7 22.Ra3
+f6 23.Nf3 Bf8 24.Rad3 Nd5 25.Ne3 Kf7 26.Nxd5 Rxd5 27.Kf1 Bb4 28.Nd2 Rad8
+29.Nc4 c5 30.Ne3 Rxd4 31.Ke2 Ke7 32.Rxd4 cxd4 33.Nc4 Rd5 34.Kd3 e5 35.fxe5
+fxe5 36.Ke4 Ke6 37.f3 Bd6 38.g4 Bc7 39.b3 Rd8 40.Kd3 Rf8 41.Nd2 Kd5 42.Rc1 Bd6
+43.Ke2 Rb8 44.Kd3 b5 45.axb5 Rxb5 46.Rc8 Rb8 47.Rxb8 Bxb8 48.Ne4 h6 49.h4 Bd6
+50.Nf6+ Ke6 51.Ne4 Be7 52.h5 gxh5 53.gxh5 Kf5 54.Nf2 Kg5 55.Ke4 Bf6 56.Ng4 Bg7
+57.Nf2 Kxh5 58.Kf5 Kh4 59.Ne4 d3 60.Kg6 Bf8 0-1
