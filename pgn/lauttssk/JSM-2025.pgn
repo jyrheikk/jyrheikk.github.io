@@ -1506,6 +1506,22 @@ Qb6 30.Rd5 Rdc8 31.Rfd1 Qb2 32.R1d2 Qc1 33.Rc2 Qa3 34.Rd7 Nf8 35.Rd6 Ne6
 [Site "Helsinki FIN"]
 [Date "2026.02.07"]
 [Round "7"]
+[White "Salmi, Verneri"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Helsinki Street Chess 2"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.Nf3 d5 2.d4 Nf6 3.g3 c5 4.c4 dxc4 5.Qa4+ Qd7 6.Qxc4 cxd4 7.Nxd4 e5 8.Nb5 Nc6
+9.Bg2 a6 10.N5c3 Be7 11.Na4 Qc7 12.Be3 Be6 13.Qc2 Rc8 14.Bxc6+ Qxc6 15.Qxc6+
+Rxc6 16.Nd2 Nd5 17.Nf3 f6 18.Bd2 Nb4 19.Bxb4 Bxb4+ 20.Nc3 Rxc3 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.07"]
+[Round "7"]
 [White "Kivinen, Jyrki"]
 [Black "Mai, Linh"]
 [Result "0-1"]
