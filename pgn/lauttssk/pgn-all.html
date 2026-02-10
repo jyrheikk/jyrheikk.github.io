@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow" />
+<title>Lauttasaari Chess Club Games</title>
+<link rel="icon" type="image/x-icon" href="//lauttsk.blogspot.fi/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/board-min.css" />
+<link type="text/css" rel="stylesheet" href="/pgn/css/pgn-viewer.css" />
+</head>
+
+<body>
+<h3>LauttSSK</h3>
+
+<form>
+<select id="pgn-files" onchange="fetchPgnUpdateUrl(this.value)">
+  <option value="JSM-2025">JSM 2025</option>
+  <option value="JSM-2024">JSM 2024</option>
+  <option value="JSM-2023">JSM 2023</option>
+  <option value="JSM-2022">JSM 2022</option>
+  <option value="JSM-2020">JSM 2020</option>
+  <option value="JSM-2019">JSM 2019</option>
+  <option value="JSM-2018">JSM 2018</option>
+  <option value="JSM-2017">JSM 2017</option>
+  <option value="JSM-2016">JSM 2016</option>
+  <option value="JSM-2015">JSM 2015</option>
+  <option value="JSM-2014">JSM 2014</option>
+  <option value="JSM-2013">JSM 2013</option>
+  <option value="JSM-2012">JSM 2012</option>
+  <option value="JSM-2011">JSM 2011</option>
+  <option value="JSM-2010">JSM 2010</option>
+  <option value="JSM-2009">JSM 2009</option>
+  <option value="JSM-2004">JSM 2004</option>
+  <option value="JSM-2003">JSM 2003</option>
+  <option value="JSM-2000">JSM 2000</option>
+  <option value="JSM-1999">JSM 1999</option>
+  <option value="JSC-2011">Finnish Team Cup 2011–2014</option>
+  <option value="LM-2025">Lauttasaari Ch 2025</option>
+  <option value="LM-2024">Lauttasaari Ch 2024</option>
+  <option value="LM-2023">Lauttasaari Ch 2023</option>
+  <option value="LM-2022">Lauttasaari Ch 2022</option>
+  <option value="LM-2021">Lauttasaari Ch 2021</option>
+  <option value="LM-2020">Lauttasaari Ch 2020</option>
+  <option value="LM-2019">Lauttasaari Ch 2019</option>
+  <option value="LM-2018">Lauttasaari Ch 2018</option>
+  <option value="LM-2017">Lauttasaari Ch 2017</option>
+  <option value="LM-2016">Lauttasaari Ch 2016</option>
+  <option value="LM-2015">Lauttasaari Ch 2015</option>
+  <option value="LM-2014">Lauttasaari Ch 2014</option>
+  <option value="LM-2013">Lauttasaari Ch 2013</option>
+  <option value="LM-2012">Lauttasaari Ch 2012</option>
+  <option value="LM-2011">Lauttasaari Ch 2011</option>
+  <option value="LM-2010">Lauttasaari Ch 2010</option>
+  <option value="LM-2009">Lauttasaari Ch 2009</option>
+  <option value="LM-1998">Lauttasaari Ch 1998</option>
+  <option value="simul-Kumar-2025">Simul by Kumar 2025</option>
+  <option value="simul-Suominen-2025">Simul by Suominen 2025</option>
+  <option value="simul-Aakio-2023">Simul by Aakio 2023</option>
+  <option value="simul-Lehti-2023">Simul by Lehti 2023</option>
+  <option value="simul-Kauppala-2023">Simul by Kauppala 2023</option>
+  <option value="simul-Kauppala-2010">Simul by Kauppala 2010</option>
+  <option value="friendly-Meriratsut-2023">Friendly Meriratsut 2023</option>
+  <option value="friendly-Belgium-2010">Friendly Belgium 2010</option>
+  <option value="friendly-Kapyla-2010">Friendly Käpylä 2010</option>
+  <option value="friendly-Belfast-1997">Friendly Belfast 1997</option>
+  <option value="history-1998">Club history 1998</option>
+  <option value="hurme">Harri Hurme selected</option>
+  <option value="saren">Ilkka Saren selected</option>
+  <option value="puzzles">Puzzles</option>
+  <option value="analysis">Analysis evenings</option>
+  <option value="endgames">Endgames</option>
+</select>
+</form>
+
+<div id="pgn-container"></div>
+<div id="pgn-moves"></div>
+
+<p>
+  <a onclick="openLichessAnalysis(); return false" href="" title="Show lichess.org analysis of the game">Lichess</a>
+  <a href="/pgn/lauttssk/">PGN</a>
+  <a href="pgn.html">Latest</a>
+</p>
+
+<script src="/pgn/js/pgnyui.js"></script>
+<script src="/pgn/js/pgnviewer.js"></script>
+<script src="/pgn/js/pgnfetch.js"></script>
+<script src="/pgn/js/pgnshorturl.js"></script>
+
+</body>
+</html>
