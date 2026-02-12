@@ -1603,6 +1603,23 @@ Bb6 29.Qc1 Bxe3 30.fxe3 Qe2+ 31.Kg1 Rxe3 32.Rh2 Rxg3+ 33.Kh1 Qf3+ 34.Rg2 Qxg2#
 [Site "Helsinki FIN"]
 [Date "2026.02.08"]
 [Round "5"]
+[White "Zhukov, Matvei"]
+[Black "Kesävaara, Aarni"]
+[Result "0-1"]
+[Section "III Division:5"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Etelä-Vantaan Shakki 4"]
+
+1.e4 c5 2.c4 Nc6 3.g3 d6 4.Bg2 e5 5.Ne2 Be6 6.d3 Nf6 7.O-O h5 8.h3 Qd7 9.Kh2
+h4 10.Ng1 hxg3+ 11.fxg3 Be7 12.Nc3 O-O-O 13.Nd5 Rh7 14.Nxe7+ Nxe7 15.Bg5 Rdh8
+16.h4 Ng4+ 17.Kh1 f6 18.Bd2 g5 19.Nf3 Ng6 20.Kg1 gxh4 21.gxh4 Nxh4 22.Nxh4
+Rxh4 23.Rf3 Qh7 24.Kf1 Rh1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.02.08"]
+[Round "5"]
 [White "Clarke, Daniel"]
 [Black "Selmer, Theodor"]
 [Result "1-0"]
@@ -1621,7 +1638,7 @@ g5 16.hxg5 hxg5 17.Nh5 Qe7 18.Ne2 Nxh5 19.Rxh5 Rxh5 20.gxh5 Rh8 21.Rh1 Rh6
 [Site "Helsinki FIN"]
 [Date "2026.01.11"]
 [Round "4"]
-[White "Varfolomejev, Maksim"]
+[White "Varfolomeev, Maksim"]
 [Black "Kauppinen, Janne"]
 [Result "1-0"]
 [Section "III Division:5"]
