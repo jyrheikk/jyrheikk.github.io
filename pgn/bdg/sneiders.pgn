@@ -502,3 +502,22 @@ Nc6 9.Nb5 Bxd2+ 10.Kxd2 O-O 11.c3 a6 12.Na3 b5 13.Nc2 Nd5 14.Ne3 Nce7 15.g3 f5
 Nxf4 29.Bf1 (29.Bxf5!) Ref8 30.Ne2 Nd3+ 31.Kc2 Nxf2? (31...f4) 32.Nf4 Ng4
 33.Rxh5+ Kg7 34.Be2 Rh8 35.Rg5+ Kf7 36.h5 Rg8 37.Ng6 Rgxg6 38.Rxg6 Rxg6
 39.hxg6+ Kxg6 40.Kd2 (40.Bxg4) Kg5 41.Ke1?? f4 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.02.18"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Kauppala, Pekka"]
+[Result "0-1"]
+[TimeControl "3600+10"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 e5 4.Qh5 Nc6 5.Bc4 g6 6.Qe2 Bf5 7.Bb5 exd4 8.Nxe4 Bb4+
+9.Bd2 Bxd2+ 10.Nxd2+ Qe7 11.O-O-O Qxe2 12.Nxe2 O-O-O 13.Bxc6 bxc6 14.Nb3 d3
+15.Ng3 Be6 16.Rxd3 Rxd3 17.cxd3 Bxb3 18.axb3 Nf6 19.Ne4 Nd5 20.Nc5 Re8 21.Rd1
+Nf4 22.g3 Re5 23.b4 Nd5 24.d4 (24.Kd2 Nxb4 25.d4) Re2 25.Nd3 Kd7 26.Rd2 Rxd2
+27.Kxd2 Ke6 28.f3 f6 29.Ke2 h5 30.h3 (30.g4) Kf5 31.Kf2 h4 32.g4+ (32.gxh4)
+Kg5 33.Nc5 Nf4 34.Ne4+ Kh6 35.Nxf6 Nxh3+ 36.Ke3 g5 37.Ng8+?? (37.Nh5 Kg6
+38.Ke2 Kf7 39.Kf1) Kg7 38.Ne7 Nf4 39.Nxc6 h3 40.Ne7 Nd5+ 41.Nxd5 h2 42.Nxc7
+h1=Q 43.Ke4 Qb1+ 44.Ke5 Qxb2 45.b5 Kf7 46.Kd5 Ke7 47.Ke5 Qe2+ 48.Kd5 Qxf3+
+49.Kc5 Qc3+ 0-1
