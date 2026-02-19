@@ -50,12 +50,40 @@ Ne5 16.Bh3 f3 17.gxf3 Ng6 18.Qd2 Bxb2 19.Rab1 Bf6 20.Na5 Qc5 21.Nxb7 Qh5
 [Site "Helsinki FIN"]
 [Date "2026.02.18"]
 [Round "1"]
+[White "Clarke, Daniel"]
+[Black "Koivusipilä, Hannes"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 Bb4+ 6.Nbd2 O-O 7.Bg2 Bb7 8.O-O Be7
+9.e4 c5 10.d5 d6 11.Re1 Qd7 12.Bh3 Na6 13.dxe6 fxe6 14.Ng5 Nc7 15.e5 Qc6 16.f3
+dxe5 17.Rxe5 h6 18.Rxe6 Nxe6 19.Bxe6+ Kh8 20.Nf7+ Rxf7 21.Bxf7 Rd8 22.b3 Rxd2
+23.Qxd2 Qxf3 24.Bd5 Nxd5 25.cxd5 Bxd5 26.Bb2 Qh1+ 27.Kf2 Qxh2+ 28.Ke1 Qxg3+
+29.Qf2 Qd3 30.Qe2 Bh4+ 31.Kf1 Bg2+ 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.02.18"]
+[Round "1"]
 [White "Drost, Robert"]
 [Black "Siivola, Ville"]
 [Result "1-0"]
 
 1.e4 c5 2.Nf3 Nc6 3.b4 cxb4 4.d4 d5 5.exd5 Qxd5 6.c4 Qa5 7.d5 b3+ 8.Bd2 b2
 9.Bxa5 bxa1=Q 10.dxc6 b6 11.c7 Bf5? 12.c5 bxa5 13.Bb5+ Bd7 14.Qxd7# 1-0
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.02.18"]
+[Round "1"]
+[White "Alanko, Heikki"]
+[Black "Nyberg, Erik"]
+[Result "0-1"]
+
+1.e4 d6 2.Bc4 Nf6 3.Nc3 e5 4.Nf3 Be7 5.d4 O-O 6.O-O Nbd7 7.Ng5 h6 8.Nf3 c6
+9.Qd3 b5 10.Bb3 a5 11.Nh4 a4 12.Nxa4 bxa4 13.Bc4 Nxe4 14.Qxe4 Bxh4 15.Qxc6 Nb6
+16.Rd1 Bd7 17.Qf3 Nxc4 18.Qe4 Qe7 19.Qd3 Be6 20.d5 Nb6 21.dxe6 fxe6 22.g3 Bf6
+23.b3 d5 24.Rb1 e4 25.Qb5 Nd7 26.Bd2 Qf7 27.b4 Ne5 28.Qe2 Nf3+ 29.Kg2 Qh5
+30.Qe3 Bd4 31.Qf4 Qxh2+ 32.Kf1 Qxf2# 0-1
 
 [Event "Lauttasaari Classical Training Game"]
 [Site "Helsinki FIN"]
@@ -96,4 +124,4 @@ h6 34.Ne4+ Ke7 35.Nc5 Rc8 36.Nxd7 Kxd7 37.Ba4+ Ke7 38.h3 Rc4 39.Bb3 Rc1+
 68.Kh4 Kg6 69.Kg4 Rb4+ 70.Kf3 Kxg5 71.Ke3 Rf4 72.Kd3 Kf5 73.Ke3 Ke5 74.Kd3 Re4
 75.Kc3 Rd4 76.Kb3 Kd5 77.Kc3 Kc5 78.Kb3 Rc4 79.Ka3 Rb4 80.Ka2 Kc4 81.Ka3 Kc3
 82.Ka2 Kc2 83.Ka3 Rb6 84.Ka4 Kc3 85.Ka5 Rb4 86.Ka6 Kc4 87.Ka5 Kc5 88.Ka6 Rb5
-89.Ka7 Rb6 0-1
+89.Ka7 Rb6 90.Ka8 Kc6 91.Ka7 Kc7 0-1
