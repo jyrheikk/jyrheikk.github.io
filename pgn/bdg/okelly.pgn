@@ -149,3 +149,19 @@ Be3 48.Kf3 Bd4 49.Ke4 e5 50.Kd5 g5 51.Ke6 1-0
 1.d4 c6 2.e4 d5 3.Nc3 e6 4.Be3 dxe4 5.f3 exf3 6.Nxf3 Nf6 7.Bd3 Bd6 8.O-O O-O
 9.Bg5 Nbd7 10.Qe1 h6 11.Qh4 Qc7 12.Bxh6 gxh6 13.Qxh6 Bf4 14.Ng5 Bxh2+ 15.Kh1
 Bf4 16.Rf3 Re8 17.Bh7+ Nxh7 18.Qxh7+ Kf8 19.Qxf7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.03.04"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Backman, Kai"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c6 5.Bg5 Bf5 6.Bxf6 exf6 7.fxe4 Bg6 8.Nf3 Be7
+9.Qd2 O-O 10.O-O-O Nd7 11.Be2 a5 12.h4 Bh5 13.Rdg1 Bg4 14.Nh2 Bxe2 15.Nxe2 a4
+16.g4 a3 17.b3 Nb6? 18.g5 Qd6 19.gxf6 Bxf6 20.e5 Bxe5 21.dxe5 Qxe5 22.c3 g6
+23.Nf3 Qf5 24.Ned4 Qc5 25.Ng5 Nd5 26.Rg3 b5 27.h5 Rad8 28.hxg6 fxg6 29.Nge6
+Qd6 30.Rxg6+ hxg6 31.Rh8+ (31.Qh6!) Kf7 32.Rh7+ Kg8? (32...Ke8 33.Ng7+)
+33.Rg7+ Kh8 34.Qh6# 1-0
