@@ -172,3 +172,19 @@ Rxg5 23.Nxf7+ Kg7 24.Nxg5 Kh8 25.e4 fxe3 26.Bd3 Qg7 27.Bxh7 1-0
 
 1.d4 Nf6 2.Bg5 c5 3.Bxf6 exf6 4.d5 Qb6 5.b3 f5 6.c4 g6 7.Nd2 Qa5 8.Qc2 Bg7
 9.Rc1 Na6 10.a4 Nb4 11.Qb1 a6 12.Ngf3 b5 13.axb5 axb5 14.g3 Qc7 15.Kd1 Ra2 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.03.10"]
+[Round "-"]
+[White "Selenius, Jakob"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[TimeControl "480+4"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Bg5 c5 3.d5 Qb6 4.Nc3 g6 5.Qd2 Bg7 6.Nf3 Qxb2 7.Rb1 Qa3 (7...Nxd5)
+8.Nb5 (8.e4) Qxa2 9.Qc1 Nxd5 10.e4 a6 11.exd5 axb5 12.Bxb5 Qxd5 13.O-O Nc6
+14.Re1 e6 15.Qe3 O-O 16.Rbd1 Nd4 17.Kh1 Nf5 18.Qc1 Qa2 19.Bxd7 Bxd7 20.Rxd7 b5
+21.Rd2 Bc3 22.Red1 f6 23.Rd3 Bb2 24.Qf4 e5 25.Qg4 Ra4 26.Qh3 fxg5 27.Nxg5 h5
+28.Rd7 Rd4 29.Qf3 Rxd1+ 30.Rxd1 Nd4? (30...e4) 31.Qb7 1-0
