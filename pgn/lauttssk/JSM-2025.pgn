@@ -1694,3 +1694,82 @@ Qg6 21.Rf2 Rae8 22.Nc7 Bc5) 20.Qe5 Qd7 (20...Qd8) 21.Be2 Ne8?? (21...Qd8
 22.Rc7 Re8) 22.Rxf8+ Bxf8 23.Nc7? Nxc7 24.Rxc7 Qd6 25.Rf7 Qd8 (25...Be6!
 26.Rxf8+ Qxf8 27.Qxe6 Rd8) 26.Bb5 Bd6?? (26...Bg4 27.h3 a6 28.Bc6 Rc8 29.d5
 Bc5+ 30.Kh1 Qg8 31.Rf4 Be2) 27.Qxg7# 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.14"]
+[Round "8"]
+[White "Kauppala, Pekka"]
+[Black "Asomäki, Pekka"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Järvenpään Shakkikerho"]
+
+1.g3 e5 2.Bg2 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 d5 6.c4 Bb4+ 7.Nc3 Ne4 8.Nb5 Nxc3
+9.bxc3 a6 10.cxb4 axb5 11.cxb5 Nxb4 12.Bb2 d4 13.a3 Nd5 14.Qxd4 Nf6 15.Qxd8+
+Kxd8 16.O-O Ra4 17.Rfd1+ Ke7 18.Rac1 Ne8 19.Bc3 Bd7 20.Bb4+ Rxb4 21.axb4 Bxb5
+22.Bxb7 h5 23.Bc6 Bxc6 24.Rxc6 h4 25.g4 Rf8 26.Rc3 f6 27.Re3+ Kf7 28.Rd7+ Kg6
+29.Ree7 Kg5 30.Rd8 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.14"]
+[Round "8"]
+[White "Graeffe, Petri"]
+[Black "Kivinen, Jyrki"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Järvenpään Shakkikerho"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.b3 d5 4.exd5 exd5 5.d4 Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O
+Be7 9.dxc5 Nxc5 10.Nd4 O-O 11.Nf5 Re8 12.Nxe7+ Qxe7 13.Ba3 Qc7 14.Nd2 Rad8
+15.Nf3 Ne6 16.Bb2 Ne4 17.g3 Qc5 18.Qd3 b5 19.a4 b4 20.Kg2 Nc3 21.Bxc3 bxc3
+22.Rfe1 Re7 23.Re5 f6 24.Re2 d4 25.Rae1 Rd6 26.Nh4 Qd5+ 27.Kg1 Red7 28.b4 Ng5
+29.f3 Re6 30.Rxe6 Nxe6 31.Kf2 Rb7 32.Nf5 Kf7 33.Qa6 Rd7 34.Qd3 Rb7 35.Qa6 Rd7
+1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.14"]
+[Round "8"]
+[White "Kumar, Ashwin"]
+[Black "Krok, Pasi"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Järvenpään Shakkikerho"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 O-O 6.a3 cxd4 7.exd4 Be7 8.Nf4 d5
+9.cxd5 Nxd5 10.Nfxd5 exd5 11.Qb3 Nc6 12.Be3 Bf6 13.Rd1 Re8 14.Be2 Be6 15.Qxb7
+Na5 16.Qa6 Nc4 17.Bxc4 dxc4 18.O-O Bg5 19.d5 Bg4 20.Bxg5 Qxg5 21.f3 Bh3 22.Rf2
+Re3 23.Ne4 Qf4 24.gxh3 Rxf3 25.Rxf3 Qxf3 26.Nf2 c3 27.bxc3 Qxc3 28.Qc6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.14"]
+[Round "8"]
+[White "Dahal, Sameep"]
+[Black "Vuori, Sami"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Järvenpään Shakkikerho"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.Bc4 e6 7.Bxd5 exd5 8.cxd4 d6
+9.O-O dxe5 10.Nxe5 Nxe5 11.Re1 Be7 12.Rxe5 O-O 13.Nc3 Be6 14.Re1 Bd6 15.Be3
+Rc8 16.Qf3 Qd7 17.Bf4 Bxf4 18.Qxf4 Rfd8 19.h3 h6 20.Re5 Qd6 21.Qd2 Qb4 22.a3
+Qb3 23.Rae1 Rc6 24.R1e3 Qc4 25.Rg3 Kh7 26.Rh5 Bc8 27.b3 Qxb3 28.Nxd5 Qb1+
+29.Kh2 Rg6 30.Qf4 Rxg3 31.Nf6+ Kg6 32.Kxg3 Qd3+ 33.f3 Qxd4 34.Qxd4 Rxd4 35.Rc5
+Kxf6 36.Rxc8 Ra4 37.Rc7 b6 38.Rc3 Ke5 39.Re3+ Kd5 40.Kf2 b5 41.Ke2 Kc5 42.Kd2
+a5 43.Kc2 Kd5 44.g3 f5 45.f4 Re4 46.Rd3+ Kc6 47.h4 b4 48.axb4 axb4 49.Rd8 Kc5
+50.Rd7 Re2+ 51.Kd1 Rg2 52.Rxg7 b3 53.Kc1 b2+ 54.Kb1 Kd4 55.Rg6 Ke4 56.h5 Kf3
+57.Rxh6 Rxg3 58.Kxb2 Kxf4 59.Rh8 Rh3 60.Kc2 Kg5 61.Rg8+ Kxh5 62.Kd2 f4 63.Ke2
+Ra3 64.Kf2 Kh4 65.Rg7 Kh3 66.Rg8 1/2-1/2
