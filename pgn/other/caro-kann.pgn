@@ -552,3 +552,19 @@ Qg6 21.Rf2 Rae8 22.Nc7 Bc5) 20.Qe5 Qd7 (20...Qd8) 21.Be2 Ne8?? (21...Qd8
 22.Rc7 Re8) 22.Rxf8+ Bxf8 23.Nc7? Nxc7 24.Rxc7 Qd6 25.Rf7 Qd8 (25...Be6!
 26.Rxf8+ Qxf8 27.Qxe6 Rd8) 26.Bb5 Bd6?? (26...Bg4 27.h3 a6 28.Bc6 Rc8 29.d5
 Bc5+ 30.Kh1 Qg8 31.Rf4 Be2) 27.Qxg7# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.03.18"]
+[Round "4"]
+[White "Pivdunen, Eduard"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "600+5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Nf3 Nxd3+
+9.Qxd3 Bd6 10.O-O O-O 11.Bg5 Be6 12.Nbd2 h6 13.Bh4 a6 14.Nb3 g5 15.Nxg5 hxg5
+16.Bxg5 Kg7 17.Rae1 Bc7 (17...Rh8) 18.f4 Rh8 19.Kh1 Bd6 20.Nd4 Bd7 21.Re5 Qc8
+22.Rf3? Ne4 (22...Bxe5) 23.Rxd5 Bxh3 24.Kg1 Bxg2 25.Nf5+ Kf8 26.Kxg2 Nxg5
+27.fxg5 Rh2+ 28.Kg1 Bc7 29.g6 (29.Qd4) Qe6 30.g7+ Kg8 31.Ng3?? Qh3 32.Rh5 Qg2#
+0-1
