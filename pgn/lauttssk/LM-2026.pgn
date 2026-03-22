@@ -19,6 +19,20 @@ g3+ 37.fxg3 Rxf5 38.exf5 e4 39.Nc7 Nxc7 40.Qxc7 Kg7 41.Qxd6 e3 42.Qe5+ f6
 [Site "Helsinki FIN"]
 [Date "2026.03.18"]
 [Round "1"]
+[White "Zhukov, Matvei"]
+[Black "Mäntsälä, Juha"]
+[Result "1-0"]
+[TimeControl "3600+10"]
+
+1.e4 c5 2.c4 e5 3.g3 d6 4.Bg2 Nf6 5.Ne2 Nc6 6.Nbc3 Nb4 7.d3 Bd7 8.a3 Na6 9.O-O
+Rb8 10.h3 h6 11.Kh2 Qc8 12.f4 exf4 13.Bxf4 Nh5 14.Nd5 Nc7 15.Ne3 Ne6 16.Nc3 g5
+17.Be5 dxe5 18.Qxh5 Rh7 19.Ncd5 Be7 20.Nf5 Bd8 21.Nd6+ Kf8 22.Nxc8 Rxc8 23.Nf6
+Bxf6 24.Rxf6 Be8 25.Raf1 Rc7 26.Rxe6 Kg8 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.18"]
+[Round "1"]
 [White "Heinonen, Anna-Maija"]
 [Black "Salo, Mikko"]
 [Result "0-1"]
