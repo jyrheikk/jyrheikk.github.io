@@ -64,14 +64,14 @@ function fetchPgn(filename) {
       }
       pgnStatus.prev = !pgnStatus.prev;
     });
-  
+
     document.getElementById(ids.end).addEventListener('click', () => {
       if (pgnStatus.next) {
         incrementGame(1);
       }
       pgnStatus.next = !pgnStatus.next;
     });
-  
+
     function incrementGame(incr) {
       const item = document.getElementById(ids.games);
       const newIndex = item.selectedIndex + incr;
@@ -155,7 +155,7 @@ function getPgnName() {
   return document.getElementById(ids.files);
 }
 
-// show a game based on URL fragment identifier (e.g., "#pgn=bdg|game=5|move=12|color=b")
+// show a game based on URL fragment identifier (e.g., '#pgn=bdg|game=5|move=12|color=b')
 (function () {
   const { pgn, game, move, color } = parseUrlParams();
   selectPgn(pgn);
