@@ -86,3 +86,20 @@ Rxh3 43.Kg7 Rxc3 44.g6 Bb1 45.Be5 Re3 46.Bf6 Rg3 0-1
 9.Bg5 Nge7 10.Na4 Bb6 11.Nxb6 Qxb6 12.Bd3 Ng6 13.Qe2 Nb4 14.Bb1 Bb5 15.Qd2
 Bxf1 16.Kxf1 Nc6 17.Be3 d4 18.Nxd4 Rd8 19.Nxc6 Rxd2 20.Bxb6 axb6 21.Ke1 Rxb2
 22.Bxg6 hxg6 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.03.31"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[TimeControl "3600+30"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4 5.Bf4 Bf5 6.c3 e6 7.Qb3 Nd7 8.Qxb7 Rb8
+9.Qxa7 Bd6 10.Bxd6 cxd6 11.Qa3 Qh4 (11...e3) 12.g3 Qg5 13.c4 (13.b3) Ke7
+(13...O-O) 14.Nh3 Qf6 15.Qc3 Rhc8 16.Nf4 Bg4 17.Be2 Bf3? (17...Bxe2 18.Nxe2
+Qf3 19.Qxf3 exf3 20.Ng1) 18.O-O (18.Bxf3 exf3) g5 19.Bxf3 exf3 20.Nd3 Qf5
+21.Ne1 g4 22.h4 Nf6 23.b3 d5 24.Rc1 (24.c5 e5 25.b4) dxc4 25.bxc4 Ne4 26.Qe3
+Rb2?? 27.Qa3+ Nc5 28.Qxb2 Qf6 29.Nc2 Rd8 30.Qb4 Rxd4 31.Nxd4 (31.Qxc5+) Qxd4
+32.Rcd1 Qe5 33.Rfe1 Qc7 34.Rd5 1-0
