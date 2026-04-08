@@ -103,3 +103,32 @@ Qf3 19.Qxf3 exf3 20.Ng1) 18.O-O (18.Bxf3 exf3) g5 19.Bxf3 exf3 20.Nd3 Qf5
 21.Ne1 g4 22.h4 Nf6 23.b3 d5 24.Rc1 (24.c5 e5 25.b4) dxc4 25.bxc4 Ne4 26.Qe3
 Rb2?? 27.Qa3+ Nc5 28.Qxb2 Qf6 29.Nc2 Rd8 30.Qb4 Rxd4 31.Nxd4 (31.Qxc5+) Qxd4
 32.Rcd1 Qe5 33.Rfe1 Qc7 34.Rd5 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.04.08"]
+[Round "2"]
+[White "Salo, Mikko"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Bd3 cxd4 7.cxd4 Nf5 8.O-O Nfxd4
+9.Be3 Nxf3+ 10.Qxf3 Nxe5 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.Qg3 Nc6 14.Na3 Ne7
+15.Qg5 Nf5 16.Rac1 Be7 17.Qf4 Bd6 18.Qg4 O-O 19.Bd2 Rac8 20.h4 Kh8 21.h5 f6
+22.Rcd1 Bxa3 23.bxa3 Rc4 24.Qe2 Rfc8 25.h6 gxh6 26.Rfe1 e5 27.Qh5 Rg8 28.Bb4
+Rcg4 29.g3 R8g5 30.Qh1 Nxg3 31.fxg3 Rxg3+ 32.Kf2 Qf5+ 33.Ke2 Rg2+ 34.Qxg2
+Rxg2+ 35.Ke3 Qh3# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.04.08"]
+[Round "2"]
+[White "Clarke, Daniel"]
+[Black "Bhandari, Sushil"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Ne4 5.Bg2 Bb4+ 6.Bd2 Nxd2 7.Nbxd2 Nd7 8.O-O Be7
+9.Qc2 c6 10.e4 O-O 11.Rfe1 Nf6 12.e5 Nd7 13.Nf1 c5 14.cxd5 exd5 15.e6 fxe6
+16.Rxe6 Nf6 17.Ng5 Ne4 18.Bxe4 dxe4 19.Qc4 Kh8 20.Nxh7 Bxe6 21.Qxe6 Kxh7
+22.Qh3+ Kg8 23.Qe6+ Rf7 24.dxc5 Bxc5 25.Qxe4 Qf6 0-1
