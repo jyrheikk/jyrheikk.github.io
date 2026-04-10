@@ -47,6 +47,28 @@ Nb4? 10.Ng5 h6?? 11.Nxe6 fxe6 12.Bh5+ Kf8 13.Qg4 Nb6 14.Qg6 Kg8 15.Qf7+ 1-0
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
+[Date "2003.10.25"]
+[Round "2"]
+[White "Heikkinen, Jyrki"]
+[Black "Tuomala, Timo"]
+[Result "0-1"]
+[Section "I Division"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Shakkikerho"]
+[BlackTeam "Kulttuuri-Shakki -58"]
+[TimeControl "40/7200:1800"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5 8.Rh5 Qe7
+9.Qg4 f5 10.Qh3 g6 11.Rh6 Nf8 12.O-O-O Bd7 13.f4 Nc6 14.Nf3 Nd8 15.Ng5 Nf7
+16.Nxf7 Qxf7 17.g4 fxg4 18.Qxg4 O-O-O 19.Bd3 a6 20.Rdh1 Rg8 21.Qg5 Rg7 22.Rg1
+Qe7 23.Qg4 Rf7 24.a3 c5 25.dxc5 Qxc5 26.Rg3 Kb8 27.Rf3 Rc8 28.Qg2 Bc6 29.Kb1
+Rfc7 30.Qe2 Qb6 31.Rh1 Be8 32.Na2 h5 33.Rg3 Ba4 34.Rc1 Qd4 35.Rf3 Be8 36.Nb4
+a5 37.Na2 Nd7 38.Nc3 Nb6 39.Bb5 Nc4 40.Rd1 Qb6 41.Bxc4 Rxc4 42.Qf2 Qc5 43.Qxc5
+R8xc5 44.Rf2 Rc7 45.Rg1 b5 46.Nd1 Re4 47.b3 b4 48.a4 h4 49.Rh1 g5 50.fxg5 Bg6
+51.Rf6 Bf5 52.g6 Rxe5 53.Rh2 Re1 54.Kc1 Rg1 55.Rxh4 Rxc2+ 56.Kb1 Rxd1# 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
 [Date "2006.02.11"]
 [Round "5"]
 [White "Heikkinen, Jyrki"]
@@ -337,6 +359,38 @@ g5? 20.h6 c4? 21.h7+ (21.hxg7! f5 (21...Kxg7 22.Rh7+ Kxh7 23.Qxf7+ Kh6
 25.Nf6+ Kg6 26.Qh5#) 25.Nxg7 Rxg7 26.Bxg7+ Kxg7 27.h8=Q+ Rxh8 28.Rxh8 Kxh8
 29.Qh5+ Kg7 30.Qxg5+ Kf7 31.Rh1 Ke8 32.Rh7 Bf8 33.Qg6+ Kd8 34.Qf6+ Kc8
 35.Qxf8+ Qd8 36.Qc5+ Kb8 37.Qxa7+ Kc8 38.Qa8# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2021.12.22"]
+[Round "-"]
+[White "Poikala, Atro"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Qd2 h6 6.Bf4 Nxe4 7.Qe3 g5 8.Be5 f6
+9.Bg3 f5 10.Be5 O-O 11.a3 f4? 12.Qh3 Bxc3+ 13.bxc3 Kh7 14.f3 Nd6 15.Bd3+ Nf5
+16.g4 Nc6 17.gxf5 exf5 18.O-O-O Nxe5 19.dxe5 Qe7 20.Re1 Qxa3+ 21.Kd2 Be6
+22.Ne2 Qe7 23.Nd4 Qf7 24.Nxf5?? (24.Rhg1) Bxf5 25.Bxf5+ (25.e6 Kg7!) Qxf5
+26.Qxf5+ Rxf5 27.e6 c5 28.Re2 Re8 29.Ra1 a6 30.Ra5 c4 31.Rc5 Kg6 32.e7 Rf7
+33.Re6+ Rf6 34.Re5 Rd6 {no more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2022.08.23"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Valli, Kari"]
+[Result "1-0"]
+[TimeControl "480+4"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.Bg5 Be7 5.e5 Nfd7 6.h4 h6 7.Be3 c5 8.g3 (8.Qg4)
+Nc6 9.f4 Qb6 10.Na4 Qa5+ 11.c3? (11.Nc3) Rb8? (11...cxd4) 12.dxc5 Nxc5?
+(12...b5) 13.Nxc5 Bxc5 14.b4 Bxb4 15.cxb4 Qxb4+ 16.Kf2 a6 17.Nf3 b5 18.Rc1 Bb7
+19.Bc5 Qe4 20.Bd3 Qa4 21.Qxa4 bxa4 22.Rb1 Kd7 23.Bd6 f6 24.Bxb8 Rxb8 25.Rb6
+Kc7 26.Rhb1 Ba8 27.Rxb8 Nxb8 28.Nd4 Nc6 29.Nxe6+ Kd7 30.Nc5+ Kc7 31.Nxa6+ Kd7
+32.Nb8+ Nxb8 33.Rxb8 Bc6 34.Rg8 fxe5 35.Rxg7+ Kd6 36.Rg6+ Kc5 37.Rxc6+ Kxc6
+38.fxe5 d4 39.Kf3 Kd5 40.Kf4 a3 41.Kf5 Kc6 42.Kf6 Kd7 43.Kf7 1-0
 
 [Event "Casual Game"]
 [Site "Helsinki FIN"]
