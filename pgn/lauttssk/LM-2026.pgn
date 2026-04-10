@@ -114,7 +114,7 @@ Rb2?? 27.Qa3+ Nc5 28.Qxb2 Qf6 29.Nc2 Rd8 30.Qb4 Rxd4 31.Nxd4 (31.Qxc5+) Qxd4
 [TimeControl "3600+30"]
 
 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Bd3 cxd4 7.cxd4 Nf5 8.O-O Nfxd4
-9.Be3 Nxf3+ 10.Qxf3 Nxe5 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.Qg3 Nc6 14.Na3 Ne7
+9.Be3? Nxf3+ 10.Qxf3 Nxe5 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.Qg3 Nc6 14.Na3 Ne7
 15.Qg5 Nf5 16.Rac1 Be7 17.Qf4 Bd6 18.Qg4 O-O 19.Bd2 Rac8 20.h4 Kh8 21.h5 f6
 22.Rcd1 Bxa3 23.bxa3 Rc4 24.Qe2 Rfc8 25.h6 gxh6 26.Rfe1 e5 27.Qh5 Rg8 28.Bb4
 Rcg4 29.g3 R8g5 30.Qh1 Nxg3 31.fxg3 Rxg3+ 32.Kf2 Qf5+ 33.Ke2 Rg2+ 34.Qxg2

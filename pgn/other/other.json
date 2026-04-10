@@ -27,7 +27,9 @@
   "italian.pgn": 3,
   "scotch.pgn": 7,
   "petrov.pgn": 4,
-  "french.pgn": 66,
+  "french.pgn": 31,
+  "french-steinitz.pgn": 21,
+  "french-advance.pgn": 14,
   "alekhine.pgn": 7,
   "modern.pgn": 16,
 
