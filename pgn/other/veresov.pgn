@@ -345,3 +345,34 @@ Kxd6 39.Kc3 Kc6 40.Kd4 Kd6 41.h4 Ke6 42.b5 d6 43.Ke4 h5 44.g5 Ke7 1-0
 Qxb8 30.Rxb8 Rxb8 31.Kd1 Ra8 32.Rg3 Rg8 33.Nc3 Ke8 34.Na4 Kf7 35.Nb6 Nc8
 36.Nxc4 dxc4 37.Rc3 Ne7 38.Rxc4 Nd5 39.Ra4 Rb8 40.c4 Ne7 41.Ke2 {no more moves
 recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.04.11"]
+[Round "?"]
+[White "Bogdanov, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.d4 Nf6 2.Nc3 c5 3.d5 Qa5 4.Bd2 Qb6 5.b3 d6 6.e4 g6 7.Bb5+ Bd7 8.a4 Bg7 9.Rb1
+O-O 10.Nf3 Bxb5 11.axb5 Nbd7 12.h3 a6 13.bxa6 Rxa6 14.O-O e5 15.Na4 Qd8 16.Qe2
+Nh5 17.Bg5 f6 18.Be3 Qe8 19.Qb5 Qc8 20.Nd2 f5 21.f3 Ndf6 22.Bg5 h6 23.Bh4 Nf4
+24.Bg3 N6h5 25.Bf2 Rf7 (25...Nxg2!) 26.Nb6? Qd8 27.Nbc4 Qg5 28.Kh2 Qxg2# 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.04.11"]
+[Round "?"]
+[White "Bogdanov, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "360+3"]
+
+1.d4 Nf6 2.Nc3 c5 3.d5 d6 4.e4 g6 5.Bb5+ Bd7 6.a4 a6 7.Bxd7+ Nbxd7 8.Nf3 b5
+9.axb5 axb5 10.Bd2 b4 11.Rxa8 Qxa8 12.Nb5 Qb8 13.Qe2 Nxe4 14.Qxe4 Qxb5 15.h4
+Bg7 16.Bg5 O-O 17.Qxe7 Nf6 18.Ne5 Nxd5 19.Qxd6 Re8 (19...Bxe5! 20.Qxd5 Bxb2)
+20.f4 Qc4 21.Kd2 Qd4+ 22.Kc1 Nxf4 (22...Ra8!) 23.Qxd4 Ne2+ 24.Kd2 Nxd4 25.Nd7
+Re2+ 26.Kd3 Rxc2 27.Nf6+ Kf8 28.Ra1 Bxf6? (28...b3) 29.Bxf6 Ke8 (29...Rd2+!)
+30.Ra8+ Kd7 31.Bxd4 Rxg2 32.Bxc5 Rxb2 33.Rb8 b3 34.Kc4 Rc2+ 35.Kxb3?? Rxc5 {no
+more moves recorded} 0-1
