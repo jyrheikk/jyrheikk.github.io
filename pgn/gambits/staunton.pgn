@@ -878,3 +878,26 @@ Qe7 23.a4 a6 24.axb5 axb5 25.Bd4 c5? 26.Bxe5 Qxe5 27.f4 Rxf4 28.Rxf4 Qxf4
 O-O 9.Ng5 h6 10.h4 Nd5? 11.Qh5 (11.Bh7+ Kh8 12.Nf7+) Rxf1+ 12.Kxf1 Qf6+?
 13.Kg1 hxg5 14.Qe8+ (14.Bxg5) Qf8 15.Bh7+ Kxh7 16.Qxf8 Nc6 17.hxg5 Nce7 18.Qf7
 b6 19.Kf2 1-0
+
+[Event "Helsinki Rapid Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.04.13"]
+[Round "6"]
+[White "Heikkinen, Jyrki"]
+[Black "Hallenberg, Sami"]
+[Result "1-0"]
+[Section "M"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Etelä-Vantaan Shakki"]
+[WhiteElo "2074"]
+[BlackElo "2167"]
+[TimeControl "600+5"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4 d5 5.g5 Ng8 6.f3 Bf5 7.fxe4 dxe4 8.Bg2 e6
+9.Nxe4 Nc6 10.Be3 Nge7 11.Qd2 Nd5 12.O-O-O Be7 13.h4 Ncb4 14.c3? (14.a3) Nxe3
+(14...Nxa2+! 15.Kb1 Naxc3+ 16.bxc3 Qd7) 15.Qxe3 Nd5 16.Qd2 O-O 17.Ne2 a5
+18.Kb1 b5 19.Ka1 c6 20.Rdf1 Qb6 21.N2g3 Rad8 22.Nxf5 exf5 23.Ng3 f4 24.Nh5 Ne3
+25.Rxf4 Nxg2 26.Qxg2 b4? (26...Bd6) 27.g6 h6 28.Rf7 Bf6 29.Nxf6+ gxf6 30.Rh7
+bxc3 31.bxc3 Rb8 32.Qd2 (32.Qe2!) Rfe8 (32...Rb7) 33.Rh8+ Kxh8 34.Qxh6+ Kg8
+35.Qh7+ 1-0
