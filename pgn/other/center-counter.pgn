@@ -1251,3 +1251,17 @@ Qg5+ 52.Ke1 (52.Kd1 Bg4 53.Bd2 Bxe2+) Qc1+ 0-1
 26.Bf5+? Bxf5 27.Rxf5 b6 28.cxb6 axb6 29.Qxb6? Rxd6 30.Rdf1 Nd7 31.Qa7 Re8
 32.a4 Qe7 33.R5f3 Nb8 34.Qc5 Re6 35.Qc1 Re1 36.Qd2 Qe2 37.Qxe2 R8xe2 38.Kg1
 Rxf1+ 39.Kxf1 Rxb2 40.Rf5 Nd7 41.Rxg5 Kc7 42.Rg4 c5 43.Rxh4 c4 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.04.15"]
+[Round "2"]
+[White "Monga, Mahesh"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "3600+10"]
+
+1.e4 d5 2.Nc3 d4 3.Nce2 c5 4.d3 Nc6 5.f4 e5 6.Nf3 Bd6 7.f5 Be7 8.Ng3 g6 9.h4
+gxf5 10.exf5 Bf6? (10...Nf6) 11.Bg5? (11.Ng5) h6 12.Bxf6 Nxf6 13.Qe2 Qe7
+14.O-O-O Rg8 15.Nh5? Nxh5 16.Nxe5 Ng3 17.Nxc6 Nxe2+ 18.Kd2 Qe3+ 19.Ke1 Ng3+
+0-1
