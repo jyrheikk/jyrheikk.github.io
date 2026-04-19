@@ -25,11 +25,15 @@ th {
   text-align: center;
 }
 
+.alma {
+  background-color: lightgreen;
+}
+
 .tpr {
   background-color: red;
 }
 
-.mmd {
+.md {
   background-color: lightblue;
 }
 
