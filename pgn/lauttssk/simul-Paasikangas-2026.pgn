@@ -31,6 +31,21 @@ Qg6 23.Nc8 Nc6 24.Qxc6 1-0
 [Date "2026.04.25"]
 [Round "-"]
 [White "Paasikangas, Johanna"]
+[Black "Vimmerová, Eliška"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+
+1.c4 d5 2.cxd5 Qxd5 3.Nc3 Qa5 4.d4 Nc6 5.e4 Nf6 6.e5 Ne4 7.Qd3 Bf5 8.Qc4 O-O-O
+(8...Nb4) 9.Be3 e6 10.f3 Nxc3 (10...Ba3!) 11.bxc3 Ba3 12.Ne2 Bb2 (12...Bc2!)
+13.Rd1 Bc2 14.Rd2 Ba1 15.Rxc2 f6 16.exf6 e5 17.Kf2 gxf6 18.g3 f5 19.Bh3 Rhf8
+20.Bxf5+ Kb8 21.Be4 exd4 22.Nxd4 Nxd4 23.cxd4 Rf6 24.Rxa1 Rdf8 25.Rb1 a6
+26.Rxb7+ Ka8 27.Rb6+ Ka7 28.Qxc7# 1-0
+
+[Event "Johanna Paasikangas Simul"]
+[Site "Helsinki FIN"]
+[Date "2026.04.25"]
+[Round "-"]
+[White "Paasikangas, Johanna"]
 [Black "Bhandari, Sushil"]
 [Result "1-0"]
 [WhiteTitle "FM"]
