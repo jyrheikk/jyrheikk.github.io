@@ -6,6 +6,7 @@
 [Black "Brunel, Simon"]
 [Result "1-0"]
 [WhiteTitle "FM"]
+[WhiteElo "2109"]
 
 1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 g6 6.Nc3 Bg7 7.Be3 d6 8.Be2 Nf6
 9.f3 O-O 10.O-O Nd7 11.Rc1 Qb6 12.Nd5 Qd8 (12...Bxd4!) 13.a3 Re8 14.b4 Nb6
@@ -56,3 +57,40 @@ O-O 9.Bf4 Nd7 10.Qd2 b5 11.Bb3 Nb6 12.c3 Nd5 13.Bh6 Re8 14.Ng3 f5 15.Bxg7 Kxg7
 23.Rfc1 Rd6 24.Qg5 Kh8 25.h4 f4 26.Nf1 Kg7 27.h5 h6 28.Qh4 Rf6 29.hxg6 Rxg6
 30.Rc5 Qa6 31.Nd2 Re2 (31...Qe2!) 32.Nf3 Rxa2 33.Ne5 Re6 34.Qh5 Rxe5 35.Qxe5+
 f6 36.Qe6 Qd3 37.Rxc6 Qxd4 38.Rc7+ 1-0
+
+[Event "Johanna Paasikangas Simul"]
+[Site "Helsinki FIN"]
+[Date "2026.04.25"]
+[Round "-"]
+[White "Paasikangas, Johanna"]
+[Black "Mäenpää, Sirpa"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+
+1.c4 d6 2.b3 e5 3.Bb2 Nc6 4.g3 f6 5.Bg2 Be7 6.e3 Nh6 7.d4 O-O 8.Nd2 Bd7 9.Ne2
+a6 10.O-O Qe8 11.Rc1 b6 12.c5 bxc5 13.dxc5 d5 14.Bxd5+ Nf7 15.e4 h6 16.a3 Rc8
+17.b4 a5 18.b5 Na7 19.c6 Bxc6 20.bxc6 Nb5 21.a4 Nd6 22.Nc4 Nxe4 23.Bxe4 Ng5
+24.Qd5+ Qf7 25.Qxf7+ Kxf7 26.Bd5+ Kg6 27.f4 Bc5+ 28.Kg2 Rcd8 29.fxg5 Rxd5
+30.gxf6 gxf6 31.Nxe5+ Kh7 32.Nd7 Rd2 33.Rxc5 Rf7 34.Nxf6+ Kg6 35.Bc3 Rxe2+
+36.Kh3 Re6 37.Rf4 Rexf6 38.Rxf6+ Rxf6 39.Bxf6 Kxf6 40.Rxa5 Ke6 41.Rh5 Kd6
+42.Rxh6+ 1-0
+
+[Event "Johanna Paasikangas Simul"]
+[Site "Helsinki FIN"]
+[Date "2026.04.25"]
+[Round "-"]
+[White "Paasikangas, Johanna"]
+[Black "Bogdanov, Evgeny"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.Bg5 h6 8.Be3 e5 9.O-O
+Ng4 10.h3 Nxe3 11.fxe3 c6 12.a3 Nc7 13.b4 f5 14.Bd3 Ne6 15.d5 Ng5 16.Nxg5 hxg5
+17.dxc6 bxc6 18.Rc1 f4 19.Qe2 Bh6 20.Nd1 g4 21.hxg4 Qh4 22.Qe1 Qxg4 23.Nf2 Qg3
+24.Nh1 Qxe3+ 25.Qxe3 fxe3 26.Be2 Ba6 27.Rfd1 Rad8 28.Rc2 Rf4 29.Bf3 g5 30.Ng3
+g4 31.Be2 Rf2 32.Nf5 Bg5 33.Rxd6 Rxd6 34.Nxd6 Be7 35.Nf5 Bg5 36.b5 cxb5
+37.cxb5 Bb7 38.Ng3 (38.Nd6!) Bf4 39.Bc4+ Kf8 40.Rxf2 exf2+ 41.Kxf2 Ke8 42.Bd3
+Kd7 43.Nh5 Bc1 44.a4 Kd6 45.Nf6 Bc8 46.Kg3 Bf4+ 47.Kh4 Kc5 48.Nxg4 Kd4 49.Bc2
+Bb7 50.Nf6 Kc3 51.Bd1 Kd4 52.Bf3 Kc4 53.g3 Bd2 54.g4 Kb4 55.Bd1 a6 56.bxa6
+Bxa6 57.g5 Bc8 58.g6 Bh6 59.Kh5 Bf8 60.Kg5 Bh3 61.Nd5+ Kc5 62.Kf6 Bg2 63.Bc2
+Kd4 64.Kf7 Bh6 65.Nf6 Bf1 66.Ng4 Bc4+ 67.Kf6 Bf8 68.Nxe5 1-0
