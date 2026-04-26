@@ -175,3 +175,18 @@ Kf7 44.Rd6 Ke7 45.Rb6 Be4 46.a5 Ra7 47.a6 Ke8 48.Rb8+ Ke7 49.Rb7+ Rxb7 50.axb7
 cxd4 10.Nf3 dxc3 11.Bxc3 Bb4 12.O-O Bxc3 13.Nxc3 Nge7 14.Rae1 Nf5 15.Nxd5 Rd8
 16.Qxf5 Rxd5 17.Qg5 Ne7 18.Qxg7 Rg8 19.Qxh7 Kf8 20.Re4 Ng6 21.Qh6+ Rg7 22.h4
 Kg8 23.h5 Ne7 24.Ng5 Nf5 25.Qf6 Rd7 26.h6 Rg6 27.h7+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.04.26"]
+[Round "2"]
+[White "Bogdanov, Evgeny"]
+[Black "Kuzin, Dmytro"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bf4 Bg7 5.Qd2 Nbd7 6.O-O-O O-O 7.Bh6 e5 8.Bxg7
+Kxg7 9.f3 a6 10.g4 b5 11.h4 exd4 12.Qxd4 Ne5 13.h5 c5 14.Qe3 Ng8 15.hxg6 fxg6
+16.g5 Ne7 17.f4 Nf7 18.Bh3 b4 19.Nd5 Nxd5 20.exd5 Re8 21.Qf2 Qe7 22.Bxc8 Raxc8
+23.Qh2 Rh8 24.Nf3 Qe3+ 25.Nd2 c4 26.Rde1 Qd4 27.Re4 Qxd5 28.Qe2 c3 29.Nb3
+cxb2+ 30.Kxb2 a5 31.Rd1 Qc6 32.Rd3 Rhe8 33.Rxe8 Rxe8 34.Qg4 a4 35.Nd4 a3+
+36.Kc1 Qh1+ 37.Rd1 Qe4 38.Qh4 Qe3+ 39.Kb1 Qc3 0-1
