@@ -110,6 +110,25 @@ a6 10.O-O Qe8 11.Rc1 b6 12.c5 bxc5 13.dxc5 d5 14.Bxd5+ Nf7 15.e4 h6 16.a3 Rc8
 [Date "2026.04.25"]
 [Round "-"]
 [White "Paasikangas, Johanna"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+
+1.Nf3 d5 2.d4 Nf6 3.Bg5 Ne4 4.Bh4 c5 5.e3 Nc6 6.c3 Bf5 7.Nbd2 Qb6 8.Qb3 e6
+9.dxc5 Nxc5 10.Qxb6 axb6 11.Be2 Bd3 12.Nd4 Bxe2 13.Kxe2 Kd7 14.Rhc1 Ne5 15.c4
+Ned3 16.Rc2 Nb4 17.Rc3 Rxa2 18.Rxa2 Nxa2 19.Ra3 Nb4 20.Ra8 e5 21.Nb5 Ke6
+22.Nc7+ Kd6 23.Nxd5 Nxd5 24.cxd5 Kxd5 25.e4+ Ke6 26.f3 g6 27.b4 Nd7 28.Re8+
+Kd6 29.Be7+ Kc6 30.Rc8+ Kb5 31.Nb1 Bxe7 32.Rxh8 Nf8 33.g3 Bxb4 34.Kd3 Kc6
+35.Kc4 Bd6 36.Nc3 Bc5 37.f4 exf4 38.gxf4 Be7 39.Rg8 f6 40.Rg7 Bd6 41.Rf7 Nd7
+42.Rxh7 Bxf4 43.h3 Be5 44.Nd5 b5+ 45.Kd3 Ba1 46.Ne7+ Kb6 47.Nxg6 Nc5+ 48.Ke3
+b4 49.Nf4 b3 50.Nd3 Ne6 51.Re7 Nc7 52.h4 Kc6 53.h5 f5 54.h6 fxe4 55.Rxe4 Nd5+
+56.Kd2 Bf6 57.h7 Bg5+ 58.Kd1 Nf6 59.h8=Q 1-0
+
+[Event "Johanna Paasikangas Simul"]
+[Site "Helsinki FIN"]
+[Date "2026.04.25"]
+[Round "-"]
+[White "Paasikangas, Johanna"]
 [Black "Bogdanov, Evgeny"]
 [Result "1-0"]
 [WhiteTitle "FM"]
