@@ -208,3 +208,22 @@ Nf6 36.Ra7 Bc1 37.Ra1 Bxe3 38.fxe3 h6 39.Bb4 Ng6 40.Ra5 Kh7 41.Bxd5 Nxd5
 42.Rxd5 f6 43.h4 Nh8 44.h5 g6 45.hxg6+ Nxg6 46.Rd7+ Kg8 47.Bc3 Nf8 48.Rd6 Kf7
 49.d5 f5 50.Rxh6 Ng6 51.Kf3 Ne7 52.e4 Ke8 53.Kf4 Kd7 54.Ke5 fxe4 55.Kxe4 Nxd5
 56.Kxd5 Ke7 57.g4 Kf8 58.Rh7 Ke8 59.g5 Kd8 60.Ke6 Ke8 61.Rh8# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.05.09"]
+[Round "3"]
+[White "Kuzin, Dmytro"]
+[Black "Dahal, Sameep"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.c3 d5 5.Bd3 Nc6 6.O-O Qb6 7.Ne5 Bd6 8.f4 cxd4
+9.cxd4 Bd7 10.Nc3 Rc8 11.g4 g6 12.Be2 a6 13.g5 Ng8 14.Bg4 (14.Na4 Qc7 15.Nxd7
+Kxd7) f5 15.gxf6 Nxf6 16.Bh3 Ne7 17.Nxd7 Kxd7 18.Qa4+ Qc6 19.Qb3 Qc4 20.Qxb7+
+Rc7 21.Qb3 Qxb3 22.axb3 Rb8 23.Rxa6 Rxb3 24.Ra2 Nf5 25.Bxf5 gxf5 26.Bd2 Rcb7
+27.Na4 Ne4 28.Bc3 h5 29.Kg2 Kc6 30.Rg1 h4 31.Kf3 Ra7 32.Be1 Bb8 33.Rg8 h3
+34.Rh8 (34.Re8 Kd7) Rg7 35.Rxh3 Rg1 36.Bg3 Ba7 37.Nc3 Bb6 38.Rh6 Nxc3 39.bxc3
+Kd6 40.Rc2 Ra1 41.h4 Ba5 42.c4 dxc4 43.Rxc4 Bd2 44.Bf2 Bxe3 45.Bxe3 Re1 46.Rc2
+Rexe3+ 47.Kg2 Rbd3 48.h5 Rg3+ 49.Kh2 Rgf3 50.Re2 Rxf4 51.Rhxe6+ Kd5 52.h6 Rh4+
+53.Kg1 Kxd4 54.Rd6+ Kc3 55.Rxd3+ Kxd3 56.Rh2 Rg4+ 57.Kf2 Rf4+ 58.Kg3 Rg4+
+59.Kf3 Rg1 60.h7 Rf1+ 61.Kg2 Ke2 62.h8=Q f4 63.Qe5+ 1-0
