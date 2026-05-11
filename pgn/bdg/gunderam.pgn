@@ -461,3 +461,17 @@ Rxd1 28.Kxd1 Ke6 29.Nd8+ Kd5 30.Nf7 Ke4 31.Nxh6 f4 32.Ke2 f3+ 33.Kf2 Kf4
 35.Bc4 (35.Re2) b5 36.Bd3 Ba7 37.Re2 Bxd4+ 38.Kg2 Qb7 39.Bb1 c5+ 40.Qf3 Qxf3+
 41.Kxf3 Rae8 42.Rfe1 Rxe2 43.Rxe2 Kf6 44.Bd3 c4 45.Bb1 Rd8 46.h4 b4 47.g4 Be5
 48.g5+? (48.gxf5) Ke6 49.a3 Rd3+?? (49...b3 {-+}) 50.Bxd3 cxd3 51.Rd2 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.05.11"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Vorbrugg, Sebastian"]
+[Result "1-0"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 Bf5 6.Bc4 e6 7.O-O Nbd7 8.Ng5 c5?
+9.Nxf7 (9.Rxf5!) Kxf7 10.Rxf5 Bd6? (10...Nb6 11.Bxe6+) 11.Ne4 Qc7 12.Ng5+ Ke7
+13.Nxe6 Bxh2+ 14.Kh1 Qd6 15.Qe2 Rhe8 16.Nxg7+ Kd8 17.Nxe8 Nxe8 18.dxc5 Nxc5
+19.Rd5 Qxd5 20.Bxd5 Bd6 21.b4 Na4 22.Bxb7 Rb8 23.Qe4 Kc7 24.Qc6+ Kd8 25.Bg5+
+Be7 26.Rd1+ Nd6 27.Rxd6# 1-0
