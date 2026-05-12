@@ -227,3 +227,19 @@ Kd6 40.Rc2 Ra1 41.h4 Ba5 42.c4 dxc4 43.Rxc4 Bd2 44.Bf2 Bxe3 45.Bxe3 Re1 46.Rc2
 Rexe3+ 47.Kg2 Rbd3 48.h5 Rg3+ 49.Kh2 Rgf3 50.Re2 Rxf4 51.Rhxe6+ Kd5 52.h6 Rh4+
 53.Kg1 Kxd4 54.Rd6+ Kc3 55.Rxd3+ Kxd3 56.Rh2 Rg4+ 57.Kf2 Rf4+ 58.Kg3 Rg4+
 59.Kf3 Rg1 60.h7 Rf1+ 61.Kg2 Ke2 62.h8=Q f4 63.Qe5+ 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.05.11"]
+[Round "3"]
+[White "Mäenpää, Sirpa"]
+[Black "Kauppinen, Janne"]
+[Result "0-1"]
+
+1.e4 d5 2.d4 dxe4 3.Bc4 e6 4.Nc3 c6 5.Nxe4 Be7 6.b3 Nf6 7.f3 O-O 8.Bf4 b5
+9.Bd3 Nbd7 10.g3 Nd5 11.Bd2 N7f6 12.c4 bxc4 13.bxc4 Nb4 14.Nc5 Bxc5 15.Bc3
+Nxd3+ 16.Qxd3 Be7 17.Ne2 Bb7 18.g4 h6 19.a3 c5 20.O-O cxd4 21.Nxd4 e5 22.f4
+exd4 23.Bxd4 Nxg4 24.h3 Nf6 25.Rf2 Ne4 26.Rg2 f6 27.Rb1 Bc6 28.c5 Nxc5 29.Qg3
+Bxg2 30.Kxg2 Qxd4 31.Rf1 Ne4 32.Qf3 f5 33.h4 Qb2+ 34.Kg1 Qxa3 35.Qxa3 Bxa3
+36.h5 Ng3 37.Rf3 Bc5+ 38.Kg2 Nxh5 39.Kf1 Rfe8 40.Kg2 Rab8 41.Kh3 Rb1 42.Kg2
+Re2+ 43.Kh3 Rh1# 0-1
