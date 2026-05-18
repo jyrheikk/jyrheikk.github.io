@@ -243,3 +243,18 @@ exd4 23.Bxd4 Nxg4 24.h3 Nf6 25.Rf2 Ne4 26.Rg2 f6 27.Rb1 Bc6 28.c5 Nxc5 29.Qg3
 Bxg2 30.Kxg2 Qxd4 31.Rf1 Ne4 32.Qf3 f5 33.h4 Qb2+ 34.Kg1 Qxa3 35.Qxa3 Bxa3
 36.h5 Ng3 37.Rf3 Bc5+ 38.Kg2 Nxh5 39.Kf1 Rfe8 40.Kg2 Rab8 41.Kh3 Rb1 42.Kg2
 Re2+ 43.Kh3 Rh1# 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.05.18"]
+[Round "3"]
+[White "Koivusipilä, Hannes"]
+[Black "Vimmerová, Eliška"]
+[Result "1-0"]
+[TimeControl "2700+15"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4 Qe5+ 5.Be2 Nc6 6.Nf3 Qf5 7.b5 Nb4 8.O-O Qg6
+9.Nh4 Qg5 10.g3 Bh3 11.d4 Bxf1 12.Bxg5 Bh3 13.a3 h6 14.Be3 g5 15.Nf3 e6
+16.axb4 Bxb4 17.Ne4 O-O-O 18.Ne5 Rf8 19.Rxa7 Kd8 20.Qb1 Bd6 21.Ra8+ Ke7
+22.Rxf8 Kxf8 23.Nxd6 cxd6 24.Qb4 Ne7 25.Qxd6 Rg8 26.Qd8+ Kg7 27.Qxe7 Bf5 28.d5
+Kh7 29.Bd4 g4 30.Nxf7 h5 31.Ng5+ Kg6 32.Qf6# 1-0
