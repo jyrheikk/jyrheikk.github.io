@@ -376,3 +376,22 @@ Bg7 16.Bg5 O-O 17.Qxe7 Nf6 18.Ne5 Nxd5 19.Qxd6 Re8 (19...Bxe5! 20.Qxd5 Bxb2)
 Re2+ 26.Kd3 Rxc2 27.Nf6+ Kf8 28.Ra1 Bxf6? (28...b3) 29.Bxf6 Ke8 (29...Rd2+!)
 30.Ra8+ Kd7 31.Bxd4 Rxg2 32.Bxc5 Rxb2 33.Rb8 b3 34.Kc4 Rc2+ 35.Kxb3?? Rxc5 {no
 more moves recorded} 0-1
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.05.19"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Dahal, Sameep"]
+[Result "1-0"]
+[Stage "Quarter-Final"]
+[TimeControl "1200+10"]
+[Termination "time forfeit"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 c5 4.Be3 cxd4 5.Bxd4 Nc6 6.e5 Nxd4 7.Qxd4 Ng8 8.O-O-O
+a6 9.Ne4 Qa5 10.Bc4 Nh6 11.f4 Nf5 12.Qd3 h5 13.Nf3 h4 14.g4 hxg3 15.hxg3 Rxh1
+16.Rxh1 b5 17.Bb3 (17.Bd5! exd5 18.Qxd5 Rb8 19.Nd6+) Bb7 18.g4 Nh6 19.Rxh6 Qb4
+20.c4? (20.Rh8) bxc4 21.Bxc4 Bxe4 22.Qxe4 Rc8 23.Rxe6+ fxe6 24.Nd2 Kd8 25.a3
+Qc5 26.f5 (26.Kb1) Qg1+ 27.Kc2 exf5 28.gxf5 Be7 29.e6 Qc5 30.b4 (30.exd7) d5
+31.bxc5 dxe4 32.Nxe4 Bxc5 33.Kd3 Bxa3 34.Bxa6 Rc1 35.Ng5 Ke7 36.Ke4? Kf6
+37.Nf3 Rc5 38.Nh4 Bc1 39.Bd3 Bg5 40.Kd4 Ra5 41.Ng6 Bd2 42.Ke4 Rxf5 43.e7 1-0
