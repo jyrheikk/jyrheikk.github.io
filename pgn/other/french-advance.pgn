@@ -245,6 +245,7 @@ Rxg2+ 35.Ke3 Qh3# 0-1
 16.Qxf3 Bxg5 17.Qh5 Bh6? (17...h6) 18.Rg1 Kh8 19.Ke2 (19.Rc3) Qe7 20.Nb6 Rb8
 21.Rxg7 Kxg7 22.Rg1+ Kh8 23.Qxh6 (23.Bc1 f5 24.Bxh6) f5 24.exf6? (24.Bc1) Rxf6
 25.Qg5 Qf7? 26.Rg2 Ne7 27.Qe5 Nc6 28.Qg3 Rf4 (28...Bd7) 29.Ke3? Rf6 (29...e5!)
-30.f4 Bd7 31.f5 exf5 32.Qc7 f4+ 33.Kf2 Rg8? (33...Qe6) 34.Qxd7 Rxg2+ 35.Kxg2
-Rg6+ (35...Qg8+) 36.Bxg6 (36.Kf2) Qxg6+ 37.Kf3 Qe4+ 38.Kg4 f3+ 39.Kg3 Ne7
-40.Qxb7? Nf5+ 41.Kf2 Qe2+ 42.Kg1 Qg2# 0-1
+30.f4 Bd7 31.f5 exf5 32.Qc7 f4+ 33.Kf2 Rg8? (33...Qe6) 34.Rxg8+ Qxg8 35.Qxd7?
+Rg6 (35...Rh6) 36.Bxg6 Qxg6 37.Qc8+ Kg7 38.Qxb7+ Kh6 39.Kf3? (39.Qxa6) Qe4+
+40.Kg4 f3+ 41.Kg3? (41.Kh3) Ne7 42.Bc1+ Kh5 43.Qd7 Nf5+ 44.Kf2 Qe2+ 45.Kg1
+Qg2# 0-1
