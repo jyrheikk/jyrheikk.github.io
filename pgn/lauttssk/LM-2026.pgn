@@ -273,3 +273,22 @@ Kh7 29.Bd4 g4 30.Nxf7 h5 31.Ng5+ Kg6 32.Qf6# 1-0
 16.Bd3 b5 17.a3 Nd7 18.Nh2 Nc5 19.Nxg4 Nxd3+ 20.cxd3 hxg4 21.Kf2 d5 22.Kg3
 Rad8 23.e5 Rf5 24.Kxg4 Rdf8 25.b4 Bxe5 26.fxe5 Rxe5 27.Bh6 Rf2 28.Kg3 Rc2
 29.Rhc1 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.05.31"]
+[Round "3"]
+[White "Zhukov, Matvei"]
+[Black "Salo, Mikko"]
+[Result "1-0"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bg4 6.Be2 e6 7.Be3 Nge7 8.Bb5 Nf5
+9.h3 Bxf3 10.Qxf3 Qa5+ 11.Nc3 Be7 12.O-O Rc8 13.a3 d4 14.b4 Qc7 15.Nd5 Qxe5
+16.Nxe7 Kxe7 17.Bf4 Qf6 18.Bxc6 bxc6 19.Rfe1 Rhd8 20.Be5 Qg6 21.g4 f6 22.Kh2
+Nh6 23.Bd6+ Kf7 24.Qe2 Re8 25.Rad1 Kg8 26.Rxd4 f5 27.f3 fxg4 28.fxg4 Nf7
+29.Qe4 Qf6 30.Qf4 Qh4 31.Rf1 Ng5 32.Rd3 h5 33.Rg3 hxg4 34.Qxg4 Qxg4 35.Rxg4
+Nf7 36.Rfg1 g5 37.h4 Kh7 38.hxg5 Kg6 39.R1g3 e5 40.Rf3 Rcd8 41.Rf6+ Kg7 42.Rf5
+Nxd6 43.cxd6 Rxd6 44.Rg3 e4 45.Re3 Rd2+ 46.Kg3 Rxc2 47.Rc5 Rxc5 48.bxc5 Kg6
+49.Kf4 Rf8+ 50.Kxe4 Kxg5 51.Kd4 Rd8+ 52.Kc4 Kf5 53.Kb4 Rd7 54.Ka5 Kf4 55.Re6
+Rd3 56.a4 Kf5 57.Rxc6 Rd7 58.Rd6 Rc7 59.Kb5 Ke5 60.Rd2 Ke4 61.c6 Ke3 62.Rd7
+Rc8 63.c7 Ke4 64.Kc6 Ke5 65.Rd8 1-0
