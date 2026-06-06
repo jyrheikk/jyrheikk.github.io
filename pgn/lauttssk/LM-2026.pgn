@@ -307,3 +307,21 @@ Kf8 16.Bxe5 Bxe5 17.O-O Kg7 18.Rfe1 Bd6 19.Re2 Rhc8 20.a3 Rc5 21.Rae1 Rac8
 22.Qd4+ Kg8 23.b4 R5c6 24.Qxb6 Rxb6 25.Re3 a5 26.bxa5 Ra6 27.Rb1 Rxa5 28.Reb3
 Rac5 29.g4 Rc3 30.Kg2 Bxa3 31.Rxc3 Rxc3 32.Rxb7 Rc2 33.Kg1 Bc5 34.Kh1 Rxf2
 35.Bg2 Rd2 36.Kh2 Kg7 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.06.01"]
+[Round "3"]
+[White "Nyberg, Erik"]
+[Black "Clarke, Daniel"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Na5 11.Bd3 b6 12.Qd2 Re8 13.e5 Be6 14.Bh6 Bh8 15.Be4 Rc8
+16.d5 Bxe5 17.dxe6 Qxd2 18.exf7+ Kxf7 19.Bxd2 Red8 20.Bf4 Bf6 21.Rad1 e6
+22.Rd3 c4 23.Rd2 Rxd2 24.Bxd2 g5 25.Be3 h6 26.Rd1 Rc7 27.f4 Nb7 28.Bxb7 Rxb7
+29.fxg5 hxg5 30.Bd4 Be7 31.Ng3 Rd7 32.Rf1+ Kg6 33.Ne4 Rd5 34.Bf6 Bc5+ 35.Nxc5
+Rxc5 36.Bd4 Rf5 37.Rxf5 Kxf5 38.Kf2 Ke4 39.Bf6 g4 40.h4 gxh3 41.gxh3 b5 42.Ke2
+a5 43.a3 e5 44.Be7 Kf4 45.h4 e4 46.h5 Kf5 47.Ke3 Ke6 48.Bd8 b4 49.axb4 a4
+50.Kd2 Kf5 51.Bb6 Kg5 52.Kc2 Kxh5 53.Kb2 Kg4 54.Ka3 Kf4 55.Kxa4 Ke5 56.b5 Kd5
+57.Kb4 1-0
