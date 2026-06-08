@@ -619,3 +619,16 @@ Rh2 45.Rxe4+ Kxe4 46.f5 Ke3 47.Kf1 Rh1+ 48.Kg2 Rxd1 49.f6 a2 50.f7 a1=Q
 20.Qe3 Bxg3 21.Qxg3 dxc4 22.Nxc4 Qe6 23.Ne3 Nd5 24.Kh1 Nc3 25.Nf5 Nxf5 26.Qxc3
 Rd3 27.Qc7 Nd6 28.Bg4 f5 29.Be2 Rd2? 30.Bxa6 Kh8 31.Rad1 Rxd1 32.Rxd1 Ne8
 33.Qc5 Qf6 34.Rd8 h5 35.Bb5 Nd6 36.Rxd6 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.06.08"]
+[Round "-"]
+[White "Monga, Mahesh"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Be2 e6 7.O-O Bxf3 8.Bxf3 cxd4
+9.cxd4 Qb6 10.Be3 Qxb2 11.Nd2 Qa3 12.Nb3 Nge7 13.h3 Nf5 14.g4 Nxe3 15.fxe3 Be7
+16.e4 Rd8 17.exd5 exd5 18.Bxd5 Rxd5 19.Qf3 Rd7 20.Qxf7+ Kd8 21.Qxg7 Re8 22.e6
+Rd5 23.Rf5 Qd6 24.Nc5?? Qg3+ 25.Kf1 Rxf5+ 0-1
