@@ -325,3 +325,26 @@ Rxc5 36.Bd4 Rf5 37.Rxf5 Kxf5 38.Kf2 Ke4 39.Bf6 g4 40.h4 gxh3 41.gxh3 b5 42.Ke2
 a5 43.a3 e5 44.Be7 Kf4 45.h4 e4 46.h5 Kf5 47.Ke3 Ke6 48.Bd8 b4 49.axb4 a4
 50.Kd2 Kf5 51.Bb6 Kg5 52.Kc2 Kxh5 53.Kb2 Kg4 54.Ka3 Kf4 55.Kxa4 Ke5 56.b5 Kd5
 57.Kb4 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.06.09"]
+[Round "4"]
+[White "Kuzin, Dmytro"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 e6 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 d5 8.Nc5 O-O
+9.Be2 b6 10.Nd3 c5 11.c3 Qd6 (11...Nc6) 12.Nde5 cxd4 13.cxd4 Nc6 (13...Nd7)
+14.Nxc6 Qxc6 15.O-O Qd6 16.Rc1 Bd7 17.Qd2 g6 18.Bd3 Bg7 19.Rfe1 Rxf3 20.gxf3
+e5? (20...Bxd4 21.Bxg6 Be5 {=}) 21.Qg5 Bf6 22.Qg3 Re8 23.h4 Kh8 24.Re2 Qe7
+25.Rc7 Qd8 26.Rxa7 Bf5 27.Bb5 Bxh4 28.Qh2 (28.Rxe5) Re6 29.f4 exd4 30.Rxe6
+Bxe6 31.Bd3 Kg8 32.Kf1 Qb8 33.Ra4 (33.Rxh7) Bf6 34.Qg3 Bf7 35.f5 Be5 36.Qg5
+Kg7 37.fxg6 hxg6 38.Ra3 Bf4 39.Qe7? Qh8? (39...Bd6 40.Qa7 Qc8) 40.Qe1??
+(40.Ra7 {+-}) Qh3+ (40...Qh5) 41.Ke2 Bd6 (41...g5! 42.Kd1 Qc8) 42.Rb3 Be6
+43.Kd1 Bg4+ 44.Kc1 Qf3 45.Kb1 Bf5 46.Bxf5 Qxf5+ 47.Ka1 Bc5 48.Qe2 Qe4 49.Qf1
+Kf7 50.a3 Qc2 51.Rf3+ Kg7 52.Qe1 Qe4 53.Qxe4 dxe4 54.Rf4 e3 55.fxe3 dxe3
+56.Re4 Kf6 57.Kb1 Kf5 58.Re8 Kf4 59.Kc1? g5 60.Kd1 Kf3 61.b4?? Bd4?? (61...Bd6
+62.Ke1 g4 63.Kf1 g3 64.Rg8 e2+ 65.Ke1 Be5 66.Rf8+ Ke3 67.Re8 g2 68.Rxe5+ Kf4
+{-+}) 62.Rf8+ Ke4 63.Ke2 Be5 64.a4 Bc3 (64...g4) 65.Rb8 Bxb4 66.Rxb6 Bd2
+67.Rb5 g4 68.a5 g3 69.a6 Kf4 70.Rb8 1-0
