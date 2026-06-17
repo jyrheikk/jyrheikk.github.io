@@ -217,6 +217,23 @@ Qa5 20.Nxf6+ Bxf6 (20...gxf6 21.Qxh5 fxe5) 21.Qxh5 Qxb5? (21...Bxe5 22.Bd3 f5)
 [Site "Helsinki FIN"]
 [Date "2026.06.17"]
 [Round "3"]
+[White "Monga, Mahesh"]
+[Black "Rantanen, Matti"]
+[Result "1/2-1/2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nc3 c6 6.Nf3 Bg4 7.Be2 e6 8.O-O Be7
+9.Be3 O-O 10.b3 N8d7 11.Rc1 Re8 12.h3 Bh5 13.d5 cxd5 14.cxd5 exd5 15.Nxd5 Nxd5
+16.Qxd5 Nf6 17.Qxb7 Qa5 18.Rc2 Bg6 19.Rd2 Bb4 20.Rd4 Bc3 21.Ra4 Qd5 22.Qxd5
+Nxd5 23.Bb5 Rxe3 24.fxe3 Nxe3 25.Rc1 Bf6 26.Rxa7 Rb8 27.Rac7 h6 28.Rc8+ Rxc8
+29.Rxc8+ Kh7 30.Kf2 Nd5 31.Bc4 Nc3 32.a4 Ne4+ 33.Kg1 Bc3 34.Bd5 Ba5 35.Bxe4
+Bxe4 36.Kf2 Bb6+ 37.Ke2 g5 38.Rb8 Ba7 39.b4 Bxb8 40.a5 Bc7 41.Ke3 Bb7 42.Kd4
+Kg7 43.Kc5 f5 44.Nd4 Kf6 45.Nb5 Bb8 46.Nd6 Bxg2 47.b5 Ke5 48.Nf7+ Ke6 49.Nxh6
+f4 {no more moves recorded} 1/2-1/2
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.06.17"]
+[Round "3"]
 [White "Koivusipilä, Hannes"]
 [Black "Clarke, Daniel"]
 [Result "1-0"]
@@ -232,7 +249,39 @@ Bxf7 23.Rxd8+ Rxd8 24.Rd1 Rxd1+ 25.Bxd1 Nb4 26.a3 Nd5 27.Bd4 Bh6 28.Ne5 Be8
 [Site "Helsinki FIN"]
 [Date "2026.06.17"]
 [Round "3"]
-[White "Kumaron, Pavan"]
+[White "Bhandari, Sushil"]
+[Black "Karamyshev, Stepan"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 h6 5.Bxc6 dxc6 6.Nxe5 Bd6 7.Nf3 Bg4 8.h3 Bxf3
+9.Qxf3 Be5 10.c3 c5 11.O-O Qd6 12.Rd1 O-O-O 13.Be3 c4 14.d4 Bh2+ 15.Kh1 Nd7
+16.g3 Bxg3 17.fxg3 f6 18.Na3 Nb6 19.Nb5 Qd7 20.Qf5 a6 21.Qxd7+ Rxd7 22.Na3 Re8
+23.e5 fxe5 24.dxe5 Rxd1+ 25.Rxd1 Rxe5 26.Bd4 Rg5 27.Kg2 c5 28.Be3 Re5 29.Kf3
+Re6 30.Bxc5 Na4 31.Nxc4 Nxc5 32.b4 Ne4 33.Rd3 Ng5+ 34.Kg2 Re2+ 35.Kf1 Rxa2
+36.h4 Ne4 37.Nd6+ Nxd6 38.Rxd6 Rc2 39.Rd3 Kc7 40.Ke1 Rg2 41.Kd1 Kc6 42.Kc1 Kb5
+43.Rf3 Kc4 44.Kd1 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.06.17"]
+[Round "3"]
+[White "Heinonen, Anna-Maija"]
+[Black "Kalmari, Viljami"]
+[Result "0-1"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nc6 4.Nf3 Bc5 5.Ng5 O-O 6.O-O d6 7.Qf3 Nd4 8.Qd3 Bg4
+9.Kh1 Qd7 10.Nd5 Nxd5 11.exd5 g6 12.c3 Be2 13.Qh3 Qxh3 14.Nxh3 Bxf1 15.Bxf1
+Nf5 16.Kg1 h6 17.b4 Bb6 18.Bb2 c6 19.Bc4 Ne7 20.a4 cxd5 21.Be2 Rac8 22.a5 Bd8
+23.Bg4 Nf5 24.a6 b6 25.d4 Rc7 26.Re1 f6 27.Kh1 Kg7 28.Ng1 e4 29.Ne2 h5 30.Bxf5
+gxf5 31.Nf4 Kf7 32.f3 h4 33.fxe4 dxe4 34.h3 Rg8 35.d5 b5 36.Re3 Ke8 37.Bc1
+Rcg7 38.Re2 Bb6 39.Ne6 Rg3 40.Kh2 Rxc3 41.Bb2 Rd3 42.Bxf6 Rxd5 43.Bxh4 Rd1
+44.Rc2 Bg1+ 45.Kh1 Bf2+ 46.Kh2 Bxh4 47.Rc7 Bg3# 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.06.17"]
+[Round "3"]
+[White "Kumar, Pavan"]
 [Black "Mäenpää, Sirpa"]
 [Result "1-0"]
 
