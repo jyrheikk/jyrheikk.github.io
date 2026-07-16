@@ -486,6 +486,7 @@ Rxb2 21.Qc1 Rxd2 22.Qxd2 Nxf3+ 23.Nxf3 f4 (23...f4 24.Rab1 fxg3 (24...Bd4!)
 [White "Modanese, Augusto"]
 [Black "Heikkinen, Jyrki"]
 [Result "*"]
+[Termination "abandoned"]
 
 1.d4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Be2 c5 5.O-O O-O 6.c4 Ne4 7.Nc3 Nxc3 8.bxc3 Nc6
 9.Ba3 b6 10.Qc2 d6 11.Rfd1 Qc7 12.d5 Ne5 13.Nxe5 Bxe5 14.f4 Bg7 15.e4 f5

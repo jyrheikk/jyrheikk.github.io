@@ -154,6 +154,7 @@ Ne5 (22...Kf8 23.Nd6 Kg8 24.Qxf7+ Kh7 25.Qxg6+! Kxg6 26.Bf5#!) 23.Nf6 Bxh3+
 [White "Heikkinen, Jyrki"]
 [Black "Brown, Barry"]
 [Result "*"]
+[Termination "abandoned"]
 [TimeControl "600"]
 [Mode "ICS"]
 

@@ -319,6 +319,7 @@ Rh6 25.Re2 Qg3 26.Nf3 exf3 27.gxf3 Nxf3 0-1
 [White "Oh, Dayei"]
 [Black "Heikkinen, Jyrki"]
 [Result "*"]
+[Termination "abandoned"]
 
 1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.Nd2 d5 (4...cxd4) 5.Rb1 cxd4 6.exd4 Nc6 7.Ngf3
 Nxd4 8.Nxd4 Qxd4 9.g3 Bg4 10.Qc1 e5 11.Be3 Qb4 12.Bg2 O-O-O? (12...d4) 13.O-O
