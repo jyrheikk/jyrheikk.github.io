@@ -280,3 +280,18 @@ Bf6 19.Qh6+ Bg7 20.Qxg6 (20.Qxh7!) h6? 21.Qh7 Rxh7 22.Ng6# 1-0
 a6 10.Nc3 b4 11.Ne2 a5 12.Bh6 O-O 13.Bxg7 Kxg7 14.Rac1 Nd7 15.Qg5 Nf6 16.e5
 dxe5 17.dxe5 Nfg8 18.Ng3 f6? 19.Nh5+ Kh8 20.exf6 Nf5 21.Bxf5 exf5 22.Rfe1 Qd6?
 23.Rcd1 Qc7 24.Re7 Qb6 25.f7 (25.Ne5!) Nxe7 26.Qf6# 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.07.15"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Cevro, Felix"]
+[Result "0-1"]
+[TimeControl "600+5"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 c5 4.Be3 cxd4 5.Bxd4 Nf6 6.e5 Ng8 7.e6 f6 8.exd7+ Bxd7
+9.Nf3 Nh6 10.Bc4 Qc7 11.Qe2 Nf5 12.O-O (12.Nd5 Qd6 13.Bc3) Nc6 13.Rad1 e5
+14.Bc5 O-O-O 15.Nb5 (15.Nd5 Qb8 16.b4) Qb8 16.Bd6 Qa8 17.c3 a6 18.Nc7 Qa7
+19.Nxa6? (19.Ne6 Nxd6 20.Nxd8 Nxc4 21.Nxc6 Qc5) Nxd6 20.Rxd6 bxa6 21.Bxa6+ Kc7
+22.Rfd1 Bc8 0-1
