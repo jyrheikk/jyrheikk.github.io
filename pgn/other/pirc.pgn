@@ -816,6 +816,19 @@ Rxc3+ 42.Kb2 Rg3 43.Re7 Rg2+ 44.Kc1 Rf2? 45.Ng4 Rg2 (45...Rxf4 46.Nh6+ Kf8
 68.Ne7 Rf8 69.Kc5?? h4 70.Nd5 Rb8?? (70...h3) 71.Ne3 h3 72.Nf1 Kg4 73.Kc6 Kf3
 74.Nh2+ Kg2 75.Ng4 Kg3 76.Ne3 Rxb6+ 77.Kxb6 Kf3 78.Nf1 1/2-1/2
 
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2024.02.28"]
+[Round "-"]
+[White "Mannerla, Nooa"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 cxd4 4.exd4 g6 5.Nc3 Bg7 6.Bg5 O-O 7.Qd2 d6 8.h4 h5
+9.O-O-O Bf5 10.Bd3 Bxd3 11.Qxd3 Nc6 12.a3 Rc8 13.Qd2 a6 14.Bh6 b5 15.b4? a5
+16.Nxb5 axb4 17.axb4 Qb6 18.c4 Ne4 19.Qe3 Nxb4 20.Qxe4 Rxc4+ 21.Kd2 Bxh6+
+22.Ke2 Qxb5 23.Rc1 Rxc1+ 24.Qd3 Qxd3# 0-1
+
 [Event "Lauttasaari Cup"]
 [Site "Helsinki FIN"]
 [Date "2024.10.29"]
