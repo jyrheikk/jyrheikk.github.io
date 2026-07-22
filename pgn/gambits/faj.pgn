@@ -2110,3 +2110,16 @@ Bd6 (13...Kc6) 14.O-O-O b6 15.b4 Na6 16.c5 bxc5 17.bxc5 Nxc5 18.Bb5+ Ke6
 9.Nc3 Qc5 10.e3 Ng3 11.e4 Bxe4 12.Qd2?? (12.Qa4) Nxh1?? (12...Nxf1) 13.Nxe4
 Qa5 14.Qxa5 Nxa5 15.O-O-O Be7 16.g3 O-O 17.Bg2 Nxf2 18.Nxf2 {no more moves
 recorded} 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.07.22"]
+[Round "?"]
+[White "Clarke, Daniel"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "720+6"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 Nc6 5.Qc2 d5 6.g3 Bc5 (6...Bf5) 7.e3 Be6
+8.Nbd2 Bb4 9.Bg2 Bf5 10.Nd4 Nxd2 11.Qxf5 Nxc4+ (11...Nb3+) 12.Ke2 O-O 13.e6?
+(13.f4) Ne7 (13...Nxd4+ 14.exd4 fxe6) 14.b3?? Nxf5 0-1
