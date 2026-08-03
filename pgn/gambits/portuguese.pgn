@@ -1755,3 +1755,16 @@ Nc6+ 25.Ke2 Nxa5 26.Rxa5 Rd5 27.Ra4 Rhd8 28.Rh4 h5 29.g4 hxg4 30.Rxg4 b5
 c5? (42...Ke7) 43.g5 (43.Kxe4 Rxf2 44.Kd5) Ke7 44.g6 Ke6 45.g7 Kf7 46.a3 a5
 47.Bf6 b4 48.axb4 cxb4 49.Bd4 a4 50.Kxe4 b3 51.Kd3 Rc8 52.Be5 Ke6 53.f4 Kf7
 {no more moves recorded} 1/2-1/2
+
+[Event "Casual Simul"]
+[Site "Helsinki FIN"]
+[Date "2026.08.03"]
+[Round "-"]
+[White "Konénczy, Noel"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Nxe2 Qxd5 6.Nf4 Qd7 7.Qd3 Nc6 8.Be3
+O-O-O 9.c3 e5 10.Ne2 e4 11.Qc2 Qg4 12.Ng3 h5 13.h3 Qe6 14.Nd2 Re8 15.c4 Nb4
+16.Qa4 Nd3+ 17.Ke2 a6 18.c5 h4 19.Ngf1 Nd5 20.Nb3 f5 21.Nfd2 f4 22.c6 fxe3
+23.cxb7+ Kb8 24.Nxe4 Qxe4 25.f3 N3f4+ 26.Kf1 e2+ 27.Kf2 Qe3+ 28.Ke1 Nd3# 0-1
