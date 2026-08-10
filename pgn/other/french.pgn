@@ -475,3 +475,17 @@ Ng4? 22.Qd3 (22.Nxd5!) Rf5 (22...Nf6) 23.Rxe6 Qxe6 24.Qxf5 1-0
 
 1.e4 e6 2.c4 d5 3.Nc3 d4 4.Nce2 c5 5.f4 Qa5 6.Nf3 Nc6 7.Kf2 Nf6 8.d3 Ng4+
 9.Kg3 h5 10.h3 h4+ 11.Kxg4?? f5+ 12.exf5 exf5+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.08.10"]
+[Round "-"]
+[White "Luostarinen, Vili"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 e6 2.Nf3 d5 3.exd5 exd5 4.d3 Nf6 5.Be2 c5 6.O-O Qd6 7.Bg5 Be6 8.Bxf6 gxf6
+9.c3 Rg8 10.Kh1 Nc6 11.Nbd2 Be7 12.d4 Bd8 13.Nb3 c4 14.Nc5 b6 (14...Bc8)
+15.Nb7 Qf4 16.g3 Qg4? 17.Ng1? (17.Ne5) Qg7 18.Nxd8 Kxd8 19.Bf3 Ne7 20.Re1 Nf5
+21.b3 Rc8 (21...h5) 22.Rc1 Qg5 23.a4 Nd6 24.Be2? Ne4 25.Kg2 h5 26.f3?? (26.Bf3
+h4) Nxg3 27.Kf2 Nh1+ 28.Kf1 Qg2# 0-1
