@@ -1013,3 +1013,25 @@ Kxf8 17.Nfg5 f5 18.exf6 Nxf6 19.Nxf6 Bxf6 20.Rxf6+ Kg7 21.Rf7+ Kg8 22.Qf3 1-0
 9.Bxc6+ bxc6 10.Be3 Nd7 11.h4 Rb8 12.O-O-O Qc8 13.Rd2 Qb7 14.Nd1 Qb4 15.h5
 Nc5? 16.c3 Qa4 17.dxc5 Qxa2 18.h6 Qa1+ 19.Kc2 Qa4+ 20.Kb1 Bf6 21.Bd4 e5
 22.fxe5 Bg5 23.Rf2 O-O 24.exd6 cxd6 25.Bg7 Rfe8 26.Qxf7# 1-0
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.08.15"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Bogdanov, Evgeny"]
+[Result "0-1"]
+[TimeControl "3600+30"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.f4 Bg7 5.Nf3 O-O 6.Be3 Ng4 7.Bg1 Nd7 8.h3 Nh6 9.g4
+Kh8 10.Qd2 e5 11.Be3 exf4 12.Bxf4 Ng8 13.O-O-O Re8 14.Bc4 Qe7 15.Ng5 Nh6
+16.Rdf1 (16.Nd5 Qd8 17.h4 f6 18.h5! {+-}) Nb6 17.Be2 f6 18.Nf3 (18.Nxh7! Kxh7
+19.g5) Nf7 19.g5 f5 20.Bd3 fxe4 21.Bxe4 c6 22.Re1 Qc7 23.h4 Bg4 24.Nh2 (24.h5!
+gxh5 (24...Bxh5 25.Rxh5 gxh5 26.Qh2) 25.Nh2) Bh5 25.Bf3 Nc4 26.Qd3 Bxf3
+27.Nxf3 b5 28.h5 Rxe1+ 29.Nxe1 Qe7 30.Qg3? (30.b3 Nb6 31.Nf3) Kg8 31.b3 Nb6
+32.Nf3 Re8 33.hxg6 hxg6 34.Re1? (34.Qh2 Kf8 35.Qh7 {+-}) Qd8 35.Kd2 Rxe1
+36.Qxe1 b4 37.Ne2 Nd5 38.Qg3 Bf8 39.Qg4 Be7 40.Qe6 Kg7 41.Ke1 Qh8 42.Kd2?
+(42.Qd7) Qh1 (42...Qh5) 43.Qg4 Qa1 44.Qe6 Nxf4 45.Nxf4? (45.Qxe7 {=}) Qc3+
+46.Kc1 Qxf3 47.Qxg6+ Kf8 48.Ne6+ Ke8 49.Ng7+ Kd8 50.Ne6+ Kd7 51.Kb1 Qe3
+52.Qxf7 Qxe6 53.Qh7 Ke8 54.g6 Bf6 55.Qh1 Bxd4 56.Qxc6+ Kf8 57.Qf3+ Kg7 58.Qb7+
+Kxg6 59.Qg2+ Kf7 60.Qh1 Bg7 0-1
