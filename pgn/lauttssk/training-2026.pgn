@@ -311,6 +311,21 @@ exf6 24.Rxf6 Qg7 25.Qf3 Ke7 26.Rf4 Rhg8 27.Ra2 Bxh3 28.Qxh3 Qg3 29.Qd7+ Kf8
 [Site "Helsinki FIN"]
 [Date "2026.08.19"]
 [Round "4"]
+[White "Rantanen, Matti"]
+[Black "Kuzin, Dmytro"]
+[Result "0-1"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.c4 c6 5.Nc3 Bd6 6.Bd3 O-O 7.O-O Nbd7 8.b3 e5
+9.dxe5 Nxe5 10.Nxe5 Bxe5 11.Bb2 Ng4 12.h3 Qh4 13.Qe2 Nh2 14.f4 (14.Rfd1 dxc4
+15.Bxc4 Bxh3 16.gxh3 Qxh3 17.f4 Nf3+ 18.Kf2 Nh4 19.Ke1 Nf3+ 20.Kf2 Nh4 {=})
+Nxf1 15.Rxf1 dxc4 16.bxc4 Bc7 17.Qf3 f5 18.Nd1 Be6 19.Nf2 Rad8 20.g3 Qe7
+21.Rd1 Qf7 22.Qe2 Rfe8 23.Bc3 Rd7 24.Kh2 Red8 25.e4 h6 26.exf5 Bxf5 27.Bxf5
+Qxf5 28.Rxd7 Qxd7 29.Qb2 Bb6 30.Ng4 Qd1 31.Qg2 Bd4 32.Bxd4 Rxd4 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.08.19"]
+[Round "4"]
 [White "Virkkala, Vilho"]
 [Black "von Boehm, Erika"]
 [Result "0-1"]
