@@ -105,3 +105,16 @@ Kd8 21.Nxh5+ Kc8 22.Ng3 Kb8 23.Nxf5 gxf5 24.Bxf5 Be7 25.Be6 Bxg5+ 26.hxg5 Qe7
 34.Qxh8 Rxh8 35.Rxh8 Qg7 36.Rg8 Qd4 37.R8xg6 a4 38.a3 b5 39.R1g4 Qe5 40.Kb1
 Qe3 41.Rb4 Qe2 42.Rg8 c6 43.dxc6+ Kxc6 44.Rc8+ Kb7 45.Bd7 Qd1+ 46.Ka2 Qd5+
 47.Rcc4 (47.c4!) 1-0
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.08.31"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Koivusipilä, Hannes"]
+[Result "1-0"]
+
+1.d4 Nf6 2.g4 d5 3.g5 Nfd7 4.Bg2 Nb6 5.b3 Bf5 6.c4 c6 7.c5 (7.e4) N6d7 8.Nd2
+e5 9.Ndf3 Qc7 10.b4 b6 (10...a5) 11.Bb2 exd4 (11...e4) 12.Nxd4 Qf4?? 13.e3?
+(13.Bc1) Qxg5 14.Ngf3 Qxg2 15.Rg1 Qxg1+ 16.Nxg1 Bg6 17.Nxc6 Nxc6 18.Qxd5 Rc8
+19.Rd1 Ndb8 20.b5 Rd8 21.bxc6 Rxd5 22.c7 1-0
