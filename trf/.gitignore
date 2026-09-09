@@ -1,3 +1,4 @@
 *.csv
 *.trfx
 !tournament.trfx
+__pycache__
