@@ -1,0 +1,30 @@
+[project]
+name = "chess-trf"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.16.6",
+]
+
+[tool.pytest.ini_options]
+addopts = "--cov=trf --cov-report=term-missing --verbose --no-header --disable-warnings"
+pythonpath = "."
+testpaths = "test"
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+    "A", # flake8-builtins
+    "B", # flake8-bugbear
+    "C", # mccabe complexity
+    "E", # pycodestyle errors
+    "F", # pyflakes
+    "ISC", # flake8-implicit-str-concat
+    "SIM", # flake8-simplify
+    "UP", # pyupgrade deprecated features
+    "RUF", # ruff-specific
+]

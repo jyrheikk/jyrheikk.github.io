@@ -1,0 +1,3 @@
+*.csv
+*.trfx
+!tournament.trfx
