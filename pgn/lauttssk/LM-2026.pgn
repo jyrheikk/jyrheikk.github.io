@@ -512,3 +512,17 @@ cxb4 23.Bxb4 Bd6 24.Bd2 b6 25.Raf1 Rf8 26.Bf4 Bxf4 27.Qxf4 Qd7 28.Rf3 a6
 Qxh3+ 43.Kxh3 Rxd4 44.Rxe2 a4 45.Re3 g5 46.Kg3 Kg6 47.Kf3 Rd2 48.Ra3 Rxh2
 49.Rxa4 f5 50.Ra6+ Kh5 51.a4 Rh3+ 52.Kg2 Ra3 53.Ra8 Kg4 54.a5 Ra2+ 55.Kf1 Kf3
 56.Ke1 g4 57.a6 g3 0-1
+
+[Event "Lauttasaari Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.09.10"]
+[Round "6"]
+[White "Mäntsälä, Juha"]
+[Black "Koivusipilä, Hannes"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Nf3 d5 3.a3 c5 4.Bf4 Nc6 5.Qd3 c4 6.Qd1 a5 7.Nc3 Bg4 8.Nb5 Rc8 9.a4
+e6 10.h3 Bxf3 11.gxf3 Be7 12.c3 Qb6 13.h4 Na7 14.Nxa7 Qxa7 15.Bh3 b6 16.Qc2
+Qb7 17.O-O-O b5 18.Rhg1 Nh5 19.Bg3 b4 20.cxb4 Qxb4 (20...axb4) 21.Be5 c3
+22.Kb1 Bf6 23.Rg4 Ke7 24.Bxf6+ Nxf6 25.Rxg7 Rb8 26.Rxf7+ Kxf7 27.Ka2 Qxb2+
+28.Qxb2 Rxb2+ 29.Ka3 Rhb8 30.Rc1 R8b3# 0-1
