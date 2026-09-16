@@ -434,3 +434,18 @@ Rxd7 33.Qe3 Qf8 34.Rf2 (34.Qe6+! Qf7 35.Qxa6 {+-}) Qe7 35.Qf4 (35.Qxe7! Rxe7
 40.Rf5 Rxh6 41.Rxg5+ Kf7 42.Kd2 Rh2+ 43.Kxd3 Ra2 44.Rc5 Rxa3 45.Ke4 Kg6 46.Kf4
 Ra1 47.Rc6+ Kg7 48.Kg5 Ra2 49.Rc7+ Kg8 50.Kh6 Rh2+ 51.Kg5 Ra2 52.Rc5 Kg7
 53.Rc7+ 1/2-1/2
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.09.16"]
+[Round "1"]
+[White "Heikkinen, Jyrki"]
+[Black "Bhandari, Sushil"]
+[Result "1-0"]
+[TimeControl "600+5"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 e6 4.e5 Nfd7 5.Nce2 c5 6.c3 cxd4 7.cxd4 Nc6 8.f4 Qb6
+9.Nf3 Be7 10.Nc3 a6 11.a3 h6 12.Be3 Qc7 13.Bd3 b5 14.b4? Rb8? 15.Rc1 Nb6
+16.O-O Nc4 17.Bxc4 bxc4 18.Qe1 Bd7 19.Qg3 O-O 20.f5 Kh7 21.f6 gxf6 22.Qh4 Rh8
+23.exf6 Bf8 24.Ng5+ Kg8 25.Rf3 e5 26.Rg3 Qc8 27.Ne6+ Kh7 28.Bxh6 Bxh6 29.Rg7#
+1-0
