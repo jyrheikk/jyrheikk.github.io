@@ -407,3 +407,17 @@ Qc5 26.f5 (26.Kb1) Qg1+ 27.Kc2 exf5 28.gxf5 Be7 29.e6 Qc5 30.b4 (30.exd7) d5
 
 1.d4 Nf6 2.Nc3 e6 3.e4 b6 4.e5 Nd5 5.Qf3 Bb7 6.Ne4 Nc6 7.c3 Be7 8.Bd3 O-O 9.h4
 d6 10.Ng5 g6 11.Nxh7 Kxh7 12.h5 *
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.09.19"]
+[Round "?"]
+[White "Bogdanov, Evgeny"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.Nc3 c5 3.d5 g6 4.e4 d6 5.Bb5+ Nbd7 6.Nf3 a6 7.Bxd7+ Nxd7 8.Nd2 Bg7
+(8...b5) 9.Ne2 b5 10.a4 Nb6 11.axb5 axb5 12.Rxa8 Nxa8 13.O-O b4 14.c3 Qa5
+15.Nc4 Qb5 16.Ne3 Nb6 17.Qc2 Ba6 18.Re1 b3 19.Qd1 O-O 20.Ng3 Qa4 21.f4 Qa2
+22.Qg4? (22.e5) Na4 23.Nef5 Nxb2 24.Nxe7+ Kh8 25.Nc6 Nd3 26.Re3 Qb1 0-1
