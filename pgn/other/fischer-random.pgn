@@ -5,7 +5,7 @@
 [White "Heikkinen, Jyrki"]
 [Black "Wigelius, Pentti"]
 [Result "*"]
-[TimeControl "600+5"]
+[XTimeControl "600+5"]
 [Variant "Chess960"]
 [FEN "rknbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQRN w AGag - 0 1"]
 
