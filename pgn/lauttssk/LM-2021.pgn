@@ -571,7 +571,7 @@ Qd2+ 42.Kg3 Qxe3+ 43.Nf3 Qe8 44.Bxd5+ Bxd5 45.Qxd5+ 1-0
 [Variant "Chess960"]
 [FEN "rqbn1rk1/p3bppp/2pp1n2/1p6/1P1NP3/3BN3/PBP2PPP/RQ4KR w AH - 1 9"]
 
-9.Ndf5 Bxf5 10.Nxf5 Qc7 11.Qc1 Ne6 {12.O-O}
+9.Ndf5 Bxf5 10.Nxf5 Qc7 11.Qc1 Ne6 {12.O-O} *
 
 [Event "Lauttasaari Ch"]
 [Site "Helsinki FIN"]
