@@ -449,3 +449,24 @@ Ra1 47.Rc6+ Kg7 48.Kg5 Ra2 49.Rc7+ Kg8 50.Kh6 Rh2+ 51.Kg5 Ra2 52.Rc5 Kg7
 16.O-O Nc4 17.Bxc4 bxc4 18.Qe1 Bd7 19.Qg3 O-O 20.f5 Kh7 21.f6 gxf6 22.Qh4 Rh8
 23.exf6 Bf8 24.Ng5+ Kg8 25.Rf3 e5 26.Rg3 Qc8 27.Ne6+ Kh7 28.Bxh6 Bxh6 29.Rg7#
 1-0
+
+[Event "Lauttasaari Cup"]
+[Site "Helsinki FIN"]
+[Date "2026.09.29"]
+[Round "?"]
+[White "Heikkinen, Jyrki"]
+[Black "Kuzin, Dmytro"]
+[Result "1-0"]
+[Stage "Final"]
+[TimeControl "960+8"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Be7 8.Nf3 cxd4
+9.cxd4 f6 10.Nc3 Qb6 11.Bd3 Nf8 12.a3 a6 13.Be3 Bd7 (13...Qxb2 14.Na4 Qxg2
+15.Rg1 Qh3) 14.b4 Ng6 15.Na4 Qa7 16.Nc5 Bxc5 17.bxc5 f5 18.g4 fxg4 19.Ng5 Nce7
+20.Qxg4 Nf5 21.Bf2 (21.Bxf5 exf5 22.Qh5) h5 22.Qf3 Nge7 23.Rb1 Rc8 24.O-O Rc6
+25.a4 g6 26.a5 Kf8 27.Rb2 Kg7 28.Kh1 Qb8 29.Rfb1 Bc8 30.Rb6 Qc7 31.Rxc6 Nxc6
+32.Bxf5 gxf5 33.Rg1 Kf8 34.Qg2 Rg8 35.Qh3 Rh8 36.Qg3 Ke8 37.Qh4 Qe7 38.Qh3 Kd7
+39.Bh4 Qe8 40.Qg2 (40.Ne4 Qf8 41.Nd6) Rg8? 41.Ne4 (41.Nh7!) Rxg2 (41...fxe4!)
+42.Nf6+ Ke7 43.Nxe8+ Kxe8 44.Rxg2 Nxd4 45.Rg8+ Kd7 46.Bf2 Ne2 47.c6+ bxc6
+48.Bb6 Bb7 49.Rd8+ Ke7 50.Rb8 d4 51.Rxb7+ Ke8 52.Bc5 d3 53.Be3 Kd8 {no more
+moves recorded} 1-0
