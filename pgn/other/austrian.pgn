@@ -1035,3 +1035,18 @@ gxh5 (24...Bxh5 25.Rxh5 gxh5 26.Qh2) 25.Nh2) Bh5 25.Bf3 Nc4 26.Qd3 Bxf3
 46.Kc1 Qxf3 47.Qxg6+ Kf8 48.Ne6+ Ke8 49.Ng7+ Kd8 50.Ne6+ Kd7 51.Kb1 Qe3
 52.Qxf7 Qxe6 53.Qh7 Ke8 54.g6 Bf6 55.Qh1 Bxd4 56.Qxc6+ Kf8 57.Qf3+ Kg7 58.Qb7+
 Kxg6 59.Qg2+ Kf7 60.Qh1 Bg7 0-1
+
+[Event "Lauttasaari Classical Training Game"]
+[Site "Helsinki FIN"]
+[Date "2026.10.21"]
+[Round "5"]
+[White "Heikkinen, Jyrki"]
+[Black "Pyykönen, Jaakko"]
+[Result "1-0"]
+[TimeControl "3600+10"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.f4 Bg7 5.Nf3 b6 6.Bc4 Bg4? 7.h3 (7.e5!) Bd7 8.e5
+dxe5 9.dxe5 Ng8 10.Qd5 Be6 11.Qxd8+ Kxd8 12.Bxe6 fxe6 13.Ng5 Ke8 14.Nxe6 Na6
+15.Be3 Kf7 16.Ng5+ Ke8 17.O-O-O Nh6 18.g4 Nf7 19.Ne6 Rg8 20.Nb5 Rc8 21.Nxa7
+Ra8 22.Nc6 Rc8 23.h4 h6 24.g5 h5 25.Rd3 Ra8 26.Rhd1 Rc8 27.Rd7 Bf8 28.Nxf8
+Kxf8 29.Nxe7 Kg7 30.Nxc8 Rxc8 31.e6 Rf8 32.Rxf7+ Rxf7 33.Rd7 Rxd7 34.exd7 1-0
