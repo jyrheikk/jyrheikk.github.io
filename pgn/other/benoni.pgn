@@ -525,3 +525,23 @@ Bb5 22.Qd2 Bxe3+ 23.Qxe3 Rc2+ 24.Kf3 Qxe3+ 25.Kxe3 Rxb2) 21.f3?? Nc5
 Bd6 27.Qxd6 Bh3 (27...Rc2! 28.Qf6 Rdc8 29.Rg1 Rxg2! 30.Kxg2 Qe2+ 31.Kh1 Bg4!
 {=}) 28.Qe5 Rc2 (28...f6 29.Qxf6 Bxg2+ 30.Kg1 Qe3+ 31.Kxg2 Rc2) 29.Nh5 Bxg2+
 30.Kg1 Kf8 31.Re1 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.10.31"]
+[Round "3"]
+[White "Pasanen, Tuomo"]
+[Black "Heikkinen, Jyrki"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Shakkiseura Gambiitti"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "40/6600:1800+30"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 d6 4.c4 g6 5.Nc3 Bg7 6.e4 Bg4 7.Be2 O-O 8.O-O Na6 9.Nd2
+Bxe2 10.Qxe2 Nd7 (10...Nc7) 11.f4 Nc7 12.Nf3 a6 (12...b5 13.cxb5 a6) 13.a4 e5
+(13...b5! 14.axb5 axb5 15.Rxa8 Qxa8 16.cxb5 Qb7) 14.f5 Kh8 15.g4 h6 16.Kh1
+(16.g5) g5 17.h4 f6 18.Qh2 Kg8 19.Kg2 Rf7 20.Ne2 b5 21.Rh1 bxc4 22.Ra3 Rb8
+(22...Ne8) 23.hxg5 fxg5 24.Nxg5 hxg5 25.Rh3 Kf8 26.Rh8+ Bxh8 27.Qxh8+ Ke7
+28.Bxg5+ Nf6 29.Bxf6+ Rxf6 30.Rh7+ Rf7 31.f6+ Kd7 32.Rxf7+ Kc8 33.Rf8 1-0
