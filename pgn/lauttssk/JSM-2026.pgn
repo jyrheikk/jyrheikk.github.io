@@ -540,7 +540,7 @@ Re8 38.Qf6 Ref8 39.Qe5 Re8 40.Qf6 Ref8 1/2-1/2
 [Black "Mäläskä, Niko"]
 [Result "1/2-1/2"]
 [Section "I Division:2"]
-[Board "6"]
+[Board "8"]
 [WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
 [BlackTeam "Shakkiseura Gambiitti"]
 
@@ -574,3 +574,105 @@ Nf8 17.b3 Bd7 18.h3 Nh5 19.g4 Nf4 20.Bxf4 exf4 21.Kh2 g5 22.Kh1 Ng6 23.Ne2 Ne5
 24.Nxe5 Bxe5 25.Bf3 h5 26.Kg2 hxg4 27.hxg4 Kg7 28.Ng1 Rh8 29.Nh3 f6 30.Rh1 Rh4
 31.Qe2 Rah8 32.Rh2 Qc8 33.Rah1 Bxg4 34.Bxg4 Rxg4+ 35.Kf1 f3 36.Qxf3 Bxh2
 37.Rxh2 Rgh4 38.Qf5 Qxf5 39.exf5 Rxh3 40.Rxh3 Rxh3 41.Ke2 Kh6 42.f3 Rh2+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.01"]
+[Round "2"]
+[White "Keloharju, Matti"]
+[Black "Dahal, Sameep"]
+[Result "1/2-1/2"]
+[Section "III Division:4"]
+[Board "1"]
+[WhiteTeam "Matinkylän Shakkikerho 7"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 a6 8.Nf3 c5
+9.Bd3 Nc6 10.O-O cxd4 11.Ne2 f6 12.exf6 Nxf6 13.Nexd4 O-O 14.Kh1 Nxd4 15.Nxd4
+e5 16.fxe5 Qxe5 17.c3 Bg4 18.Be2 Bxe2 19.Qxe2 Ne4 20.Rxf8+ Rxf8 21.Rf1 Rf4
+22.g3 Rxf1+ 23.Qxf1 g6 24.Kg2 Nd2 25.Qe2 Qxe2+ 26.Nxe2 Kf7 27.Nf4 Nc4 28.b3
+Nb6 29.Kf3 Kf6 30.Ke3 Ke5 31.Nd3+ Kd6 32.Kd4 Nd7 33.Nf4 Ne5 34.h3 Nc6+ 35.Kd3
+Ne5+ 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.01"]
+[Round "2"]
+[White "Kuzin, Dmytro"]
+[Black "Donovan, Stephen"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Matinkylän Shakkikerho 7"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 Be7 6.e3 b6 7.Rc1 Nbd7 8.Bd3 O-O
+9.O-O Bb7 10.a3 c5 11.cxd5 cxd4 12.exd4 Nxd5 13.Bxe7 Qxe7 14.Re1 Nxc3 15.Rxc3
+Qd6 16.Ne5 g6 17.Qa4 Rfd8 18.Ng4 h5 19.Ne5 Nf6 20.Qc2 (20.Bxg6! fxg6 21.Qc2
+Qf8 22.Qxg6+ Qg7 23.Rg3) Qxd4 21.Bxg6 Be4 22.Bxe4 Nxe4 23.Nf3 Qxc3 24.bxc3 f5
+25.Qb3 Kf7 26.h3 Rac8 27.Rxe4 fxe4 28.Ng5+ Kf6 29.Nxe4+ Ke5 30.f3 Rd5 31.c4
+Rd4 32.Qb5+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.01"]
+[Round "2"]
+[White "Bhandari, Sushil"]
+[Black "Pitkänen, Petri"]
+[Result "1-0"]
+[Section "III Division:4"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 2"]
+[BlackTeam "Matinkylän Shakkikerho 7"]
+
+1.Nf3 d6 2.g3 e5 3.d3 Nf6 4.Bg2 Be7 5.O-O O-O 6.Nbd2 Be6 7.Ng5 Bc8 8.Re1 c6
+9.Nf1 h6 10.Ne4 d5 11.Nxf6+ Bxf6 12.e4 d4 13.f4 c5 14.f5 Bg5 15.Nd2 Nc6 16.h4
+Be3+ 17.Kh2 b5 18.b3 Ba6 19.Ba3 b4 20.Bb2 Bb7 21.Nf1 Qf6 22.Nxe3 dxe3 23.Rxe3
+Nd4 24.Re1 a5 25.a4 Rab8 26.Rf1 g5 27.fxg6 Qxg6 28.Bh3 Kh8 29.Bf5 Nxf5 30.Rxf5
+Rg8 31.Bxe5+ Kh7 32.Bxb8 Qxg3+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.01"]
+[Round "2"]
+[White "Koivusipilä, Hannes"]
+[Black "Hynnä, Kevin"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "2"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Shakkiseura Gambiitti 4"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Be2 Kh8 13.Nc2 Bg5 14.h4 Bxh4 15.Qd3 Bg5
+16.Nce3 b4 17.Bg4 bxc3 18.bxc3 Ne7 19.Nxe7 Qxe7 20.Bxc8 Bxe3 21.Bxa6 Bxf2+
+22.Ke2 Bc5 23.Bc4 (23.Rxh7+!) Qg5 24.Qf3 Qf4 25.Raf1 Qxf3+ 26.Rxf3 f6 27.Rfh3
+h6 28.Bd5 Rab8 29.Bb3 f5 30.exf5 Rxf5 31.g4 Rg5 32.Rg3 Rf8 33.Rg2 Rf4 34.Be6
+Kh7 35.Rh5 Rg6? 36.Bf5 Rxf5 37.Rxf5 Re6 38.a4 Re7 39.g5 g6 40.Rf6 h5 41.Rg3 e4
+42.c4 Ra7 43.Rb3 e3 44.a5 Rxa5 45.Rb7+ Kg8 46.Rb8+ Kg7 47.Rb7+ Kg8 48.Rxg6+
+Kf8 49.Rf6+ Ke8 50.Re6+ Kd8 51.g6 Ra2+ 52.Kf3 Rf2+ 53.Kg3 Rf1 54.g7 Rg1+
+55.Kh2 Rg5 56.Rh6 Kc8 57.Rf7 Rxg7 58.Rh8+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.01"]
+[Round "2"]
+[White "Clarke, Daniel"]
+[Black "Koskinen, Erkki"]
+[Result "1-0"]
+[Section "III Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 3"]
+[BlackTeam "Shakkiseura Gambiitti 4"]
+
+1.d4 f5 2.Bg5 c6 3.Nc3 Qb6 4.a3 d6 5.e3 Nd7 6.d5 Ngf6 7.Bc4 h6 8.Bh4 g5 9.Bg3
+Ne5 10.Bxe5 dxe5 11.dxc6 bxc6 12.Nf3 Qxb2 13.Na4 Qb8 14.Qd2 Ne4 15.Qa5 Bg7
+16.O-O Bd7 17.Rfd1 Qd8 18.Qa6 Qc8 19.Rab1 Qxa6 20.Bxa6 c5 21.Bb7 Bxa4? 22.Bxa8
+Nc3 23.Rb8+ Kf7 24.Rdd8 Rxd8 25.Rxd8 Bxc2 26.Rc8 Ne4 27.Bxe4 fxe4 28.Ne1 Bd3
+29.Rxc5 Be2 30.Nc2 Ke6 31.Ra5 a6 32.Nb4 Kd6 33.Nxa6 Kc6 34.Nb4+ Kb6 35.Ra8 Kb5
+36.Rg8 Bf6 37.Rg6 Bc4 38.Rxh6 Ka4 39.Nc6 Kb5 40.Nb4 Ka4 41.Rh7 Kxa3 42.Nc6 Bg8
+43.Rxe7 Bxe7 44.Nxe7 Be6 45.Nc6 Kb3 46.Nxe5 g4 47.g3 Kc3 48.h4 gxh3 49.g4 Kb4
+50.Kh2 Kc5 51.Kxh3 Kd6 52.Ng6 Bf7 53.Nf4 Ke5 54.Kh4 Kf6 55.g5+ Kf5 56.g6 Bg8
+57.Kh5 Bc4 58.Nh3 Bb3 59.Kh6 Kg4 60.Ng5 Bd5 61.g7 Kf5 62.Nh7 Bb3 63.Ng5 Ba2
+64.f4 exf3 65.Nxf3 Bg8 66.Nd2 Kf6 67.e4 Ke5 68.Kg6 Ke6 69.Nf3 Ke7 70.Ng5 Ke8
+71.Kf6 Bb3 72.Ne6 1-0
