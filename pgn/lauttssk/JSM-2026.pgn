@@ -478,6 +478,25 @@ Rc4) 42.Kb6 Kc8 43.b5 Kb8 44.Ra4 Rdd2 45.Bxb7 Ra2 46.c6 1-0
 [Site "Helsinki FIN"]
 [Date "2026.10.31"]
 [Round "3"]
+[White "Veteläinen, Tomi"]
+[Black "Aakio, Seppo"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Shakkiseura Gambiitti"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+
+1.d4 d6 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qc7 5.e3 e5 6.Bd3 Be7 7.h3 a6 8.a4 a5 9.O-O
+O-O 10.b3 Re8 11.Bb2 Bf8 12.Ng5 h6 13.Nge4 Nxe4 14.Nxe4 f5 15.Ng3 e4 16.Be2 g6
+17.f3 d5 18.f4 Be6 19.c5 Be7 20.Nh1 Nd7 21.Bc3 Kh7 22.Rf2 Rg8 23.g3 g5 24.Rg2
+b6 25.cxb6 Qxb6 26.Nf2 c5 27.Bb5 cxd4 28.Bxd4 Bc5 29.Bxc5 Qxc5 30.Qd2 Rgc8
+31.Nd1 Nf6 32.Qb2 Nd7 33.fxg5 hxg5 34.Bxd7 Bxd7 35.Qf6 Rg8 36.Raa2 Raf8 37.Qe5
+Re8 38.Qf6 Ref8 39.Qe5 Re8 40.Qf6 Ref8 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.10.31"]
+[Round "3"]
 [White "Kumar, Ashwin"]
 [Black "Lehtelä, Antti"]
 [Result "1-0"]
