@@ -456,6 +456,28 @@ Bxe2 10.Qxe2 Nd7 (10...Nc7) 11.f4 Nc7 12.Nf3 a6 (12...b5 13.cxb5 a6) 13.a4 e5
 [Site "Helsinki FIN"]
 [Date "2026.10.31"]
 [Round "3"]
+[White "Kauppala, Pekka"]
+[Black "Kostecka, Marika"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Gambiitti"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 d6 5.Nc3 Nf6 6.Nf3 e6 7.Bf4 e5 8.Bg5 Be7
+9.O-O-O O-O 10.Bxf6 Bxf6 11.Qxd6 Qa5 12.Rd5 Qb6 13.Qc5 (13.Rb5 Qxf2? 14.Nd1
+Qxf3 15.gxf3 Bg5+ 16.Kb1 Rd8 17.Qxd8+) 13...Nb4 14.Qxb6 axb6 15.Rd6 Nxa2+
+16.Nxa2 Rxa2 17.Kb1 Ra4 18.Bd3 Be6 19.b3 Ra7 20.Rxb6 Rfa8 21.Kb2 Bd8 22.Rxe6
+fxe6 23.Bc4 Ra2+ 24.Kc3 Ba5+ 25.b4 Ra3+ 26.Bb3 Bb6 27.Nxe5 Bxf2 28.Kc4 Rc8+
+29.Kb5 Ra6 30.Nd7 Rc7 31.Rd1 Kf7 32.Rf1 Rxd7 33.Rxf2+ Ke7 34.e5 Rd4 35.Re2 Rc6
+36.c4 Ra6 37.c5 Ra1 38.Bc2 Ra2 39.Re4 Rd7 40.Rc4 Kd8 41.Be4 Re2? (41...Rad2
+42.Bf3 R2d4 43.Rxd4 Rxd4 44.Bxb7 g5 45.Ka5 Kc7 46.Ba8 Rc4 47.Kb5 Rd4 48.Ka5
+Rc4) 42.Kb6 Kc8 43.b5 Kb8 44.Ra4 Rdd2 45.Bxb7 Ra2 46.c6 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.10.31"]
+[Round "3"]
 [White "Kumar, Ashwin"]
 [Black "Lehtelä, Antti"]
 [Result "1-0"]
@@ -490,6 +512,30 @@ Bxe2 10.Qxe2 Nd7 (10...Nc7) 11.f4 Nc7 12.Nf3 a6 (12...b5 13.cxb5 a6) 13.a4 e5
 16.Bd2 Bf8 17.Nxd5 cxd5 18.Bd3 a6 19.Rdc1 Qb8 20.g4 Be7 21.f5 Nf8 22.Rf1 gxf5
 23.gxf5 exf5 24.Bxf5 Qa7 25.Qg4 Qb6 26.a5 Qc6 27.Rac1 Qb5 28.Bh6 g6 29.e6 Bf6
 30.exf7+ Kxf7 31.Rc7+ Re7 32.Bxg6+ Nxg6 33.Rxf6+ 1-0
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.10.31"]
+[Round "3"]
+[White "Dahal, Sameep"]
+[Black "Mäläskä, Niko"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Shakkiseura Gambiitti"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a5 7.a4 O-O 8.Qe2 Bb6 9.Be3
+Bxe3 10.Qxe3 Be6 11.Nbd2 Qe7 12.Rad1 Rfb8 13.Bb5 Na7 14.Bc4 Bxc4 15.Nxc4 Nc6
+16.Na3 Nd8 17.Rfe1 Ne6 18.d4 Ng4 19.Qd2 Rd8 20.Nc2 Qf6 21.Ne3 Nxe3 22.Qxe3 g5
+23.g3 Kh8 24.d5 g4 25.dxe6 gxf3 26.Rd3 fxe6 27.Qxf3 Rf8 28.Qxf6+ Rxf6 29.Kg2
+Raf8 30.f3 Kg7 31.b4 Ra8 32.b5 b6 33.Kf2 Raf8 34.Ke2 Rh6 35.Rh1 Rh3 36.Kf2 Rf6
+37.Kg2 Rfh6 38.c4 Kf7 39.c5 Ke7 40.cxb6 cxb6 41.Rc3 d5 42.Rc7+ Kd8 43.Rc6 d4
+44.Rxb6 Kd7 45.Rc6 R3h5 46.h4 Rg6 47.Kf2 Rg8 48.Ra6 Rc8 49.Re1 Rh6 50.Re2 Rf6
+51.Rc6 Rxc6 52.bxc6+ Kxc6 53.Rc2+ Kb6 54.h5 Rf7 55.Rc8 Rd7 56.Ke2 Rf7 57.g4
+Rd7 58.h6 d3+ 59.Kd2 Rd4 60.Rh8 Rxa4 61.Rxh7 Ra2+ 62.Kxd3 Ra3+ 63.Kc2 Rxf3
+64.Re7 Kc5 65.Rxe6 Kd4 66.Ra6 Kxe4 67.Rxa5? (67.g5) Kf4 68.g5 Kxg5 69.Rxe5+
+1/2-1/2
 
 [Event "Finland Team Ch"]
 [Site "Espoo FIN"]
