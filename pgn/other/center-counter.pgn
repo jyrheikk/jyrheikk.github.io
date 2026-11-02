@@ -1319,3 +1319,16 @@ gxf5 10.exf5 Bf6? (10...Nf6) 11.Bg5? (11.Ng5) h6 12.Bxf6 Nxf6 13.Qe2 Qe7
 21.Ne4 Qc7 22.f3 Qe7 23.Qxc6 Qxh4+ 24.Kg1 Rc8 25.Qd5?? (25.Qa6) Bc7 26.c4 Rfd8
 27.Qb7 Bb6+ 28.c5 Rxc5 29.Rxd8+ Qxd8 30.Nf2 Rc2 31.Qe4 Rxf2 32.Rxf2 Qd1+
 33.Kh2 Bxf2 34.Qe8+ Kg7 35.Qe5+ Kh7 36.Qf6 Bg3+ 37.Kh3 Qh1+ 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.11.02"]
+[Round "-"]
+[White "Lautela, Janne"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.Qf3 Qa5 6.Qc3 Qb6 7.Qe3 c5 8.Nf3
+Nc6 9.Bc4 e6 10.O-O Bd6 11.d3 Bd7 12.Rb1 O-O-O 13.Bd2 Nd4 14.Nxd4 cxd4 15.Qe1
+Qc7 16.Ba5? Bxh2+ 17.Kh1 b6 (17...Qf4) 18.Ba6+ Kb8 19.Bb4 Bc6 20.f3 g5 21.Bd2
+Rdg8 22.Qe2 h5 23.Qf2 h4 24.f4 g4 (24...h3) 25.f5 h3 26.Qf4 hxg2# 0-1

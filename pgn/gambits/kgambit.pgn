@@ -146,3 +146,17 @@ Qc7 18.Bf4 (18.Kh1!) Bxf4 19.Qxf4 Qxf4 20.Rxf4 Rfe8 21.Ref1 Re6 22.Ng3 Rd8
 29.b3 Rxe4 30.Re2? Rxe2 31.Kxe2 f5 32.Kf3 Kf7 33.Kf4 Kf6 34.h4 g6 35.g4 fxg4
 36.Kxg4 h6 37.Kf4 g5+ 38.hxg5+ hxg5+ 39.Kg4 Kg6 40.a3 b6 41.b4 cxb4 42.axb4
 axb4 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.11.02"]
+[Round "-"]
+[White "Heikkinen, Jyrki"]
+[Black "Haule, Mikko"]
+[Result "1-0"]
+
+1.e4 e5 2.f4 Nc6 3.Nf3 d6 4.Bc4 h6 5.O-O Bg4 6.fxe5 Nxe5 7.Nxe5 Bxd1 8.Bxf7+
+Ke7 9.Ng6+ Kd7 10.Nxh8 (10.Rxd1!) Bxc2 11.Ng6 Nf6 12.Nc3 Bxe4 13.Nxe4 Nxe4
+14.Nxf8+ Ke7? (14...Qxf8) 15.Ng6+ Kd7 16.d3 Nf6 17.Bd2 c6 18.d4 Qb6 19.Bc3 Nd5
+20.Rae1 Nxc3 21.bxc3 c5 22.Bd5 Re8 23.Rb1 (23.Rxe8 Kxe8 24.Be6) Qa5 24.Rxb7+
+Kd8 25.Rff7 Re1+ 26.Kf2 Kc8 27.Rf8+ Qd8 28.Kxe1 1-0
