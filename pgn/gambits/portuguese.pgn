@@ -1768,3 +1768,15 @@ c5? (42...Ke7) 43.g5 (43.Kxe4 Rxf2 44.Kd5) Ke7 44.g6 Ke6 45.g7 Kf7 46.a3 a5
 O-O-O 9.c3 e5 10.Ne2 e4 11.Qc2 Qg4 12.Ng3 h5 13.h3 Qe6 14.Nd2 Re8 15.c4 Nb4
 16.Qa4 Nd3+ 17.Ke2 a6 18.c5 h4 19.Ngf1 Nd5 20.Nb3 f5 21.Nfd2 f4 22.c6 fxe3
 23.cxb7+ Kb8 24.Nxe4 Qxe4 25.f3 N3f4+ 26.Kf1 e2+ 27.Kf2 Qe3+ 28.Ke1 Nd3# 0-1
+
+[Event "Casual Game"]
+[Site "Helsinki FIN"]
+[Date "2026.11.04"]
+[Round "4"]
+[White "Koivusipilä, Hannes"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[TimeControl "180+2"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.c4 e6 6.dxe6 Nc6 7.d5? Nb4 8.Qa4+ b5
+9.Qxb5+ c6 10.dxc6? Nc2+ 11.Kf2 Qd4+ 12.Kg3 Nh5# 0-1
