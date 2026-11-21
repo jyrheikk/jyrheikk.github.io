@@ -666,3 +666,28 @@ Rb8 8.dxc7 Qxc7 9.Qg3 e5?! (9...Qxg3) 10.d4 b4 11.dxe5?? (11.Nce2 Bb7) bxc3
 Kf8 27.Kf2 Ke7 28.Ke3 f5 29.Kf4 Kf6 30.h3? (30.Ke3) g5+ 31.Ke3 Ke5 32.g4 h6
 33.Be2 f4+ 34.Kd3 Bb5+ 35.Kd2 Bxe2 36.Kxe2 c4 37.b3 Kd4 38.bxc4 Kxc4 39.Kd2
 Kd4 40.a3 a6 41.a4 a5 42.Kc2 Ke3 43.Kc3 Kxf3 44.Kc4 Kg2 0-1
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Joentausta, Hannu"]
+[Black "Heikkinen, Jyrki"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "2"]
+[WhiteTeam "Lahden Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[TimeControl "40/6600:1800+30"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 Bg4 5.Bb5+ Nbd7 6.f3 Bf5 7.c4 a6 8.Ba4 b5
+9.cxb5 Nxd5 10.bxa6 Nb4 11.Ne2 Nd3+ 12.Kf1 e5 (12...c6!) 13.Bb5 c6 (13...Qh4
+14.Bxd3 Bxd3 15.Nc3 Bc5 16.Qe1) 14.Bxd3 Bxd3 15.Nc3 f5 16.Qb3 Nc5 17.Qd1 Ne6
+18.g3 Nd4 19.Kg2 Nc2 20.Rb1 Rxa6 21.b3 Bc5 (21...h5) 22.Na4 Ba7 (22...e4)
+23.Bb2 e4 24.Nec3 O-O 25.Rc1 Nd4 (25...exf3+ 26.Qxf3 Be4 27.Nxe4 fxe4 28.Qg4
+Qxd2+ 29.Kh3 Qh6+ 30.Qh4 Qe6+ 31.Qg4 Qxg4+ 32.Kxg4 Ne3+ 33.Kh4 c5) 26.f4 Nf3
+27.Rf1 Nxd2 28.Re1 Nf3 29.Rf1 Nd4 30.Rf2 Ne6 31.Rf1 g5 32.Ne2 Be3 33.Ra1 c5
+34.Be5 Bd4 35.Nxd4 cxd4 36.Rf2 gxf4 37.gxf4 Qh4 38.Kg1 Rc6 (38...Kf7) 39.Rc1
+Rfc8 40.Rxc6 Rxc6 41.Nb2 Ba6 42.a4 Kf7 (42...e3 43.Rg2+ Kf8) 43.Bxd4 Nxd4
+44.Nc4 Rg6+ 45.Rg2 Nf3+ (45...Bxc4 46.bxc4 e3) 46.Kh1 Bxc4 47.bxc4 Rxg2
+48.Qd7+ Kg6 49.Qe6+ Kg7 50.Qd7+ Kh6 51.Qd6+ Kh5 52.Kxg2 Qxh2+ 53.Kf1 Qg1+ 0-1
