@@ -780,3 +780,23 @@ Qxd2+ 29.Kh3 Qh6+ 30.Qh4 Qe6+ 31.Qg4 Qxg4+ 32.Kxg4 Ne3+ 33.Kh4 c5) 26.f4 Nf3
 Rfc8 40.Rxc6 Rxc6 41.Nb2 Ba6 42.a4 Kf7 (42...e3 43.Rg2+ Kf8) 43.Bxd4 Nxd4
 44.Nc4 Rg6+ 45.Rg2 Nf3+ (45...Bxc4 46.bxc4 e3) 46.Kh1 Bxc4 47.bxc4 Rxg2
 48.Qd7+ Kg6 49.Qe6+ Kg7 50.Qd7+ Kh6 51.Qd6+ Kh5 52.Kxg2 Qxh2+ 53.Kf1 Qg1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Helsinki FIN"]
+[Date "2026.11.22"]
+[Round "3"]
+[White "Koivusipilä, Hannes"]
+[Black "Westerlund, Oskari"]
+[Result "1-0"]
+[Section "III Division:3"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho 4"]
+[BlackTeam "Helsinki Street Chess 5"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e5 7.Ndb5 a6 8.Na3 Be7
+9.Bxf6 Bxf6 10.Nd5 b5 11.c3 O-O 12.Nc2 Bg5 13.h4 Bh6 14.a4 Bb7 15.axb5 axb5
+16.Bxb5 Ne7 17.Rxa8 Bxa8 18.Bc4 Nxd5 19.Bxd5 Qb6 20.Nb4 Kh8 21.Qc2 Bxd5
+22.Nxd5 Qa6 23.Qe2 Qa1+ 24.Qd1 Qxb2 25.O-O f5 26.exf5 Rxf5 27.g4 Rf7 28.g5
+Bxg5 29.hxg5 Rb7 30.Qf3 Rb8 31.Kg2 Qd2 32.g6 Re8 33.Rh1 h6 34.Ne3 Qxc3
+35.Rxh6+ gxh6 36.Qf6+ Kg8 37.Qf7+ Kh8 38.Qh7# 1-0
