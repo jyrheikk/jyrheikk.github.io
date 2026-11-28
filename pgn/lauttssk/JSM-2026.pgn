@@ -761,6 +761,29 @@ Nc3 23.Rb8+ Kf7 24.Rdd8 Rxd8 25.Rxd8 Bxc2 26.Rc8 Ne4 27.Bxe4 fxe4 28.Ne1 Bd3
 [Site "Lahti FIN"]
 [Date "2026.11.21"]
 [Round "4"]
+[White "Lehti, Juhani"]
+[Black "Linnanen, Lassi"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "1"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakki"]
+[ECO "B00"]
+
+1.e4 e6 2.d4 a6 3.Nf3 b5 4.Bd3 Bb7 5.O-O Nf6 6.Re1 d6 7.c3 Nbd7 8.a4 c6 9.Bf4
+Be7 10.h3 Qc7 11.Nbd2 e5 12.Bh2 O-O 13.b4 Rfe8 14.Qb3 Bf8 15.Ng5 Nb6 16.a5 Na4
+17.f4 exd4 18.cxd4 h6 19.Ngf3 c5 20.e5 c4 21.Bxc4 bxc4 22.Qxa4 Nd5 23.b5 axb5
+24.Qxb5 c3 25.Ne4 dxe5 26.fxe5 Qc6 27.Qxc6 Bxc6 28.Nd6 Red8 29.Rec1 Ra6 30.Bg3
+Rda8 31.Be1 Rxa5 32.Rxa5 Rxa5 33.Bxc3 Ra2 34.Bd2 Bd7 35.Rc5 Be6 36.Ra5 Ne7
+37.Rxa2 Bxa2 38.Kf2 Nd5 39.Nb5 Bc4 40.Nc3 Ba3 41.Nxd5 Bxd5 42.Bc3 Kf8 43.Ne1
+Ke7 44.Nd3 Kd7 45.Bb4 Bxb4 46.Nxb4 Bb7 47.d5 f6 48.exf6 gxf6 49.Ke3 Kd6 50.Kd4
+Ba8 51.g4 Bb7 52.Ke4 Kc5 53.Nd3+ Kd6 54.Nf4 Bc8 55.Nh5 Ke7 56.Ng3 Kf7 57.Nf5
+1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
 [White "Joentausta, Hannu"]
 [Black "Heikkinen, Jyrki"]
 [Result "0-1"]
@@ -768,6 +791,7 @@ Nc3 23.Rb8+ Kf7 24.Rdd8 Rxd8 25.Rxd8 Bxc2 26.Rc8 Ne4 27.Bxe4 fxe4 28.Ne1 Bd3
 [Board "2"]
 [WhiteTeam "Lahden Shakki"]
 [BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "B01"]
 
 1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 Bg4 5.Bb5+ Nbd7 6.f3 Bf5 7.c4 a6 8.Ba4 b5
 9.cxb5 Nxd5 10.bxa6 Nb4 11.Ne2 Nd3+ 12.Kf1 e5 (12...c6!) 13.Bb5 c6 (13...Qh4
@@ -780,6 +804,132 @@ Qxd2+ 29.Kh3 Qh6+ 30.Qh4 Qe6+ 31.Qg4 Qxg4+ 32.Kxg4 Ne3+ 33.Kh4 c5) 26.f4 Nf3
 Rfc8 40.Rxc6 Rxc6 41.Nb2 Ba6 42.a4 Kf7 (42...e3 43.Rg2+ Kf8) 43.Bxd4 Nxd4
 44.Nc4 Rg6+ 45.Rg2 Nf3+ (45...Bxc4 46.bxc4 e3) 46.Kh1 Bxc4 47.bxc4 Rxg2
 48.Qd7+ Kg6 49.Qe6+ Kg7 50.Qd7+ Kh6 51.Qd6+ Kh5 52.Kxg2 Qxh2+ 53.Kf1 Qg1+ 0-1
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Kauppala, Pekka"]
+[Black "Hagelberg, Lauri"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "3"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakki"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.e5 Qa5 5.Nf3 Bg4 6.b4 Qc7 7.d4 e6 8.a3 Ne7 9.Be2
+Nd7 10.O-O Nf5 11.Bf4 Be7 12.Nbd2 a5 13.bxa5 Qxa5 14.h3 Bxf3 15.Nxf3 O-O
+16.Qd3 Rfc8 17.Bd2 Qa4 18.Rfb1 Ra7 19.g4 Nh6 20.Rb3 Rc7 21.Qb1 Nb8 22.Bb5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Komulainen, Lauri"]
+[Black "Kumar, Ashwin"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "4"]
+[WhiteTeam "Lahden Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "D46"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O e5 10.Rd1 Qe7 11.h3 b5 12.Bb3 Bb7 13.Nh4 g6 14.Nxg6 hxg6 15.Qxg6+ Kh8
+16.Qh6+ Nh7 17.Ne4 Bc7 18.dxe5 Bxe5 19.Bc2 f5 20.Ng3 Bxg3 21.fxg3 Rad8 22.Bd2
+Ne5 23.Qf4 Bc8 24.Bc3 Rde8 25.Rd2 b4 26.Bxb4 c5 27.Bc3 Kg8 28.Bb3+ Nf7 29.Re1
+Qg5 30.Rd5 Be6 31.Rxc5 Bxb3 32.axb3 Qxf4 33.gxf4 Nd6 34.Be5 Nc8 35.Rc7 Rf7
+36.Rec1 Nb6 37.Kf2 Ree7 38.R7c6 Nf8 39.Bd4 Rb7 40.Rh6 Rh7 41.Rf6 Rhf7 42.Rcc6
+Rxf6 43.Rxf6 Rf7 44.Rd6 Rd7 45.Rc6 Rb7 46.Rc5 Rf7 47.Ra5 Nc8 48.g4 Ne6 49.Rxf5
+Rxf5 50.gxf5 Nxd4 51.exd4 Nd6 52.Ke3 Kf7 53.d5 Nxf5+ 54.Ke4 Kf6 55.Kd3 Ke7
+56.Kc4 Kd6 57.Kb5 Kxd5 58.Ka6 Kc5 59.Kxa7 Kb4 60.Kb6 Kxb3 61.Kc5 Kxb2 62.Kd5
+Kc3 63.Ke5 Nh4 64.f5 Kd3 65.f6 Ke3 66.f7 Ng6+ 67.Kf5 Nf8 68.h4 Kf3 69.h5 Kg3
+70.Kg5 Kf3 71.h6 Ke4 72.Kf6 Kf4 73.Kg7 Ne6+ 74.Kg8 Kf5 75.h7 1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Kivinen, Jyrki"]
+[Black "Tuominen, Joona"]
+[Result "1-0"]
+[Section "I Division:2"]
+[Board "5"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakki"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nge7
+9.c4 b4 10.Nc2 a5 11.Be3 Rb8 12.b3 f5 13.f3 fxe4 14.fxe4 Nxd5 15.exd5 Ne7
+16.Be2 Nf5 17.Bf2 Be7 18.O-O O-O 19.Ne3 Bh4 20.Nxf5 Bxf2+ 21.Rxf2 Rxf5 22.Rxf5
+Bxf5 23.Bg4 Qb6+ 24.Kh1 Rf8 25.Bxf5 Rxf5 26.Qg1 Qf2 27.a3 bxa3 28.Qxf2 Rxf2
+29.Kg1 Rb2 30.Rxa3 Kf7 31.Rxa5 e4 32.Ra6 Kf6 33.Rxd6+ Ke5 34.Ra6 e3 35.Ra1
+Rxb3 36.Rc1 Rb2 37.Re1 Kd4 38.d6 Rb7 39.Rd1+ Kxc4 40.d7 e2 41.d8=Q exd1=Q+
+42.Qxd1 h6 43.Kf2 Kc5 44.Kf3 Kc6 45.Kg4 Rd7 46.Qf3+ Kd6 47.Kh5 1-0
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Nieminen, Timo"]
+[Black "Sameep, Dahal"]
+[Result "1/2-1/2"]
+[Section "I Division:2"]
+[Board "6"]
+[WhiteTeam "Lahden Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "E06"]
+
+1.Nf3 e6 2.g3 d5 3.Bg2 c5 4.c4 Nf6 5.O-O Be7 6.d4 O-O 7.cxd5 Nxd5 8.e4 Nf6
+9.Nc3 cxd4 10.Nxd4 e5 11.Nf5 Bc5 12.Ne3 Nc6 13.Ncd5 Be6 14.Qc2 Bd4 15.Nxf6+
+Qxf6 16.Nd5 Qd8 17.Qa4 a6 18.Nb4 b5 19.Nxc6 bxa4 20.Nxd8 Rfxd8 21.a3 Rab8
+22.Re1 Bc4 23.Bf1 Bxf1 24.Kxf1 Bxb2 25.Bxb2 Rxb2 26.Red1 Rxd1+ 27.Rxd1 f6
+28.Rd6 Rb3 29.Rxa6 Rxa3 30.Kg2 Kf7 31.h4 h5 32.f3 Ra1 33.g4 Kg6 34.g5 a3
+35.gxf6 a2 36.fxg7+ Kxg7 37.Kh2 Kf7 38.Kg2 Ke7 39.Kh2 Kd7 40.Kg2 Kc7 41.Kh2
+Kb7 42.Ra3 Kb6 43.Kg2 Kb5 44.Ra8 Kb4 45.Rb8+ Kc3 46.Rc8+ Kd2 47.Rd8+ Ke2
+48.Ra8 Ke3 49.Ra7 Kf4 50.Ra8 Ke3 51.Ra7 1/2-1/2
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Kuzin, Dmytro"]
+[Black "Pitkänen, Ari"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "7"]
+[WhiteTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[BlackTeam "Lahden Shakki"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 e5 7.d5 a5 8.Bg5 h6 9.Bh4
+Na6 10.a3 Qe8 11.b4 Nh5 12.f3 Nf4 13.Nxf4 exf4 14.Qb3 axb4 15.axb4 Nc5 16.bxc5
+Rxa1+ 17.Nd1 dxc5 18.Bf2 b6 19.O-O Qa4 20.Qxa4 Rxa4 21.g3 g5 22.gxf4 gxf4
+23.Kh1 Ra3 24.Be2 Bf6 25.Be1 Kh8 26.Nf2 Bd4 27.Nd3 Bh3 28.Rf2 Ra1 0-1
+
+[Event "Finland Team Ch"]
+[Site "Lahti FIN"]
+[Date "2026.11.21"]
+[Round "4"]
+[White "Sipilä, Markku"]
+[Black "Piippo, Mikko"]
+[Result "0-1"]
+[Section "I Division:2"]
+[Board "8"]
+[WhiteTeam "Lahden Shakki"]
+[BlackTeam "Lauttasaaren Suomalainen Shakkikerho"]
+[ECO "E07"]
+
+1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 6.c4 c6 7.Nc3 Nbd7 8.a4 b6
+9.cxd5 exd5 10.Bf4 Bb7 11.h3 Rc8 12.g4 Re8 13.Ne5 Nxe5 14.dxe5 Nd7 15.e4 d4
+16.e6 fxe6 17.Qxd4 Bc5 18.Qd3 Qf6 19.Be3 Ne5 20.Qe2 Bxe3 21.Qxe3 Rcd8 22.f4
+Nc4 23.Qe2 Qd4+ 24.Kh2 Ne3 25.Rfe1 Nxg2 26.Kxg2 Qf6 27.Kg3 Rd4 28.Rad1 Red8
+29.Rxd4 Rxd4 30.Rd1 Qd8 31.Rxd4 Qxd4 32.Qd1 Qe3+ 33.Qf3 Qg1+ 34.Qg2 Qd4 35.Qf2
+Qd7 36.Qe2 a6 37.Qd1 Qxd1 38.Nxd1 Kf7 39.e5 c5 40.Ne3 b5 41.a5 Be4 42.f5 Bd3
+43.Kf4 c4 44.fxe6+ Kxe6 45.Nd1 g5+ 46.Kxg5 Kxe5 47.Nc3 Kd4 48.Kf4 b4 49.Na2 c3
+50.bxc3+ bxc3 51.h4 c2 52.h5 Bc4 53.Nc1 Kc3 54.Ke3 Kb2 55.Kd2 h6 56.g5 hxg5
+57.h6 Bg8 0-1
 
 [Event "Finland Team Ch"]
 [Site "Helsinki FIN"]
